@@ -1,4 +1,4 @@
-# Agentopia · Idea & Methodology
+# Agentopia-Cognition · Idea & Methodology
 
 
 **本项目是基于[Neph0s/Agentopia](https://github.com/Neph0s/Agentopia) 的一个研究**，在原框架之上加装了一层
@@ -36,7 +36,7 @@
 
 ---
 
-## 二、 Idea & Methodology
+## 二、 Cognition
 
 ### 2.1 目标架构
 
