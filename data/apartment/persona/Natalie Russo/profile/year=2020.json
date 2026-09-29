@@ -1,0 +1,88 @@
+{
+  "name": "Natalie Russo",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" with a lean, angular frame at about 132 lbs, Natalie is attractive (~10%) in a sharp, architectural way — high cheekbones, a narrow jaw, deep-set brown eyes framed by severe dark brows, and thick espresso-brown hair she usually pulls into a low bun or a tight French twist. Her complexion is Mediterranean olive, clear and slightly under-moisturized from long office hours. She favors structured blazers, slim trousers, and pointed-toe flats in black or navy; her only adornment is a thin gold chain with an Italian horn charm. Her posture is immaculate, her stride purposeful, and her resting expression is one of focused appraisal, as though she is silently cross-examining the room. She gives the impression of a disciplined, self-made professional — someone raised on accountability rather than comfort, who converted early pressure into ambition and now wears competence like armor.\n",
+  "brief_introduction": "A 27-year-old junior associate at a mid-size litigation firm in Midtown, Natalie grew up in a blue-collar Italian-American family in South Philadelphia. She is driven, pragmatic, and emotionally guarded, channeling most of her energy into work while quietly craving the kind of connection she never learned how to ask for.\n",
+  "talents": {
+    "qualitative": "Born to a plumber father and a hospital receptionist mother in South Philadelphia. The eldest of three siblings, she was the first in her family to attend college, earning a full scholarship to NYU and then Columbia Law. She excels at analytical reasoning, persuasive writing, and thinking on her feet during depositions. She learned to cook simple Italian dishes from her grandmother and can fix minor plumbing issues — a skill inherited from her father that has made her oddly popular among neighbors. She is not naturally creative or artistic but compensates with relentless preparation. She struggles with vulnerability and tends to intellectualize emotions rather than feel them.\n",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 80,
+      "creativity": 65,
+      "health": 70,
+      "honesty": 75,
+      "integrity": 90,
+      "intelligence": 100,
+      "leadership": 75,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Natalie moved into Bremer Apartment in 2018 after passing the bar, taking a small one-bedroom on the fourth floor because the rent was just manageable on a junior associate salary. Her days are long — leaving at 7 a.m., returning at 9 or 10 p.m. — and her apartment is sparse: a secondhand couch, stacked case files, and a framed photo of her grandmother who passed in 2017. That loss still sits heavy; Nonna Rosa was the one person who told Natalie it was okay to want more without feeling guilty. Her parents are proud but distant — they don't fully understand her world and she doesn't know how to bridge the gap. She discovered Julian's cooking when he left a container of arroz con pollo outside her door after hearing her come home late for the fifth night in a row. She started returning the containers with notes, then with conversation. She visits the coffee shop on weekend mornings, where Solstice's calm presence is one of the few things that slows her down. She has never been on the rooftop; she keeps meaning to go.\n",
+  "conflicts": "Chronic overwork is eroding her health and personal life but she cannot slow down because she financially supports her youngest sibling's college tuition. She wants closeness but equates vulnerability with weakness. She is beginning to question whether the law career she sacrificed everything for actually fulfills her. She feels guilt about leaving Philadelphia and not being present for her family.\n",
+  "core_motivation": "To prove — to her family, her firm, and mostly to herself — that every sacrifice was worth it; and, underneath that, to find a version of home that doesn't require her to shrink herself to fit.\n",
+  "personality_traits": {
+    "qualitative": "Natalie is an INTJ — strategic, independent, and intensely private. She is loyal once trust is earned but her trust threshold is high. She respects directness and despises small talk. Under stress she becomes clipped and dismissive; at ease she reveals dry, deadpan humor that catches people off guard. She admires competence in others and is quietly generous — paying for things without announcing it, fixing a neighbor's leaky faucet at midnight. She fears mediocrity and, deeper still, fears being truly known and found insufficient.\n",
+    "quantitative": {
+      "confidence": 85,
+      "control": 95,
+      "curiosity": 80,
+      "empathy": 60,
+      "judging": 85,
+      "introversion": 75,
+      "intuition": 75,
+      "patience": 65,
+      "responsibility": 100,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes: black coffee, weekend mornings alone at the coffee shop, well-constructed arguments, Italian comfort food, long walks across the Brooklyn Bridge at night, reading legal thrillers and, secretly, poetry by Mary Oliver, organizing things, the sound of rain on the fire escape. Dislikes: unsolicited advice, performative kindness, loud music through thin walls, people who waste her time, being pitied, asking for help, the smell of cheap cologne that reminds her of an ex.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Junior Associate, Litigation",
+    "organization": "Calloway & Brandt LLP",
+    "type": "work",
+    "description": "Handles research, brief-writing, and deposition preparation for commercial litigation cases. Currently second-chairing a contract dispute trial expected in spring 2020.\n",
+    "weekly_delta_skills": {
+      "legal_research": 0.1,
+      "negotiation": 0.05
+    }
+  },
+  "init_skills": {
+    "legal_research": 270,
+    "legal_writing": 115,
+    "negotiation": 70,
+    "public_speaking": 80,
+    "cooking_italian": 70,
+    "basic_plumbing": 70,
+    "fitness_running": 80
+  },
+  "init_assets": {
+    "deposit": 4200,
+    "possessions": [
+      {
+        "name": "Work laptop",
+        "description": "Firm-issued ThinkPad, scratched lid, stuffed with case files and bookmarked PACER tabs"
+      },
+      {
+        "name": "Grandmother's recipe box",
+        "description": "A dented tin box filled with handwritten index cards in Nonna Rosa's shaky cursive — tomato sauce, braciole, ricotta cookies"
+      },
+      {
+        "name": "Professional wardrobe",
+        "description": "A curated capsule of six blazers, four pairs of trousers, and two courtroom-appropriate dresses, all maintained meticulously"
+      },
+      {
+        "name": "Italian horn necklace",
+        "description": "Thin gold chain with a cornicello charm, given by her grandmother on the day Natalie left for NYU"
+      },
+      {
+        "name": "Running shoes",
+        "description": "Well-worn New Balance 880s she uses for late-night runs along the West Side Highway when stress peaks"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that hard work and integrity are the only reliable currencies. Respects people who build themselves from nothing and distrusts those who coast on privilege. Values loyalty fiercely but expresses it through action, not words. Holds honesty as non-negotiable — she would rather hear a painful truth than a comfortable lie. Fears that success without connection is just a more respectable form of loneliness. Quietly believes that love is real but suspects she may not be built for it.\n",
+  "birthday": "Y1993-W10-activity-D2",
+  "birth_year": 1993
+}

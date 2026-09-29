@@ -1,0 +1,177 @@
+{
+  "world_setting": "## Bremer Apartment\nBremer Apartment stands on a quiet street in Greenwich Village, Manhattan. It is a six-story brick building built in the 1920s. All kinds of people live in the building: actors, lawyers, students, musicians, waiters, programmers, and immigrant families. They come from different states and different countries, yet somehow they end up sharing the same staircase, the same hallway, and the same thin apartment walls. In New York, buildings like this often witness the same quiet transformation: strangers slowly become friends, friends become lovers, and lovers eventually become neighbors who can no longer avoid each other.\n\n## Familiar Places in the Building\n1. The Rooftop (Sixth Floor)\nAn old water tower stands on the roof. On summer nights, tenants bring beer and folding chairs upstairs and sit together under the warm city sky.\n2. The Corner Coffee Shop\nMost residents visit it almost every day. It feels like the apartment's second living room.\n\n## What the Building Means\n\nTo New York City, this building is just one apartment among thousands.\nBut to the people who live here, it represents:\nthe confusion of youth\nthe trial and error of love\nthe companionship of friends\nthose first uncertain years when life is just beginning\nMany years later, the residents may move away.",
+  "prices": {
+    "worldview": "This shop operates in a modern New York City setting (2020). Residents of Bremer Apartment are working adults, students, and artists in Greenwich Village. They can purchase any items a realistic NYC resident could access and afford given their income level.\n\nAll prices are in US dollars ($). Use common sense: a struggling musician on $280/week lives differently from a fintech engineer on $357/week. Frugal choices are always available (cooking at home, free events, parks). Luxury items should feel like real stretches for most residents.\n\nThe world follows normal physics and contemporary New York social norms.",
+    "currency_name": "US dollar",
+    "currency_symbol": "$",
+    "categories": {
+      "daily_entertainment": {
+        "description": "Daily high-frequency spending in NYC",
+        "typical_price_range": [5, 60],
+        "suggested_frequency": "2-5 times/week",
+        "items": {
+          "coffee_latte": {
+            "name": "Coffee / latte",
+            "price_range": [4, 8],
+            "type": "service"
+          },
+          "beer_at_bar": {
+            "name": "Beer at a bar",
+            "price_range": [8, 14],
+            "type": "service"
+          },
+          "lunch_takeout": {
+            "name": "Lunch takeout (sandwich/bowl)",
+            "price_range": [12, 20],
+            "type": "service"
+          },
+          "subway_ride": {
+            "name": "Subway / bus ride",
+            "price_range": [3, 3],
+            "type": "service"
+          },
+          "streaming_subscription": {
+            "name": "Streaming subscription (monthly)",
+            "price_range": [9, 16],
+            "type": "service"
+          }
+        }
+      },
+      "social_mid_frequency": {
+        "description": "Social and leisure spending, a few times a week",
+        "typical_price_range": [20, 200],
+        "suggested_frequency": "1-3 times/week",
+        "items": {
+          "dinner_out": {
+            "name": "Dinner at a restaurant",
+            "price_range": [25, 60],
+            "unit": "per person",
+            "type": "service"
+          },
+          "movie_ticket": {
+            "name": "Movie ticket",
+            "price_range": [16, 22],
+            "type": "service"
+          },
+          "live_music_jazz_club": {
+            "name": "Live music / jazz club (cover + drink)",
+            "price_range": [25, 55],
+            "type": "service"
+          },
+          "groceries_weekly": {
+            "name": "Weekly groceries",
+            "price_range": [50, 120],
+            "type": "goods"
+          },
+          "clothing_basics": {
+            "name": "Clothing (basics / thrift)",
+            "price_range": [20, 80],
+            "type": "goods"
+          },
+          "book": {
+            "name": "Book (paperback)",
+            "price_range": [12, 20],
+            "type": "goods"
+          }
+        }
+      },
+      "mid_range_valuable": {
+        "description": "Occasional larger purchases",
+        "typical_price_range": [100, 800],
+        "suggested_frequency": "monthly / every few months",
+        "items": {
+          "gym_membership_monthly": {
+            "name": "Gym membership (monthly)",
+            "price_range": [50, 120],
+            "type": "service"
+          },
+          "weekend_trip": {
+            "name": "Weekend trip (bus/train + lodging)",
+            "price_range": [150, 400],
+            "type": "service"
+          },
+          "mid_range_clothing": {
+            "name": "Clothing (mid-range brand)",
+            "price_range": [80, 250],
+            "type": "goods"
+          },
+          "headphones_speakers": {
+            "name": "Headphones / Bluetooth speaker",
+            "price_range": [60, 250],
+            "type": "goods"
+          },
+          "designer_accessory": {
+            "name": "Designer accessory (entry-level)",
+            "price_range": [200, 600],
+            "type": "goods"
+          }
+        }
+      },
+      "large_luxury": {
+        "description": "Large or luxury purchases",
+        "typical_price_range": [500, 5000],
+        "suggested_frequency": "quarterly / yearly",
+        "items": {
+          "mid_range_laptop": {
+            "name": "Laptop (mid-range)",
+            "price_range": [700, 1200],
+            "type": "goods"
+          },
+          "high_end_laptop": {
+            "name": "Laptop (MacBook Pro / high-end)",
+            "price_range": [1400, 2500],
+            "type": "goods"
+          },
+          "domestic_flight_trip": {
+            "name": "Domestic flight + hotel (5–7 days)",
+            "price_range": [500, 1200],
+            "type": "service"
+          },
+          "luxury_handbag": {
+            "name": "Designer handbag / luxury goods",
+            "price_range": [500, 3000],
+            "type": "goods"
+          },
+          "musical_instrument": {
+            "name": "Musical instrument (guitar / keyboard)",
+            "price_range": [300, 1500],
+            "type": "goods"
+          }
+        }
+      },
+      "free_low_cost": {
+        "description": "Free or near-free activities — important for budget-constrained residents",
+        "typical_price_range": [0, 15],
+        "suggested_frequency": "encourage for low-income characters",
+        "items": {
+          "rooftop_hang": {
+            "name": "Rooftop hang (building)",
+            "price_range": [0, 0],
+            "type": "service"
+          },
+          "walk_in_the_park": {
+            "name": "Walk in Washington Square Park / Hudson River",
+            "price_range": [0, 0],
+            "type": "service"
+          },
+          "library": {
+            "name": "Public library visit",
+            "price_range": [0, 0],
+            "type": "service"
+          },
+          "home_cooking": {
+            "name": "Cooking at home",
+            "price_range": [5, 15],
+            "unit": "per meal",
+            "type": "service"
+          },
+          "free_outdoor_event": {
+            "name": "Free outdoor concert / street festival",
+            "price_range": [0, 5],
+            "type": "service"
+          }
+        }
+      }
+    }
+  }
+}

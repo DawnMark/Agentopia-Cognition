@@ -1,0 +1,89 @@
+{
+  "name": "Finnian Calloway",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'11\" with a lean, slightly slouched frame at around 155 lbs, Finnian has an attractive (~10%) appearance marked by sharp, angular cheekbones, deep-set hazel eyes framed by dark lashes, and a mop of unruly auburn hair that perpetually looks like he just rolled out of bed. His skin is pale with a scatter of freckles across the nose and forearms. He favors worn flannel shirts layered over band tees, scuffed boots, and rectangular glasses he only wears when coding. His hands are long-fingered and always fidgeting — tapping a table edge, spinning a pen. There's a thin scar through his left eyebrow from a childhood fall. He gives the impression of an intelligent, slightly restless creative type — someone raised on books and rainy weather, carrying quiet intensity beneath an approachable, self-deprecating exterior.",
+  "brief_introduction": "Finnian is a 27-year-old bookseller at a West Village literary bookshop by day and aspiring novelist by night, living alone in apartment 4B. He moved to New York from Boston three years ago after a painful family estrangement and a deliberate choice to trade his tech salary for a life built around books. He's warm but guarded, funny in a dry, self-effacing way, and quietly struggles with imposter syndrome as someone who recommends other people's novels for a living while his own manuscript collects rejection letters in a drawer.",
+  "talents": {
+    "qualitative": "Born in Boston to an Irish immigrant father (a construction foreman) and an American mother (a nurse), Finnian grew up in a working-class Dorchester household with two older brothers. He was the quiet, bookish one — always reading under the covers with a flashlight while his brothers played hockey. Won a short story contest at 14 that made his English teacher predict great things. Studied computer science at UMass Amherst on scholarship because his father insisted on a 'real career,' but kept writing fiction on the side. After college, worked at a Boston startup for two years before a falling-out with his father over his desire to pursue writing led to a painful estrangement. Moved to New York in 2017, worked one more year in tech, then quit to take a bookseller position at Folio & Finch, a small literary bookshop on Bleecker Street. His father called it a waste of a degree. They haven't spoken since. Finnian hand-sells fifty books a week to strangers and spends his evenings at the corner coffee shop working on his own novel — a story about Irish immigrant families in Boston. He's completed three drafts and received two agent rejections so far. The irony of recommending other people's books while his own remains unfinished is not lost on him.",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 60,
+      "creativity": 100,
+      "health": 65,
+      "honesty": 70,
+      "integrity": 70,
+      "intelligence": 90,
+      "leadership": 50,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Finnian moved into Bremer Apartment in late 2017 after finding the listing on Craigslist. His apartment is small — a studio with a kitchenette — but he's filled it with secondhand bookshelves crammed with dog-eared paperbacks: Colm Tóibín, Marilynne Robinson, Denis Johnson, James Baldwin. He works from home most days, coding at a standing desk by the window, then transitions to writing at the coffee shop downstairs each evening around 6 PM. Valencia knows his order by heart. He met Brecken on the rooftop during his first summer in the building, 2018, when Brecken invited him to join a group drinking cheap wine. They became easy friends — Brecken's warmth breaking through Finnian's reserve. He knows Dorian from building encounters and occasional rooftop nights. Finnian hasn't spoken to his father in two years. His mother calls him every Sunday, and he always answers, but the conversations are careful, full of things unsaid. He runs along the Hudson three mornings a week to manage anxiety. He drinks too much coffee and not enough water. He's never been in a serious relationship — a pattern he's aware of and quietly troubled by.",
+  "conflicts": "Made the leap away from tech but earns barely half what he used to, which he knew going in and still underestimated; estranged from his father, who considers the bookshop proof that his son wasted the scholarship money; struggles with imposter syndrome as a writer — the rejections keep arriving and the third draft still doesn't feel right; fears intimacy and uses busyness as a shield against vulnerability; sometimes wonders if the bookshop is a genuine calling or just a more aesthetically pleasing avoidance of the page.",
+  "core_motivation": "To finish and publish his novel, proving — mostly to himself — that he has something meaningful to say; to find the courage to reconnect with his father before it's too late; to stop holding people at arm's length and allow himself to be truly known.",
+  "personality_traits": {
+    "qualitative": "Finnian is an INFP — idealistic, introspective, and deeply feeling beneath a calm surface. He processes the world through narrative, constantly observing and mentally drafting scenes from real life. He's genuinely kind but slow to open up, deploying dry humor as both connection and deflection. He listens more than he speaks in groups, but in one-on-one conversation he becomes surprisingly eloquent and present. He's stubborn about his creative vision, sometimes to his detriment. He carries guilt about his family situation like a low-grade fever — always there, occasionally spiking. He admires courage in others precisely because he fears he lacks it himself.",
+    "quantitative": {
+      "confidence": 40,
+      "control": 60,
+      "curiosity": 100,
+      "empathy": 90,
+      "judging": 30,
+      "introversion": 80,
+      "intuition": 100,
+      "patience": 80,
+      "responsibility": 85,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: writing in coffee shops with ambient noise, long runs along the river, used bookstores, whiskey neat, rainy afternoons, rooftop conversations after midnight, literary fiction, lo-fi music while coding, handwritten notes, people who say what they mean. Dislikes: networking events, small talk that stays small, being asked 'what's your book about' before it's ready, loud bars, performative social media, people who dismiss creative work as impractical, his own tendency to overthink.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Bookseller",
+    "organization": "Folio & Finch Books (Bleecker Street, West Village)",
+    "type": "work",
+    "description": "Full-time bookseller at a small independent literary bookshop. Responsibilities include hand-selling, curating staff picks, running the events calendar (author readings, book clubs), and keeping the inventory system running. The pay is modest and the hours include weekends. He also freelances occasional copyediting work for small publishers to supplement his income.",
+    "weekly_delta_skills": {
+      "literary_analysis": 0.15,
+      "creative_writing": 0.1
+    }
+  },
+  "init_skills": {
+    "literary_analysis": 210,
+    "creative_writing": 55,
+    "bookselling": 60,
+    "copyediting": 30,
+    "python": 45,
+    "running": 35,
+    "cooking": 25,
+    "public_speaking": 20
+  },
+  "init_assets": {
+    "deposit": 8500,
+    "possessions": [
+      {
+        "name": "MacBook Pro (2018)",
+        "description": "His primary work and writing machine, covered in small stickers from indie bookstores and a faded UMass decal. The 'E' key is slightly worn from overuse."
+      },
+      {
+        "name": "Book collection",
+        "description": "Roughly 300 paperbacks crammed into three IKEA bookshelves — heavily annotated, spines cracked, organized by a system only he understands."
+      },
+      {
+        "name": "Moleskine notebooks",
+        "description": "A stack of eleven filled notebooks containing character sketches, plot outlines, overheard dialogue, and occasional personal journal entries. He'd be mortified if anyone read them."
+      },
+      {
+        "name": "Running shoes",
+        "description": "A pair of well-worn Brooks Ghost 12s with fraying laces, replaced every six months like clockwork."
+      },
+      {
+        "name": "Claddagh ring",
+        "description": "A silver ring his father gave him at 16, worn on his right hand with the heart facing inward. He hasn't taken it off, even after the estrangement."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that stories are how people survive — that literature is not a luxury but a necessity. Values authenticity over success, quiet integrity over loud ambition. Respects people who show up consistently, who do hard things without advertising it. Distrusts easy answers and grand gestures. Fears mediocrity more than failure. Holds a complicated, unresolved love for his father and the immigrant work ethic he was raised with, even as he chose a different path. Believes forgiveness is possible but doesn't know how to ask for it.",
+  "birthday": "Y1993-W9-activity-D2",
+  "birth_year": 1993
+}

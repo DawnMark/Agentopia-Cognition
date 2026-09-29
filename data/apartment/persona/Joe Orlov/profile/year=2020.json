@@ -1,0 +1,90 @@
+{
+  "name": "Joe Orlov",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" with a lean, densely muscled frame at around 190 lbs, Joe registers as attractive (~10%) in a chiseled, austere fashion — high Slavic cheekbones, a strong cleft chin, deep-set ice-blue eyes framed by pale lashes, and a slightly crooked nose broken twice during his amateur boxing years. His dirty-blond hair is buzzed short on the sides and kept military-neat on top. His skin is fair, lightly sun-damaged across the bridge of his nose. A network of fine white scars crosses his knuckles; a faded Cyrillic script tattoo — his mother's maiden name — runs along his left collarbone. He dresses in clean, utilitarian layers: fitted dark henleys, gray joggers, minimalist sneakers, and a battered olive field jacket. His posture is conspicuously perfect, shoulders squared and drawn back as if perpetually bracing for inspection. He moves with controlled economy, every gesture deliberate. He gives the impression of someone forged rather than born — disciplined, watchful, quietly commanding, with an Old World formality that softens unexpectedly when he smiles.",
+  "brief_introduction": "Joe is a personal fitness coach who runs his own small training business out of a rented studio space in the West Village. He lives alone in a third-floor unit at Bremer Apartment, keeps a spartan home, and is respected in the building for his quiet reliability and imposing physical presence. Beneath his iron discipline lies a man still reconciling with a domineering father's legacy and a deep, unspoken tenderness he struggles to express.",
+  "talents": {
+    "qualitative": "Born in Brighton Beach, Brooklyn, to Ukrainian-Jewish immigrants. His father, Mikhail, was a former Soviet wrestling coach who drove Joe relentlessly from age five — morning runs, cold showers, no sugar, no excuses. His mother, Anya, was a piano teacher who died of ovarian cancer when Joe was fourteen, leaving him alone with a father who expressed love exclusively through physical rigor. Joe channeled that upbringing into amateur boxing through his teens and early twenties, compiling a 14-3 record before a torn rotator cuff ended his competitive career at twenty-four. He pivoted to personal training, earned his NASM certification, and over a decade built a loyal client roster — mostly Manhattan professionals — through word-of-mouth reputation. He is exceptionally knowledgeable about biomechanics, nutrition periodization, and injury rehabilitation. His coaching style is demanding but perceptive; he reads bodies the way musicians read scores, spotting imbalances and compensations instinctively. He is conversational in Russian and Ukrainian, reads voraciously about sports psychology, and plays chess at a strong amateur level.",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 75,
+      "creativity": 55,
+      "health": 100,
+      "honesty": 80,
+      "integrity": 80,
+      "intelligence": 75,
+      "leadership": 90,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Joe moved into Bremer Apartment's third floor in 2014, drawn by the rent and the building's proximity to his training studio three blocks away. His apartment is austere — a pull-up bar bolted into the bedroom doorframe, a single bookshelf of sports science texts and Russian novels, a neatly made bed with military corners, and almost no decoration except a framed black-and-white photograph of his mother at a piano. He rises at 5:00 a.m. without an alarm, drinks black coffee, and walks to the corner coffee shop by 5:45 to read before his first client at seven. He met Rafael on the building rooftop in 2017; both were up late, unable to sleep, and discovered a mutual respect for physical discipline and craft. They became casual friends — rooftop beers, occasional sparring talk — though Joe senses Rafael guards secrets. He began training Dr. Thaddeus informally in 2019 after the older man's doctor warned about his cholesterol; their sessions are half exercise, half philosophical debate, and Joe has grown genuinely fond of Thaddeus's stubborn wonder. He met Maya on the rooftop in the summer of 2019 and was quietly captivated by her focus while sketching; they exchange brief, warm greetings but neither has pushed the connection further. Joe's father Mikhail died of a heart attack in December 2019, and Joe is still processing a grief tangled with resentment. He has never had a relationship lasting longer than five months; partners invariably say he is emotionally unavailable, which he knows is true but cannot seem to fix.",
+  "conflicts": "His father's death has unlocked grief he has no framework for processing — he was trained to endure, not to feel; he fears he has internalized Mikhail's coldness and will never be capable of genuine intimacy; his training business is profitable but plateauing, and he wonders if he should open his own gym, a financial risk that terrifies a man raised to equate security with survival; he is quietly drawn to Maya but convinced that his emotional rigidity makes him unworthy of someone so expressive and open.",
+  "core_motivation": "To build something lasting — a gym, a legacy, a relationship — that proves discipline and warmth are not opposites. Beneath that, to become the kind of man his mother would have recognized: strong but gentle, principled but capable of softness. He wants to honor his father's gifts without repeating his father's failures.",
+  "personality_traits": {
+    "qualitative": "Joe is an ISTJ — dutiful, methodical, and deeply principled, with a rich inner emotional life he rarely displays. He values order and consistency almost compulsively; disruption unsettles him more than he admits. He is generous with his time and knowledge but stingy with vulnerability. His humor is dry and deadpan, often delivered so flatly that people miss the joke entirely. He listens with intense focus, remembers details others forget, and follows through on every promise — qualities that make him an excellent coach and a frustratingly opaque friend. Under stress he retreats into silence and routine rather than reaching out.",
+    "quantitative": {
+      "confidence": 85,
+      "control": 90,
+      "curiosity": 55,
+      "empathy": 60,
+      "judging": 70,
+      "introversion": 85,
+      "intuition": 35,
+      "patience": 70,
+      "responsibility": 100,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes early mornings, black coffee, heavy compound lifts, chess puzzles, long solitary runs along the Hudson, reading Chekhov and Dostoevsky, well-prepared simple food, watching boxing replays, clean spaces, the rooftop at dawn. Dislikes loud music in gyms, excuses, processed food, small talk without substance, being touched without warning, clutter, people who quit on themselves, emotional manipulation, tardiness.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Self-employed personal fitness coach",
+    "organization": "Orlov Training (sole proprietorship)",
+    "type": "work",
+    "description": "Runs a personal training business with approximately 15 regular clients across Manhattan. Sessions are conducted at a rented studio space in the West Village and occasionally in clients' homes. Specializes in functional strength, injury rehabilitation, and boxing conditioning.",
+    "weekly_delta_skills": {
+      "coaching": 0.1,
+      "biomechanics": 0.05
+    }
+  },
+  "init_skills": {
+    "boxing": 220,
+    "strength_and_conditioning": 300,
+    "biomechanics": 185,
+    "nutrition": 295,
+    "coaching": 190,
+    "business_management": 80,
+    "chess": 90,
+    "cooking": 20,
+    "emotional_expression": 25
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "Home gym equipment",
+        "description": "A pull-up bar, a set of kettlebells (16–32 kg), resistance bands, and a foam roller, all meticulously organized in his bedroom corner"
+      },
+      {
+        "name": "Boxing gear",
+        "description": "Two pairs of well-worn Winning gloves, hand wraps, a speed bag mount he never installed, and a mouthguard case with his amateur record scratched into the lid"
+      },
+      {
+        "name": "Mother's photograph",
+        "description": "A framed black-and-white photo of Anya Orlova at a Steinway upright, taken in Odessa in 1980, the only decoration in his apartment"
+      },
+      {
+        "name": "Chess set",
+        "description": "A carved wooden chess set his mother gave him for his twelfth birthday, pieces worn smooth from years of use"
+      },
+      {
+        "name": "Library",
+        "description": "A single bookshelf holding sports science textbooks, NASM manuals, Russian-language novels, and a battered copy of 'The Art of Learning' by Josh Waitzkin"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that discipline is the truest form of self-respect — that the body is the first territory a person must govern before they can govern anything else. Respects anyone who shows up consistently, regardless of talent. Distrusts shortcuts, flattery, and charm deployed without substance. Fears emotional vulnerability more than physical pain, which he recognizes as a flaw but cannot easily overcome. Holds that his mother's gentleness and his father's rigor were both forms of love, and that his life's work is to fuse them into something whole. Believes people deserve honesty even when it is uncomfortable, and that a good coach tells you what you need to hear, not what you want to hear.",
+  "birthday": "Y1986-W9-activity-D1",
+  "birth_year": 1986
+}

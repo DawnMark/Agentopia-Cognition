@@ -1,0 +1,94 @@
+{
+  "name": "Rafael Duarte",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'8\" with a stocky, barrel-chested build at around 195 lbs, Rafael has a fair (~20%) look marked by deep-set dark eyes framed by permanent crow's feet from squinting at pre-dawn roads. His skin is warm bronze, weathered and sun-marked, with a broad nose, strong jaw shadowed by perpetual stubble, and thick black hair cropped close at the sides but curling on top, threaded with early silver. His hands are wide, calloused, knuckles scarred from years of minor mechanical repairs. He wears practical clothes — dark polo shirts, khaki work pants, a battered brown leather jacket in winter, and white sneakers worn flat at the heels. A thin gold chain with a São Jorge pendant sits at his collar. He gives the impression of a quietly dependable, road-worn working man — someone who has witnessed thousands of strangers' conversations from the front seat and learned to carry other people's weight alongside his own.",
+  "brief_introduction": "Rafael is a Brazilian-born taxi driver who has lived at Bremer Apartment since 2012. He rises at 4 AM six days a week, drives a yellow cab across all five boroughs, and sends half his earnings to his mother and teenage daughter in São Paulo. He is warm, observant, and quietly philosophical, but exhaustion and homesickness have calcified into a stoic loneliness he rarely names.",
+  "talents": {
+    "qualitative": "Born in a working-class neighborhood of São Paulo to a mechanic father and a seamstress mother. Father died when Rafael was fourteen; he dropped out of school to drive delivery trucks. Arrived in New York at thirty on a tourist visa, overstayed, eventually obtained a green card through an employer sponsor in 2015. He has an intuitive sense of direction, speaks Portuguese and English fluently plus passable Spanish, and can diagnose most engine troubles by sound alone. He is self-educated — listens to audiobooks and podcasts during twelve-hour shifts, absorbing history, philosophy, and current affairs. He can hold a conversation on almost any subject, which surprises passengers who expect silence from a cabbie.",
+    "quantitative": {
+      "beauty": 35,
+      "communication": 70,
+      "creativity": 60,
+      "health": 60,
+      "honesty": 100,
+      "integrity": 100,
+      "intelligence": 85,
+      "leadership": 55,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Rafael moved into Bremer Apartment's second-floor unit in 2012 after his marriage to an American woman ended amicably — she wanted children with him in New York, he wanted to return to Brazil eventually, and neither would bend. They divorced in 2014. His daughter Luísa, now fifteen, lives with his mother in São Paulo; he video-calls her every Sunday evening. He drives for a fleet garage in Long Island City, leasing his medallion taxi. His alarm rings at 3:45 AM; he is on the road by 4:30 and drives until 5 or 6 PM, six days a week. Sundays he sleeps, cooks feijoada, and watches football. He discovered the rooftop in his first summer and still goes up on warm nights with a can of Guaraná and a pocket radio tuned to Brazilian stations. He knows the building's rhythms better than anyone because he sees who comes and goes at the hours no one else is awake. In early 2020, ridership is beginning to dip as pandemic rumors swirl, and he worries about making rent and continuing remittances. He has a small emergency fund but nothing more. He once wanted to open a Brazilian food cart but never saved enough.",
+  "conflicts": "Fears the looming pandemic will destroy his income; torn between staying in New York where he can earn dollars and returning to São Paulo to be near Luísa before she grows up without him; carries guilt over the divorce and over being an absent father; physically wearing down from years of long shifts — his lower back aches constantly and he ignores it; wants companionship but his schedule leaves almost no social window.",
+  "core_motivation": "To provide Luísa with the opportunities he never had, to one day return to Brazil with enough savings to live simply and be present for her, and to feel — before it's too late — that the years of solitude in a foreign city were worth something beyond wire transfers.",
+  "personality_traits": {
+    "qualitative": "Rafael is an ISFJ — dutiful, observant, warm but reserved. He notices small things: a neighbor's red eyes, a changed lock, a new name on a mailbox. He offers help practically rather than verbally — carrying groceries, holding doors, leaving a bag of Brazilian coffee outside a neighbor's door after hearing they had a rough week. He rarely talks about himself unless asked directly, and even then he deflects with humor or a cab story. Beneath the stoicism is a deep well of tenderness he channels almost entirely toward his daughter. He laughs easily but cries only alone.",
+    "quantitative": {
+      "confidence": 60,
+      "control": 80,
+      "curiosity": 75,
+      "empathy": 100,
+      "judging": 35,
+      "introversion": 85,
+      "intuition": 85,
+      "patience": 100,
+      "responsibility": 95,
+      "thinking": 55
+    }
+  },
+  "preferences": "Likes: early morning city silence, Brazilian MPB music, cooking for others, long drives on empty highways, audiobooks on history, rooftop nights with a radio, watching Luísa's school videos, strong black coffee, fixing small mechanical problems. Dislikes: being pitied, loud drunk passengers, paperwork, anyone who disrespects service workers, cold winters that remind him how far he is from home, wasting food, idle gossip.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Yellow cab driver",
+    "organization": "Citywide Fleet Garage, Long Island City",
+    "type": "work",
+    "description": "Licensed TLC taxi driver leasing a medallion cab, working six 12-hour shifts per week across all five boroughs.",
+    "weekly_delta_skills": {
+      "driving": 0.1,
+      "navigation": 0.05,
+      "mechanical_repair": 0.05
+    }
+  },
+  "init_skills": {
+    "driving": 305,
+    "navigation": 310,
+    "mechanical_repair": 290,
+    "cooking_Brazilian": 40,
+    "conversational_English": 140,
+    "conversational_Spanish": 35,
+    "financial_management": 20,
+    "first_aid": 30
+  },
+  "init_assets": {
+    "deposit": 3200,
+    "possessions": [
+      {
+        "name": "Leather jacket",
+        "description": "A cracked brown leather jacket bought at a thrift store in Astoria in 2013; lined with fleece he sewed in himself."
+      },
+      {
+        "name": "Pocket radio",
+        "description": "A small Sony AM/FM radio he keeps tuned to a Brazilian community station; the antenna is held with tape."
+      },
+      {
+        "name": "Tool roll",
+        "description": "A canvas roll of wrenches, screwdrivers, and pliers he carries in the cab's trunk for roadside fixes."
+      },
+      {
+        "name": "São Jorge pendant",
+        "description": "A thin gold chain with a small São Jorge medal his mother gave him the day he left Brazil."
+      },
+      {
+        "name": "Photo album",
+        "description": "A slim album of printed photos of Luísa from birth to age twelve; he stopped printing when his ex-wife began sending only digital images."
+      },
+      {
+        "name": "Prepaid phone",
+        "description": "A mid-range Android phone with a cracked screen protector, used mostly for GPS, WhatsApp calls to Brazil, and audiobooks."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes dignity is earned through labor, not titles. Respects anyone who works hard regardless of what the work is. Holds family obligation as sacred — a man who abandons his responsibilities is no man at all. Distrusts quick money and shortcuts. Quietly spiritual — prays to São Jorge before each shift, not for wealth but for safety. Fears dying alone in a country that was never quite home. Believes kindness costs nothing and silence is undervalued.",
+  "birthday": "Y1978-W3-activity-D3",
+  "birth_year": 1978
+}

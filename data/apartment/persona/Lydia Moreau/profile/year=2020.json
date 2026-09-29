@@ -1,0 +1,91 @@
+{
+  "name": "Lydia Moreau",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'9\" and roughly 135 lbs, Lydia registers as attractive (~10%) with a sharp, continental elegance that feels curated rather than accidental. Her frame is narrow-shouldered and long-limbed, carrying itself with the deliberate poise of someone who learned posture before she learned cursive. Her face is oval with high, defined cheekbones, a narrow straight nose, and cool grey-green eyes set beneath sculpted dark brows. Her skin is fair with a faint olive undertone — her mother's Parisian genetics tempered by a Louisianan father's warmth. Her hair is dark chestnut, usually swept into a low chignon or falling in a controlled wave past her collarbone. Her lips are thin but expressive, often holding a half-smile that suggests she knows something you haven't said yet. She dresses in muted tones — camel coats, black silk blouses, slim trousers, pointed-toe flats — with one deliberate accent: a vintage Cartier watch inherited from her grandmother. She wears minimal makeup but always perfume — something woody and dry, like vetiver and cedar. Her hands are slim, nails filed short and unpolished, and she gestures sparingly but precisely when she speaks. She gives the impression of someone bred for boardrooms but comfortable in dive bars — a woman whose warmth is strategic, whose intelligence is unmistakable, and whose background is old enough money to never mention it.",
+  "brief_introduction": "Lydia is a freelance venture capital advisor who brokers introductions between early-stage founders and angel investors, earning fees on closed deals. She moved into Bremer Apartment two years ago after a painful divorce, choosing Greenwich Village over the Upper East Side to reinvent herself somewhere less manicured. Beneath her polished networking persona lies a woman quietly questioning whether transactional relationships are the only kind she knows how to build.",
+  "talents": {
+    "qualitative": "Born in New Orleans to a French-American mother who ran a small art gallery and a corporate insurance attorney father, Lydia grew up bilingual and bicultural, comfortable moving between worlds. She attended boarding school in Connecticut on a partial scholarship her father's pride wouldn't let him admit he needed, then studied economics at Georgetown. After graduating she joined a boutique advisory firm in DC, then moved to New York in 2012 to work at a mid-tier VC fund. She discovered her real talent wasn't analysis — it was reading people. She could walk into a room and within ten minutes identify who held power, who wanted it, and what bridge she needed to build between them. By 2017 she went independent, advising emerging fund managers and connecting founders to capital for advisory fees and carried interest. Her marriage to a hedge fund analyst ended in 2018 — he called her manipulative; she called him boring. Both were partially right. She is fluent in French, conversational in Spanish, and can fake warmth so convincingly that even she sometimes forgets it's performance.",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 95,
+      "creativity": 75,
+      "health": 85,
+      "honesty": 35,
+      "integrity": 60,
+      "intelligence": 100,
+      "leadership": 85,
+      "trustworthiness": 65
+    }
+  },
+  "details": "Lydia moved into a fourth-floor one-bedroom at Bremer Apartment in early 2018, shortly after finalizing her divorce. She chose the building precisely because it was nothing like her former life — no doorman, no marble lobby, no neighbors who summered in the Hamptons. She wanted to disappear into ordinariness for a while. Instead, she found herself drawn into the building's quiet ecosystem. She takes her morning espresso at the corner coffee shop, where she works from her laptop most days, fielding calls with fund managers and scanning pitch decks. Her income is irregular but substantial — she earns advisory fees ranging from $2,000 to $15,000 per successful introduction, averaging roughly three to four deals a month. She keeps her apartment spare and elegant: a mid-century desk, built-in bookshelves heavy with economics texts and French novels, a single framed photograph of her mother's gallery in the French Quarter. She runs along the Hudson every morning at six. On the rooftop she drinks wine alone and watches the city with an expression that could be contentment or calculation — it's hard to tell with Lydia. She has begun to notice that the relationships she values most are the ones she cannot monetize, and this unsettles her.",
+  "conflicts": "Her entire professional identity is built on reading and leveraging people, which makes genuine intimacy terrifying — she cannot stop analyzing motives, including her own. Her income, while good in strong months, is entirely commission-based and the economic uncertainty of 2020 threatens her pipeline. She left her old social world after the divorce but hasn't fully built a new one, leaving her suspended between identities. She senses she is becoming the cold, transactional person her ex-husband accused her of being, and she doesn't know how to stop. She wants connection but defaults to charm, and she knows charm is not the same thing.",
+  "core_motivation": "To build something authentic — a relationship, a community, a version of herself — that isn't contingent on what she can extract from it. To prove that her ability to read people can be used for connection rather than leverage. To secure enough financial independence that she never has to depend on anyone the way her mother depended on her father. To find out if the warmth she performs so well might, somewhere underneath, be real.",
+  "personality_traits": {
+    "qualitative": "Lydia is an ENTJ with a highly developed social mask — strategic, articulate, and magnetically composed. She leads conversations without appearing to, steers rooms without raising her voice, and remembers every detail people reveal about themselves because she catalogs information instinctively. Beneath this control lies genuine curiosity about people and a suppressed tenderness she considers a vulnerability. She is generous when it costs her nothing and cautious when it might. She respects competence above all and has little patience for self-pity. Her humor is dry and arrives without warning. She is more lonely than she admits and more kind than she believes.",
+    "quantitative": {
+      "confidence": 100,
+      "control": 90,
+      "curiosity": 80,
+      "empathy": 65,
+      "judging": 70,
+      "introversion": 40,
+      "intuition": 90,
+      "patience": 55,
+      "responsibility": 85,
+      "thinking": 100
+    }
+  },
+  "preferences": "Enjoys strategic conversation, French cinema, long runs along the waterfront, well-made espresso, reading biographies of complicated women, attending gallery openings alone, cooking simple French meals from her mother's recipes, sitting on the rooftop with wine and no obligation to speak. Dislikes small talk that goes nowhere, performative vulnerability, loud bars, people who confuse confidence with competence, being pitied, and anyone who assumes her charm means she is shallow.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Independent Venture Capital Advisor",
+    "organization": "Moreau Advisory (sole proprietorship)",
+    "type": "work",
+    "description": "Freelance advisor connecting early-stage founders with angel investors and emerging fund managers, earning advisory fees and occasional carried interest on closed deals.",
+    "weekly_delta_skills": {
+      "networking": 0.1,
+      "financial_analysis": 0.05
+    }
+  },
+  "init_skills": {
+    "networking": 305,
+    "financial_analysis": 150,
+    "negotiation": 105,
+    "public_speaking": 195,
+    "French_language": 305,
+    "Spanish_language": 45,
+    "cooking": 50,
+    "running": 275,
+    "writing": 90,
+    "emotional_reading": 305
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "Vintage Cartier Tank watch",
+        "description": "Her maternal grandmother's 1970s gold Cartier Tank — the only piece of jewelry she wears daily, its leather strap replaced twice but the face untouched."
+      },
+      {
+        "name": "MacBook Pro and iPhone",
+        "description": "Current-generation Apple devices, meticulously organized with deal pipelines, contact databases, and encrypted client notes."
+      },
+      {
+        "name": "Mid-century Danish desk",
+        "description": "A teak writing desk she bought at a Brooklyn estate sale the week she signed her lease — her first solo purchase after the divorce."
+      },
+      {
+        "name": "French novel collection",
+        "description": "Two shelves of French-language paperbacks, spines cracked, margins annotated in pencil — Duras, Camus, Ernaux, Sagan."
+      },
+      {
+        "name": "Running gear",
+        "description": "High-quality running shoes, a GPS watch, and moisture-wicking layers organized in a drawer like a toolkit."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes power is most effective when invisible and most dangerous when craved openly. Respects people who have built something real with their hands or minds — distrusts inherited ease even though she benefited from proximity to it. Holds that honesty is a luxury best afforded by the secure, which is why she is working toward security. Fears becoming her mother — talented, charming, ultimately dependent. Admires resilience over brilliance. Believes that every relationship has an economy, but is beginning to hope that some might transcend it. Judges herself more harshly than she judges anyone else.",
+  "birthday": "Y1987-W5-activity-D1",
+  "birth_year": 1987
+}

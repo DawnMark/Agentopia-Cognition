@@ -1,0 +1,91 @@
+{
+  "name": "Dorian Valey",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" with a lean, somewhat underfed frame at around 165 lbs, Dorian registers as attractive (~10%) in a brooding, angular way — the kind of handsomeness that looks better in dim rooftop light than in fluorescent offices. His face is narrow with a strong jaw, hollowed cheeks, a straight Roman nose, and deep-set hazel eyes that shift between green and amber depending on the hour. His dark brown hair is thick, wavy, always slightly too long, pushed back behind his ears or falling across his forehead. A faint shadow of stubble is permanent, never quite a beard, never quite clean-shaven. His skin is olive-toned, a legacy of his half-Italian mother, and there are faint circles under his eyes that suggest late nights spent doing something — reading, drinking, staring at the ceiling. He dresses in expensive basics that look deliberately careless: black cashmere crewnecks, broken-in raw denim, suede Chelsea boots, a vintage Omega watch he inherited from his grandfather. His apartment — the largest unit on the sixth floor, directly beside the rooftop access — is sparse and curated: mid-century furniture, a wall of philosophy books, an untouched easel, a half-finished bottle of Barolo on the counter. He gives the impression of a man who was handed everything and found it insufficient — someone intelligent and melancholy, raised in comfort but haunted by the suspicion that comfort is a cage, and that the interesting version of himself exists in some life he has never been brave enough to begin.",
+  "brief_introduction": "Dorian inherited Bremer Apartment from his grandfather Aldo Valey in 2015 and has never held a real job. He collects rent, maintains the building through a property manager, and spends his days reading philosophy, visiting galleries, and trying to start creative projects he never finishes. He is searching for a purpose that justifies his existence.",
+  "talents": {
+    "qualitative": "Born into old New York money — his grandfather Aldo Valey, a Sicilian immigrant turned real estate investor, bought Bremer Apartment in 1962 and built a modest portfolio of Greenwich Village properties. Dorian's mother, Lucia, was a restless art dealer who died of ovarian cancer when he was fourteen. His father, James Valey, a quiet corporate attorney, remarried and moved to Connecticut, and they speak perhaps twice a year. Dorian attended Dalton, then Columbia, where he majored in philosophy and graduated with honors but no direction. He considered law school, an MFA, a nonprofit career — started applications for all three, finished none. When Aldo died in 2015 and left the building to him (bypassing James, who didn't need it), Dorian moved into the top-floor unit and assumed the role of landlord with a mixture of guilt, relief, and dread. He is well-read, articulate, and genuinely curious about other people's lives, partly because he finds his own so formless. He plays chess competently, cooks elaborate Italian meals for one, and has an unused darkroom in his spare bathroom. He donates anonymously to tenant-assistance charities, which does not ease his conscience.",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 85,
+      "creativity": 70,
+      "health": 60,
+      "honesty": 75,
+      "integrity": 55,
+      "intelligence": 90,
+      "leadership": 35,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Dorian occupies unit 6A, the largest apartment in Bremer, directly beside the rooftop access door. The space is beautiful and half-empty — a deliberate minimalism that visitors mistake for taste but which is really indecision. A wall of bookshelves holds Kierkegaard, Camus, Simone Weil, and dog-eared copies of Walker Percy novels. An easel stands by the window with a canvas he primed in September 2019 and has not touched since. A darkroom in the second bathroom contains developing equipment he ordered in a burst of enthusiasm after watching a documentary about Vivian Maier; he used it three times. He manages the building through a property management company, Halberd & Associates, but insists on handling lease renewals and tenant complaints personally, partly because it gives him something to do and partly because he feels he owes the tenants his attention, if nothing else. His monthly rental income — roughly $38,000 from twelve units plus a small trust fund distribution — means he has never needed to work. This is the central wound: he knows he is intelligent, capable, and free, and the freedom paralyzes him. He spends mornings at the corner coffee shop reading or journaling, afternoons walking the city or visiting museums, and evenings on the rooftop when the weather allows, nursing whiskey and listening to other tenants talk about their lives with an envy he tries to disguise as curiosity. In January 2020, he enrolled in a weekend photography course at ICP — his latest attempt to commit to something. He has attended four of six sessions and taken photographs he considers mediocre. He is thirty-one, single, and has not been in a serious relationship since his college girlfriend, Nadia, left him after graduation because she said loving him felt like loving a rough draft. He thinks about that phrase almost every day.",
+  "conflicts": "Paralyzed by the freedom his inherited wealth provides — every option feels equally available and equally meaningless; haunted by the sense that he is a spectator in his own building and his own life; fears that his inability to commit to any vocation or relationship is not circumstantial but characterological; guilty about collecting rent from people who work harder than he ever has; worried that his tenants see him as a privileged dilettante, which is exactly what he suspects he is; struggling with the realization that his mother's death left him not just grieving but rudderless, and that he has used philosophy as a substitute for actually living.",
+  "core_motivation": "To find or create something — a project, a calling, a relationship, a single completed work — that proves he is more than the sum of his inheritance. Beneath the existential searching, he wants to feel that his presence in the world matters to someone for reasons that have nothing to do with the building he owns. He wants to honor his grandfather's immigrant work ethic by building something of his own, even though he cannot yet name what that something is.",
+  "personality_traits": {
+    "qualitative": "Dorian is an INFP — introspective, idealistic, emotionally deep but outwardly reserved. He listens more than he speaks and remembers details about people that surprise them. He is generous without being showy, lending books, waiving late rent quietly, and remembering tenants' birthdays. But his inner life is turbulent: he cycles between bursts of creative ambition and long troughs of lethargy and self-criticism. He intellectualizes his emotions, reaching for Kierkegaard when he should reach for a friend. He is drawn to people who have purpose — artists, strivers, obsessives — and studies them the way a biologist studies a species he cannot join. He avoids conflict not out of cowardice but out of a deep uncertainty about whether his opinions are earned. His humor is dry and self-deprecating. He is kind, but his kindness sometimes feels like compensation for a guilt he cannot fully articulate.",
+    "quantitative": {
+      "confidence": 45,
+      "control": 30,
+      "curiosity": 95,
+      "empathy": 95,
+      "judging": 25,
+      "introversion": 70,
+      "intuition": 100,
+      "patience": 70,
+      "responsibility": 55,
+      "thinking": 85
+    }
+  },
+  "preferences": "Enjoys reading philosophy and literary fiction, visiting galleries and museums alone, cooking elaborate meals, playing chess, long walks through the city, sitting on the rooftop listening to other people's stories, photography (recently), journaling, old Italian cinema, good wine; dislikes small talk at parties, being asked what he does for a living, loud displays of wealth, motivational platitudes, being pitied, landlord stereotype jokes, finishing things.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Landlord / Building owner",
+    "organization": "Bremer Apartment (personal property)",
+    "type": "non-work",
+    "description": "Inheritor and owner of Bremer Apartment; collects rent and oversees building maintenance through a property manager. Has no other employment.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "philosophy": 105,
+    "property_management": 45,
+    "photography": 15,
+    "cooking": 50,
+    "writing": 55,
+    "chess": 90,
+    "visual_arts": 15,
+    "interpersonal_observation": 205,
+    "financial_management": 45
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "Bremer Apartment building",
+        "description": "A six-story 1920s brick building in Greenwich Village with twelve residential units, inherited from grandfather Aldo Valey in 2015. Assessed value approximately $8.2 million, fully paid off."
+      },
+      {
+        "name": "Grandfather's Omega Seamaster",
+        "description": "A 1968 Omega Seamaster 300, steel case with patina on the dial, worn daily. The only possession he treats as irreplaceable."
+      },
+      {
+        "name": "Leica M6 camera",
+        "description": "A silver Leica M6 film camera purchased impulsively in 2019 with a 35mm Summicron lens. Contains a half-shot roll of Tri-X 400."
+      },
+      {
+        "name": "Philosophy library",
+        "description": "Approximately 600 volumes of philosophy, literary fiction, and art criticism, many annotated heavily. First editions of Camus' The Stranger and Percy's The Moviegoer."
+      },
+      {
+        "name": "Mid-century apartment furnishings",
+        "description": "A curated collection of Eames chairs, a walnut credenza, a Danish teak dining table — all inherited or sourced from estate sales. Beautiful, sparse, slightly museum-like."
+      },
+      {
+        "name": "Darkroom equipment",
+        "description": "A complete black-and-white darkroom setup in the spare bathroom: enlarger, trays, safelight, chemicals. Used three times."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that a life without purpose is a slow form of death, which is why his own purposelessness terrifies him. Holds that privilege obligates — that those who inherit wealth owe something to the world, though he has not yet determined what. Respects people who commit fully to something, even if that something seems absurd. Admires craft, sincerity, and endurance over talent alone. Distrusts irony used as a shield. Fears that comfort has made him soft in ways that are irreversible. Believes meaning must be made, not found — but has not yet managed to make any. Thinks the best landlord is one his tenants barely notice, and tries to be that, even as he longs to be noticed for something else entirely.",
+  "birthday": "Y1988-W1-activity-D3",
+  "birth_year": 1988
+}

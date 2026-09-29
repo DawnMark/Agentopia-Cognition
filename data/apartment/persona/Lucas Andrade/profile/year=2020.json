@@ -1,0 +1,94 @@
+{
+  "name": "Lucas Andrade",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'8\" and roughly 145 lbs, Lucas has an attractive (~10%) face with sharp, symmetrical features inherited from his Brazilian mother — high cheekbones, deep-set dark amber eyes framed by thick brows, full lips, and a strong jawline softened by the residual roundness of youth. His black hair is buzzed short on the sides and left longer on top, often pushed back messily with water from the kitchen sink. His skin is warm olive-brown, hands perpetually red and chapped from hot water and industrial soap. He dresses in cheap basics — plain white tees gone slightly translucent from overwashing, dark work pants, beat-up Nike sneakers with one fraying lace. A faded tan line marks where an expensive watch once sat on his left wrist. He is lean and wiry, carrying tension in his shoulders like someone braced for a blow that hasn't landed yet. He gives the impression of a young man from a privileged background who has deliberately stripped himself of every visible marker of wealth — proud, self-punishing, and quietly furious about something he refuses to name.\n",
+  "brief_introduction": "Lucas is a 20-year-old who walked away from a wealthy, domineering family in Miami mid-semester and now washes dishes six nights a week at an Italian restaurant three blocks from Bremer Apartment. He tells almost no one why he left.\n",
+  "talents": {
+    "qualitative": "Born into a prosperous Brazilian-American family in Miami — father a real estate developer, mother a former model turned socialite. Lucas was groomed for business school from age twelve: SAT tutors, leadership camps, internships at his father's firm. He excelled academically without much effort, spoke fluent Portuguese and Spanish alongside English, and was a competitive swimmer through high school. But he clashed constantly with his father, who controlled every decision — major, career path, social circle, even his girlfriend. In the fall of 2019, during his sophomore year at the University of Miami, Lucas discovered his father had been laundering money through shell companies and expected Lucas to eventually manage them. He confronted his father, who threatened to cut him off entirely. Lucas left that night with one duffel bag, drained his personal savings of $2,400, took a Greyhound to New York, and never went back. He chose New York because it was the one city where disappearing felt possible. He found the cheapest room in Bremer Apartment — a second-floor studio barely larger than a closet — and got hired as a dishwasher within a week. He has not spoken to his family since January 2020.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 55,
+      "creativity": 60,
+      "health": 80,
+      "honesty": 75,
+      "integrity": 95,
+      "intelligence": 85,
+      "leadership": 55,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Lucas moved into Bremer Apartment in November 2019, taking the cheapest available unit — a cramped second-floor studio with a radiator that clangs all night. He works six evening shifts a week at Trattoria Vecchia, a family-run Italian restaurant on Bleecker Street, scrubbing pots and mopping floors from 5 PM to 1 AM. He earns just enough for rent and bodega meals. Mornings he spends at the corner coffee shop nursing a single drip coffee for hours, reading dog-eared paperbacks he finds in the building's informal book-swap shelf. He met Jamal there during his first week — Jamal noticed his raw, cracked hands and slid him a free refill without being asked. It was the first genuine kindness Lucas received in New York and he has never forgotten it. He met Leo one rainy evening in December when Leo helped him carry a secondhand mattress up the narrow stairwell; they exchanged few words but Leo left a six-pack outside his door the next day with a sticky note that said \"Welcome to the building.\" Lucas keeps the note in his wallet. He swims at a public pool on Saturday mornings — the one remnant of his former life he allows himself. He has nightmares about his father finding him. He has told no one in the building the real reason he left home.\n",
+  "conflicts": "Desperate to prove he can survive alone but terrified he's merely punishing himself rather than building something real; carries guilt about abandoning his younger sister Sofia, still in Miami under their father's control; refuses to access family money on principle but is one emergency away from financial ruin; wants connection but pushes people away before they can ask questions he doesn't want to answer; struggling with whether to re-enroll in college or accept that his old life is permanently over.\n",
+  "core_motivation": "To construct an identity entirely his own — untouched by his father's money, name, or plans — and to prove, mostly to himself, that he is more than what he was raised to become.\n",
+  "personality_traits": {
+    "qualitative": "Lucas is an ISTP — pragmatic, self-reliant, and intensely private. He processes the world through action rather than talk, preferring to fix a leaky faucet or scrub a kitchen spotless rather than sit with his emotions. He has a dry, deadpan humor that surfaces unexpectedly and can disarm people who mistake his quietness for coldness. He is fiercely principled — his decision to leave home was moral, not impulsive — but his pride sometimes curdles into stubbornness. He distrusts authority figures and anyone who wields money as leverage. Underneath the stoic exterior is a young man who craves belonging but has no template for how to ask for it. He is loyal once trust is earned, but earning it takes time.\n",
+    "quantitative": {
+      "confidence": 55,
+      "control": 85,
+      "curiosity": 60,
+      "empathy": 70,
+      "judging": 45,
+      "introversion": 70,
+      "intuition": 60,
+      "patience": 75,
+      "responsibility": 90,
+      "thinking": 80
+    }
+  },
+  "preferences": "Likes swimming, black coffee, reading used paperbacks, cooking simple meals when he has time, walking the city alone at night after shifts, the sound of rain on fire escapes, listening to other people's music through thin walls; dislikes being asked about his family, charity or pity, expensive restaurants, men who raise their voices, wasted food, small talk that goes nowhere, anyone who flaunts wealth.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Dishwasher",
+    "organization": "Trattoria Vecchia (Italian restaurant, Bleecker Street)",
+    "type": "work",
+    "description": "Full-time dishwasher working six evening shifts per week; occasionally helps with food prep when the kitchen is short-staffed.",
+    "weekly_delta_skills": {
+      "cooking": 0.5,
+      "endurance": 0.3
+    }
+  },
+  "init_skills": {
+    "swimming": 200,
+    "cooking": 90,
+    "Portuguese": 200,
+    "Spanish": 200,
+    "English": 150,
+    "mathematics": 70,
+    "financial_literacy": 60,
+    "mechanical_repair": 20,
+    "dishwashing_and_kitchen_operations": 65
+  },
+  "init_assets": {
+    "deposit": 620,
+    "possessions": [
+      {
+        "name": "Duffel bag",
+        "description": "A black North Face duffel, the only bag he brought from Miami. Fraying at one strap. Contains everything he owns."
+      },
+      {
+        "name": "Secondhand mattress",
+        "description": "A full-size mattress bought for $40 off Craigslist, carried upstairs with Leo's help. No bed frame — it sits on the floor."
+      },
+      {
+        "name": "Paperback collection",
+        "description": "A rotating stack of eight or nine novels pulled from the building's informal book-swap shelf — Hemingway, James Baldwin, Clarice Lispector."
+      },
+      {
+        "name": "Swim goggles and cap",
+        "description": "Competition-grade TYR goggles and a silicone cap, the only items he kept from his former life."
+      },
+      {
+        "name": "Prepaid phone",
+        "description": "A cheap LG flip phone bought at a bodega. No smartphone — partly to save money, partly so his father can't track him."
+      },
+      {
+        "name": "Sticky note from Leo",
+        "description": "A small yellow sticky note reading \"Welcome to the building\" in messy handwriting. Kept folded in his wallet."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that integrity is the only thing no one can take from you. Respects people who work hard without complaint and who treat strangers with casual decency. Despises corruption, manipulation, and the assumption that money entitles anyone to control another person's life. Fears becoming his father more than he fears poverty. Holds an almost sacred belief in self-sufficiency, which is both his greatest strength and the wall that keeps him isolated. Secretly hopes that goodness — the ordinary, unspectacular kind — is enough to build a life on.\n",
+  "birthday": "Y2000-W9-activity-D2",
+  "birth_year": 2000
+}

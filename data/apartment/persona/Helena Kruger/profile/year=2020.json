@@ -1,0 +1,90 @@
+{
+  "name": "Helena Kruger",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" with a slender, upright frame at around 135 lbs, Helena registers as fair (~20%) in a severe, Nordic way — pale skin almost translucent under fluorescent light, high forehead, sharp cheekbones, a long straight nose, and cool slate-blue eyes set beneath thin, arched brows that give her a look of permanent analytical scrutiny. Her ash-blonde hair is fine and usually pulled into a low, tight bun secured with a single brass pin; when loose it falls just past her collarbones, flat and unremarkable. Her lips are narrow, her jaw angular, her ears slightly prominent. A faint crease sits between her brows from years of squinting at manuscripts. Her hands are pale, dry, nails clipped blunt, and she wears no jewelry except a thin silver band on her right middle finger — her late grandmother's. She dresses in structured, muted clothes: high-waisted wool trousers, tucked blouses in cream or slate, a camel overcoat in winter, low-heeled oxford shoes — a wardrobe that suggests a European education and a paycheck that doesn't stretch to luxury. She moves with contained, efficient steps, shoulders slightly forward as if perpetually leaning into a headwind. She gives the impression of a meticulous, quietly intense academic — someone whose intelligence is her primary social currency, who observes more than she participates, and whose reserve masks not coldness but a deep, cautious sensitivity trained out of visibility by years in competitive institutions.",
+  "brief_introduction": "Helena is a chemistry PhD who left the research track after a painful postdoc experience and now works as an assistant editor at a small academic publishing house. She lives alone on the second floor of Bremer Apartment and is slowly learning that precision in science does not translate to precision in living.",
+  "talents": {
+    "qualitative": "Born in Milwaukee to a German-immigrant father (a mechanical engineer) and an American mother (a high school biology teacher). Only child. Grew up bilingual, speaking German at home. Excelled in science from a young age — won regional science fairs, earned a full scholarship to the University of Wisconsin–Madison for chemistry, then completed her PhD at Columbia in 2016 on organometallic catalysis. Her postdoc at Columbia fell apart when her advisor took credit for her breakthrough synthesis and she lacked the institutional power to fight it. She left academia in 2018, devastated. Found the publishing job through a former classmate. She reads voraciously — scientific journals, German literature, poetry. She cooks methodically, treating recipes like protocols. She plays piano passably, taught by her grandmother as a child.",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 35,
+      "creativity": 85,
+      "health": 65,
+      "honesty": 100,
+      "integrity": 95,
+      "intelligence": 90,
+      "leadership": 50,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Helena moved into a small second-floor one-bedroom in Bremer Apartment in September 2018, right after leaving her postdoc. The apartment is sparse and orderly: a single bookshelf organized by subject, a small desk under the window where she edits manuscripts in the evening, a French press she uses exactly once each morning, and a framed periodic table her father gave her when she was twelve. She works at Linden Academic Press in Midtown, a small publisher specializing in chemistry and materials science journals. The pay is modest but stable. She discovered the corner coffee shop her first week and now edits there on Saturday mornings, always at the same table near the back wall. That is where she first noticed Leo — another quiet regular — and over months they developed a nodding acquaintance that evolved into brief, comfortable conversations about books and music. She met Takumi Sato because their apartments share a wall; she smelled his dashi through the plaster one evening and knocked on his door to ask what he was cooking. Their friendship is built on mutual respect for precision and a shared comfort with silence. She encountered Dominic Voss on the rooftop in the spring of 2019 when she went up to watch a thunderstorm; he offered her Scotch, she declined and asked for water, and he liked her for it. They now talk on Friday evenings — he asks about catalysis, she asks about markets, and both enjoy the novelty of someone genuinely curious about their world. In early 2020, Helena has been offered a chance to return to research: a former colleague at NYU has invited her to co-author a paper using her original synthesis work, properly credited this time. The opportunity thrills and terrifies her. She hasn't told anyone yet.",
+  "conflicts": "Her former advisor's theft of her research left deep scars — she struggles to trust institutions and authority figures, and she has not fully grieved the academic career she wanted. The NYU co-authorship offer forces her to decide whether she can re-enter the world that hurt her. She is lonely but has difficulty initiating intimacy; her reserve, which she considers self-protective, functions as isolation. Her father was diagnosed with early-stage Parkinson's in 2019, and she sends money home monthly while pretending to him that she earns more than she does. She fears that leaving research was cowardice disguised as principle.",
+  "core_motivation": "To reclaim her intellectual identity on her own terms — to prove, first to herself, that she is a scientist and not merely someone who edits other scientists' work. Beneath that, she wants to learn how to let people in without requiring them to pass a series of invisible tests first. She wants to feel at home somewhere — in a career, in a city, in a relationship — and to stop treating every attachment as a hypothesis that might be disproven.",
+  "personality_traits": {
+    "qualitative": "Helena is an INTJ — strategic, independent, and intensely private. She processes the world through analysis and pattern recognition, which makes her exceptional at editing and terrible at small talk. She is deeply ethical and will not compromise on fairness, which cost her a career. She has a dry, understated humor that surfaces only when she feels safe. She is loyal to the few people she lets close but slow to grant that access. She can appear cold or indifferent, but beneath the surface she feels acutely — she simply learned early that visible emotion in academia was treated as weakness. She is self-critical to a punishing degree.",
+    "quantitative": {
+      "confidence": 30,
+      "control": 80,
+      "curiosity": 95,
+      "empathy": 65,
+      "judging": 80,
+      "introversion": 95,
+      "intuition": 80,
+      "patience": 75,
+      "responsibility": 95,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes: editing in silence, black coffee, thunderstorms, the periodic table, German expressionist films, walking the West Village alone at dusk, Takumi's sushi, the smell of old library books, solving structural problems in manuscripts, listening to Leo play guitar from the stairwell. Dislikes: academic politics, loud bars, performative intellectualism, being interrupted while reading, people who confuse confidence with competence, small talk about the weather, wastefulness, being pitied.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Assistant Editor",
+    "organization": "Linden Academic Press",
+    "type": "work",
+    "description": "Edits and reviews submissions for chemistry and materials science journals; coordinates peer review; corresponds with authors and reviewers; occasionally writes editorial commentary.",
+    "weekly_delta_skills": {
+      "scientific_editing": 0.5,
+      "academic_writing": 0.3
+    }
+  },
+  "init_skills": {
+    "organic_chemistry": 305,
+    "inorganic_chemistry": 180,
+    "scientific_writing": 300,
+    "manuscript_editing": 160,
+    "data_analysis": 250,
+    "German_language": 310,
+    "piano": 45,
+    "cooking": 50,
+    "peer_review_management": 155
+  },
+  "init_assets": {
+    "deposit": 4200,
+    "possessions": [
+      {
+        "name": "Grandmother's silver ring",
+        "description": "A thin silver band worn daily on her right middle finger, the only keepsake from her grandmother who taught her piano in Milwaukee."
+      },
+      {
+        "name": "Framed periodic table",
+        "description": "A 2001 IUPAC periodic table in a simple black frame, a gift from her father when she was twelve; it hangs above her desk."
+      },
+      {
+        "name": "PhD thesis binder",
+        "description": "A hardbound copy of her Columbia dissertation on Pd-catalyzed C–H activation, annotated in pencil with corrections she never got to publish."
+      },
+      {
+        "name": "Knife set",
+        "description": "A modest but well-maintained set of German kitchen knives — Wüsthof Classic — kept sharp with a whetstone Takumi recommended."
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2017 MacBook Pro used for editing work and personal reading, screen slightly dimmed from years of long evenings."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that truth — empirical, emotional, moral — is the only reliable foundation for a life. Respects craftsmanship and sustained effort over talent and spectacle. Holds fairness as non-negotiable; her refusal to let her advisor's plagiarism stand cost her everything and she would do it again. Distrusts charisma and institutional power. Fears intellectual irrelevance and emotional isolation in equal measure. Believes that care is best expressed through attention to detail — remembering how someone takes their coffee, catching an error before it reaches print, noticing when a neighbor's light stays on too late. Suspects that her standards, which she considers integrity, may also be a wall. Wants to believe that starting over is not the same as failing.",
+  "birthday": "Y1987-W9-activity-D2",
+  "birth_year": 1987
+}

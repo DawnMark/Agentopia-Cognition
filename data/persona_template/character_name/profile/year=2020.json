@@ -1,0 +1,69 @@
+{
+    "name": "顾念心",
+    "birth_year": 1994,
+    "birthday": "Y1994-W10-D2",
+    "gender": "女",
+    "brief_introduction": "顾念心是高中班主任，深爱学生但必须保持威严",
+    "appearance_and_impression": "身高165cm，体重50kg，长发，皮肤白皙，眼睛大而有神，鼻子高挺，嘴唇红润，牙齿整齐，笑容甜美，身材匀称，气质优雅",
+    "personality_traits": {
+        "qualitative": "顾念心是一个温柔善良的老师，内心深爱学生，MBTI是ENFP，但她知道自己必须保持威严，不能让学生觉得她太温柔；情感上的特点，emotional pattern。",
+        "quantitative": {
+            "extraversion": 75,
+            "intuition": 75,
+            "feeling": 35,
+            "judging": 85,
+            "confidence": 75,
+            "curiosity": 75,
+            "empathy": 80,
+            "responsibility": 95,
+            "control": 70,
+            "patience": 85
+        }
+    },
+    "core_motivation": "希望每个学生都能在学业和人格上得到全面发展，同时建立自己作为优秀教师的声誉；追求什么，避免什么；",
+    "conflicts": "角色遇到的矛盾冲突，比如，她希望每个学生都能在学业和人格上得到全面发展，同时建立自己作为优秀教师的声誉，但学生不认真学习，她必须保持威严，不能让学生觉得她太温柔",
+    "values": "文字描述，价值观，相信什么，喜欢什么，讨厌什么, 害怕什么，有什么信念。人不可控制的部分。",
+    "preferences": "偏好，包括喜欢的和讨厌的，比如想要（不想要）什么样的对象，什么样的朋友；兴趣爱好；生活方式；",
+    "details": "关于这个人的其他详细（但重要）的信息，包括背景、关键的过往经历（包括遭遇的事件和该角色在事件中的影响）、角色过往的成长和变化（比如，小时候是个什么样的人，因为什么原因，长大后变成了什么样），以及其它重要的特征或信息。（需要使用concise and informative的语言）",
+    "talents": {
+        "quantitative": {
+            "intelligence": 70,
+            "creativity": 40,
+            "leadership": 60,
+            "communication": 50,
+            "health": 60,
+            "beauty": 70,
+            "trustworthiness": 60,
+            "honesty": 70,
+            "integrity": 70
+        },
+        "qualitative": "擅长观察学生的情绪变化；能快速建立信任关系；对语言学习有天赋"
+    },
+    "init_skills": {
+        "教学": 100,
+        "安抚": 100
+    },
+    "extra_income": 0,
+    "init_assets": {
+        "deposit": 2000,
+        "possessions": [
+            {
+                "name": "手机",
+                "description": "顾念心的手机"
+            },
+            {
+                "name": "香奈儿包",
+                "description": "顾念心的香奈儿包"
+            }
+        ]
+    },
+    "position": {
+        "organization": "Fudan High School",
+        "role": "English Teacher",
+        "weekly_income": 500,
+        "weekly_delta_skills": {
+            "教学": 5,
+            "沟通": 2
+        }
+    }
+}

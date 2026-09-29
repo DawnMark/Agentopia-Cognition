@@ -1,0 +1,153 @@
+{
+  "world_setting": "The world of the story is exactly the same to the world on Earth. The story takes place at \"京海中学\", a high school in China. The story happens in 2020s. The story unfolds between students and teachers.",
+  "prices": {
+    "worldview": "This shop operates in a modern Chinese high school setting (2020s). Students can purchase any items they can reasonably access and afford with their allowance or part-time income.\n\nStudents CANNOT access items that are clearly inappropriate, for example: weapons, drugs, or luxury cars. Use common sense to judge whether a typical high school student could realistically buy the requested item.\n\nThe world follows normal physics and contemporary social norms.",
+    "currency_name": "currency",
+    "currency_symbol": "$",
+    "categories": {
+      "daily_entertainment": {
+        "description": "Daily high-frequency entertainment",
+        "typical_price_range": [10, 100],
+        "suggested_frequency": "2-5 times/week",
+        "items": {
+          "coffee_milk_tea": {
+            "name": "Coffee/Milk tea",
+            "price_range": [15, 20],
+            "type": "service"
+          },
+          "snacks": {
+            "name": "Snacks",
+            "price_range": [10, 15],
+            "type": "goods"
+          },
+          "movie_tickets": {
+            "name": "Movie tickets",
+            "price_range": [30, 60],
+            "type": "service"
+          },
+          "fast_food_gathering": {
+            "name": "Fast food gathering",
+            "price_range": [30, 60],
+            "unit": "per person",
+            "type": "service"
+          }
+        }
+      },
+      "social_mid_frequency": {
+        "description": "Social mid-frequency consumption",
+        "typical_price_range": [50, 500],
+        "suggested_frequency": "1-2 times/week",
+        "items": {
+          "formal_dining": {
+            "name": "Formal dining",
+            "price_range": [80, 200],
+            "unit": "per person",
+            "type": "service"
+          },
+          "ktv": {
+            "name": "KTV",
+            "price_range": [80, 200],
+            "unit": "per person",
+            "type": "service"
+          },
+          "amusement_park_zoo": {
+            "name": "Amusement park/Zoo",
+            "price_range": [120, 300],
+            "type": "service"
+          },
+          "buying_clothes": {
+            "name": "Buying clothes",
+            "price_range": [50, 400],
+            "type": "goods"
+          },
+          "buying_books": {
+            "name": "Buying books",
+            "price_range": [50, 100],
+            "type": "goods"
+          }
+        }
+      },
+      "mid_range_valuable": {
+        "description": "Mid-range valuable consumption",
+        "typical_price_range": [1000, 3000],
+        "suggested_frequency": "monthly/quarterly",
+        "items": {
+          "mid_range_phone": {
+            "name": "Mid-range phone",
+            "price_range": [1000, 2000],
+            "type": "goods"
+          },
+          "high_end_phone": {
+            "name": "High-end phone",
+            "price_range": [2000, 3000],
+            "type": "goods"
+          },
+          "short_trip": {
+            "name": "Short trip (2-3 days)",
+            "price_range": [1500, 2500],
+            "type": "service"
+          },
+          "gym_membership": {
+            "name": "Gym membership",
+            "price_range": [1200, 2000],
+            "type": "service"
+          }
+        }
+      },
+      "large_luxury": {
+        "description": "Large luxury consumption",
+        "typical_price_range": [3000, 15000],
+        "suggested_frequency": "quarterly/yearly",
+        "items": {
+          "mid_range_laptop": {
+            "name": "Mid-range laptop",
+            "price_range": [2000, 4000],
+            "type": "goods"
+          },
+          "high_end_laptop": {
+            "name": "High-end laptop",
+            "price_range": [5000, 8000],
+            "type": "goods"
+          },
+          "long_trip": {
+            "name": "Long trip (7+ days)",
+            "price_range": [4000, 8000],
+            "type": "service"
+          },
+          "overseas_travel": {
+            "name": "Overseas travel",
+            "price_range": [8000, 15000],
+            "type": "service"
+          },
+          "luxury_goods": {
+            "name": "Luxury goods (bags/watches)",
+            "price_range": [5000, 15000],
+            "type": "goods"
+          }
+        }
+      },
+      "free_low_cost": {
+        "description": "Free/Low-cost social activities",
+        "typical_price_range": [0, 20],
+        "suggested_frequency": "encourage for low-income characters",
+        "items": {
+          "park_walk": {
+            "name": "Park walk",
+            "price_range": [0, 0],
+            "type": "service"
+          },
+          "home_gathering": {
+            "name": "Home gathering",
+            "price_range": [0, 20],
+            "type": "service"
+          },
+          "study_together": {
+            "name": "Study together",
+            "price_range": [0, 0],
+            "type": "service"
+          }
+        }
+      }
+    }
+  }
+}

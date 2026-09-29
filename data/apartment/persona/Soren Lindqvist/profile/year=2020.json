@@ -1,0 +1,91 @@
+{
+  "name": "Soren Lindqvist",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and roughly 175 lbs, Soren has a fair (~20%) Nordic look — high cheekbones, a strong square jaw, pale blue-grey eyes set beneath straight sandy-blond brows, and close-cropped ash-blond hair that reveals a pronounced widow's peak. His skin is notably pale, perpetually under-sunned, with faint dark circles suggesting chronic sleep debt. His nose is long and narrow, lips thin but well-defined, ears slightly protruding. He carries himself with upright, almost rigid posture — shoulders back, chin level — and moves with deliberate, unhurried strides. His wardrobe is utilitarian Scandinavian minimalism: navy wool overcoats, slim charcoal trousers, clean white oxfords, polished leather brogues, occasionally a muted olive scarf. Everything fits precisely; nothing is decorative. He gives the impression of a composed, somewhat formal professional — someone educated and exacting, possibly a diplomat or academic, whose controlled exterior hints at suppressed exhaustion and a private inner life he guards carefully.\n",
+  "brief_introduction": "Soren is an immigration attorney at a small Manhattan practice who moved into Bremer Apartment in 2016. He is principled, methodical, and quietly lonely — a man whose professional life demands emotional detachment while his personal life suffers from it.\n",
+  "talents": {
+    "qualitative": "Born in Minneapolis to a Danish father (an engineering professor) and an American mother (a high school principal). Raised bilingual in Danish and English, with summers spent in Copenhagen visiting grandparents. Excelled academically throughout school — debate captain, valedictorian. Attended Columbia for undergrad, then NYU Law. Chose immigration law after a summer internship at a refugee resettlement nonprofit shook him. He's analytically sharp, an excellent writer, and speaks four languages (English, Danish, French, German). He reads voraciously — philosophy, history, Scandinavian crime novels. He taught himself piano as a teenager and still plays occasionally. Socially he's polite but struggles with spontaneity and emotional warmth in casual settings.\n",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 80,
+      "creativity": 65,
+      "health": 55,
+      "honesty": 100,
+      "integrity": 100,
+      "intelligence": 100,
+      "leadership": 80,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Soren moved into a one-bedroom on the fourth floor of Bremer Apartment in 2016, drawn by the rent-stabilized lease and the Village's proximity to his firm near Washington Square. His firm, Auerbach & Moya, handles asylum cases, visa disputes, and naturalization proceedings. In early 2020, his caseload has exploded — policy shifts have created chaos, and he regularly works seventy-hour weeks. He met Leo in late 2018 when Leo, anxious about job stability and what losing employment might mean practically, asked a neighbor for advice. Soren helped him informally and they developed a reserved but genuine friendship — two quiet men who share beer on the rooftop without needing to fill every silence. Soren is a regular at Jamal's coffee shop, arriving at 6:15 AM every weekday for a double espresso and sitting in the same corner seat to review case files. He and Jamal have built an easy, reliable rapport — Jamal is one of the few people who can coax a real laugh out of Soren. He encountered Zephyrine at a neighborhood chamber concert in 2019 and discovered she lives one floor above him. They've since formed a quiet bond over shared European sensibilities, classical music, and the particular loneliness of transplanted Europeans in America. Soren was in a serious relationship with a woman named Claire, a public defender, for three years. She left him in mid-2019, telling him he was emotionally unavailable — that loving him felt like knocking on a door no one ever opened. He hasn't dated since. He knows she was right, which makes it worse.\n",
+  "conflicts": "Burning out under an impossible caseload while believing he has no right to complain because his clients' suffering dwarfs his own; haunted by Claire's accusation that he's emotionally closed off and increasingly afraid it's a permanent defect rather than a fixable habit; torn between loyalty to his small firm and a lucrative offer from a corporate immigration practice that would pay three times his salary but strip the work of meaning; lonely in a way he can't articulate — surrounded by people yet unable to cross the final distance into genuine intimacy.\n",
+  "core_motivation": "To reconcile his duty to others with the neglected duty to himself — to learn that vulnerability is not weakness, that rest is not laziness, and that the disciplined, principled life he's built means nothing if he remains alone inside it.\n",
+  "personality_traits": {
+    "qualitative": "Soren is an ISTJ — dutiful, methodical, deeply principled, and emotionally reserved. He processes feelings slowly and privately, often intellectualizing emotions rather than experiencing them directly. He is dependable to a fault: if he commits to something, he follows through even at personal cost. He values order, fairness, and precision. He can appear rigid or distant in casual social settings, but those who earn his trust discover dry humor, genuine warmth, and a fierce protectiveness. He struggles with spontaneity, self-compassion, and asking for help. His stoicism is both his greatest asset and his most isolating trait.\n",
+    "quantitative": {
+      "confidence": 65,
+      "control": 100,
+      "curiosity": 75,
+      "empathy": 70,
+      "judging": 80,
+      "introversion": 80,
+      "intuition": 65,
+      "patience": 75,
+      "responsibility": 90,
+      "thinking": 90
+    }
+  },
+  "preferences": "Likes early mornings, strong black coffee, long walks along the Hudson at dusk, reading dense nonfiction, listening to classical and Scandinavian jazz, cooking simple Danish meals (smørrebrød, frikadeller), organizing his bookshelf, rooftop conversations with a small circle, well-constructed legal arguments, quiet reliability in others. Dislikes loud bars, performative emotion, small talk at parties, waste and excess, people who break promises, being asked \"are you okay\" when he clearly isn't, corporate jargon, dishonesty in any form.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Associate Attorney",
+    "organization": "Auerbach & Moya Immigration Law",
+    "type": "work",
+    "description": "Immigration attorney handling asylum, visa, and naturalization cases at a small public-interest-oriented firm near Washington Square. Works long hours for modest pay relative to his credentials.\n",
+    "weekly_delta_skills": {
+      "immigration_law": 0.1,
+      "client_counseling": 0.05
+    }
+  },
+  "init_skills": {
+    "immigration_law": 160,
+    "legal_research": 275,
+    "legal_writing": 285,
+    "negotiation": 45,
+    "public_speaking": 65,
+    "Danish_language": 115,
+    "French_language": 85,
+    "German_language": 35,
+    "piano": 20,
+    "cooking": 50
+  },
+  "init_assets": {
+    "deposit": 8200,
+    "possessions": [
+      {
+        "name": "Law library",
+        "description": "Two shelves of immigration statutes, case reporters, and legal treatises, plus a battered copy of Kierkegaard's \"Either/Or\" wedged between them"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2018 ThinkPad covered in small scratches, loaded with case management software and a single bookmarked playlist called \"6 AM\""
+      },
+      {
+        "name": "Bicycle",
+        "description": "A matte-black single-speed Linus bike he rides to the office year-round, chain perpetually needing oil"
+      },
+      {
+        "name": "Wool overcoat",
+        "description": "A navy Scandinavian-made wool coat his father gave him when he graduated law school, impeccably maintained"
+      },
+      {
+        "name": "Cast-iron skillet",
+        "description": "A Lodge skillet seasoned to a mirror sheen — his most prized kitchen possession, used almost daily"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes the law is a living promise a society makes to its most vulnerable members, and that breaking that promise is the deepest civic failure. Respects people who persist quietly without seeking recognition. Values precision, consistency, and moral seriousness. Distrusts charm without substance and ambition without conscience. Fears becoming his father — accomplished, respected, and emotionally remote. Secretly longs for the kind of unguarded, messy human connection he has spent his whole life avoiding. Believes love must be built patiently through shared truth, but worries he has forgotten — or never learned — how to begin.\n",
+  "birthday": "Y1988-W3-activity-D4",
+  "birth_year": 1988
+}

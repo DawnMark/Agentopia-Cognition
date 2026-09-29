@@ -1,0 +1,88 @@
+{
+  "name": "Camille Laurent",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'8\" with a willowy, angular frame at around 130 lbs, Camille registers as attractive (~10%) in a sharp, continental way that feels deliberate and curated. Her face is narrow with a strong jawline, prominent cheekbones, and a slightly aquiline nose that gives her profile an almost sculptural quality. Her eyes are a pale grey-green, heavy-lidded, often narrowed in appraisal. Her hair is a deep auburn, cut into a severe chin-length bob with blunt bangs that frame her forehead like a curtain. Her skin is fair with a scattering of faint freckles across the bridge of her nose. Her lips are thin, usually stained a matte burgundy. She dresses like a manifesto — structured black blazers over asymmetric draped tops, wide-legged trousers, pointed ankle boots, statement earrings that look like tiny architectural models. Her nails are always painted, always chipped. She carries a battered leather portfolio case and a canvas tote screen-printed with a Godard film still. She smells of cedar and something faintly metallic — fabric dye, perhaps. She gives the impression of a fiercely self-assured young European artist — someone who has trained herself to project confidence as armor, whose elegance carries a brittle edge suggesting that the composure costs more than she lets on.",
+  "brief_introduction": "Camille is a French-born fashion designer who moved to New York in 2017, chasing a career beyond the shadow of her mother's Parisian atelier. She lives on the fifth floor of Bremer Apartment and is preparing to launch her first solo exhibition of wearable-art pieces in a small Soho gallery in spring 2020. She is talented, exacting, perpetually broke, and quietly terrified of failure.",
+  "talents": {
+    "qualitative": "Born in Lyon to a French-Algerian seamstress mother and a French father who left when Camille was four. Grew up watching her mother, Nadia, alter haute couture knockoffs in a cramped workshop in the 3rd arrondissement of Paris, where they relocated when Camille was seven. Learned to sew before she learned to ride a bike. Won a scholarship to École Duperré at sixteen, graduated top of her atelier. Interned at Maison Margiela for a year, then worked as an assistant designer at a mid-tier Parisian brand. Moved to New York in 2017 after a painful breakup with her girlfriend Elise, a photographer. Has been freelancing — doing alterations, costume work for off-Broadway productions, and occasional commissions — while developing her own collection. Speaks French natively, English fluently with a noticeable accent, and conversational Arabic from her grandmother.",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 80,
+      "creativity": 90,
+      "health": 65,
+      "honesty": 80,
+      "integrity": 80,
+      "intelligence": 75,
+      "leadership": 60,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Camille lives in a cramped fifth-floor one-bedroom she has converted into a hybrid studio-apartment. Fabric bolts lean against the walls, a dressmaker's dummy stands by the window, and her sewing machine occupies the kitchen table. She sleeps on a narrow daybed pushed into the corner. She moved into Bremer in late 2017, drawn by the rent — low by Manhattan standards — and the light on the upper floors. Her exhibition, titled 'Mue' (French for 'molt'), features twelve sculptural garments exploring themes of migration, transformation, and inherited memory. The Soho gallery gave her a slot in April 2020 after seeing her work at a group show. She has sunk nearly all her savings into materials. Financially she survives on freelance costume work for two small theatre companies and occasional alteration jobs referred by the corner coffee shop's bulletin board. She earns roughly $600 a week, fluctuating wildly. She met Alice at the coffee shop in 2018 when Alice complimented her sketchbook; they became close friends who trade creative anxieties over flat whites. She knows Leo from the rooftop — she asked him once, half-jokingly, to compose something for her exhibition opening, and was surprised when he seemed genuinely interested. She buys takeout from Golden Autumn at least twice a week and has developed a quiet, respectful rapport with Chen Guoliang, who reminds her of her grandfather. She is still healing from the breakup with Elise, who occasionally likes her Instagram posts, sending Camille into spirals. She has not dated seriously since arriving in New York. She smokes when stressed, always on the rooftop, always guiltily.",
+  "conflicts": "Running out of money weeks before her exhibition; terrified the show will fail and confirm her mother's unspoken fear that she left Paris for nothing; still emotionally entangled with her ex Elise despite three years of distance; struggles to accept help because she equates needing others with weakness; her perfectionism causes her to redo finished pieces, burning time and materials; worries that her freelance costume work is consuming energy she should devote to her own art; fears the approaching economic uncertainty of 2020 will cancel her gallery slot entirely.",
+  "core_motivation": "To prove — to herself, to her mother, to the ghost of the relationship she fled — that she can build something original and lasting on her own terms. Beneath that, to transform the pain of displacement and heartbreak into beauty that others can wear and understand. She wants 'Mue' to be the moment she stops being someone's daughter, someone's ex, someone's assistant, and becomes simply Camille.",
+  "personality_traits": {
+    "qualitative": "Camille is an INTJ — strategic, visionary, and intensely private. She processes emotions through making: when she is upset, she sews; when she is joyful, she sketches. She can be cutting when stressed, wielding honesty like a scalpel, but she is also capable of deep tenderness with people she trusts. She holds herself to impossible standards and extends the same scrutiny to others, which makes her both an excellent collaborator and an exhausting one. She is fiercely loyal once attached but slow to attach. Her humor is dry, deadpan, and often lost on Americans. She masks vulnerability with aesthetic confidence — if the outfit is perfect, maybe no one will notice the person inside it is shaking.",
+    "quantitative": {
+      "confidence": 70,
+      "control": 80,
+      "curiosity": 95,
+      "empathy": 55,
+      "judging": 80,
+      "introversion": 85,
+      "intuition": 95,
+      "patience": 30,
+      "responsibility": 85,
+      "thinking": 70
+    }
+  },
+  "preferences": "Likes hand-stitching while listening to French radio; sketching in the coffee shop at dawn; rooftop cigarettes at sunset; vintage fabrics from the Garment District; Godard and Varda films; strong espresso; thunderstorms; long walks across the Brooklyn Bridge to clear her head; cooking simple Algerian dishes her grandmother taught her. Dislikes fast fashion; small talk; being asked where her accent is from; lateness; unsolicited design advice; Instagram culture even though she depends on it; pity; the smell of synthetic polyester.",
+  "position": {
+    "weekly_income": 417,
+    "role": "Freelance fashion designer and costume maker",
+    "organization": "Self-employed / various off-Broadway theatre companies",
+    "type": "work",
+    "description": "Freelance designer preparing her first solo exhibition while taking costume and alteration commissions to pay rent.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "pattern_making": 280,
+    "draping": 175,
+    "sewing_machine_operation": 280,
+    "hand_stitching": 280,
+    "textile_knowledge": 105,
+    "fashion_illustration": 205,
+    "costume_design": 115,
+    "color_theory": 265,
+    "business_management": 15,
+    "social_media_marketing": 75
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Industrial sewing machine",
+        "description": "A secondhand Juki DDL-8700 bought from a retired tailor in the Garment District; temperamental but reliable once warmed up, covered in fabric dust and tiny thread snippets"
+      },
+      {
+        "name": "Fabric collection",
+        "description": "Bolts and remnants of silk, organza, raw linen, and reclaimed vintage textiles stored in labeled bins along the apartment wall — her most valuable and most anxiety-inducing asset"
+      },
+      {
+        "name": "Leather portfolio case",
+        "description": "A battered cognac-colored case inherited from her mother, containing her best sketches, lookbook prints, and the gallery contract for 'Mue'"
+      },
+      {
+        "name": "Dressmaker's dummy",
+        "description": "An adjustable wire-frame dress form she named Marguerite, positioned by the window where the light is best"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2016 MacBook Air with a cracked corner and stickers from Parisian fabric shops, used for design software, emails, and late-night spirals through Elise's Instagram"
+      }
+    ]
+  },
+  "extra_income": 83,
+  "values": "Believes that clothing is language — that what we wear tells the truth our mouths won't. Holds that craft is a form of love and that shortcuts dishonor both the maker and the wearer. Respects anyone who builds something from nothing, which is why she admires immigrants and artists in equal measure. Distrusts institutions that commodify creativity. Fears mediocrity more than poverty. Believes vulnerability is necessary for great art but dangerous in daily life. Thinks beauty should disturb as much as it pleases. Values independence fiercely, sometimes to her own detriment.",
+  "birthday": "Y1992-W1-activity-D1",
+  "birth_year": 1992
+}

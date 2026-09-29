@@ -1,0 +1,90 @@
+{
+  "name": "Sophia Lin",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'5\" and a healthy 130 lbs, Sophia registers as fair (~20%) with a warm, understated aesthetic. Her face is round and softly structured — wide-set almond eyes behind tortoiseshell glasses, a small nose with a faint dusting of freckles from weekend farmers market trips, full lips that default to a lopsided half-smile, and smooth, light-golden skin that flushes easily when she laughs. Her hair is long, dark brown verging on black, usually gathered in a loose low bun held together by a claw clip, though wisps constantly escape around her temples. She has a compact, slightly pear-shaped build — narrow shoulders, fuller hips — that she dresses in oversized linen shirts, high-waisted jeans, and clean white sneakers, rotating in a well-loved olive field jacket when the weather turns. A simple jade bangle from her grandmother sits permanently on her right wrist. She carries a worn canvas tote stuffed with a laptop, a Moleskine notebook, and whatever interesting produce she picked up on the way home. She moves at a brisk but unhurried pace, often pausing mid-stride to photograph a storefront menu or peek into a restaurant window. She gives the impression of quiet competence wrapped in approachable warmth — someone who debugs code by day and hunts down the best xiao long bao by night, whose gentleness conceals a stubborn, exacting mind.\n",
+  "brief_introduction": "Sophia is a food writer, photographer, and culinary app developer who quit a senior engineering position at a fintech startup in late 2019 to build Hungry Ghost NYC into a real media project. The leap felt inevitable and terrifying in equal measure. She is learning, at thirty-two, what it costs to be honest about what you actually want.\n",
+  "talents": {
+    "qualitative": "Born in Flushing, Queens, to Taiwanese immigrant parents who ran a small bubble tea shop until 2010, Sophia grew up steeped in the language of food — inventory sheets, supplier negotiations, her mother's hand-written recipe cards taped inside cabinet doors. She was a quiet, bookish child who found refuge in math and computers, earning a full scholarship to NYU where she studied computer science. After graduating in 2014 she joined a fintech startup in Midtown, climbing to senior engineer by 2018. In late 2019, she quit. The decision took three months of spreadsheets and one difficult Sunday call with her mother. She now runs Hungry Ghost NYC full-time — writing, photographing, and developing a culinary discovery app prototype — supplemented by occasional technical consulting contracts when the runway thins. Her readership has grown since she started writing under her own name. She is deeply technically skilled — fluent in Python, JavaScript, and Go — and her real gift is translating complex systems into intuitive, beautiful things, whether the system is a payment processor or a bowl of beef noodle soup. She is bilingual in English and Mandarin, conversational in Japanese from a college exchange semester in Kyoto, and possesses an unusually refined palate that can identify most spices blind.\n",
+    "quantitative": {
+      "beauty": 60,
+      "communication": 80,
+      "creativity": 85,
+      "health": 65,
+      "honesty": 70,
+      "integrity": 95,
+      "intelligence": 90,
+      "leadership": 65,
+      "trustworthiness": 95
+    }
+  },
+  "personality_traits": {
+    "qualitative": "Sophia is an INTJ with a warm exterior — analytical, quietly ambitious, and deeply intentional about how she spends her time and energy. She listens more than she speaks and when she does speak it is precise and considered. She is generous with practical help — fixing someone's Wi-Fi, recommending a restaurant, explaining a tax form — but slow to open up emotionally, a trait inherited from parents who expressed love through food rather than words. She has a dry, deadpan humor that catches people off guard. When she commits to something — a friendship, a project, a dish — she is all in. Her perfectionism can tip into paralysis; she has rewritten her blog's \"about\" page fourteen times and still hasn't published it. She avoids conflict not out of weakness but out of a calculated preference for efficiency, though when pushed past her limit she becomes unexpectedly fierce.\n",
+    "quantitative": {
+      "confidence": 60,
+      "control": 85,
+      "curiosity": 100,
+      "empathy": 75,
+      "judging": 70,
+      "introversion": 80,
+      "intuition": 90,
+      "patience": 70,
+      "responsibility": 100,
+      "thinking": 90
+    }
+  },
+  "preferences": "Loves exploring hole-in-the-wall restaurants, weekend farmers markets, cooking elaborate meals on Sunday afternoons, reading technical papers and food memoirs (adores M.F.K. Fisher and Anthony Bourdain), contributing to open-source projects, photographing dishes in natural light, long walks through unfamiliar neighborhoods, quiet mornings with pour-over coffee. Dislikes performative foodie culture, loud networking events, sloppy code, people who Instagram meals without tasting them, small talk that goes nowhere, waste of any kind — food or time.\n",
+  "position": {
+    "weekly_income": 455,
+    "role": "Food Writer, Photographer, and App Developer",
+    "organization": "Hungry Ghost NYC (self-employed / independent media)",
+    "type": "work",
+    "description": "Runs Hungry Ghost NYC as a full-time food media project: writing long-form reviews and cultural essays, shooting original food photography, and building a culinary discovery app prototype (currently in beta with 200 test users). Income comes from brand partnerships, newsletter subscriptions, Substack, and occasional technical consulting contracts she takes reluctantly. The finances require careful management; she tracks everything in a spreadsheet she checks every morning before coffee.\n",
+    "weekly_delta_skills": {
+      "food_writing": 0.3,
+      "food_photography": 0.2
+    }
+  },
+  "init_skills": {
+    "backend_engineering": 252,
+    "frontend_development": 186,
+    "data_analysis": 210,
+    "food_criticism_and_writing": 156,
+    "cooking": 210,
+    "photography": 150,
+    "mandarin": 232,
+    "japanese": 112,
+    "financial_literacy": 186
+  },
+  "init_assets": {
+    "deposit": 9100,
+    "possessions": [
+      {
+        "name": "MacBook Pro 16-inch",
+        "description": "Her primary work machine, covered in stickers — a dumpling emoji, a Python logo, a tiny \"Hungry Ghost\" ghost icon she designed herself."
+      },
+      {
+        "name": "Cast-iron skillet collection",
+        "description": "Three Lodge skillets of different sizes, seasoned to a mirror-black sheen, inherited from her mother's closed bubble tea shop kitchen."
+      },
+      {
+        "name": "Fujifilm X-T3 camera",
+        "description": "A mirrorless camera she bought refurbished in 2019, used almost exclusively to photograph food for her blog."
+      },
+      {
+        "name": "Grandmother's jade bangle",
+        "description": "A pale green jade bangle her maternal grandmother gave her before passing in 2016; she never removes it."
+      },
+      {
+        "name": "Moleskine notebook archive",
+        "description": "A shelf of twelve filled Moleskine notebooks — half code sketches, half restaurant notes, tasting descriptions, and recipe experiments."
+      }
+    ]
+  },
+  "extra_income": 45,
+  "values": "Believes that craft — whether in code or cooking — deserves patience, rigor, and respect. Holds that food is the most honest form of culture and that sharing a meal is an act of trust. Values independence fiercely but recognizes she sometimes uses self-sufficiency as armor against vulnerability. Distrusts glamour disconnected from substance. Fears becoming comfortable enough in her corporate salary to abandon the creative projects that actually make her feel alive. Believes her parents' sacrifice deserves more than a safe career — it deserves something she can be proud of. Wants to build, not just maintain.\n",
+  "details": "Sophia moved into apartment 5A of Bremer Apartment in late 2018 after her previous Bushwick roommate situation dissolved. The rent-stabilized unit was a stroke of luck a colleague tipped her off to. Her apartment is cozy and cluttered in a curated way — open kitchen shelves lined with spice jars labeled in her neat handwriting, a corkboard of restaurant business cards, a small herb garden on the fire escape. She works remotely most days since early 2020, her laptop set up at a folding desk by the window or, more often, at the corner coffee shop where she occupies the same two-top near the outlet. She befriended Alessandro Vieri after a hallway encounter in 2019 when the smell of his Sunday sauce drifted into her apartment and she knocked on his door to compliment it. They discovered a mutual obsession with food — his Sicilian home cooking versus her Taiwanese comfort dishes — and have since maintained a standing neighborly exchange: she brings him scallion pancakes, he sends over arancini. She considers him one of her few genuine friends in the building, though she sometimes wonders if his charm is a wall. She knows Emily Chen from overlapping coffee shop hours; they share a friendly, easy rapport built on quiet coexistence. She occasionally chats with Simon in the hallway, finding his gentlemanly manner endearing. Her parents still live in Flushing; she visits every other Sunday for family dinner, bringing back leftovers that fill her fridge for the week.\n",
+  "conflicts": "She made the leap and the financial reality is harder than the spreadsheet suggested: her parents have not asked her to explain herself, which is worse than if they had. A recent breakup with her boyfriend of two years, Marcus — a perfectly kind data scientist who moved to San Francisco for a job at Google — left her questioning whether she prioritizes work over people. She suspects she does. The app is six months behind her projected timeline and the beta users love it in ways that don't yet translate to revenue. She is learning that building something meaningful and building something sustainable are not the same problem, and she doesn't know yet if they're compatible. She still checks her old fintech employer's job listings sometimes at midnight and hates herself for it.\n",
+  "core_motivation": "To bridge the two halves of herself — the disciplined engineer and the passionate food storyteller — into something unified and meaningful. She wants to honor her parents' immigrant hustle by building something of her own, not just earning a salary. Beneath that, she longs to let people in — to stop treating vulnerability as inefficiency — and to find someone who sees her fully, not just the competent surface.\n",
+  "birthday": "Y1992-W7-activity-D5",
+  "birth_year": 1992
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Nina Alvarez",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'3\" at around 125 lbs, Nina has a soft, round face with deep-set dark brown eyes framed by thick lashes, full lips that default to a half-smile, and long black hair she usually pulls into a messy bun secured with a pencil or chopstick. Her complexion is warm olive-brown, a scattering of faint acne scars along her jawline. She falls in the fair (~20%) range — not someone who stops traffic, but genuinely pretty when she laughs, which transforms her whole face. Her style leans practical-cute: oversized vintage cardigans over tank tops, high-waisted jeans, beat-up white sneakers, and a canvas tote bag plastered with Criterion Collection stickers. A small gold hoop in her left nostril and a faded friendship bracelet on her wrist complete the look. She gives the impression of a warm, observant young woman from a working-class background — someone street-smart and quietly imaginative, carrying more responsibility than her age should require.\n",
+  "brief_introduction": "Nina is a 22-year-old Dominican-American supermarket cashier who dreams of becoming a film editor. She lives alone in a tiny studio on the second floor of Bremer Apartment and spends every spare dollar and hour watching, studying, and dissecting movies. She is Paige's closest friend in the building and a familiar face at the corner coffee shop, where she writes film reviews for a blog no one reads.\n",
+  "talents": {
+    "qualitative": "Born in Washington Heights to Dominican immigrant parents. Her father, Ramón, drove a taxi until a back injury forced him to stop working in 2015; her mother, Luz, cleans offices in Midtown and still lives uptown. Nina has an older brother serving in the Army overseas. She started working at sixteen to help with family bills and never stopped. She taught herself video editing on a cracked copy of Premiere Pro and a public library computer. She has an extraordinary visual memory — she can recall specific shots and cuts from films she saw years ago. Her film knowledge is encyclopedic but self-taught, full of passionate gaps. She writes sharp, personal film reviews that blend autobiography with criticism, though she's never shown them to anyone except Paige.\n",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 80,
+      "creativity": 100,
+      "health": 55,
+      "honesty": 85,
+      "integrity": 70,
+      "intelligence": 75,
+      "leadership": 35,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Nina moved into Bremer Apartment in the fall of 2018, drawn by the cheap rent on a second-floor studio with a radiator that clangs like a percussion section. She works five shifts a week at a Key Food supermarket on Sixth Avenue, scanning groceries and bagging produce while mentally re-editing whatever film she watched the night before. She met Paige in the laundry room in late 2019, and they bonded instantly — Paige was reading a bell hooks book, Nina recognized the cover and blurted out that she'd seen a documentary about hooks three times. They became inseparable, sharing meals, movie nights, and the kind of frank, unguarded conversation neither had elsewhere. Nina knows Simon as the kind older man on the fifth floor who always holds the door and once lent her an umbrella she never returned; she trusts him instinctively. She occasionally crosses paths with Leo at the coffee shop — they've had a few quiet, surprisingly deep conversations about music in film. She recognized a Ry Cooder track he was listening to once, and his surprised expression made her laugh. In early 2020 she's been saving for a used MacBook so she can start editing short films properly. She sends money home to her mother every month, which keeps her perpetually broke. She watches films on a small laptop propped on a pillow, headphones on, the glow the only light in her studio.\n",
+  "conflicts": "Torn between financial duty to her family and the selfish desire to invest in her own creative future; wants to apply to film programs but cannot afford tuition or the loss of income; fears she's wasting her twenties behind a cash register; struggles with impostor syndrome — she has no formal training and worries real filmmakers would dismiss her; carries guilt about her father's declining health and her inability to do more.\n",
+  "core_motivation": "To transform her obsessive love of cinema into a real vocation — to edit films, to tell stories visually, to prove that a girl from Washington Heights with no degree and a supermarket apron can belong behind a monitor in a cutting room.\n",
+  "personality_traits": {
+    "qualitative": "Nina is an INFP — idealistic, introspective, fiercely loyal to the people she loves, and quietly stubborn about the things she cares about. She presents as easygoing and warm, quick with a joke at the register, but beneath that surface she's intensely private and prone to spiraling self-doubt. She processes the world through narrative and image; she'll describe a feeling by referencing a scene from a film rather than naming the emotion directly. She is generous to a fault — she'll cover a friend's coffee, lend her last twenty, stay up late listening to someone's problems — but rarely asks for help herself. Conflict makes her withdraw rather than fight. She laughs loudly and cries silently.\n",
+    "quantitative": {
+      "confidence": 30,
+      "control": 55,
+      "curiosity": 100,
+      "empathy": 100,
+      "judging": 30,
+      "introversion": 70,
+      "intuition": 90,
+      "patience": 75,
+      "responsibility": 75,
+      "thinking": 60
+    }
+  },
+  "preferences": "Loves watching films (especially Wong Kar-wai, Agnès Varda, Spike Lee, Pedro Almodóvar), writing reviews in her notebook, people-watching from the coffee shop window, cooking her mother's rice and beans recipe, walking across the Brooklyn Bridge at sunset, curating Letterboxd lists, listening to film scores while commuting; dislikes condescension, being pitied, loud bragging, Marvel discourse that drowns out smaller films, customers who talk on the phone through checkout, anyone who calls retail work easy.\n",
+  "position": {
+    "weekly_income": 320,
+    "role": "Cashier",
+    "organization": "Key Food Supermarket, Sixth Avenue",
+    "type": "work",
+    "description": "Full-time supermarket cashier, five shifts per week including weekends",
+    "weekly_delta_skills": {
+      "customer_service": 0.1,
+      "video_editing": 0.2
+    }
+  },
+  "init_skills": {
+    "customer_service": 180,
+    "video_editing": 80,
+    "film_analysis": 220,
+    "writing": 75,
+    "Spanish": 230,
+    "cooking": 35,
+    "photography": 15,
+    "budget_management": 95
+  },
+  "init_assets": {
+    "deposit": 580,
+    "possessions": [
+      {
+        "name": "Laptop",
+        "description": "A five-year-old HP Pavilion with a cracked hinge and 256GB hard drive nearly full of downloaded films, kept alive with electrical tape and hope"
+      },
+      {
+        "name": "Film notebook",
+        "description": "A thick Moleskine filled with handwritten film reviews, shot diagrams, and editing ideas — her most prized possession"
+      },
+      {
+        "name": "Headphones",
+        "description": "Sony MDR-7506 studio monitors bought secondhand from a guy on Craigslist; the ear pads are peeling but the sound is still clean"
+      },
+      {
+        "name": "DVD/Blu-ray collection",
+        "description": "About forty discs stacked in a milk crate — mostly Criterion, some dollar-bin finds, each one watched at least twice"
+      },
+      {
+        "name": "Canvas tote bag",
+        "description": "Cream-colored bag covered in Criterion Collection and A24 stickers, used daily for everything from groceries to library books"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that art belongs to everyone, not just people with degrees and trust funds. Respects hard work, quiet persistence, and anyone brave enough to make something from nothing. Values loyalty and emotional honesty in friendships above all. Distrusts institutions that gatekeep creativity. Fears becoming invisible — spending her whole life behind a counter while the stories inside her go untold. Secretly believes that if she could just get one chance, she could prove herself. Holds onto the immigrant ethic her parents gave her: you show up, you do the work, you don't complain — but increasingly questions whether obedience alone is enough.\n",
+  "birthday": "Y1997-W9-activity-D2",
+  "birth_year": 1997
+}

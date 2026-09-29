@@ -1,0 +1,89 @@
+{
+  "name": "Arlo Kessler",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'11\" with a lean, slightly underfed frame at around 155 lbs, Arlo has a fair complexion that rarely sees enough sun, sandy brown hair that falls in uncombed waves past his ears, and pale grey eyes set in a narrow, angular face with a prominent nose and a thin mouth that defaults to a lopsided half-smile. He'd rate around average (~40%) — not unattractive, but forgettable until you notice the quiet intensity in his gaze. His aesthetic is functional-grunge: rumpled flannel shirts, faded jeans, scuffed boots, and a canvas messenger bag covered in enamel pins. His glasses are thick-rimmed and slightly crooked. He gives the impression of a thoughtful, slightly awkward introvert — someone who probably reads too much Reddit, works in tech, and has opinions about fonts.",
+  "brief_introduction": "Arlo is a 27-year-old software developer who moved to New York from Minneapolis three years ago. He works remotely for a mid-size tech company while quietly building an indie video game in his spare time — a narrative adventure inspired by his late mother's immigrant story. He's gentle, self-deprecating, and deeply loyal once you earn his trust, but he struggles with social anxiety and a tendency to retreat into screens when life gets uncomfortable.",
+  "talents": {
+    "qualitative": "Born in Minneapolis to a German-immigrant mother who worked as a hospital janitor and an American father who drove delivery trucks. His mother died of cancer when he was fifteen, which left him withdrawn and anchored to the digital worlds he built on his bedroom computer. He got a computer science scholarship to the University of Minnesota, graduated near the top of his class, and moved to New York in 2017 seeking something bigger than the suburbs he grew up in. He's quietly brilliant with code and narrative design but chronically underestimates his own creative instincts. He sends a portion of his paycheck to his father back in Minneapolis, who is now retired and living on a modest pension.",
+    "quantitative": {
+      "beauty": 40,
+      "communication": 40,
+      "creativity": 80,
+      "health": 55,
+      "honesty": 90,
+      "integrity": 95,
+      "intelligence": 85,
+      "leadership": 10,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Arlo moved into Bremer Apartment's fourth floor in 2017, taking a tiny one-bedroom with a fire-escape view. His remote job pays decently but not lavishly; most of his spare money goes toward his father and his indie game project. He spends evenings coding at the corner coffee shop, headphones on, occasionally surfacing to exchange a few words with regulars. He met Julian when Julian moved in above him — Julian's cooking smells would drift through the vents, and Arlo once left a thank-you note on Julian's door, which became the start of a genuine friendship. Julian is the person who drags Arlo to rooftop gatherings. Through the coffee shop he's become a quiet acquaintance of Lily, whose literary recommendations he secretly devours. In early 2020, he had a lease dispute with a previous sublet arrangement and consulted Grace for legal advice, which he's still grateful for. He has never been in a serious relationship. His game, working-titled 'Westward,' is about a woman immigrating to America in the 1970s — it's deeply personal, and he's told almost no one about the autobiographical elements.",
+  "conflicts": "Chronic social anxiety makes him avoid opportunities — he turned down a team-lead promotion because it required daily meetings. His indie game is two years behind his own deadline because perfectionism paralyzes him. He wants connection but retreats the moment vulnerability is required. He quietly envies people like Julian who move through social spaces with ease. He fears his father's health is declining and feels guilty living so far away.",
+  "core_motivation": "Finish his game as a tribute to his mother's story and prove to himself that he can create something meaningful beyond corporate code. Secondarily, he wants to learn how to let people in — to stop treating relationships like bugs he can't fix.",
+  "personality_traits": {
+    "qualitative": "Arlo is an INTP — analytical, curious, quietly creative, and emotionally guarded. He processes the world through logic first and feeling second, but his feelings run deep; he simply lacks the vocabulary to express them in real time. He's self-deprecating to a fault, using dry humor as armor. Loyal and principled — he once reported his own company for a data-privacy violation, knowing it could cost him. He's patient with machines and impatient with small talk. When he trusts someone, he opens up in surprising bursts of warmth and odd vulnerability.",
+    "quantitative": {
+      "confidence": 10,
+      "control": 55,
+      "curiosity": 90,
+      "empathy": 80,
+      "judging": 50,
+      "introversion": 90,
+      "intuition": 75,
+      "patience": 80,
+      "responsibility": 70,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes: late-night coding sessions, narrative-driven indie games, science fiction novels, lo-fi music, black coffee, fire-escape sunsets, quiet rooftop conversations, cooking YouTube videos he never actually follows, texting over calling. Dislikes: crowded bars, networking events, being put on the spot, loud arguments, people who dismiss video games as trivial, dishonesty, the smell of cigarettes (his mother smoked), forced team-building exercises.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Remote Software Developer",
+    "organization": "Vectral Inc. (mid-size SaaS company based in Austin, TX)",
+    "type": "work",
+    "description": "Full-time remote backend developer. Writes and maintains server infrastructure. Stable employment with benefits, though the work itself doesn't inspire him.",
+    "weekly_delta_skills": {
+      "programming": 0.1,
+      "narrative_design": 0.05
+    }
+  },
+  "init_skills": {
+    "programming": 270,
+    "narrative_design": 140,
+    "game_engine_development": 250,
+    "writing": 60,
+    "cooking": 25,
+    "social_skills": 25,
+    "music_appreciation": 75,
+    "graphic_design": 75
+  },
+  "init_assets": {
+    "deposit": 8200,
+    "possessions": [
+      {
+        "name": "Custom-built desktop PC",
+        "description": "A powerful rig with dual monitors he assembled himself, covered in sticky notes with game-design ideas and a small framed photo of his mother taped to the monitor bezel."
+      },
+      {
+        "name": "Laptop",
+        "description": "A well-worn ThinkPad he carries to the coffee shop daily; the 'E' key is slightly loose from overuse."
+      },
+      {
+        "name": "Mother's cookbook",
+        "description": "A grease-stained, handwritten recipe notebook in German and English that his mother kept. He's never cooked from it but reads it sometimes."
+      },
+      {
+        "name": "Enamel pin collection",
+        "description": "About forty pins on his messenger bag and a corkboard — mostly indie game logos, a tiny Saturn, and one that says 'I'd rather be debugging.'"
+      },
+      {
+        "name": "Old acoustic guitar",
+        "description": "A secondhand Yamaha he bought at a thrift store intending to learn. It sits in the corner, mostly unplayed, slightly out of tune."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that quiet, sustained effort matters more than talent or spectacle. Respects authenticity and dislikes performative behavior. Thinks art — including games — can carry real emotional truth. Values loyalty above almost everything; once someone is in his circle, he will show up for them. Fears mediocrity and invisibility — that he'll live a small, safe life and never finish the thing that matters most. Uncomfortable with conflict but will not compromise his ethics.",
+  "birthday": "Y1993-W9-activity-D1",
+  "birth_year": 1993
+}

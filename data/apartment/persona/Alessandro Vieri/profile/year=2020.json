@@ -1,0 +1,91 @@
+{
+  "name": "Alessandro Vieri",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and a lean, athletic 180 lbs, Alessandro registers as attractive (~10%) with a sharp, Mediterranean aesthetic. His face is sculpted and angular — high cheekbones, a strong Roman nose, deep-set espresso-brown eyes framed by thick dark brows, and a square jaw perpetually shadowed with precise designer stubble. His hair is jet-black, swept back in a clean pompadour that gleams under streetlights. His skin is olive-toned and smooth, his teeth immaculately white, his smile practiced but disarming. He dresses in tailored Italian slim-fit suits — Canali, Brioni — even on weekends, swapping them for fitted cashmere sweaters and suede Chelsea boots. A gold Panerai Luminor glints on his left wrist. His hands are manicured, his cologne (Creed Aventus) arrives before he does. He moves with the loose, confident stride of someone who has never once doubted he belongs in a room. He gives the impression of polished, high-octane charm — a man who sells desire for a living and has internalized the product, yet whose eyes occasionally betray a restlessness that all the Italian leather in the world cannot soothe.\n",
+  "brief_introduction": "Alessandro is a record-breaking Ferrari salesman at Manhattan's flagship dealership who moved into Bremer Apartment's fifth floor in 2017, drawn by Greenwich Village's character and a rent-stabilized lease he charmed out of the landlord. He proudly owns a cherry-red Ferrari F8 Tributo that he parks on the street, a source of both admiration and bemused head-shaking among his neighbors.\n",
+  "talents": {
+    "qualitative": "Born in Hoboken, New Jersey, to Sicilian immigrant parents — his father Salvatore ran a modest auto-body shop, his mother Carmela worked as a seamstress. He grew up surrounded by cars and learned to read people early, helping his father negotiate with suppliers by age twelve. Attended Rutgers on a partial scholarship, studied business, and talked his way into a junior sales position at Ferrari of North America upon graduation. Within five years he was their top salesman in the Northeast, and by 2019 he'd broken the dealership's all-time annual sales record. His secret is not pushiness but emotional intelligence — he listens, mirrors, and makes clients feel that buying a Ferrari was their own brilliant idea. He purchased his own F8 Tributo in late 2019 as a reward, the first car he ever bought new. Despite his polished exterior, he carries working-class guilt and sends a significant portion of his commissions home to his aging parents.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 100,
+      "creativity": 65,
+      "health": 80,
+      "honesty": 60,
+      "integrity": 75,
+      "intelligence": 85,
+      "leadership": 80,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Alessandro moved into apartment 5B in 2017 after his engagement to Lauren Whitfield, a hedge fund analyst, collapsed when she admitted she'd been seeing a colleague. The breakup shattered his confidence in relationships, though not in himself professionally. He chose Bremer Apartment because a college friend once lived there, and the rent-stabilized unit felt like a secret victory — paying Village prices from the 1990s while earning six figures in commissions. His apartment is minimalist and immaculate: white walls, a single framed poster of the 1967 Daytona 24 Hours, a leather Eames chair, and a kitchen he actually uses — his mother taught him to cook proper Sicilian food, and Sunday sauce is his meditation. He is a morning person, arriving at the corner coffee shop by 7:30, where he orders a macchiato and reads the Financial Times on his phone. He befriended Dr. Thaddeus Pelagios after a rooftop conversation in 2018 where Thaddeus compared megalodon hunting to selling Ferraris — both require convincing people to believe in something extraordinary. Their unlikely friendship endures; Alessandro sometimes drives Thaddeus to the American Museum of Natural History in the F8 just to watch the old man clutch the dashboard. He knows Jessica from the building and has attended two of her gigs, finding her magnetic. He tips Dave generously and considers the coffee shop his decompression chamber between the high-pressure dealership and his quiet apartment. In early 2020, he is wrestling with whether to accept a promotion to sales director — more money, more status, but a desk job that would take him off the showroom floor, which is where he feels most alive.\n",
+  "conflicts": "The promotion decision haunts him — accepting means financial security and prestige but losing the human connection of direct sales that defines him; his broken engagement left him afraid of emotional vulnerability, so he defaults to charm instead of intimacy; he sends money home but rarely visits his parents, carrying guilt about prioritizing career over family; he secretly fears that without the suits, the car, and the commission checks, he is just another kid from Hoboken with nothing interesting to say.\n",
+  "core_motivation": "To prove that a working-class Italian-American kid can thrive in the world of ultra-luxury without losing his soul — and to eventually build something of his own rather than selling someone else's dream. Beneath the ambition, he craves a genuine emotional connection he hasn't allowed himself since Lauren, and he wants to feel that his success means something beyond numbers on a leaderboard.\n",
+  "personality_traits": {
+    "qualitative": "Alessandro is an ESTP — energetic, perceptive, and action-oriented. He reads rooms the way chess players read boards, adjusting his energy to match whoever he's with. He's generous with money and time, quick to laugh, and genuinely curious about other people's lives, though he deflects personal questions with humor. His confidence is real but layered over insecurity he rarely examines. He can be impulsive — buying the Ferrari was emotional, not rational — and he avoids solitude because stillness makes him think about things he'd rather not. He is loyal once trust is established but slow to grant it after being burned. He masks depth with surface dazzle, which means people often underestimate his emotional intelligence.\n",
+    "quantitative": {
+      "confidence": 90,
+      "control": 80,
+      "curiosity": 70,
+      "empathy": 80,
+      "judging": 40,
+      "introversion": 10,
+      "intuition": 70,
+      "patience": 65,
+      "responsibility": 75,
+      "thinking": 60
+    }
+  },
+  "preferences": "Likes: driving with no destination, Sunday cooking sessions, well-cut clothing, rooftop conversations, live music, espresso rituals, watching people negotiate (anywhere — flea markets, restaurants), classic car shows, Scorsese films, his mother's phone calls. Dislikes: pretentiousness that lacks substance, being pitied, slow walkers on Manhattan sidewalks, dishonesty in business, being alone on holidays, anyone who disrespects service workers, the smell of cheap cologne.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Senior Sales Consultant",
+    "organization": "Ferrari of Manhattan (Official Dealership, Park Avenue)",
+    "type": "work",
+    "description": "Top-performing Ferrari salesman responsible for high-net-worth client relationships, test drives, bespoke vehicle configuration, and after-sale service. Earns a base salary plus substantial commission on each unit sold. Consistently the dealership's number-one seller since 2016.\n",
+    "weekly_delta_skills": {
+      "negotiation": 0.1,
+      "client_relationship_management": 0.1
+    }
+  },
+  "init_skills": {
+    "negotiation": 252,
+    "client_relationship_management": 252,
+    "automotive_knowledge": 216,
+    "public_speaking": 217,
+    "cooking_Sicilian": 174,
+    "financial_literacy": 174,
+    "emotional_reading": 200,
+    "driving_performance": 203,
+    "Italian_language": 140,
+    "fashion_styling": 180
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "Ferrari F8 Tributo",
+        "description": "Cherry-red 2019 model, 710 horsepower, twin-turbo V8. Kept immaculate with weekly hand-washes. Street-parked outside Bremer Apartment under a custom fitted cover. The building's most conspicuous possession."
+      },
+      {
+        "name": "Wardrobe collection",
+        "description": "Two dozen tailored suits (Canali, Brioni, Isaia), Italian leather shoes, cashmere sweaters, and a vintage Belstaff leather jacket his father gave him when he got the Ferrari job."
+      },
+      {
+        "name": "Gold Panerai Luminor watch",
+        "description": "Purchased after his first record-breaking quarter. Engraved on the back with his father's initials — S.V."
+      },
+      {
+        "name": "Eames Lounge Chair and Ottoman",
+        "description": "Authentic Herman Miller reproduction. The single luxury item in his otherwise sparse apartment. Where he sits to think."
+      },
+      {
+        "name": "Cast-iron cookware set",
+        "description": "Inherited from his mother when he moved out. Seasoned over decades. He considers these more valuable than the watch."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that hard work and authenticity can coexist with ambition and style. Holds that generosity is not optional — if you have more, you give more. Respects craftsmanship in all forms, whether it's a hand-built engine or a handwritten poem. Distrusts people who inherit success and look down on those who earned it. Fears becoming someone who measures his worth solely by what he sells. Believes love requires courage he hasn't yet recovered, and that the right person will make the risk feel inevitable rather than terrifying. Deeply grateful to his immigrant parents and terrified of disappointing them.\n",
+  "birthday": "Y1985-W8-activity-D3",
+  "birth_year": 1985
+}

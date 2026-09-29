@@ -1,0 +1,91 @@
+{
+  "name": "Amara Okafor",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" and around 135 lbs, Amara has an attractive (~10%) presence that commands attention even in stillness. Her deep brown skin is luminous and even-toned, set off by high cheekbones, a broad nose with a gentle bridge, and full lips that default to a half-smile. Her dark coily hair shifts between protective styles — twists, braids, sometimes a bold cropped look — each one deliberate and striking. She has large, searching eyes with long natural lashes, a graceful neck, and an athletic dancer's build with defined shoulders and a narrow waist. Her style blends thrifted vintage with bold West African prints — a dashiki jacket over a plain tank, gold hoop earrings, cowrie-shell bracelet, beaten-up white sneakers. She carries herself with a stage-trained posture, chin slightly lifted, movements fluid and intentional. She gives the impression of a confident, culturally rooted young woman with artistic discipline and warmth — someone raised with strong family values who is quietly fighting to define herself on her own terms.\n",
+  "brief_introduction": "Amara is a Nigerian-American aspiring actress who waitresses at the corner coffee shop to pay rent. She's caught between her parents' dream of her becoming a pharmacist and her own consuming need to perform. Generous and perceptive, she often absorbs other people's problems while neglecting her own creeping self-doubt.\n",
+  "talents": {
+    "qualitative": "Born in Houston, Texas to Nigerian immigrant parents — her father a hospital pharmacist, her mother a church administrator. She was the eldest of three children and the family's anchor of expectations. She showed natural performance ability from age six, winning church recital prizes and school talent shows. Her parents tolerated this as a hobby but insisted on a practical career path. She enrolled as a pre-pharmacy major at University of Houston but secretly auditioned for and was accepted into an MFA acting program at NYU Tisch in 2016, which caused a painful rift with her father that remains unhealed. She moved to New York in 2016 and completed her MFA in 2019. Since then she has landed small off-off-Broadway roles and a few commercial callbacks but nothing that pays the bills, so she waitresses at the corner coffee shop near Bremer Apartment, where she also lives on the third floor. She speaks Yoruba and English fluently and has a trained mezzo-soprano singing voice. Her emotional intelligence is high — she reads rooms and people with uncanny accuracy — but she often uses that skill to deflect attention from her own vulnerabilities.\n",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 100,
+      "creativity": 100,
+      "health": 85,
+      "honesty": 70,
+      "integrity": 70,
+      "intelligence": 80,
+      "leadership": 70,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Amara moved into Bremer Apartment in fall 2016 when she started at Tisch. She fell in love with the building's eccentricity — the creaking elevator, the rooftop gatherings, the way voices carried through thin walls. She took the coffee shop job in early 2019 after graduating, telling herself it was temporary. Now it's 2020 and temporary has become routine. She knows nearly every regular by name and order. Leo is one of them — she noticed him writing in a notebook for months before they ever spoke. She considers him a kindred spirit, another creative person hiding behind a practical job. She's appeared in three small off-off-Broadway productions, the most recent a one-woman adaptation of Chimamanda Ngozi Adichie's work that got a single favorable review in a small blog. Her father hasn't spoken to her properly in three years; her mother calls weekly and sends money Amara refuses to spend, stacking the checks in a drawer. She goes to the rooftop when she needs to rehearse monologues aloud without disturbing neighbors. She met Dylan there one evening when they were both escaping their own thoughts. Nina she knows from the coffee shop — she once comped Nina a latte after seeing her cry quietly in the corner after a difficult rehearsal. They've shared a few honest conversations about performance anxiety. In early 2020 she received a callback for a recurring role on a Netflix series — her biggest opportunity yet — but the audition date conflicts with a stage production she's already committed to. She hasn't told anyone about the conflict.\n",
+  "conflicts": "Torn between a potentially career-changing Netflix audition and honoring her commitment to a small stage production she believes in artistically. Her father's silence weighs on her — she craves his approval but refuses to abandon acting. Financial pressure is mounting; rent is late and tips are declining as winter drags on. She pours energy into supporting others' emotional crises while avoiding her own growing fear that she may never break through as an actress.\n",
+  "core_motivation": "To prove — to her father, to the industry, and most of all to herself — that choosing art over security was not a mistake. She wants to be seen fully, on stage and in life, without having to shrink any part of her identity.\n",
+  "personality_traits": {
+    "qualitative": "Amara is an ENFJ — charismatic, empathetic, and driven by a need to connect and inspire. She's the person who remembers your birthday, notices when you've been quiet, and shows up at your door with leftover jollof rice when you're having a bad week. Her warmth is genuine but also a shield; by focusing on others she avoids confronting her own fears. She has a performer's discipline — she can rehearse the same monologue forty times without complaint — but that discipline cracks when rejection hits, and she spirals into private episodes of doubt she never lets anyone witness. She laughs loudly, argues passionately, forgives quickly. Beneath her confidence is a quiet terror that she has sacrificed her family for a dream that may never materialize.\n",
+    "quantitative": {
+      "confidence": 70,
+      "control": 60,
+      "curiosity": 70,
+      "empathy": 90,
+      "judging": 45,
+      "introversion": 50,
+      "intuition": 90,
+      "patience": 70,
+      "responsibility": 75,
+      "thinking": 65
+    }
+  },
+  "preferences": "Loves performing monologues, cooking Nigerian food for friends, rooftop conversations at dusk, Afrobeat playlists while cleaning, old Meryl Streep films, handwritten letters, thrift shopping for statement pieces, and the particular silence of a theater before the lights go down. Dislikes being patronized, unsolicited career advice, the phrase \"backup plan,\" cold transactional interactions, people who only listen to respond, and the taste of American jollof rice.\n",
+  "position": {
+    "weekly_income": 320,
+    "role": "Waitress / Aspiring Actress",
+    "organization": "Corner Coffee Shop (employment) / Independent theater scene (artistic work)",
+    "type": "work",
+    "description": "Full-time waitress at the corner coffee shop near Bremer Apartment. Picks up occasional paid acting work in off-off-Broadway and independent productions, though income from acting is sporadic and unreliable.\n",
+    "weekly_delta_skills": {
+      "acting": 0.5,
+      "customer_service": 0.1
+    }
+  },
+  "init_skills": {
+    "acting": 170,
+    "singing": 70,
+    "dancing": 65,
+    "public_speaking": 230,
+    "customer_service": 210,
+    "cooking": 80,
+    "Yoruba_language": 150,
+    "writing": 60,
+    "stage_combat": 20,
+    "bartending": 20
+  },
+  "init_assets": {
+    "deposit": 900,
+    "possessions": [
+      {
+        "name": "Tisch MFA diploma",
+        "description": "Framed but facing the wall in her closet — she can't decide whether it represents triumph or folly"
+      },
+      {
+        "name": "Vintage leather journal",
+        "description": "A worn brown journal filled with character notes, audition reflections, and unsent letters to her father"
+      },
+      {
+        "name": "African-print tote bag collection",
+        "description": "Five ankara-fabric tote bags in different patterns, each sewn by her mother and mailed from Houston"
+      },
+      {
+        "name": "Used MacBook Air",
+        "description": "A 2015 model with a cracked corner and stickers from theater festivals, used for self-tapes and submissions"
+      },
+      {
+        "name": "Uncashed checks",
+        "description": "A drawer containing seven monthly checks from her mother, each for $200, none deposited"
+      }
+    ]
+  },
+  "extra_income": 60,
+  "values": "Believes that art is not a luxury but a necessity — that stories can heal, bridge cultures, and give voice to the unseen. Respects people who show up authentically even when it costs them something. Values community, generosity, and the courage to be vulnerable. Distrusts anyone who measures a person's worth by their income or title. Holds family bonds sacred even when those bonds cause pain — she would never speak ill of her father despite his rejection. Fears most deeply that she will one day agree with him and see her own life as a waste.\n",
+  "birthday": "Y1994-W6-activity-D6",
+  "birth_year": 1994
+}

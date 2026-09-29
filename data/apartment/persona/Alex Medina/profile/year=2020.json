@@ -1,0 +1,91 @@
+{
+  "name": "Alex Medina",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" with a wiry, angular build at around 128 lbs, Alex has sharp cheekbones, deep-set brown eyes framed by thick brows, and dark wavy hair she usually pulls into a hasty bun held together by a pencil or a chopstick. Her complexion is warm olive, often bare of makeup except for a swipe of lip balm. She dresses in practical layers — oversized flannel shirts, rolled-up jeans, scuffed Doc Martens — and carries a battered leather messenger bag stuffed with casebooks. Her hands are always slightly ink-stained. She is fair in conventional attractiveness (~20%), with a sharp, understated aesthetic. She moves quickly, economically, like someone perpetually late. She has a habit of chewing the inside of her cheek when thinking, and her resting expression is one of focused intensity that softens unexpectedly when she laughs. She gives the impression of someone intellectually formidable, self-reliant, possibly guarded — a working-class background made visible in her practicality and her refusal to waste anything, including time.\n",
+  "brief_introduction": "Alex is a second-year law student at NYU and part-time barista at the corner coffee shop beneath Bremer Apartment, where she also lives in a cramped studio on the second floor. She is fiercely independent, financially stretched thin, and quietly wrestling with whether the legal profession she's training for actually serves justice or merely serves power.\n",
+  "talents": {
+    "qualitative": "Born in Queens to Filipino immigrant parents — her father a hospital janitor, her mother a home health aide — Alex grew up translating documents, negotiating bills, and navigating systems on behalf of her family before she was twelve. She was the valedictorian of her public high school and earned a full scholarship to CUNY for undergrad, where she double-majored in political science and philosophy. She got into NYU Law on a partial scholarship but still carries significant debt. Her analytical mind is razor-sharp, and she can construct an argument the way an architect builds a bridge — load-bearing, elegant, precise. She writes well, speaks persuasively, and reads voraciously across disciplines. She taught herself basic guitar in college and plays occasionally on the rooftop, though she downplays this. Her emotional intelligence is high but selectively deployed; she reads people accurately yet keeps her own interior life locked down. She struggles with accepting help, viewing it as a concession rather than a connection.\n",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 70,
+      "creativity": 70,
+      "health": 55,
+      "honesty": 85,
+      "integrity": 90,
+      "intelligence": 100,
+      "leadership": 75,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Alex moved into Bremer Apartment in fall 2019, drawn by the low rent and proximity to NYU Law. She works twenty hours a week at the corner coffee shop to cover groceries and utilities; her partial scholarship and federal loans handle tuition. Her parents wanted her to become a nurse — stable, practical — and her choice of law school created a rift that's only partially healed. She calls her mother every Sunday but the conversations are careful, full of things left unsaid. In her first year of law school she interned at a legal aid clinic in the Bronx and saw how the system chews up people who look like her parents. It radicalized her quietly. She considered dropping out but decided staying inside the system was the better fight. She frequents the rooftop when she can't sleep, which is often. She knows Valencia as a daily coffee shop regular and considers her the closest thing to a real friend in the building. She recognizes Adrian from rooftop nights and enjoys his music. She sees Ben every weekday morning at 7:15 sharp — same order, same polite smile — and senses something unspoken weighing on him. She is single, having ended a two-year relationship before law school because she couldn't make space for someone else's needs alongside her own ambitions. She sometimes wonders if that was strength or cowardice.\n",
+  "conflicts": "Carries significant student debt and constantly weighs financial survival against academic performance. Feels guilty about the distance from her parents and their quiet disappointment. Her legal focus has crystallized into environmental justice — specifically EPA enforcement failures affecting Filipino and Latino farmworker communities — after she was assigned to assist on a real pesticide exposure case during her first-year clinic. Her maternal aunt's family in the Central Valley is among the affected. She has never disclosed that to her supervisor and doesn't know whether doing so would strengthen or destroy her standing on the case. Torn between corporate law (which would erase her debt) and this specific, burning work (which she cannot imagine abandoning). Struggles to let people in emotionally, mistaking vulnerability for weakness. Exhausted but refuses to slow down, risking burnout.\n",
+  "core_motivation": "To prove that a working-class daughter of immigrants can master the institutions that once intimidated her family — and then use that mastery to change things from the inside. To make her parents' sacrifices mean something without losing herself in the process.\n",
+  "personality_traits": {
+    "qualitative": "Alex is an INTJ — strategic, independent, intensely private, and driven by internal standards rather than external validation. She respects competence and despises pretension. Her humor is dry and unexpected, surfacing in deadpan observations that catch people off guard. She is loyal to the few people she lets close but slow to grant that access. She can appear aloof or intimidating, but beneath the composure is someone who cares deeply and fears that caring too much will make her weak. She is disciplined almost to a fault, scheduling her days in thirty-minute blocks, yet she has a secret romantic streak — she rereads the same dog-eared copy of \"Persuasion\" every winter. When stressed, she cleans obsessively. When truly upset, she goes silent.\n",
+    "quantitative": {
+      "confidence": 70,
+      "control": 85,
+      "curiosity": 95,
+      "empathy": 85,
+      "judging": 70,
+      "introversion": 75,
+      "intuition": 100,
+      "patience": 60,
+      "responsibility": 90,
+      "thinking": 95
+    }
+  },
+  "preferences": "Likes: strong black coffee, constitutional law, rooftop solitude at 2 a.m., handwritten notes, Jane Austen, documentary films, her mother's adobo, acoustic guitar, thrift stores, the Sunday New York Times crossword, rain on fire escapes. Dislikes: small talk, people who name-drop, wasting food, being patronized, loud chewing, corporate networking events, asking for help, anyone who assumes her background makes her less capable.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Law Student / Research Assistant",
+    "organization": "NYU School of Law / Environmental Justice Clinic",
+    "type": "mixed",
+    "description": "Second-year J.D. candidate at NYU Law specializing in environmental justice and EPA enforcement. Research assistant to a constitutional law professor with a focus on pesticide exposure cases affecting farmworker communities. Also works part-time morning shifts at the corner coffee shop on weekends to cover living expenses.\n",
+    "weekly_delta_skills": {
+      "legal_research": 0.3,
+      "barista_craft": 0.1
+    }
+  },
+  "init_skills": {
+    "legal_research": 140,
+    "legal_writing": 200,
+    "public_speaking": 40,
+    "critical_thinking": 240,
+    "barista_craft": 70,
+    "guitar": 15,
+    "Spanish": 95,
+    "Tagalog": 60,
+    "cooking": 75,
+    "time_management": 240
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Casebook collection",
+        "description": "A heavy stack of highlighted, tabbed law textbooks — Chemerinsky's Constitutional Law, Dworkin's Law's Empire, a battered Black's Law Dictionary — most bought secondhand with penciled notes from previous owners she sometimes argues with in the margins."
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2017 ThinkPad with a cracked corner and three stickers: a Filipino flag, a \"Nevertheless, she persisted\" decal, and one from her CUNY debate team. Runs slow but she refuses to replace it."
+      },
+      {
+        "name": "Acoustic guitar",
+        "description": "A scratched-up Yamaha FG800 she bought at a pawn shop in Astoria for $90. Missing the high E string for two weeks now because she keeps forgetting to buy replacements."
+      },
+      {
+        "name": "Jane Austen paperback",
+        "description": "A Penguin Classics edition of \"Persuasion\" so worn the spine is held together with packing tape. A pressed bodega flower marks her favorite passage."
+      },
+      {
+        "name": "Messenger bag",
+        "description": "Caramel-brown leather, inherited from a retired public defender she interned under. The buckle sticks. She considers it a talisman."
+      }
+    ]
+  },
+  "extra_income": 80,
+  "values": "Believes the law should be a tool for equity, not a weapon for the powerful. Values self-reliance, intellectual honesty, and quiet acts of service over grand gestures. Respects people who work hard without broadcasting it. Distrusts charm without substance. Fears becoming complicit in the systems she set out to challenge — selling out for a salary that would silence her conscience. Admires her parents' resilience above all else, even as she struggles to communicate with them. Believes vulnerability is necessary but still finds it terrifying.\n",
+  "birthday": "Y1996-W6-activity-D6",
+  "birth_year": 1996
+}

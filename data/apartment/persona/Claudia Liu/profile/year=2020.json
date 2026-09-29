@@ -1,0 +1,82 @@
+{
+  "name": "Claudia Liu",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'5\" with a soft, well-maintained figure at around 145 lbs, Claudia registers as fair (~20%) in a polished, high-effort way — almond-shaped dark brown eyes behind oversized designer frames, a round face with full cheeks that make her look younger than forty-one, a small upturned nose, and lips always precisely lined in muted rose. Her black hair is colored with subtle caramel highlights and blow-dried into a shoulder-length layered cut that never looks slept on. Her skin is smooth and meticulously moisturized, though faint crow's feet betray her age in bright light. She dresses expensively and deliberately — structured wool coats, silk blouses, wide-leg trousers, leather loafers from brands most people in the building can't pronounce — and carries a rotating collection of handbags the way other people carry opinions: visibly and with conviction. Her nails are always done; her perfume arrives before she does. She moves with the unhurried pace of someone who has nowhere urgent to be but wants to look purposeful anyway. She gives the impression of a well-curated woman whose elegance conceals an aimlessness — someone performing a lifestyle rather than living one, with a warmth that flickers beneath the glossy surface when she forgets to pose.\n",
+  "details": "Claudia moved into Bremer Apartment's second floor in 2016 after a messy breakup with a hedge fund manager in Midtown ended a seven-year relationship that had functioned more as a financial arrangement than a romance. Her parents — first-generation immigrants who built a successful chain of dry-cleaning stores in San Jose — wire her $2,800 monthly, supplementing the modest income she earns as a freelance personal stylist and occasional retail consultant. She tells people she is \"in fashion.\" Her apartment is immaculate and overfull: racks of clothes sorted by season, shoe boxes stacked floor to ceiling in the second bedroom she calls her \"archive,\" a vanity table crowded with serums and palettes. She frequents the corner coffee shop every afternoon around two, always ordering an oat milk latte and occupying the window seat, scrolling shopping apps or flipping through Vogue. She knows Eulalia from years of shared coffee-shop afternoons; their relationship is cordial and lopsided — Claudia talks, Eulalia listens. She met Vesper on the rooftop in summer 2019, drawn to the younger woman's camera and distinctive aesthetic; Claudia volunteered to be photographed and was surprised when Vesper's images revealed something uncomfortably honest in her expression. She hired Joe Orlov for personal training sessions in early 2020, attending sporadically and canceling often, but she enjoys the sessions more for conversation than exercise. Her parents call every Sunday and ask when she will get married. She has a younger brother, Kevin, who is a surgeon in Boston and represents everything she failed to become. She shops when she feels empty, which is often. She knows her spending is compulsive but reframes it as professional research. She has not been on a date in fourteen months.\n",
+  "brief_introduction": "Claudia is a 41-year-old freelance stylist and compulsive shopper who lives off intermittent client work and a monthly allowance from her immigrant parents in California. Impeccably dressed and chronically lonely, she fills her second-floor apartment with beautiful things and her afternoons with coffee-shop rituals, quietly terrified that her life has no structure beneath its polished surface.\n",
+  "talents": {
+    "qualitative": "Born to Taiwanese immigrants in San Jose, Claudia grew up watching her parents work eighteen-hour days at their dry-cleaning business. She was a bright but unfocused student — good grades through middle school, declining performance in high school once social life took priority. She attended San Jose State, majored in communications, and moved to New York at twenty-four with vague ambitions of working in fashion. She interned at a PR firm, assisted a stylist for two years, then drifted into freelancing after her relationship with the hedge fund manager made employment feel optional. She has genuine taste and an encyclopedic knowledge of designers, textiles, and trends, but lacks the discipline or business acumen to build a sustainable career. She is socially fluent, an excellent conversationalist in low-stakes settings, and surprisingly perceptive about other people's insecurities — perhaps because she is so familiar with her own.\n",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 80,
+      "creativity": 65,
+      "health": 60,
+      "honesty": 50,
+      "integrity": 30,
+      "intelligence": 65,
+      "leadership": 50,
+      "trustworthiness": 60
+    }
+  },
+  "conflicts": "Compulsive spending is consuming the allowance her parents send and eroding her savings, but she cannot stop because shopping is the only thing that temporarily quiets the anxiety; her younger brother Kevin's surgical career casts a permanent shadow over everything she has not accomplished; she has not been on a date in over a year and fears she has forgotten how to be genuinely intimate with someone; her parents call weekly asking when she will marry and get a real job, and she cannot explain that she doesn't know what a real job would be for her; her freelance work is sporadic and has no real structure, which she knows but refuses to confront.\n",
+  "core_motivation": "To build a life that looks as polished from the inside as it does from the outside — to stop performing a lifestyle and start actually living one. To find something she is genuinely proud of that doesn't require a credit card. To be seen not as her parents' financial dependent or her brother's underachieving sister, but as someone who made something real.\n",
+  "personality_traits": {
+    "qualitative": "Claudia is an ESFJ — socially attentive, approval-seeking, and deeply conventional beneath her fashionable exterior. She craves belonging and status but mistakes acquisition for identity. She is generous with compliments and gifts, using both as currency to maintain relationships she fears would otherwise dissolve. She avoids conflict instinctively, deflecting with humor or changing the subject. She is self-aware enough to recognize her patterns but not disciplined enough to break them. Beneath the shopping and the styling and the curated Instagram, there is a genuine warmth and a longing to matter to someone — not as a daughter, not as an ex, but as herself.\n",
+    "quantitative": {
+      "confidence": 40,
+      "control": 25,
+      "curiosity": 60,
+      "empathy": 75,
+      "judging": 70,
+      "introversion": 30,
+      "intuition": 60,
+      "patience": 45,
+      "responsibility": 40,
+      "thinking": 35
+    }
+  },
+  "preferences": "Likes browsing boutiques in SoHo and the West Village, reorganizing her closet, coffee-shop people-watching, reality television, giving unsolicited style advice, receiving compliments, cooking elaborate meals she eats alone, texting her mother despite complaining about the calls. Dislikes being asked her age, uncomfortable silences, budgeting, her brother's accomplishments being mentioned, being perceived as frivolous, men who remind her of her ex, and the feeling of an empty mailbox when no packages are expected.\n",
+  "position": {
+    "weekly_income": 111,
+    "role": "Freelance personal stylist / retail consultant",
+    "organization": "Self-employed (occasional clients via referral and Instagram)",
+    "type": "work",
+    "description": "Takes on one to three styling clients per month, earning variable income supplemented by $2,800/month from her parents. Consults occasionally for a small boutique on Bleecker Street. Income is irregular and insufficient to cover her spending habits.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "fashion_and_styling": 295,
+    "retail_knowledge": 255,
+    "social_networking": 65,
+    "photography": 30,
+    "cooking": 55,
+    "financial_management": 10,
+    "marketing": 25,
+    "negotiation": 65
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Designer wardrobe collection",
+        "description": "Three rolling racks and fourteen storage bins of clothing, shoes, and accessories spanning fifteen years of acquisitions — roughly $40,000 at retail, though she has never calculated this number because she does not want to know."
+      },
+      {
+        "name": "iPhone 11 Pro",
+        "description": "Rose gold, always in a leather case, screen time averaging six hours daily — mostly shopping apps and Instagram."
+      },
+      {
+        "name": "Vintage vanity table",
+        "description": "A 1940s mahogany vanity bought at a Brooklyn flea market, crowded with skincare products and a ring light she uses for outfit-of-the-day photos."
+      },
+      {
+        "name": "Boutique styling kit",
+        "description": "A professional garment steamer, fabric swatches, a color-analysis drape set, and a leather portfolio of client lookbooks — the tools of a career she practices intermittently."
+      }
+    ]
+  },
+  "extra_income": 389,
+  "values": "Believes that how you present yourself to the world is a form of communication and deserves care — that style is not vanity but language. Respects craftsmanship, loyalty, and people who remember small details about others. Fears irrelevance more than poverty, because her parents' money insulates her from one but not the other. Distrusts people who boast about minimalism, suspecting they are performing superiority. Secretly believes she has wasted her potential but cannot identify what that potential was. Wants to be seen as someone who has it together. Knows she does not.\n",
+  "birthday": "Y1978-W8-activity-D4",
+  "birth_year": 1978
+}

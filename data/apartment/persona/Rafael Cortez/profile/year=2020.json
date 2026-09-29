@@ -1,0 +1,87 @@
+{
+  "name": "Rafael Cortez",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'9\" with a compact, muscular frame at around 175 lbs, Rafael registers as attractive (~10%) in a smoldering, rough-edged way — warm terra-cotta skin, a square jaw shadowed perpetually by dark stubble, full lips, and heavy-lidded amber eyes that hold a sleepy, deliberate intensity. His black hair is cropped close on the sides and left longer on top, often pushed back under a backwards cap or a kitchen bandana. A faded burn scar traces the inside of his left forearm; his knuckles are nicked and calloused. He dresses simply off-shift — fitted white tees, dark jeans, a worn leather jacket — but everything sits on him like it was tailored, because he carries himself with a physical confidence born from years of working on his feet. A small tattoo of a sprig of cilantro sits behind his right ear. He smells faintly of woodsmoke and lime. He gives the impression of someone sensual and self-possessed, a man who communicates through touch and taste rather than words — warm on the surface, guarded underneath, with a restless hunger that food alone cannot satisfy.",
+  "brief_introduction": "Rafael is a rising sous-chef at a well-regarded West Village restaurant, living on the fourth floor of Bremer Apartment since 2016. Charismatic and emotionally evasive, he is secretly involved with two men in the building — Leo and Leonidas — neither of whom knows about the other.",
+  "talents": {
+    "qualitative": "Born in San Juan, Puerto Rico, to a seamstress mother and a fisherman father who drowned when Rafael was twelve. His grandmother raised him in the kitchen, teaching him sofrito before he could read properly. He earned a partial scholarship to the Culinary Institute of America in Hyde Park, graduating in 2012, and worked his way through a string of Manhattan kitchens — dishwasher, line cook, prep chef — before landing the sous-chef position at Ludo's, a modern Mediterranean restaurant on Bleecker Street, in 2018. He sends a third of his paycheck home to his mother and grandmother in Bayamón every month. He is fluent in Spanish and English, conversational in Italian from a kitchen apprenticeship in Naples in 2014. His palate is extraordinary — he can identify dozens of spices blindfolded — but his ambition is complicated by a deep fear of visibility. He has never told anyone in the building that he is bisexual; he compartmentalizes his relationships the way he compartmentalizes mise en place.",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 65,
+      "creativity": 100,
+      "health": 70,
+      "honesty": 50,
+      "integrity": 40,
+      "intelligence": 85,
+      "leadership": 60,
+      "trustworthiness": 45
+    }
+  },
+  "details": "Rafael moved into a small fourth-floor one-bedroom in 2016, drawn by the affordable rent and the ten-minute walk to Ludo's. His apartment smells perpetually of garlic and toasted cumin; the kitchen is immaculate, the rest chaotic — clothes draped over chairs, vinyl records stacked on the floor, a half-read García Márquez novel facedown on the nightstand. He met Leo on the rooftop in the summer of 2019, when he brought up leftover ceviche after a shift and found Leo playing guitar alone. They started talking — about loneliness, about being far from home — and within weeks had fallen into a quiet, physical intimacy that neither has named. They meet late at night, always in Rafael's apartment, always after midnight. Rafael initiated it; Leo, starved for connection, didn't resist. Meanwhile, Rafael met Leonidas at the corner coffee shop in late 2018. Their connection was slower, more cerebral — conversations about Mediterranean food and ancient Greek dining customs that sharpened into flirtation over months. By autumn 2019, they too were involved, meeting in Leonidas's sparse fifth-floor studio. Rafael tells himself the two relationships serve different needs — Leo is comfort, Leonidas is intensity — but he knows he is being selfish. In early 2020, with Ludo's considering him for head chef, Rafael feels the walls closing in: the promotion demands total focus, his double life demands constant vigilance, and his guilt is beginning to curdle into self-loathing.",
+  "conflicts": "Secretly involved with both Leo and Leonidas, terrified that discovery will destroy both relationships and his reputation in the building; the head-chef promotion requires him to be more visible and public, which threatens his carefully compartmentalized life; he carries deep guilt about his father's death — he was supposed to be on the boat that day but stayed home sick — and channels that guilt into relentless work; he has never come out to his family and fears his grandmother's devout Catholic disapproval.",
+  "core_motivation": "To earn the head-chef position and prove that a poor kid from Bayamón can command a respected Manhattan kitchen — but beneath that, to find a single honest love he doesn't have to hide, and to forgive himself for surviving when his father didn't.",
+  "personality_traits": {
+    "qualitative": "Rafael is an ISTP — pragmatic, sensory-driven, and emotionally avoidant. He expresses love through acts of service — cooking for people, fixing things, showing up with exactly what someone needs — rather than through words. He is charming in small doses but withdraws when conversations turn too personal. He compartmentalizes ruthlessly: work self, building self, intimate self, family self. He is generous with food and time but miserly with truth. He can be tender in private and cool in public. His guilt about his father and his secrecy about his relationships create a low hum of anxiety he numbs with long shifts and physical exhaustion.",
+    "quantitative": {
+      "confidence": 85,
+      "control": 80,
+      "curiosity": 55,
+      "empathy": 70,
+      "judging": 30,
+      "introversion": 75,
+      "intuition": 65,
+      "patience": 70,
+      "responsibility": 60,
+      "thinking": 60
+    }
+  },
+  "preferences": "Loves cooking elaborate meals for others, listening to salsa and bolero records late at night, walking through the Union Square farmers' market on his day off, rooftop evenings with a cold beer, the texture of good linen, the smell of the ocean; dislikes being asked direct questions about his personal life, loud and performative people, waste of any kind — food, time, or affection — and any situation where he feels trapped or observed.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Sous-chef",
+    "organization": "Ludo's Restaurant, Bleecker Street",
+    "type": "work",
+    "description": "Sous-chef at a modern Mediterranean restaurant in West Village, managing a line of six cooks, responsible for menu development and evening service execution.",
+    "weekly_delta_skills": {
+      "culinary_arts": 0.1,
+      "kitchen_management": 0.1
+    }
+  },
+  "init_skills": {
+    "culinary_arts": 261,
+    "knife_skills": 243,
+    "menu_development": 210,
+    "kitchen_management": 196,
+    "baking_and_pastry": 140,
+    "wine_and_spirits": 168,
+    "Spanish": 234,
+    "Italian": 135,
+    "guitar": 58,
+    "emotional_intelligence": 100
+  },
+  "init_assets": {
+    "deposit": 2800,
+    "possessions": [
+      {
+        "name": "Chef's knife set",
+        "description": "A custom set of Japanese carbon-steel knives wrapped in a leather roll, each handle worn smooth from years of use — his CIA graduation gift to himself"
+      },
+      {
+        "name": "Vinyl collection",
+        "description": "About sixty records, mostly salsa, bolero, and bossa nova, stored in a milk crate beside a secondhand turntable"
+      },
+      {
+        "name": "Grandmother's mortar and pestle",
+        "description": "A heavy volcanic-stone pilón shipped from Bayamón, used daily for grinding sofrito — the one kitchen object he would save in a fire"
+      },
+      {
+        "name": "Leather jacket",
+        "description": "A battered black motorcycle jacket bought at a flea market in Naples in 2014, smelling faintly of espresso and motor oil"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that feeding someone is the most honest form of love — you cannot lie with flavor. Respects craft, endurance, and anyone who has built something from nothing. Distrusts words, especially pretty ones; trusts hands, work, and presence. Fears exposure more than failure — not because he is ashamed of who he is, but because he has built his survival on control, and honesty feels like surrendering it. Holds loyalty as sacred in theory but violates it in practice, which is the contradiction eating him alive. Believes his father's death was somehow his fault, and that he owes the world relentless labor in exchange for being alive.",
+  "birthday": "Y1990-W6-activity-D5",
+  "birth_year": 1990
+}

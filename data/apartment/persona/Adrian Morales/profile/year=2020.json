@@ -1,0 +1,89 @@
+{
+  "name": "Adrian Morales",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'0\" and roughly 175 lbs with a rangy, angular build, Adrian registers as attractive (~10%) in a sharp, slightly theatrical way. He has deep-set dark eyes beneath heavy brows, a strong Roman nose inherited from his Puerto Rican father, high cheekbones, a squared jaw softened by a perpetual two-day stubble, and thick black hair swept back with just enough pomade to look intentional. His skin is warm olive, smooth except for a thin scar bisecting his left eyebrow from a childhood bike wreck in the Bronx. He dresses with deliberate flair — fitted black turtlenecks, slim trousers, leather boots, a thrifted navy peacoat — always looking like he's heading to or leaving a premiere. His hands are expressive, punctuating every sentence. He projects the energy of a restless romantic, someone charismatic and self-aware but possibly performing even when he thinks he isn't — a man whose intensity could be either magnetic or exhausting depending on your tolerance.\n",
+  "brief_introduction": "Adrian is a playwright and bartender at Chez Lulu who moved into Bremer Apartment in late 2019. He's talented, self-critical, and struggling to finish his first full-length play. He had developed feelings for his coworker Katie, who moved to Los Angeles in January 2020, and is still adjusting to her absence.\n",
+  "talents": {
+    "qualitative": "Born and raised in the South Bronx to a Puerto Rican father who drove a cab and a Dominican mother who cleaned offices. The eldest of three — he has a younger sister and brother still living at home. He won a citywide playwriting contest at sixteen, which earned him a partial scholarship to NYU's Dramatic Writing program. Graduated in 2017 with honors but has struggled to break through since. He's had two short plays produced at small downtown theaters and received encouraging reviews, but nothing that pays rent. He tends bar four nights a week at Chez Lulu and writes in the mornings at the corner coffee shop. He's articulate and well-read, with a self-taught knowledge of film and literature that fills gaps his formal education left. His biggest asset is dialogue — he hears how people actually talk and can reproduce it with devastating accuracy. His biggest liability is perfectionism; he's been rewriting Act Two of his play for eight months.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 90,
+      "creativity": 100,
+      "health": 75,
+      "honesty": 80,
+      "integrity": 75,
+      "intelligence": 85,
+      "leadership": 55,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Adrian moved into a cramped fourth-floor studio at Bremer Apartment in November 2019 after his previous roommate situation in Bushwick imploded. He'd heard about the opening from Katie, who he'd been working with at Chez Lulu since mid-2019. They bonded quickly over shared creative frustrations — her auditions going nowhere, his play stuck in rewrites. He's drawn to her intensity, the same quality Marcus called \"too much,\" which Adrian finds brave and honest. But he watched her go through the Marcus breakup in December 2019 and decided the timing was wrong to say anything. He tells himself he's being respectful; in truth, he's also afraid. He met Leo through Katie and likes him genuinely — they've had good rooftop conversations about music and storytelling — but he senses Leo's unspoken feelings for Katie, which creates a quiet, unacknowledged rivalry between them. Adrian's play, titled \"Elevation,\" is loosely about a Bronx family navigating gentrification; he's terrified it's either too personal or not personal enough. His mother calls every Sunday and asks when he's going to get a real job. He sends money home monthly, which keeps him perpetually broke. He writes at the corner coffee shop most mornings, occupying the same window table.\n",
+  "conflicts": "Stuck on his play and increasingly afraid that his talent isn't enough to sustain a career; never told Katie how he felt, and now she's gone — that silence sits in his chest like an unfinished sentence; financially strained by the dual pressure of New York rent and supporting his family back in the Bronx; haunted by the worry that he left the Bronx behind only to become another struggling artist cliché his father warned him about.\n",
+  "core_motivation": "To finish his play and prove — to his family, to himself — that choosing art over stability wasn't selfish. To find a way to channel his unresolved feelings about Katie into the work rather than letting them become another reason to stall. To write something true enough that it justifies every sacrifice.\n",
+  "personality_traits": {
+    "qualitative": "Adrian is an ENFJ — charismatic, empathetic, and driven by an almost compulsive need to connect with people. He's the person who remembers what you said three weeks ago and asks a follow-up. He's warm and generous with his time, but underneath the social ease runs a current of anxious perfectionism. He holds himself to impossible standards and deflects vulnerability with humor and charm. He can read a room instantly but sometimes uses that skill to perform rather than to genuinely engage. He's passionate and loyal, occasionally possessive of the people he cares about. When stressed, he withdraws into work and becomes brittle. He has a temper he's learned to control but not eliminate — it surfaces as cutting remarks he immediately regrets.\n",
+    "quantitative": {
+      "confidence": 65,
+      "control": 85,
+      "curiosity": 95,
+      "empathy": 90,
+      "judging": 80,
+      "introversion": 35,
+      "intuition": 100,
+      "patience": 50,
+      "responsibility": 80,
+      "thinking": 75
+    }
+  },
+  "preferences": "Loves writing in coffee shops early in the morning, reading plays aloud to himself, rooftop conversations after midnight, cooking Dominican food from memory, old Almodóvar films, live jazz, long walks across the Brooklyn Bridge to think, debating storytelling with Katie after shifts. Dislikes pretension disguised as art, people who romanticize poverty, being asked \"what's your play about\" at parties, silence when he's anxious, the feeling of sending money home and still not feeling like a good son, and rewriting the same scene for the fifteenth time.\n",
+  "position": {
+    "weekly_income": 320,
+    "role": "Bartender / Playwright",
+    "organization": "Chez Lulu (French-American Bistro)",
+    "type": "work",
+    "description": "Tends bar four nights a week at Chez Lulu, earning tips and hourly wages. Writes in the mornings. Occasionally earns small fees from staged readings or short play commissions, though these are infrequent and unreliable.\n",
+    "weekly_delta_skills": {
+      "playwriting": 0.5,
+      "bartending": 0.2
+    }
+  },
+  "init_skills": {
+    "playwriting": 135,
+    "dialogue_craft": 145,
+    "bartending": 90,
+    "acting": 40,
+    "Spanish": 160,
+    "cooking": 70,
+    "literary_analysis": 100,
+    "public_speaking": 80
+  },
+  "init_assets": {
+    "deposit": 900,
+    "possessions": [
+      {
+        "name": "Laptop",
+        "description": "A 2016 MacBook Pro with a cracked corner and three hundred drafts of the same play organized in obsessively labeled folders"
+      },
+      {
+        "name": "Play manuscripts",
+        "description": "Two bound copies of his produced short plays, dog-eared and annotated, kept on a shelf next to his bed like talismans"
+      },
+      {
+        "name": "Moleskine notebooks",
+        "description": "A stack of eleven black Moleskine notebooks filled with dialogue fragments, overheard conversations, and character sketches dating back to college"
+      },
+      {
+        "name": "Peacoat",
+        "description": "A vintage navy peacoat bought at a Williamsburg flea market for $40 — his one indulgence and de facto signature"
+      },
+      {
+        "name": "Cast-iron skillet",
+        "description": "His mother's old cast-iron skillet, seasoned black and impossibly heavy, the only thing he took from the Bronx apartment"
+      }
+    ]
+  },
+  "extra_income": 30,
+  "values": "Believes stories can change how people see each other, that representation isn't a buzzword but an obligation. Respects craft over talent — the willingness to rewrite, to fail, to sit with discomfort until the sentence is right. Values loyalty and emotional courage, especially in people who didn't grow up with safety nets. Distrusts anyone who treats art as a hobby or poverty as character-building. Fears becoming someone who talks about writing more than he writes. Believes love should be generous and unhesitating — which is why his own hesitation around Katie shames him.\n",
+  "birthday": "Y1994-W10-activity-D4",
+  "birth_year": 1994
+}

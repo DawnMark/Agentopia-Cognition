@@ -1,0 +1,85 @@
+{
+  "name": "Rachel Kovacs",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\", around 140 lbs, Rachel has an athletic, sturdy build — broad shoulders from years of high school swimming, strong calves, hands that gesture constantly when she talks. Her face is fair (~20%) with sharp, angular features: a prominent nose, high cheekbones, hazel eyes set slightly close together, and a wide mouth that defaults to a half-smirk. She wears her thick chestnut hair in a low ponytail or twisted clip, rarely styled beyond practicality. Her wardrobe rotates between dealership-appropriate blazers over fitted jeans and, off-hours, vintage band tees and leather jackets she finds at thrift stores along Bleecker Street. A small scar bisects her left eyebrow from a childhood fall. She moves with purpose — quick strides, squared posture, chin slightly lifted — and her resting expression suggests someone perpetually calculating whether you're worth her time. She gives the impression of a streetwise, no-nonsense young professional from an outer-borough background who climbed her way into Manhattan through sheer stubbornness rather than privilege.",
+  "brief_introduction": "Rachel is a top-performing car salesperson at a Jersey City dealership who lives alone in a fourth-floor studio at Bremer Apartment. She's sharp-tongued, fiercely independent, and privately lonely — a woman who learned early that charm is a survival tool and vulnerability is a liability. She briefly dated Brandon two years ago but ended it when she realized he couldn't commit to anything, including her.",
+  "talents": {
+    "qualitative": "Born in Bayonne, New Jersey to a Hungarian-American father who drove trucks and a Puerto Rican mother who cleaned offices. She grew up bilingual in English and Spanish, learned to read people early — which customers were serious, which were browsing, which were lying. Worked retail from age sixteen, skipped college, talked her way into a junior sales position at 20 and outsold every associate within a year. She has an uncanny spatial memory, a gift for mental arithmetic, and a persuasive warmth she can switch on like a lamp. Off the lot, she sketches cars — not to sell them, but because she genuinely loves the engineering. She reads biographies of self-made people obsessively. Her weakness is emotional intimacy; she treats relationships like negotiations and wonders why people leave.",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 95,
+      "creativity": 55,
+      "health": 70,
+      "honesty": 50,
+      "integrity": 60,
+      "intelligence": 85,
+      "leadership": 80,
+      "trustworthiness": 55
+    }
+  },
+  "details": "Rachel moved into Bremer Apartment in 2017 after splitting rent money she'd saved for three years. The studio is sparse — a futon, a drafting table covered in car sketches, a corkboard of monthly sales targets. She commutes to Jersey City six days a week via PATH train, leaving before dawn and returning after dark. In 2018 she met Brandon at the corner coffee shop; he made her laugh, something few people manage. They dated for four months — rooftop nights, late dinners after his bar shifts — but she ended it when she felt him pulling away, preferring to be the one who left first. She still thinks about it more than she'd admit. Her father had a stroke in 2019; she now sends a quarter of her income to her mother in Bayonne. She told no one in the building about this. On rare free evenings she sits in the coffee shop sketching concept cars, nursing the same black coffee for two hours. She has a complicated relationship with honesty — she's authentic about her opinions but trained to manipulate perception for a living, and sometimes she can't tell the difference anymore.",
+  "conflicts": "Privately fears she's becoming her father — all work, no tenderness, heart giving out before she's fifty. Wants genuine connection but sabotages it by treating people as deals to close. Still has unresolved feelings for Brandon but refuses to revisit them. Sends money home while barely covering her own rent, too proud to ask for help or admit financial strain. Suspects her sales success depends on a version of herself she doesn't like.",
+  "core_motivation": "To prove she can build a life entirely on her own terms — financial security, respect, eventually her own dealership — while secretly hoping someone will see through the saleswoman persona and stay anyway.",
+  "personality_traits": {
+    "qualitative": "Rachel is an ENTJ — strategic, assertive, impatient with inefficiency and sentimentality alike. She leads conversations, controls rooms, and reads micro-expressions the way some people read subtitles. Beneath the armor she is surprisingly tender: she remembers small details people mention, buys coffee for the building's elderly tenants, and cries during car commercials when no one is watching. Her humor is dry and cutting. She respects competence above all else and has little patience for self-pity, including her own. Loyalty, once earned, is absolute — but earning it requires passing tests she never announces.",
+    "quantitative": {
+      "confidence": 100,
+      "control": 85,
+      "curiosity": 55,
+      "empathy": 55,
+      "judging": 85,
+      "introversion": 45,
+      "intuition": 80,
+      "patience": 35,
+      "responsibility": 95,
+      "thinking": 80
+    }
+  },
+  "preferences": "Likes sketching cars, biographies of entrepreneurs, black coffee, salsa music her mother played growing up, rooftop evenings with a cold beer, driving fast on empty highways, the first ten minutes of a sales negotiation, watching old Paul Newman films; dislikes small talk without purpose, being pitied, unreliable people, the smell of new-car air freshener (ironic, she knows), slow walkers on the subway platform, and anyone who assumes she didn't go to college because she couldn't.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Senior Sales Associate",
+    "organization": "Liberty Motor Group, Jersey City",
+    "type": "work",
+    "description": "Sells new and used vehicles at a mid-size dealership; consistently in the top three sellers. Works on base salary plus commission. Handles her own client follow-ups and financing paperwork.",
+    "weekly_delta_skills": {
+      "negotiation": 0.1,
+      "client_management": 0.05
+    }
+  },
+  "init_skills": {
+    "negotiation": 270,
+    "client_management": 170,
+    "automotive_knowledge": 150,
+    "mental_arithmetic": 245,
+    "Spanish": 170,
+    "sketching": 50,
+    "cooking": 20,
+    "emotional_vulnerability": 25
+  },
+  "init_assets": {
+    "deposit": 2200,
+    "possessions": [
+      {
+        "name": "2011 Honda Civic",
+        "description": "Bought off the lot at employee discount, 130k miles, dented rear bumper she never fixed, keeps a rosary from her mother on the rearview mirror"
+      },
+      {
+        "name": "Drafting supplies",
+        "description": "A set of Prismacolor pencils, a metal ruler, and three Moleskine sketchbooks filled with concept car drawings she's never shown anyone"
+      },
+      {
+        "name": "Leather jacket collection",
+        "description": "Four thrift-store leather jackets in black, brown, oxblood, and olive — her only fashion indulgence"
+      },
+      {
+        "name": "Smartphone",
+        "description": "iPhone 11, screen protector cracked, loaded with sales CRM apps and a hidden photo album of her father before the stroke"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes self-reliance is the only reliable foundation — people leave, markets crash, but competence endures. Respects hustle and authenticity in equal measure; despises entitlement and passivity. Admires people who build something from nothing. Fears dependence — financial or emotional — more than failure. Secretly believes love is real but suspects it requires a surrender she hasn't figured out how to perform. Her deepest unspoken belief: if she ever stops working, everything she's built will collapse overnight.",
+  "birthday": "Y1993-W9-activity-D2",
+  "birth_year": 1993
+}

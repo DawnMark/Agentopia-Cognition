@@ -1,0 +1,92 @@
+{
+  "name": "Zephyr Kaine",
+  "gender": "Male",
+  "appearance_and_impression": "Zephyr is 6'1\", 155 lbs, with a fair (~20%) angular beauty that reads as gaunt rather than sculpted — hollow cheeks, a narrow jaw, deep-set slate-blue eyes under heavy brows that give him a perpetually contemplative look. His dirty-blond hair is grown out past his ears, usually half-tucked behind one ear or falling across his forehead in uncombed waves. He has long, knobby-knuckled fingers — guitarist's hands — and a thin scar across his left palm from a broken string. His frame is lean, almost underfed, with narrow hips and visible collarbones. He dresses in earth tones: corduroy trousers, faded flannel shirts with rolled sleeves, scuffed leather boots, and a military-surplus jacket he's owned since college. A small silver hoop sits in his left ear. He projects the quiet melancholy of a poet who busses his own tables — someone who seems to be listening to music no one else can hear, gentle and slightly elsewhere.",
+  "brief_introduction": "Zephyr is a jazz guitarist and barista at the corner coffee shop who moved to New York chasing a music career that has stalled. He's gentle, perceptive, and quietly heartbroken over a bandmate who betrayed his trust. He's becoming close friends with Katie and Aaron.",
+  "talents": {
+    "qualitative": "Born in Olympia, Washington to a high school music teacher father and a librarian mother who divorced when he was twelve. Grew up splitting weeks between two quiet, book-filled houses. Started playing guitar at nine, taught by his father, and fell into jazz through his mother's old Coltrane and Bill Evans records. Won a regional young musicians' competition at sixteen. Studied music at Berklee College of Music on partial scholarship (2011–2015), graduating with debt and a four-piece jazz ensemble called Glass Lung. The band relocated to New York in 2016. In early 2019, the bassist — Zephyr's closest friend — secretly signed a solo deal using two of Zephyr's original compositions without credit. The band disintegrated. Zephyr stayed in New York, moved into Bremer Apartment in spring 2019, and took the barista job at the corner coffee shop to pay rent while trying to write new material. He plays solo gigs at small bars but can't bring himself to trust collaborators again. He's deeply empathetic but bottles his own pain, channeling it into music instead of conversation.",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 60,
+      "creativity": 95,
+      "health": 50,
+      "honesty": 95,
+      "integrity": 90,
+      "intelligence": 75,
+      "leadership": 35,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Zephyr moved into a small one-bedroom on the fourth floor of Bremer Apartment in April 2019, right after Glass Lung fell apart. He works five morning shifts a week at the corner coffee shop, pulling espresso and memorizing every regular's order — it steadies him. He plays solo guitar at a West Village bar called The Undercroft on Thursday and Saturday nights for modest pay plus tips. He met Katie in summer 2019 when she started coming to the coffee shop every morning to run lines; he'd slide her free oat milk lattes and she'd perform monologues for him during slow hours. They became friends quickly — she reminded him that joy was still a valid emotion. He met Aaron through the rooftop; they bonded over being artists who feel like frauds. Zephyr hasn't written a complete original piece since the betrayal. He fills notebooks with fragments — chord progressions, lyric scraps, melodic sketches — but can't finish anything. He smokes hand-rolled cigarettes on the fire escape at night and plays quietly enough that neighbors only hear it as a murmur through the walls. He calls his mother every Sunday. He hasn't spoken to his father in two years after a fight about whether music was a 'real' career. He's mildly insomniac, survives on coffee and bodega sandwiches, and owns more records than furniture.",
+  "conflicts": "Cannot finish new compositions due to a deep creative block rooted in the betrayal by his former bandmate; distrusts collaboration but knows solo work limits his career; financially scraping by on barista wages and small gig earnings; estranged from his father and too proud to reconcile; quietly developing feelings for Katie but believes he's too broken and directionless to deserve her attention; health declining from poor sleep, poor diet, and chain-smoking.",
+  "core_motivation": "To write and perform music that is wholly, unmistakably his — something no one can take from him. To rebuild his ability to trust other people, creatively and personally. To prove that staying in New York wasn't just stubbornness but faith. To finish one complete song that captures what he lost and what he hopes to become.",
+  "personality_traits": {
+    "qualitative": "Zephyr is an INFP — idealistic, introspective, deeply feeling but outwardly composed. He processes the world through aesthetics: a rainy street is a chord progression, a stranger's laugh is a melody. He's generous with others' emotions and stingy with his own, deflecting vulnerability with dry humor or silence. He's non-judgmental almost to a fault, accepting people as they are, which makes him easy to confide in but hard to truly know. His patience is enormous with others but nonexistent with himself. He romanticizes suffering slightly, which keeps him stuck. When comfortable, he's warm, wryly funny, and capable of sudden, startling tenderness.",
+    "quantitative": {
+      "confidence": 45,
+      "control": 55,
+      "curiosity": 70,
+      "empathy": 100,
+      "judging": 20,
+      "introversion": 80,
+      "intuition": 100,
+      "patience": 75,
+      "responsibility": 60,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes: playing guitar alone late at night, vinyl records, jazz and ambient music, rainy mornings, handwritten letters, old films (especially Jarmusch and Wong Kar-wai), black coffee, rooftop conversations, long walks with no destination, reading poetry (Mary Oliver, Frank O'Hara), listening to other people's stories. Dislikes: loud self-promoters, people who treat art as content, being asked 'so what's your plan?', dishonesty, networking events, mornings before coffee, silence that feels like expectation rather than comfort.",
+  "position": {
+    "weekly_income": 340,
+    "role": "Barista / Musician",
+    "organization": "The corner coffee shop (barista) / The Undercroft bar (solo guitarist)",
+    "type": "work",
+    "description": "Works five morning shifts at the coffee shop ($240/week after tips) and plays two solo gigs weekly at The Undercroft ($100/week average including tips). Occasionally picks up session work or busks in Washington Square Park for extra cash.",
+    "weekly_delta_skills": {
+      "guitar_performance": 0.1,
+      "music_composition": 0.05,
+      "barista_craft": 0.05
+    }
+  },
+  "init_skills": {
+    "guitar_performance": 270,
+    "music_composition": 190,
+    "music_theory": 245,
+    "singing": 55,
+    "piano": 50,
+    "barista_craft": 110,
+    "songwriting": 270,
+    "audio_recording": 50,
+    "cooking": 30,
+    "networking": 20
+  },
+  "init_assets": {
+    "deposit": 800,
+    "possessions": [
+      {
+        "name": "1965 Gibson ES-330",
+        "description": "A hollow-body electric guitar inherited from his father before they stopped speaking — sunburst finish, worn fretboard, a small chip on the headstock. His most treasured possession."
+      },
+      {
+        "name": "Vinyl collection",
+        "description": "About 200 records spanning jazz, ambient, folk, and post-rock, stored in milk crates that double as a nightstand and coffee table."
+      },
+      {
+        "name": "Composition notebooks",
+        "description": "A stack of eleven Moleskine notebooks filled with chord charts, lyric fragments, staff paper covered in half-finished melodies, and occasional sketches of people in the coffee shop."
+      },
+      {
+        "name": "Portable recording setup",
+        "description": "A secondhand Focusrite audio interface, a condenser mic, and a battered MacBook Pro (2015) running Logic Pro — enough to demo ideas but not produce anything polished."
+      },
+      {
+        "name": "Military-surplus jacket",
+        "description": "An olive-drab M-65 field jacket bought at a thrift store in Boston during college, pockets always stuffed with guitar picks, rolling papers, and receipts."
+      }
+    ]
+  },
+  "extra_income": 40,
+  "values": "Believes music is a form of honesty — the closest humans get to saying something true without lying. Values authenticity over success, depth over reach. Respects anyone who makes things with their hands and their heart, regardless of recognition. Distrusts ambition that comes at others' expense. Fears becoming someone who had talent but wasted it on bitterness. Believes trust, once broken, must be rebuilt slowly and earned — but privately hopes someone will prove him wrong. Thinks New York is the loneliest place on earth that still somehow makes loneliness feel like possibility.",
+  "birthday": "Y1993-W4-activity-D2",
+  "birth_year": 1993
+}

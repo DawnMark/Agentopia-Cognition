@@ -1,0 +1,95 @@
+{
+  "name": "Maddox Keller",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'11\" with a lean, somewhat angular frame at around 165 lbs, Maddox has a fair (~20%) appeal that reads more interesting than handsome — deep-set hazel eyes behind tortoiseshell glasses, a narrow jaw shadowed by perpetual stubble, sandy brown hair that falls unevenly across his forehead as though he cut it himself (he did). His skin is pale from screen-lit nights, and his hands are long-fingered and restless, always tapping or fidgeting. He dresses in muted layers — olive henleys, worn flannels, dark jeans — with a utilitarian indifference that somehow coheres into a quiet, bookish aesthetic. His posture is slightly hunched, shoulders drawn inward, giving the impression of someone who is always making himself a little smaller than he actually is. He gives off the air of a thoughtful introvert, possibly Midwestern, someone dependable but hard to reach.\n",
+  "brief_introduction": "Maddox is a backend software engineer who moved to New York from Columbus, Ohio three years ago for a job at a fintech startup. He lives alone on the fourth floor of Bremer Apartment. Quietly lonely but too proud to admit it, he fills his evenings with side projects, rooftop beers, and long walks through the Village. He's the neighbor who fixes your Wi-Fi and remembers your dog's name but can't hold eye contact for more than five seconds.\n",
+  "talents": {
+    "qualitative": "Raised in a middle-class family in suburban Columbus — father was an electrician, mother a school librarian. Had an older brother, Caleb, who died in a car accident when Maddox was nineteen, an event that hollowed out his college years and left a permanent gravity in him. Excelled in math and computer science at Ohio State but was socially withdrawn throughout. Moved to New York in 2017 seeking reinvention, found a good job but struggled to build a social life. He's methodical, quietly generous — the type to leave a bag of groceries outside a neighbor's door without a note. He channels grief into building things: apps, furniture, playlists for people who didn't ask for them. He respects Jett's directness and finds Adrian's gentleness disarming. He visits the corner coffee shop almost every evening after work.\n",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 35,
+      "creativity": 70,
+      "health": 60,
+      "honesty": 95,
+      "integrity": 100,
+      "intelligence": 70,
+      "leadership": 45,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Maddox joined a fintech startup called Lattice as employee number fourteen in 2017. The company grew; his role grew with it. He's now a senior backend engineer making decent money, though the hours are erratic and the work increasingly soulless. He lives in a one-bedroom on the fourth floor — apartment 4C — which he's furnished sparingly but thoughtfully: a walnut desk he built himself, a wall of bookshelves, a single framed photo of Caleb. He doesn't talk about Caleb unless someone earns it. He met Jett on the rooftop during the summer of 2019 when both were drinking alone; they fell into an easy, low-maintenance friendship built on shared silence and occasional blunt honesty. He knows Adrian from the coffee shop and tips generously but says little. He once consulted Grace about a lease dispute with his landlord and respects her sharpness. He's been thinking about quitting his job to build something of his own but fears the financial risk. He runs along the Hudson three mornings a week, always the same route.\n",
+  "conflicts": "Carries unresolved grief over his brother Caleb's death and has never sought therapy. Wants deeper human connections but instinctively withdraws when conversations turn personal. Torn between financial security at Lattice and a growing desire to build something meaningful on his own. Fears that he moved to New York to become someone new but has simply become the same lonely person in a more expensive apartment.\n",
+  "core_motivation": "To honor Caleb's memory by actually living — not just surviving — which means taking risks, letting people in, and building something he's proud of before another year slips past him unnoticed.\n",
+  "personality_traits": {
+    "qualitative": "Maddox is an INTP — analytical, reserved, deeply internal. He processes the world through logic first and emotion second, though the emotions are vast once they surface. He is loyal to a fault but slow to trust, and his dry, understated humor only emerges around people he feels safe with. He avoids conflict not out of cowardice but out of exhaustion — he's spent years managing his own inner turbulence and has little appetite for external drama. He is generous in quiet, practical ways: fixing things, covering tabs, showing up. His greatest flaw is emotional avoidance; his greatest strength is steadfastness.\n",
+    "quantitative": {
+      "confidence": 30,
+      "control": 70,
+      "curiosity": 95,
+      "empathy": 75,
+      "judging": 45,
+      "introversion": 90,
+      "intuition": 85,
+      "patience": 80,
+      "responsibility": 100,
+      "thinking": 90
+    }
+  },
+  "preferences": "Likes: building side projects, reading science fiction and essays, long solitary walks, rooftop evenings with a cold beer, fixing things with his hands, cooking simple meals from scratch, listening to ambient and post-rock music, the corner coffee shop at dusk, quiet companionship. Dislikes: loud bars, small talk, performative vulnerability on social media, people who mistake introversion for arrogance, being pitied, office politics, wasting time on things that don't matter.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Senior Backend Engineer",
+    "organization": "Lattice Financial Technologies",
+    "type": "work",
+    "description": "Full-time software engineer at a mid-stage fintech startup in Flatiron. Builds and maintains core transaction infrastructure. Works remotely two days a week from his apartment or the coffee shop.\n",
+    "weekly_delta_skills": {
+      "backend_development": 0.1,
+      "system_design": 0.1
+    }
+  },
+  "init_skills": {
+    "backend_development": 115,
+    "system_design": 180,
+    "frontend_development": 55,
+    "data_analysis": 75,
+    "woodworking": 50,
+    "cooking": 50,
+    "writing": 15,
+    "music": 10,
+    "negotiation": 20,
+    "public_speaking": 20
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "Custom-built walnut desk",
+        "description": "A desk he built himself from salvaged walnut boards during his first winter in New York, slightly uneven but solid and beautiful."
+      },
+      {
+        "name": "Laptop (work-issued)",
+        "description": "A 2019 MacBook Pro covered in small stickers — a Columbus Blue Jackets logo, a Haskell lambda, a faded \"I voted\" oval."
+      },
+      {
+        "name": "Personal laptop",
+        "description": "A ThinkPad X1 Carbon he uses for side projects, screen slightly cracked in one corner."
+      },
+      {
+        "name": "Framed photograph",
+        "description": "A candid photo of his brother Caleb laughing at a backyard barbecue, summer 2009. The only framed image in the apartment."
+      },
+      {
+        "name": "Tool kit",
+        "description": "A well-organized portable toolkit inherited from his father — wrenches, screwdrivers, a voltage tester, all kept in a dented metal case."
+      },
+      {
+        "name": "Running shoes",
+        "description": "A pair of worn Brooks Ghost 12s with fraying laces, used for his Hudson River runs."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that integrity is measured by what you do when no one is watching. Values competence, quiet generosity, and emotional honesty — even though he struggles with the last one himself. Respects people who show up consistently over those who show up dramatically. Distrusts charm without substance. Fears wasting his life on comfort and safety while the years accumulate. Holds his brother's memory as a private compass: Caleb lived recklessly and died young, and Maddox has overcorrected into caution — a fact he is slowly, painfully beginning to recognize.\n",
+  "birthday": "Y1991-W7-activity-D4",
+  "birth_year": 1991
+}

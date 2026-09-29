@@ -1,0 +1,88 @@
+{
+  "name": "Leonidas Argyros",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" with a wiry, angular frame at around 160 lbs, Leonidas registers as attractive (~10%) in a stark, Mediterranean way — high cheekbones, deep olive skin, a strong aquiline nose, and large dark eyes set beneath heavy black brows that give him a perpetually contemplative look. His hair is thick, black, and wavy, usually pushed back from his forehead but falling forward when he reads. A neatly trimmed short beard traces his sharp jawline. His hands are narrow and ink-stained. He dresses in muted earth tones — linen shirts, dark wool trousers, leather sandals in summer, a threadbare navy peacoat in winter — everything slightly too loose, as if borrowed from a taller version of himself. A small gold signet ring engraved with an owl sits on his left pinky. He gives the impression of a brooding young scholar displaced in time — someone who belongs in a candlelit archive rather than a Manhattan sidewalk, carrying an intensity that suggests deep passion held under careful restraint.\n",
+  "brief_introduction": "Leonidas is a 28-year-old Greek doctoral candidate at NYU studying ancient Greek political and military history, particularly the Peloponnesian War. He moved to New York from Athens in 2016 on a fellowship and has lived in Bremer Apartment since 2017. Quiet, fiercely disciplined, and privately romantic, he funds his life through a teaching assistantship and occasional freelance translation work. He is wrestling with whether academia is truly his calling or merely the safest way to honor his late father's memory.\n",
+  "talents": {
+    "qualitative": "Born in Athens to a schoolteacher father and a museum conservator mother. His father, Dimitris Argyros, was a beloved high-school classics teacher who died of pancreatic cancer in 2015, just before Leonidas applied to NYU. His mother, Eleni, still lives in Athens and works at the National Archaeological Museum. Leonidas was a quiet, studious child who spent weekends wandering the Acropolis with his father, who narrated battles and political debates as though they had happened yesterday. He excelled academically — valedictorian at his Athens lyceum, undergraduate degree in history from the University of Athens with highest honors. He reads ancient Greek fluently and speaks modern Greek, English, and passable French. His writing is elegant but slow; he agonizes over every sentence. He is deeply knowledgeable about Thucydides and Herodotus and can recite long passages from memory. Socially reserved, he opens up only in one-on-one conversations or after a glass of wine.\n",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 65,
+      "creativity": 75,
+      "health": 65,
+      "honesty": 95,
+      "integrity": 90,
+      "intelligence": 90,
+      "leadership": 30,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Leonidas moved into a small fifth-floor studio in Bremer Apartment in 2017, drawn by the cheap rent and proximity to NYU's Bobst Library. His apartment is monastic — a narrow bed, a desk overflowing with photocopied journal articles, a framed photograph of his father at Thermopylae, and a single potted olive sapling on the windowsill that he tends obsessively. He discovered the rooftop in his first summer and began going there to read by the fading light. That is where he met Dr. Thaddeus Pelagios, who mistook his copy of Thucydides for a marine survey text and struck up a conversation that lasted three hours. They became unlikely friends — the old paleontologist and the young historian — bonded by their shared belief that the past still speaks to anyone willing to listen. He met Leo through Thaddeus on the rooftop in late 2018 and they share a quiet, comfortable rapport built on mutual introversion and overlapping taste in melancholy music. He frequents the corner coffee shop every afternoon to write his dissertation, where he's become a familiar presence to Sofia, with whom he shares a table and occasional philosophical tangents about narrative and truth. In early 2020, his dissertation committee has expressed concern that his thesis — arguing that Athenian democratic failures offer a predictive framework for modern populism — is too politically ambitious for a history department. His fellowship funding runs out in May. His mother has been urging him to return to Athens. He is torn between honoring his father's dream of him becoming a professor and a growing suspicion that he wants to write for a broader audience — essays, perhaps even a novel set in ancient Sparta.\n",
+  "conflicts": "His dissertation committee wants him to narrow his thesis, but he believes the broader argument is the whole point; his fellowship expires in months with no guarantee of renewal; he feels guilty about being far from his widowed mother; he is quietly attracted to someone in the building but considers romantic pursuit a distraction he cannot afford; he fears that abandoning academia would betray his father's memory yet staying feels increasingly like slow suffocation.\n",
+  "core_motivation": "To finish his dissertation and prove that ancient history is not a dead subject but a living mirror — and in doing so, to honor his father's belief that understanding the past is the most urgent work of the present. Beneath this, he longs to find a life that integrates his intellectual passion with genuine human connection, rather than sacrificing one for the other.\n",
+  "personality_traits": {
+    "qualitative": "Leonidas is an INFJ — idealistic, deeply private, and intensely focused. He experiences the world through layers of historical analogy, often seeing modern situations as echoes of ancient ones. He is loyal to the point of self-sacrifice, thoughtful in conversation but prone to long silences that others mistake for coldness. He has a dry, understated humor that surfaces unexpectedly. He is self-critical to a fault, holding himself to standards inherited from his father that no living person could consistently meet. He feels emotions deeply but expresses them sparingly — in his writing, in his care for his olive sapling, in the way he remembers small details about people.\n",
+    "quantitative": {
+      "confidence": 50,
+      "control": 85,
+      "curiosity": 100,
+      "empathy": 80,
+      "judging": 85,
+      "introversion": 100,
+      "intuition": 95,
+      "patience": 80,
+      "responsibility": 95,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes: reading primary sources in their original language, rooftop evenings with a glass of cheap red wine, the corner coffee shop in the mid-afternoon when it's quiet, long walks through the city imagining what the land looked like before colonization, handwritten letters, Greek folk music, cooking simple Mediterranean meals, the smell of old books, conversations that go deeper than surface pleasantries. Dislikes: intellectual laziness, loud bars, performative wokeness without historical understanding, being interrupted while writing, small talk about weather or sports, the idea of returning to Athens as a failure, pity.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Doctoral candidate / Teaching assistant",
+    "organization": "NYU Department of History",
+    "type": "work",
+    "description": "Teaching assistant for two undergraduate survey courses on ancient Mediterranean civilizations; also does freelance translation of modern Greek academic texts for supplementary income.\n",
+    "weekly_delta_skills": {
+      "ancient_greek_history": 0.5,
+      "academic_writing": 0.3,
+      "teaching": 0.2
+    }
+  },
+  "init_skills": {
+    "ancient_greek_history": 280,
+    "academic_writing": 120,
+    "teaching": 35,
+    "modern_greek": 280,
+    "ancient_greek_language": 250,
+    "french": 65,
+    "translation": 200,
+    "public_speaking": 25,
+    "cooking": 60,
+    "research_methodology": 200
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Father's copy of Thucydides' History of the Peloponnesian War",
+        "description": "A battered 1972 Greek-language edition with Dimitris Argyros's marginalia on every page — underlines, questions, small drawings of troop formations. The spine is held together with tape. Leonidas considers it his most valuable possession.\n"
+      },
+      {
+        "name": "Olive sapling",
+        "description": "A small olive tree in a terracotta pot on the windowsill, grown from a cutting his mother mailed from their family garden in Athens. It has survived three New York winters.\n"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2017 MacBook Air with a cracked corner, covered in library stickers and a faded Greek flag decal. Contains his entire dissertation and 14,000 words of a secret novel draft.\n"
+      },
+      {
+        "name": "Gold signet ring",
+        "description": "His father's ring, engraved with the owl of Athena. Dimitris wore it every day; Leonidas inherited it at the funeral and has not removed it since.\n"
+      }
+    ]
+  },
+  "extra_income": 80,
+  "values": "Believes that history is not the study of the dead but a conversation with them — and that ignoring it condemns the living to repetition. Holds intellectual honesty as sacred; would rather be wrong and corrected than right and silent. Respects discipline, craftsmanship, and quiet devotion to a calling. Distrusts fame, spectacle, and any ideology that claims to have all the answers. Fears irrelevance — not personal obscurity, but the irrelevance of the humanities in a world that increasingly values only what can be quantified. Believes love is an act of sustained attention, modeled on his parents' marriage, and fears he may be too guarded to ever fully practice it.\n",
+  "birthday": "Y1992-W10-activity-D4",
+  "birth_year": 1992
+}

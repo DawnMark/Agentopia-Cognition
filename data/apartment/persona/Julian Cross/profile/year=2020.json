@@ -1,0 +1,91 @@
+{
+  "name": "Julian Cross",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'9\" with a compact, restless frame at around 150 lbs, Julian registers as fair (~20%) in a boyish, approachable way — warm brown eyes slightly too large for his face, giving him a perpetually eager look, a dusting of freckles across a snub nose, and a wide mouth that defaults to a half-grin. His sandy-blond hair is thick and chronically unkempt, falling across his forehead in unruly waves he pushes back with flour-dusted or ink-smudged fingers. His jaw is soft rather than angular, clean-shaven but often showing a day's stubble by evening. He dresses in thrift-store utilitarian — canvas jackets with too many pockets, faded black jeans, scuffed white sneakers, a battered olive messenger bag perpetually slung across his chest stuffed with shot lists and dog-eared copies of action cinema essays. He moves quickly, almost impatiently, turning corners like he's late for something important. A silver-cased Zippo lighter he doesn't use for smoking but fidgets with constantly clicks in his pocket. He gives the impression of a scrappy, slightly caffeinated film student who never quite graduated from that energy — earnest and disarmingly sincere, with an intensity about his craft that reads as either infectious passion or endearing naïveté depending on the observer.",
+  "brief_introduction": "Julian is a twenty-three-year-old aspiring director who works as a freelance video editor and part-time prep cook at a Greenwich Village bistro to fund his short films. He lives in a cramped third-floor studio in Bremer Apartment, where every surface is colonized by storyboards, miniature action figures posed for reference shots, and external hard drives. He is consumed by a vision of making stylish, kinetic action cinema that also has emotional depth — a fusion he describes as 'John Woo meets Wong Kar-wai.' He has completed two short films, both screened at minor festivals with mixed but encouraging reviews.",
+  "talents": {
+    "qualitative": "Born in Trenton, New Jersey, to a postal worker father and a nurse mother who divorced when he was ten. Grew up shuttling between two modest households, finding stability in VHS tapes — his father's collection of Hong Kong action films and his mother's preference for classic Hollywood melodramas. Started making short films on a secondhand camcorder at thirteen, recruiting neighborhood kids as actors and choreographing fight scenes in parking lots. Attended a state university on partial scholarship studying film production, graduated 2018. Moved to New York immediately, surviving on editing gigs for corporate clients and indie music videos while pouring every spare dollar into his own projects. He cooks competently — learned from his mother — and picked up prep cook shifts at a bistro two blocks from Bremer to stabilize his income. He has a natural eye for visual composition and kinetic choreography but struggles with dialogue and character interiority, which he knows is the gap between his current work and the films he admires.",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 85,
+      "creativity": 90,
+      "health": 75,
+      "honesty": 75,
+      "integrity": 70,
+      "intelligence": 70,
+      "leadership": 60,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Julian moved into Bremer Apartment in September 2019, taking over a lease from a departing NYU student. His third-floor studio is small and perpetually cluttered — a twin bed pushed against the wall beneath a corkboard pinned with storyboards, Polaroids, and torn-out magazine pages of action sequences; a desk dominated by a secondhand iMac and two monitors; a shelf of Blu-rays organized not alphabetically but by 'visual influence'; a tripod standing in the corner like a skeletal roommate. He discovered the rooftop within his first week and immediately saw it as a location — the water tower, the skyline, the warm light at golden hour. He began spending evenings there with a viewfinder, framing imaginary shots, which is how he met other tenants. He encountered Lucian Ardent during overlapping morning routines — Julian heading to a dawn editing session at the coffee shop, Lucian returning from a run — and was immediately struck by Lucian's cinematic presence; he has been quietly trying to persuade Lucian to appear in his next short film. He knows Eulalia from the coffee shop, where they share a comfortable low-key rapport; she recommends him books, he tells her about films, and she is one of the few people who has seen his short films and offered honest, thoughtful feedback. He met Cassian on the rooftop in early 2020 and they bonded over a shared love of kinetic storytelling — Julian through camera movement, Cassian through rhythm — and have been discussing a collaboration on a music-driven action short. In February 2020, Julian received a rejection from the Tribeca Film Festival for his latest short, which has shaken his confidence. Simultaneously, a corporate client has offered him a full-time editing position with benefits — stable, well-paying, and everything his mother has been begging him to accept. He is terrified that taking it means admitting his directing dream is dead, but his savings account has $340 and rent is due.",
+  "conflicts": "His Tribeca rejection has cracked his confidence at the worst possible time; a stable corporate editing job tempts him but feels like surrender; his savings are nearly gone and his mother calls weekly urging him to take the safe path; he knows his films lack emotional depth in their characters but doesn't know how to fix it without betraying his action-first instincts; he admires people in the building who seem to have their artistic identity figured out and secretly fears he is all ambition and no talent.",
+  "core_motivation": "To direct a feature-length action film that is both viscerally thrilling and emotionally true — proving to himself and the world that genre cinema can be art. Beneath this, he wants to build something lasting from the fractured halves of his childhood, to synthesize his father's love of spectacle and his mother's love of feeling into a single, coherent vision that is entirely his own.",
+  "personality_traits": {
+    "qualitative": "Julian is an ENFP — enthusiastic, idealistic, and relentlessly generative with ideas, but prone to scattered focus and emotional dips when reality fails to match his vision. He is genuinely warm and curious about other people, asking questions not to perform interest but because he instinctively sees everyone as a potential character worth understanding. He is generous with praise and quick to collaborate but privately competitive, measuring himself against directors his age who have already broken through. He masks insecurity with self-deprecating humor and relentless forward motion. When excited about a project, he becomes almost manic in his energy; when dejected, he goes quiet and cooks elaborate meals for whoever is nearby, feeding people as a proxy for connection.",
+    "quantitative": {
+      "confidence": 55,
+      "control": 30,
+      "curiosity": 100,
+      "empathy": 80,
+      "judging": 35,
+      "introversion": 10,
+      "intuition": 70,
+      "patience": 50,
+      "responsibility": 55,
+      "thinking": 65
+    }
+  },
+  "preferences": "Loves choreographing action sequences, watching Hong Kong and Korean cinema, cooking comfort food for friends, scouting locations in the city, sketching storyboards, rooftop conversations at dusk, finding the perfect needle-drop song for a scene; dislikes pretentiousness in film criticism, being told action movies are 'lesser,' slow administrative work, asking people for money, sitting still for more than twenty minutes, the smell of his corporate client's midtown office.",
+  "position": {
+    "weekly_income": 380,
+    "role": "Freelance video editor / part-time prep cook",
+    "organization": "Self-employed (editing) / Café Loup bistro (kitchen)",
+    "type": "work",
+    "description": "Earns roughly $220/week from freelance corporate and music video editing gigs, plus $160/week from three prep cook shifts at a neighborhood bistro. All surplus income is funneled into equipment rental and production costs for his short films.",
+    "weekly_delta_skills": {
+      "film_directing": 0.2,
+      "video_editing": 0.1,
+      "cooking": 0.05
+    }
+  },
+  "init_skills": {
+    "film_directing": 85,
+    "video_editing": 120,
+    "cinematography": 85,
+    "screenwriting": 30,
+    "action_choreography": 65,
+    "cooking": 70,
+    "storyboarding": 145,
+    "sound_design": 20,
+    "production_management": 20
+  },
+  "init_assets": {
+    "deposit": 340,
+    "possessions": [
+      {
+        "name": "Secondhand iMac editing station",
+        "description": "A 2017 iMac with two external monitors, a cracked corner on the left display, loaded with Adobe Premiere and DaVinci Resolve — the center of his creative life."
+      },
+      {
+        "name": "Canon EOS R camera",
+        "description": "Bought used from a retiring wedding videographer for $1,200 — his most expensive possession. Kept in a padded case with two lenses and a variable ND filter."
+      },
+      {
+        "name": "Storyboard archive",
+        "description": "Three Moleskine sketchbooks filled with hand-drawn storyboards for twelve unrealized projects, plus the two completed short films, organized by colored tabs."
+      },
+      {
+        "name": "Hong Kong cinema Blu-ray collection",
+        "description": "Forty-seven Blu-rays and DVDs — John Woo, Tsui Hark, Johnnie To, Park Chan-wook — arranged on a shelf by visual influence rather than alphabet."
+      },
+      {
+        "name": "Silver Zippo lighter",
+        "description": "A gift from his father on his eighteenth birthday, engraved with 'Keep the fire.' He doesn't smoke but fidgets with it constantly during creative blocks."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that action cinema is an underappreciated art form capable of conveying emotion as powerfully as any drama — and that the distinction between 'genre' and 'art' is a lie told by insecure critics. Respects anyone who commits fully to a craft, regardless of whether they succeed. Holds authenticity and generosity as the highest virtues; despises gatekeeping and artistic snobbery. Fears mediocrity more than poverty — the idea that he might be competent but never exceptional haunts him. Believes collaboration makes everything better and that feeding someone is a form of love. Distrusts the corporate world but feels the gravitational pull of financial security. Wants to believe that persistence eventually defeats talent that quits, but the Tribeca rejection has made that faith wobble.",
+  "birthday": "Y1996-W7-activity-D5",
+  "birth_year": 1996
+}

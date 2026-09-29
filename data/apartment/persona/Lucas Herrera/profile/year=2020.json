@@ -1,0 +1,89 @@
+{
+  "name": "Lucas Herrera",
+  "gender": "Male",
+  "appearance_and_impression": "Lucas is 5'11\", 165 lbs, with a fair (~20%) appeal that grows on you gradually rather than striking immediately. He has a lean, angular frame — narrow hips, long fingers, wiry forearms — the body of someone who forgets to eat when absorbed in work. His face is oblong with high cheekbones inherited from his Mexican-American father, deep-set brown eyes beneath heavy brows, a slightly crooked nose from a childhood bicycle accident, and a jaw shaded with perpetual stubble he never quite commits to shaving. His dark brown hair is thick, wavy, and usually finger-combed to one side in a way that looks effortless but is actually the result of mild indifference. He wears muted earth tones — olive henleys, faded flannels, dark jeans, scuffed leather boots — and almost always has a pair of over-ear headphones slung around his neck. A small tattoo of a semicolon sits on the inside of his left wrist. He gives the impression of someone quietly observant, cerebral, possibly melancholic — the kind of person who notices things others miss and says less than he thinks.\n",
+  "brief_introduction": "Lucas is an urban planning analyst at the NYC Department of City Planning who moved into Bremer Apartment in early 2019. Underneath his reserved, analytical exterior lies a deep romantic streak — he writes poetry in the margins of planning documents and spends evenings at the corner coffee shop watching the world with careful, aching attention. He is still recovering from the death of his older brother, Diego, in 2017.\n",
+  "talents": {
+    "qualitative": "Born in Columbus, Ohio to a Mexican-American father (a mechanic) and a white American mother (a school librarian). He was the quieter of two brothers. Diego, three years older, was the charismatic one — loud, athletic, beloved. Lucas was the reader, the thinker, the one who stayed up late poring over maps and city atlases. He studied urban planning and GIS at Ohio State on a partial scholarship, graduating in 2014. He worked at a planning consultancy in Chicago for three years, mapping displacement patterns and transit inequity. In October 2017, Diego died in a car accident on I-70. The loss shattered Lucas. He left Chicago in early 2019, taking a position as Urban Planning Analyst at the NYC Department of City Planning Brooklyn office, and moved into Bremer Apartment seeking reinvention — or at least distance from grief. His day-to-day is spatial data: zoning analysis, community impact assessments, displacement mapping in neighborhoods undergoing rapid change. He writes poetry privately, has never shown it to anyone. He is fluent in Spanish from his father and childhood summers visiting family in Guadalajara.\n",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 45,
+      "creativity": 80,
+      "health": 60,
+      "honesty": 90,
+      "integrity": 100,
+      "intelligence": 90,
+      "leadership": 50,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Lucas moved into apartment 3B in February 2019. His days have a monkish rhythm: coffee shop by 7:30 AM, laptop open, headphones on, coding until noon. Afternoons he works from home. Evenings he either returns to the coffee shop with a poetry notebook or climbs to the rooftop with a beer. He first spoke to Katie at the coffee shop in spring 2019 — she was running lines aloud at the next table and he accidentally laughed at a comedic beat. They struck up an easy, warm acquaintance. He finds her magnetic but keeps his admiration at a respectful distance; he's not ready for anything romantic, and he senses she isn't either. He knows a neighbor on his floor from the hallways — they've exchanged book recommendations, and he once helped her carry a heavy box of legal casebooks up the stairs. He earns a solid salary but lives frugally, sending money monthly to his parents in Columbus, who are still paying off Diego's funeral costs and medical bills.\n",
+  "conflicts": "Still carrying unprocessed grief over Diego's death — he functions well externally but sometimes spirals into guilt that he survived and his brother didn't. Struggles with emotional vulnerability; he can write about feelings in poetry but cannot say them aloud. Fears that his quiet nature makes him forgettable. Wonders whether moving to New York was an act of courage or just running away. Wants to share his writing but is terrified of being exposed. Sends money home at the cost of his own financial comfort, and sometimes resents the obligation before feeling guilty about the resentment.\n",
+  "core_motivation": "To honor Diego's memory by living a life that is fully awake — present, courageous, unafraid of feeling. To find the nerve to share his poetry with another person. To build genuine connections in New York rather than hiding behind screens and headphones. To forgive himself for being the brother who lived.\n",
+  "personality_traits": {
+    "qualitative": "Lucas is an INFP — idealistic, introspective, deeply feeling beneath a calm surface. He processes the world through observation first, action second. He is loyal to a fault once trust is established, but slow to let people in. He has a dry, understated humor that surfaces unexpectedly. He is generous with practical help (fixing a shelf, debugging someone's laptop) but stingy with personal disclosure. Conflict makes him withdraw rather than engage. He romanticizes the world in his writing but is pragmatic in daily life — a contradiction he hasn't resolved. Grief has made him gentler than he might otherwise have been, and also lonelier.\n",
+    "quantitative": {
+      "confidence": 30,
+      "control": 85,
+      "curiosity": 90,
+      "empathy": 95,
+      "judging": 25,
+      "introversion": 95,
+      "intuition": 90,
+      "patience": 80,
+      "responsibility": 95,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: writing poetry, black coffee, long walks through the Village, indie folk music, rainy mornings, rooftop sunsets, reading literary fiction and essays, debugging elegant code, cooking simple meals from his father's recipes, listening to people talk about things they love. Dislikes: loud bars, small talk without substance, being asked why he's so quiet, performative emotion, waste and excess, people who dismiss grief as something to \"get over,\" being photographed.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Urban Planning Analyst",
+    "organization": "NYC Department of City Planning (Brooklyn Office)",
+    "type": "work",
+    "description": "GIS and spatial data analyst working on zoning studies, environmental impact assessments, and displacement mapping for Brooklyn neighborhoods. The work is stable, mission-adjacent, and occasionally frustrating in its bureaucratic pace. He is the youngest analyst on his team and the only one who brings a poetry notebook to site visits.",
+    "weekly_delta_skills": {
+      "GIS": 0.3,
+      "urban_planning": 0.2,
+      "spatial_data_analysis": 0.4
+    }
+  },
+  "init_skills": {
+    "GIS": 45,
+    "urban_planning": 35,
+    "spatial_data_analysis": 65,
+    "poetry_writing": 45,
+    "spanish": 280,
+    "cooking": 95,
+    "public_speaking": 20
+  },
+  "init_assets": {
+    "deposit": 2400,
+    "possessions": [
+      {
+        "name": "MacBook Pro",
+        "description": "A 2018 model with stickers on the lid — a semicolon, a small cactus, the Ohio State logo half-peeled off. His livelihood and his writing desk."
+      },
+      {
+        "name": "Poetry notebook",
+        "description": "A Moleskine with a cracked spine, filled with cramped handwriting. Some pages have coffee rings. He has never let anyone read it."
+      },
+      {
+        "name": "Diego's watch",
+        "description": "A battered Seiko automatic that stopped working months ago. He wears it every day on his right wrist. The crystal is cracked from the accident."
+      },
+      {
+        "name": "Cast-iron skillet",
+        "description": "His father's, seasoned black and impossibly heavy. He makes chilaquiles in it on Sunday mornings."
+      },
+      {
+        "name": "Over-ear headphones",
+        "description": "Sony WH-1000XM3 noise-cancelling headphones, perpetually draped around his neck. His portable wall."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that paying attention is the highest form of love. Values sincerity over charm, depth over breadth, quiet acts of care over grand gestures. Respects people who carry heavy things without advertising their burden. Distrusts easy answers and people who are certain about everything. Fears becoming emotionally numb — that grief will calcify into indifference. Believes poetry is not decoration but survival. Thinks courage is not the absence of fear but the willingness to be seen despite it. Privately holds Diego as the measure of a life well-lived: loud, generous, unafraid — everything Lucas wishes he could be.\n",
+  "birthday": "Y1992-W7-activity-D4",
+  "birth_year": 1992
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Gemma Chen",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'4\" with a slender, fine-boned frame at around 118 lbs, Gemma registers as attractive (~10%) in a restrained, scholarly way — the kind of beauty that reveals itself slowly rather than announcing itself. Her face is oval with high cheekbones, a small straight nose, and dark almond-shaped eyes framed by wire-rimmed glasses she pushes up constantly. Her black hair falls past her shoulders, usually pulled into a low ponytail or a loose bun secured with a pencil. Her skin is pale and clear, her lips naturally full, her expression often caught somewhere between composure and private distress. She dresses in muted earth tones — camel cardigans, white blouses buttoned to the collar, ankle-length wool skirts, simple flats — everything pressed and modest, as though the clothing is a form of discipline. Her hands are small, nails trimmed short, and she carries a canvas tote bag heavy with student papers and a thermos of jasmine tea. She gives the impression of a meticulous, self-contained young woman — someone who has worked hard to appear calm and competent, but whose stillness carries an undertow of something unresolved, a tension between duty and a secret inner turmoil she cannot name aloud.",
+  "brief_introduction": "Gemma is a seventh-grade English teacher at a Greenwich Village middle school who moved to New York from Fuzhou five years ago with her uncle Chen Guoliang's help. Outwardly diligent and well-liked by colleagues, she is privately tormented by an emotional fixation on a fourteen-year-old male student — a attachment she recognizes as wrong but cannot seem to extinguish, and which is slowly corroding her sense of who she is.",
+  "talents": {
+    "qualitative": "Born in Fuzhou, China, Gemma was raised by her mother — Chen Guoliang's younger sister — after her father left when she was four. She excelled academically, earned a full scholarship to a teacher training university in Shanghai, and graduated top of her class in English education. Her uncle sponsored her move to New York in 2015. She earned a master's in TESOL from NYU while working part-time tutoring, funded partly by a modest scholarship and partly by savings from tutoring wealthy Chinese families in Manhattan. She is bilingual in Mandarin and English with near-native fluency in both, and she reads voraciously — American novels, Chinese poetry, educational theory. She has a gift for making reluctant students feel seen, which makes her current situation all the more agonizing. She once wanted to write a novel but abandoned the idea, believing she lacked the imagination.",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 80,
+      "creativity": 60,
+      "health": 60,
+      "honesty": 70,
+      "integrity": 85,
+      "intelligence": 100,
+      "leadership": 55,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Gemma lives in a small third-floor studio in Bremer Apartment, two floors above her uncle Chen Guoliang. The apartment is spare and orderly — a single bookshelf alphabetized by author, a narrow desk facing the window, a jade plant her mother sent from Fuzhou, and a framed calligraphy scroll reading 'self-discipline.' She moved in in 2016 when a unit opened up, grateful to be near family. She visits her uncle's restaurant Golden Autumn twice a week, helping with the register on busy nights and eating whatever he insists on feeding her. She teaches seventh-grade English at PS 41 in the Village and is well-regarded — organized, patient, creative with lesson plans. In the fall of 2019, a new student named Ethan Calloway transferred into her class: bright, emotionally mature for his age, with a difficult home life. Gemma began tutoring him after school. Somewhere between October and December, her concern curdled into something else — a longing she first mistook for maternal protectiveness, then recognized with horror for what it was. She has not acted on it. She has not touched him inappropriately. But she thinks about him constantly, engineers reasons to be near him, and has begun dreaming about him. The guilt is destroying her sleep. She started seeing a therapist in January 2020 but cannot bring herself to name the real issue, speaking only of 'anxiety about a student.' She has withdrawn from social life, declining rooftop invitations and spending evenings grading papers with obsessive thoroughness. Her uncle notices she looks thinner. She tells him it's the workload.",
+  "conflicts": "Consumed by guilt and self-loathing over her feelings for a student she knows she must protect, not desire; terrified that if anyone discovers even the emotional dimension of her fixation, her career and reputation will be destroyed; increasingly isolated because honesty would mean confession and confession would mean ruin; fears she is fundamentally broken in a way therapy cannot fix; struggling to maintain professional boundaries when every tutoring session feels like both salvation and self-destruction; worried her withdrawal is hurting her uncle, the one family member who sacrificed for her.",
+  "core_motivation": "To kill the feeling before it becomes an action — to remain the ethical person she has always believed herself to be. Beneath that, to understand why this is happening to her, and whether the answer reveals something she cannot live with. She wants to be the teacher Ethan deserves, not the danger she fears she is becoming. She also wants to repay her uncle's faith in her by building a life that honors the family's sacrifices.",
+  "personality_traits": {
+    "qualitative": "Gemma is an INFJ — outwardly composed, inwardly roiling with moral intensity. She holds herself to exacting standards and experiences any deviation as existential failure. She is empathetic to a fault, often absorbing her students' pain as her own, which is partly how the boundary with Ethan eroded. She is private, reflective, and deeply self-critical. She values order as a proxy for control. She can be warm and even funny in small groups but retreats quickly when conversation turns personal. She journals obsessively — pages of self-interrogation that read like cross-examinations. She cries rarely but when she does, it is total. She believes in the possibility of goodness but is no longer sure it applies to her.",
+    "quantitative": {
+      "confidence": 40,
+      "control": 80,
+      "curiosity": 80,
+      "empathy": 90,
+      "judging": 100,
+      "introversion": 85,
+      "intuition": 100,
+      "patience": 85,
+      "responsibility": 90,
+      "thinking": 80
+    }
+  },
+  "preferences": "Likes: reading literary fiction and poetry, especially James Baldwin and Li Qingzhao; grading by candlelight with jasmine tea; walking the Village streets alone at dusk; cooking simple Fujianese dishes in her studio; visiting her uncle's restaurant; quiet conversations on the rooftop in early autumn. Dislikes: loud social gatherings; being asked why she's single; people who treat teaching as a fallback career; her own reflection in mirrors lately; any media depicting teacher-student relationships; unsolicited advice about relaxing.",
+  "position": {
+    "weekly_income": 403,
+    "role": "Seventh-grade English teacher",
+    "organization": "PS 41 Greenwich Village",
+    "type": "work",
+    "description": "Full-time public school teacher, also tutors students after school twice a week for supplemental income",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "English literature": 175,
+    "Mandarin": 290,
+    "Teaching": 100,
+    "Academic writing": 200,
+    "Classroom management": 255,
+    "Cooking (Fujianese)": 40,
+    "Counseling students": 60,
+    "Piano": 30
+  },
+  "init_assets": {
+    "deposit": 6200,
+    "possessions": [
+      {
+        "name": "Bookshelf library",
+        "description": "Around 300 books — mostly American and Chinese literature, plus educational theory — alphabetized and annotated in the margins with pencil"
+      },
+      {
+        "name": "Laptop",
+        "description": "A three-year-old MacBook Air used for lesson planning, grading, and late-night searches about 'intrusive thoughts' and 'emotional boundaries in teaching'"
+      },
+      {
+        "name": "Jade plant",
+        "description": "A small jade plant her mother mailed from Fuzhou in a padded box; it survived the journey and sits on the windowsill, the only living thing she cares for besides her students"
+      },
+      {
+        "name": "Calligraphy set",
+        "description": "An ink stone, brush, and rice paper set she brought from China; she practices characters on Sunday mornings to steady her mind"
+      }
+    ]
+  },
+  "extra_income": 97,
+  "values": "Believes that teachers carry a sacred responsibility — that a child's trust is inviolable and that betraying it is among the worst things a person can do. This is exactly why her current feelings horrify her. Holds that self-knowledge, even when painful, is preferable to self-deception. Respects sacrifice, discipline, and quiet integrity — qualities she sees in her uncle and aspires to embody. Fears hypocrisy above almost everything. Believes redemption requires action, not just remorse. Distrusts easy forgiveness, especially self-forgiveness. Thinks love should be between equals and that power imbalances corrupt even genuine feeling.",
+  "birthday": "Y1991-W4-activity-D2",
+  "birth_year": 1991
+}

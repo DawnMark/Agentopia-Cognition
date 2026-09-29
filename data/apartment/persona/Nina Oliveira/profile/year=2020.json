@@ -1,0 +1,88 @@
+{
+  "name": "Nina Oliveira",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'4\" and approximately 118 lbs, Nina has a fair (~20%) delicate beauty with an understated elegance. She has deep-set dark brown eyes beneath strong, expressive brows, a narrow aquiline nose, full lips that press together when she concentrates, and thick black hair she keeps in a low bun secured with a pencil or chopstick. Her skin is a warm olive-bronze, faintly shadowed beneath the eyes from chronic undersleeping. Her frame is slight, almost birdlike — narrow shoulders, thin wrists, long fingers callused on the left from years of strings. She dresses simply: black turtlenecks, wool trousers, ankle boots, a camel-colored coat that's slightly too large for her. She carries a battered violin case everywhere like a limb she can't detach. She gives the impression of a serious, quietly intense young woman — someone raised on discipline and solitude, carrying a faint melancholy that suggests displacement and homesickness.\n",
+  "brief_introduction": "Nina is a Brazilian-born classical violinist pursuing her Master's at Manhattan School of Music, living alone in a small fifth-floor studio at Bremer Apartment. She is disciplined, introspective, and quietly passionate — fiercely devoted to her craft but increasingly questioning whether technical mastery is enough, or whether she needs to find her own artistic voice. She supplements her scholarship with private violin and piano lessons for children on the Upper West Side.\n",
+  "talents": {
+    "qualitative": "Born in São Paulo to a Brazilian-Portuguese father (a high school music teacher) and a Japanese-Brazilian mother (an accountant). Started violin at age five at her father's insistence. Won a national youth competition at fourteen, which earned her a partial scholarship to a conservatory in São Paulo. Her father died of a heart attack when she was nineteen, just before she applied to study abroad. Her mother, stoic and practical, sold the family car to help fund her move to New York. Nina carries guilt about the financial sacrifice and sends money home monthly. She has one younger brother, Tomás, sixteen, still in São Paulo. She speaks Portuguese, English, and conversational Japanese. Musically brilliant in classical repertoire but has recently become drawn to jazz and improvisation after hearing Simon play through the floor of her apartment. She struggles with perfectionism and the fear that she is merely technically proficient rather than truly original.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 50,
+      "creativity": 75,
+      "health": 60,
+      "honesty": 100,
+      "integrity": 95,
+      "intelligence": 75,
+      "leadership": 45,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Nina moved into Bremer Apartment in August 2019, taking a tiny fifth-floor studio directly above Simon's unit. For weeks she heard piano drifting up through the floorboards — Monk, Ellington, originals she couldn't identify — and it unsettled something in her classical training. She left a note under Simon's door introducing herself; he invited her for tea and they've had an informal teacher-student relationship around jazz harmony ever since. She met Katie in the laundry room in September 2019 and they bonded over being women trying to survive on art in an indifferent city. She sees Jamal every morning at the coffee shop, where they share a quiet, comfortable routine — he remembers her order (cortado, oat milk) and they exchange a few warm words about their respective studies. She knows Leo only peripherally, through rooftop gatherings, but she's heard him play guitar and respects his musicality. She has not spoken much to the others. Nina practices four to six hours daily. Her recital for her Master's jury is in May 2020 and she is terrified. She has been considering incorporating an improvised passage into her program — a radical move in her classical world — inspired by Simon's teaching. She calls her mother every Sunday and lies about how happy she is.\n",
+  "conflicts": "Torn between the classical path her late father set her on and a growing desire to explore jazz and improvisation, which feels like a betrayal of his memory. Crippling perfectionism that leaves her paralyzed before performances. Financial strain — her scholarship covers tuition but not living expenses, and her teaching income barely covers rent and the money she sends home. Deep loneliness exacerbated by her introversion and the language barrier she still occasionally feels. Guilt about leaving her mother and brother in São Paulo. Afraid that if she fails in New York, her father's sacrifice and her mother's will have been for nothing.\n",
+  "core_motivation": "To honor her father's memory by becoming a musician worthy of the sacrifices her family made — but increasingly, to discover what kind of musician she actually wants to be, not just the one she was trained to be. To find the courage to improvise, both musically and in life. To build a sense of home in a city that still feels foreign.\n",
+  "personality_traits": {
+    "qualitative": "Nina is an INFJ — introspective, idealistic, quietly intense. She processes the world through feeling and intuition but presents a composed, disciplined exterior. She is deeply empathetic but struggles to express her own needs, preferring to listen rather than burden others. Her perfectionism masks a profound fear of inadequacy. She is loyal once trust is earned, but slow to open up — her friendships are few and deep rather than broad. She has a dry, subtle humor that surprises people who mistake her quietness for humorlessness. She can be stubborn when she believes in something, and she holds herself to impossible standards. Under stress, she withdraws rather than lashes out.\n",
+    "quantitative": {
+      "confidence": 30,
+      "control": 75,
+      "curiosity": 80,
+      "empathy": 95,
+      "judging": 50,
+      "introversion": 95,
+      "intuition": 95,
+      "patience": 70,
+      "responsibility": 95,
+      "thinking": 80
+    }
+  },
+  "preferences": "Likes: practicing in the early morning when the building is silent, strong coffee, handwritten letters, walking across the Brooklyn Bridge alone, listening to Simon play through the floor, reading Clarice Lispector in Portuguese, rainy afternoons, the smell of rosin, quiet conversations with one person at a time. Dislikes: loud crowded bars, being put on the spot socially, small talk, being told to relax, people who treat music as content rather than craft, wastefulness, dishonesty, the sound of her own recorded playing.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Graduate student / Private music tutor",
+    "organization": "Manhattan School of Music — Master of Music, Violin Performance",
+    "type": "non-work",
+    "description": "Full-time Master's student on partial scholarship. Teaches private violin and beginner piano lessons to four children on the Upper West Side, three afternoons per week.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "violin": 240,
+    "music_theory": 240,
+    "piano": 75,
+    "jazz_improvisation": 15,
+    "sight_reading": 240,
+    "teaching": 80,
+    "Portuguese": 240,
+    "English": 105,
+    "Japanese": 95,
+    "cooking": 30
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Violin",
+        "description": "A 1920s German workshop violin her father bought secondhand when she was twelve — not valuable by professional standards but irreplaceable to her. The varnish is worn where her chin rests."
+      },
+      {
+        "name": "Sheet music collection",
+        "description": "Three boxes of annotated scores spanning Bach partitas to Bartók concertos, many with her father's handwritten notes in the margins from when he first taught her."
+      },
+      {
+        "name": "Laptop",
+        "description": "A refurbished MacBook Air purchased in 2018, used for coursework, video calls with her mother, and recording practice sessions she rarely listens back to."
+      },
+      {
+        "name": "Gold chain necklace",
+        "description": "A thin gold chain with a small São Jorge medallion that belonged to her father. She wears it every day under her shirt."
+      },
+      {
+        "name": "Metronome",
+        "description": "A mechanical Wittner metronome, wooden pyramid style, a gift from her conservatory teacher in São Paulo. She prefers it to digital."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes music is a form of prayer — sacred, demanding, not to be cheapened. Respects discipline, sacrifice, and anyone who pursues mastery over comfort. Values honesty, loyalty, and emotional depth in relationships. Distrusts superficial charm and people who treat ambition as performance. Fears mediocrity, but fears even more the possibility that she has traded her own identity for her father's dream. Believes love must be patient and built on mutual understanding, not spectacle. Secretly longs to be known fully by someone and accepted — not for her talent, but for the uncertain, imperfect person underneath.\n",
+  "birthday": "Y1996-W4-activity-D5",
+  "birth_year": 1996
+}

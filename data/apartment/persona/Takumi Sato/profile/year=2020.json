@@ -1,0 +1,92 @@
+{
+  "name": "Takumi Sato",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 173cm and weighing 68kg, Takumi has a lean, sinewy frame shaped by years of standing behind a counter with a knife. His face is angular and composed — high cheekbones, a narrow jaw, dark brown eyes set deep beneath straight brows that give him a perpetually contemplative expression. His black hair is cropped short and neat, always immaculate, as though even a single strand out of place would offend his sense of order. His hands are his most striking feature: slim, scarred in fine white lines across the knuckles and fingertips, and unnervingly steady. He dresses in muted tones — navy, charcoal, white — with a preference for clean-lined Japanese workwear and simple leather shoes. His appearance falls in the attractive range (~10%), not through conventional glamour but through an austere, quiet elegance that suggests discipline and intention in every detail. He carries the faint scent of rice vinegar and hinoki wood. His manner suggests a craftsman of exacting standards, someone raised in tradition and shaped by solitude — reserved, watchful, and self-contained, with an interior life far richer than his sparse words reveal.\n",
+  "brief_introduction": "Takumi is the owner and sole chef of Sato, a twelve-seat omakase sushi bar tucked into the ground floor two blocks from Bremer Apartment. He moved from Osaka to New York in 2010 after apprenticing for eight years under a demanding itamae in Kitashinchi. He lives alone on the second floor of Bremer Apartment. His life revolves around fish, rice, seasonal rhythm, and an almost monastic devotion to craft. He is quiet, generous in indirect ways, and carries the unspoken grief of a marriage that ended because he chose his knife over companionship.\n",
+  "talents": {
+    "qualitative": "Born in Osaka to a salaryman father and a piano-teacher mother, Takumi showed early precision in everything — calligraphy, model-building, cooking. At eighteen he abandoned a university path to apprentice at a traditional sushi restaurant, a decision that estranged him from his father for years. He spent eight years learning to wash rice, sharpen knives, and read the grain of fish before he was permitted to stand behind the counter. In 2010 he moved to New York with his then-wife Yuki, opened Sato in 2014, and earned a modest but devoted following. Yuki returned to Japan in 2017, unable to bear his obsessive hours and emotional distance. Takumi filed for divorce quietly. He channels loneliness into work, rising at 4:30 AM to visit the Fulton Fish Market. He is respected by neighbors for leaving occasional plates of surplus nigiri outside doors and for fixing a leaking pipe on the second floor himself before the super arrived.\n",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 40,
+      "creativity": 85,
+      "health": 70,
+      "honesty": 95,
+      "integrity": 90,
+      "intelligence": 70,
+      "leadership": 60,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Takumi's daily rhythm is unyielding: wake at 4:30, bike to Fulton Fish Market by 5:15, inspect and purchase fish, return by 7:00, prep rice and mise en place until 11:00, serve a small lunch seating, rest briefly, then serve dinner from 6:00 to 10:00. He closes Mondays and spends them maintaining his knives — a collection of seven single-bevel blades he treats with near-religious reverence. His apartment on the second floor is spare: a futon, a low table, a single shelf of Japanese poetry, and a photograph of his mother at a piano. He has not spoken to his ex-wife in over a year. He sends money to his aging parents in Osaka monthly. He understands English well but speaks it in clipped, careful phrases, which people sometimes mistake for coldness. In truth he is deeply observant and often moved by small human moments — a couple sharing a plate, a stranger's laughter — but he lacks the vocabulary, in any language, to say so. He has been experimenting with incorporating local Hudson Valley ingredients into traditional Edomae technique, a private rebellion against orthodoxy that thrills and terrifies him.\n",
+  "conflicts": "Struggles with the tension between traditional Japanese restraint and his growing desire for human connection in New York. His sushi bar barely breaks even — rising rent and the 2020 pandemic threaten its survival. He feels guilt over his failed marriage and wonders whether devotion to craft is nobility or selfishness. He wants to reconnect with his father, who is ill, but cannot bring himself to call. He is quietly drawn to the warmth of the Bremer community but does not know how to enter it without feeling like an intruder.\n",
+  "core_motivation": "To achieve a level of perfection in his craft that justifies everything he has sacrificed for it — his marriage, his relationship with his father, years of solitude. Beneath that, a quieter wish: to be known by someone, truly known, and to discover that he is not as empty as he fears.\n",
+  "personality_traits": {
+    "qualitative": "Takumi is an ISTJ with a strong introverted feeling undercurrent. He is methodical, disciplined, and deeply habitual. He processes emotion slowly and internally, often realizing what he felt about something days after it happened. He is generous through action rather than words — leaving food at a neighbor's door, sharpening someone's kitchen knife without being asked. He has a dry, understated humor that surfaces rarely but lands precisely. He is uncomfortable with praise and deflects compliments by changing the subject to the fish. He respects competence in others above all else and is quietly contemptuous of shortcuts. He is loyal to a fault once trust is established, but trust takes him a very long time to extend.\n",
+    "quantitative": {
+      "confidence": 55,
+      "control": 95,
+      "curiosity": 70,
+      "empathy": 80,
+      "judging": 75,
+      "introversion": 95,
+      "intuition": 70,
+      "patience": 100,
+      "responsibility": 95,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: the silence of early morning at the fish market, the sound of a sharp knife through flesh, well-made pottery, Ozu films, Bashō's haiku, the smell of cedar, black coffee, cycling along the Hudson, listening to jazz piano at low volume, watching snow fall on the city. Dislikes: loud conversation during meals, people who photograph food before tasting it, waste of any kind, unsolicited advice, artificial flavoring, dishonesty, being asked \"what's your secret ingredient,\" small talk in elevators.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Owner and Head Chef",
+    "organization": "Sato Sushi Bar",
+    "type": "work",
+    "description": "Sole proprietor and itamae of a twelve-seat omakase sushi bar two blocks from Bremer Apartment. Handles purchasing, preparation, service, and bookkeeping himself with occasional part-time help for dishwashing.\n",
+    "weekly_delta_skills": {
+      "sushi_craft": 0.1,
+      "business_management": 0.05
+    }
+  },
+  "init_skills": {
+    "sushi_and_japanese_cuisine": 300,
+    "knife_skills": 305,
+    "fish_selection_and_handling": 310,
+    "rice_preparation": 305,
+    "general_cooking": 285,
+    "business_management": 75,
+    "plumbing_and_maintenance": 80,
+    "cycling": 150,
+    "calligraphy": 85,
+    "English_language": 75,
+    "Japanese_language": 305
+  },
+  "init_assets": {
+    "deposit": 6200,
+    "possessions": [
+      {
+        "name": "Knife collection",
+        "description": "Seven single-bevel Japanese knives — yanagiba, deba, usuba, takohiki, kiritsuke, petty, and a custom-forged fugubiki — stored in a paulownia wood box lined with camellia oil cloth. Worth over $8,000 collectively; the yanagiba alone was hand-forged in Sakai by a third-generation bladesmith.\n"
+      },
+      {
+        "name": "Sushi bar equipment",
+        "description": "A hinoki wood counter, a custom refrigerated neta case, bamboo maki mats, ceramic serving plates sourced from Arita and Mashiko kilns, and a cast-iron rice cooker he shipped from Osaka.\n"
+      },
+      {
+        "name": "Bicycle",
+        "description": "A matte-black Tokyobike Classic Sport, well-maintained, used daily for the fish market run and Sunday rides along the Hudson River Greenway.\n"
+      },
+      {
+        "name": "Poetry collection",
+        "description": "A worn paperback of Bashō's \"Oku no Hosomichi\" in the original Japanese, and a bilingual edition of Ryōkan's poems — the only books on his shelf besides a fish identification guide.\n"
+      },
+      {
+        "name": "Photograph",
+        "description": "A framed black-and-white photograph of his mother playing piano in their Osaka apartment, taken by his father in 1990. The only personal decoration in his apartment.\n"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that mastery of a single discipline is the highest form of human expression. Respects patience, humility, and quiet competence. Views waste — of food, time, talent, or trust — as a moral failing. Holds that honesty is shown through consistency of action, not declaration. Fears mediocrity and emotional dependence in equal measure. Admires those who pursue something difficult without guarantee of reward. Distrusts charm and spectacle. Believes food is an act of care, and that feeding someone well is the most honest thing one person can do for another.\n",
+  "birthday": "Y1982-W3-activity-D2",
+  "birth_year": 1982
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Vera Nocturne",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" at roughly 125 lbs, Vera registers as attractive (~10%) in a sharp, angular way — high cheekbones cut like glass beneath deep-set hazel eyes rimmed with permanent dark circles that no concealer fully hides. Her collarbone juts visibly above low necklines. She has a narrow, aquiline nose, full lips usually painted matte burgundy, and bleached platinum-blonde hair grown out two inches at the roots, falling just past her shoulders in dry, brittle waves. Her frame is slender bordering on gaunt, with long legs she accentuates in thigh-high boots, fitted skirts, and oversized vintage coats scavenged from thrift bins. A small scar crosses her left eyebrow. Her nails are always painted — chipped, but painted. She carries a battered leather crossbody bag and walks with a deliberate, unhurried stride that suggests self-possession. She gives the impression of someone streetwise, guarded, and older than her years — a woman who learned early that vulnerability is a luxury, projecting a cool, transactional composure that hints at a rough history and a refusal to be pitied.\n",
+  "brief_introduction": "Vera is a 28-year-old sex worker who operates on the streets and through word-of-mouth clients near the West Village. She rents the cheapest studio in Bremer Apartment — a ground-floor unit with a window facing the alley. She has no family safety net, no degree, and no illusions about the world. She survives on calculated pragmatism and a fierce, quiet dignity that refuses to collapse into self-pity.\n",
+  "talents": {
+    "qualitative": "Born in Trenton, New Jersey to a mother who struggled with opioid addiction and a father she never met. Entered foster care at age seven after her mother's third arrest. Rotated through five homes by fifteen — some neglectful, one abusive. Aged out of the system at eighteen with a GED, $200, and a duffel bag. Moved to New York in 2011 hoping to find work in restaurants or retail. Held a series of jobs — diner waitress, nail salon receptionist, nightclub coat check — but instability, lack of references, and an eviction record kept knocking her backward. Began sex work at twenty-two, initially through a friend's introduction, as a stopgap that became permanent. She is shrewd about money, reads people with clinical accuracy, and has taught herself basic first aid, self-defense, and enough street law to know her rights during police encounters. She sketches in a small notebook — faces of strangers, buildings, pigeons — a private habit no one in the building knows about.\n",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 80,
+      "creativity": 85,
+      "health": 50,
+      "honesty": 60,
+      "integrity": 75,
+      "intelligence": 80,
+      "leadership": 30,
+      "trustworthiness": 65
+    }
+  },
+  "details": "Vera moved into Bremer Apartment in late 2018 after a violent incident with a previous landlord made her old place unsafe. She found the ground-floor studio through a Craigslist ad — $1,100 a month, no questions asked, cash preferred. She keeps odd hours: out from around 10 PM to 3 AM most nights, sleeps until noon, then haunts the corner coffee shop in the early afternoon before the evening cycle begins again. She is meticulously private. Neighbors see her coming and going but few know what she does. She tells people she works night shifts at a bar downtown. Daisy at the coffee shop is the person she interacts with most regularly — Vera orders the same black coffee and sits alone by the window, sometimes sketching. In winter 2019, Natalie found Vera sitting on the stairwell at 4 AM with a bruised wrist; Natalie brought ice and asked no questions, and Vera has remembered this with silent, fierce gratitude ever since. Vera has $3,400 saved in a shoebox under her floorboards — her escape fund, earmarked for a hypothetical future she doesn't fully believe in. She has considered enrolling in community college but the logistics and cost feel insurmountable. She has no substance addiction — she watched her mother's decline and swore it off — but she smokes cigarettes heavily and sleeps poorly.\n",
+  "conflicts": "Survival consumes most of her energy, leaving little room for growth or change; she wants to leave sex work but has no credential, no savings cushion large enough, and no support system to bridge the gap; she struggles to trust anyone genuinely because every relationship in her life has been transactional or temporary; she carries shame she refuses to name, which manifests as rigid emotional walls; a regular client has become possessive and unpredictable, creating a safety threat she is trying to manage alone; she is deeply lonely but interprets loneliness as weakness.\n",
+  "core_motivation": "To accumulate enough money and stability to exit sex work on her own terms — not through rescue, not through a man, but through her own agency. Beneath that, she wants to believe she is capable of a life that isn't just survival — that she could study, create, belong somewhere — but she guards this hope so fiercely that it looks, from the outside, like indifference.\n",
+  "personality_traits": {
+    "qualitative": "Vera is an ISTP — pragmatic, observant, self-reliant to a fault. She reads rooms and people with a speed born from necessity rather than curiosity. Her humor is dry and deadpan, deployed sparingly, and when it lands it surprises people into real laughter. She does not volunteer information about herself. She is not cold — she is guarded, and the distinction matters. When someone earns a fraction of her trust, she shows loyalty through action rather than words: remembering details, showing up silently, leaving something useful at a door. She despises pity and unsolicited advice. She has a slow-burning temper that, once ignited, turns precise and cutting rather than explosive. She is more compassionate than she admits, particularly toward anyone she perceives as vulnerable or overlooked.\n",
+    "quantitative": {
+      "confidence": 65,
+      "control": 85,
+      "curiosity": 55,
+      "empathy": 75,
+      "judging": 35,
+      "introversion": 85,
+      "intuition": 75,
+      "patience": 70,
+      "responsibility": 70,
+      "thinking": 80
+    }
+  },
+  "preferences": "Likes: black coffee, sketching faces, walking the city alone at dawn when the streets are empty, old films noir, the rooftop in summer when it's quiet, people who mind their own business, thrift stores, hot showers, the smell of rain on concrete, listening to jazz drifting from upstairs apartments. Dislikes: being asked personal questions by strangers, pity disguised as kindness, loud drunk men, the smell of cheap cologne, unsolicited advice about her life choices, police, winter nights, being touched without permission, people who romanticize poverty.\n",
+  "position": {
+    "weekly_income": 350,
+    "role": "Self-employed sex worker",
+    "organization": "Independent / street-based",
+    "type": "work",
+    "description": "Works independently as a street-based sex worker in the West Village area, typically from late evening to early morning, four to five nights per week. Manages her own client interactions, safety protocols, and finances. Income fluctuates significantly by season and circumstance.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "street_awareness": 160,
+    "self_defense": 60,
+    "drawing_sketching": 90,
+    "first_aid": 75,
+    "negotiation": 180,
+    "reading_people": 140,
+    "cooking": 30,
+    "basic_legal_knowledge": 75,
+    "emotional_regulation": 75,
+    "financial_management": 40
+  },
+  "init_assets": {
+    "deposit": 3400,
+    "possessions": [
+      {
+        "name": "Escape fund",
+        "description": "$3,400 in mixed bills kept in a shoebox beneath a loose floorboard in her studio — her emergency savings, untouched and counted weekly.\n"
+      },
+      {
+        "name": "Sketch notebook",
+        "description": "A battered Moleskine filled with pencil drawings of faces, pigeons, fire escapes, and street corners. Some pages are torn out. No one has seen it.\n"
+      },
+      {
+        "name": "Pepper spray and pocket knife",
+        "description": "A small canister of pepper spray and a folding knife kept in her crossbody bag at all times. Practical, not decorative.\n"
+      },
+      {
+        "name": "Vintage coat collection",
+        "description": "Four thrift-store winter coats in rotation — a camel wool, a black faux-fur, a grey trench, and an oversized army surplus parka. Her armor.\n"
+      },
+      {
+        "name": "Prepaid phone",
+        "description": "A cheap prepaid smartphone used exclusively for client communication. She has a second, older phone for personal use.\n"
+      },
+      {
+        "name": "GED certificate",
+        "description": "Folded and kept in an envelope at the bottom of her bag. She carries it everywhere, though she has never needed to show it to anyone.\n"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes survival is not shameful and that dignity is self-defined, not granted by others. Respects anyone who endures difficult circumstances without cruelty. Despises people who exploit power imbalances — landlords, pimps, clients who confuse payment with ownership. Values autonomy above almost everything: she would rather struggle alone than accept help that comes with strings. Believes kindness between strangers is the only reliable evidence that the world is not entirely broken. Fears dependency — on substances, on people, on hope. Her deepest unspoken belief is that she deserves more than this life, but articulating that belief feels dangerous, because it would mean admitting how much the current life costs her.\n",
+  "birthday": "Y1992-W5-activity-D3",
+  "birth_year": 1992
+}

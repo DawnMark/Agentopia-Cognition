@@ -1,0 +1,93 @@
+{
+  "name": "Jasper Whitfield",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and around 180 lbs with an athletic, well-maintained build, Jasper registers as attractive (~10%) in a clean, sharp-edged way. His jaw is square and cleanly shaven, cheekbones pronounced, eyes a cool grey-blue beneath straight dark brows. His sandy brown hair is cropped short on the sides and neatly swept back on top, always looking freshly cut. His skin is pale but clear, with a faint scar bisecting his left eyebrow from a college rugby injury. He dresses in fitted chinos, crisp Oxford shirts, and minimalist leather sneakers — expensive but deliberately understated, the wardrobe of someone who learned taste from catalogues and perfected it with a six-figure salary. His posture is impeccable, shoulders squared, stride purposeful. He wears a steel Nomos watch and no other jewelry since removing his wedding ring in 2019. He gives the impression of composed corporate competence — someone efficient, self-possessed, and perhaps slightly guarded, as though friendliness is a resource he allocates strategically rather than offers freely.\n",
+  "brief_introduction": "Jasper is a highly paid senior data analyst at a fintech firm who moved into Bremer Apartment after his divorce, seeking a simpler life. Beneath his polished exterior, he's quietly lonely and uncertain whether professional success was worth the personal cost.\n",
+  "talents": {
+    "qualitative": "Born in Stamford, Connecticut, to an investment banker father and a corporate attorney mother. Raised in an achievement-oriented household where worth was measured in outcomes. Excelled academically — valedictorian, full scholarship to Columbia for applied mathematics. Played rugby and rowed crew. Joined a Wall Street quantitative firm at 22, pivoted to fintech data science at 26. Married his college girlfriend, Claire, in 2016; they divorced in early 2019 after she said he was \"present but unreachable.\" He moved into Bremer Apartment in mid-2019, choosing Greenwich Village on impulse — wanting something that felt alive after two years of sterile midtown living. He's analytically brilliant but emotionally underdeveloped, having spent his life optimizing metrics rather than understanding people. Plays chess obsessively online. Has started reading poetry at the coffee shop, a habit he tells no one about.\n",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 60,
+      "creativity": 35,
+      "health": 75,
+      "honesty": 60,
+      "integrity": 85,
+      "intelligence": 95,
+      "leadership": 75,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Jasper's divorce reshaped him more than he admits. Claire told him he treated their marriage like a dashboard — tracking inputs and outputs but never feeling anything. That sentence haunts him. He moved into Bremer Apartment's fourth-floor one-bedroom in June 2019, initially planning it as a temporary stop before buying a condo. But something about the building's texture — the noise through the walls, the rooftop gatherings, the coffee shop regulars — made him stay. He recognized Leo from a tech meetup and they've had several conversations about the startup world; Jasper quietly respects Leo's willingness to risk stability for something meaningful, a choice Jasper has never made. He frequents the coffee shop every morning at 7:15, orders a double espresso, and has recently begun reading Mary Oliver and Ocean Vuong — books he hides inside copies of The Economist. He goes to the rooftop on Friday nights but usually stands near the ledge alone, nursing a single beer. Maya once sketched near him there and they exchanged a few words about the skyline; he found her directness disarming. His salary is approximately $185,000. He sends money to Claire monthly — not alimony, just guilt. He's begun questioning whether his entire life has been an optimization problem with the wrong objective function.\n",
+  "conflicts": "Haunted by his failed marriage and Claire's accusation that he's emotionally unreachable; earns far more than most of his neighbors, creating an invisible barrier he doesn't know how to cross; intellectually drawn to the creative, vulnerable lives around him but unable to shed his analytical detachment; fears that his impulse to move to the Village was performative — that he's cosplaying authenticity rather than achieving it; his father expects him to \"get back on track\" with a condo purchase and remarriage, and Jasper hasn't told him he's reading poetry on rooftops.\n",
+  "core_motivation": "To learn how to feel without measuring, to build genuine human connections untethered from transactional logic, and to discover whether there is a version of himself capable of the vulnerability his ex-wife needed and that the people around him seem to practice so naturally.\n",
+  "personality_traits": {
+    "qualitative": "Jasper is an INTJ — strategic, self-contained, and quietly intense. He processes the world through systems and patterns, which makes him exceptional at work but clumsy in emotional terrain. He is polite rather than warm, precise rather than expressive. Underneath the composure lies genuine curiosity about other people's inner lives — he just doesn't know how to ask. He respects competence and dislikes pretension, though he's blind to his own subtle forms of it. He is disciplined to a fault, scheduling even his leisure. When caught off guard emotionally, he retreats into silence rather than lashing out. He is slowly, haltingly learning that control is not the same as strength.\n",
+    "quantitative": {
+      "confidence": 75,
+      "control": 100,
+      "curiosity": 85,
+      "empathy": 30,
+      "judging": 85,
+      "introversion": 75,
+      "intuition": 55,
+      "patience": 75,
+      "responsibility": 90,
+      "thinking": 90
+    }
+  },
+  "preferences": "Likes chess, clean datasets, morning espresso rituals, architecture, long solitary runs along the Hudson, reading poetry in secret, well-made things, rooftop silence, spreadsheets that balance perfectly; dislikes small talk, loud bars, disorder, people who confuse confidence with competence, being asked about his divorce, his father's phone calls, the phrase \"just relax,\" and the feeling of not knowing what he wants.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Senior Data Analyst",
+    "organization": "Meridian Fintech, Flatiron District",
+    "type": "work",
+    "description": "Leads a team of four analysts building predictive models for consumer lending risk. Reports to the VP of Data Science. High performer, recently promoted, expected to move into management by year's end.\n",
+    "weekly_delta_skills": {
+      "data_modeling": 0.1,
+      "management": 0.05
+    }
+  },
+  "init_skills": {
+    "data_modeling": 300,
+    "statistical_analysis": 300,
+    "python_programming": 240,
+    "SQL": 300,
+    "machine_learning": 135,
+    "financial_analysis": 170,
+    "chess": 105,
+    "communication": 45,
+    "creative_writing": 15,
+    "cooking": 20,
+    "guitar": 0,
+    "emotional_intelligence": 25
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "MacBook Pro (work-issued)",
+        "description": "Latest model, pristine condition, used for both work and personal projects; screen always has at least three terminal windows open"
+      },
+      {
+        "name": "Nomos Tangente watch",
+        "description": "Steel case, sapphire crystal, purchased after his first bonus — the one luxury he allowed himself that Claire never criticized"
+      },
+      {
+        "name": "Poetry collection",
+        "description": "A growing shelf of slim volumes — Mary Oliver, Ocean Vuong, Ada Limón — spines uncracked-looking because he reads them carefully and closes them flat"
+      },
+      {
+        "name": "Chess set",
+        "description": "Hand-carved wooden set from a Greenwich Village antique shop, bought his first week in the building; plays against himself when he can't sleep"
+      },
+      {
+        "name": "Running gear",
+        "description": "High-end Brooks shoes, moisture-wicking layers, a GPS watch — his runs are tracked, split-timed, and logged in a spreadsheet"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes in meritocracy and the dignity of competence, though beginning to suspect these values have been a shield against emotional risk. Respects people who create something from nothing — artists, chefs, musicians — with a reverence he can't quite articulate. Distrusts inherited wealth despite benefiting from privilege. Fears meaninglessness more than poverty. Quietly believes that love requires a fluency he was never taught, and that learning it at thirty may already be too late. Holds loyalty as sacred — his monthly payments to Claire are proof. Despises self-pity but is learning to distinguish it from honest grief.\n",
+  "birthday": "Y1990-W5-activity-D4",
+  "birth_year": 1990
+}

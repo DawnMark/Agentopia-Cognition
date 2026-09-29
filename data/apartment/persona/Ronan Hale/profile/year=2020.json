@@ -1,0 +1,91 @@
+{
+  "name": "Ronan Hale",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" with a gaunt, narrow-shouldered frame at around 155 lbs, Ronan has a fair (~20%) look defined by angular cheekbones, deep-set pale grey eyes perpetually underscored by violet shadows, and a sharp, hawkish nose. His ash-blond hair is cropped close on the sides but unruly on top, often flattened from headphone wear. His skin is pallid from screen-light living, jaw dusted with inconsistent stubble. He dresses in monochrome — black hoodies, dark joggers, minimalist sneakers — as though color would be a distraction. His fingers are long, knuckles prominent, nails bitten short. A faded Dark Souls bonfire tattoo marks the inside of his left wrist. He projects the aura of someone who lives largely inside his own head — intense, slightly feral, the kind of quiet that feels loaded rather than empty, suggesting a disciplined obsessive who has traded ordinary comforts for something only he can see.",
+  "brief_introduction": "Ronan is a solo indie game developer building a punishing Soulslike action-RPG from his cramped fifth-floor studio in Bremer Apartment. He freelances as a contract programmer to pay rent while pouring every remaining hour into his passion project, a game called Ashgrief. Brilliant but isolated, he communicates more fluently through game design than conversation.",
+  "talents": {
+    "qualitative": "Raised in a middle-class household in Columbus, Ohio. Father was an electrician, mother a school librarian. He was the quiet kid who disassembled the family computer at eleven and rebuilt it with better airflow. Studied computer science at Ohio State on a partial scholarship. Became obsessed with FromSoftware's design philosophy in college — the idea that difficulty is a form of respect for the player. Dropped out of a stable QA job at a mid-size studio in 2018 to go indie. Moved to New York because he believed proximity to the creative energy of the city would push him. Technically gifted in both programming and pixel-art animation, self-taught in 3D modeling. Struggles with marketing, networking, and anything requiring sustained eye contact.",
+    "quantitative": {
+      "beauty": 40,
+      "communication": 50,
+      "creativity": 100,
+      "health": 45,
+      "honesty": 75,
+      "integrity": 80,
+      "intelligence": 90,
+      "leadership": 15,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Ronan moved into Bremer Apartment in late 2018, taking the cheapest fifth-floor unit — a narrow studio with a kitchenette he uses exclusively for coffee and instant ramen. His apartment is a controlled disaster: three monitors on a plywood desk, a mechanical keyboard whose clacking echoes through the walls at 3 a.m., a futon that doubles as his bed, and stacks of game design books beside an untouched dumbbell set. He met Leo at a small indie-dev meetup in early 2019 and was surprised to discover they lived in the same building. They bonded over shared frustrations — Leo's faltering startup, Ronan's perpetually delayed release date. They sometimes work side by side at the corner coffee shop in companionable silence. Ronan also crossed paths with Jasper at a tech networking event; he respects Jasper's business acumen but finds his corporate polish alienating. On the rooftop, he occasionally runs into Lennox and they've developed an odd mutual respect — Lennox once asked what he was playing on his laptop, and Ronan spent forty minutes explaining boss-fight design philosophy while Lennox listened with genuine curiosity. Ronan's game Ashgrief is 80% complete but he's running out of savings. Freelance contracts keep the lights on but steal development time. He hasn't told anyone he maxed out a credit card last month. He plays his own unfinished game repeatedly, dying to the same bosses, refining attack windows by single frames. He calls this fun.",
+  "conflicts": "Running out of money while his game remains unfinished; freelance work cannibalizes development time but he can't survive without it; terrified his game will launch to silence — no reviews, no players, no proof the sacrifice mattered; socially stunted from years of self-imposed isolation and unsure how to ask for help; knows Leo is struggling too but feels guilty burdening him with shared anxiety.",
+  "core_motivation": "To finish Ashgrief and release it into the world — not for fame or money, but to prove that the thousands of solitary hours meant something, that the vision in his head can exist outside it, and that difficulty and beauty are not opposites.",
+  "personality_traits": {
+    "qualitative": "Ronan is an INTJ architect — strategic, single-minded, emotionally contained. He processes the world through systems and patterns, which makes him a brilliant designer but a clumsy human. He is fiercely self-reliant to the point of self-harm, equating asking for help with failure. Beneath the stoic exterior is a deeply romantic sensibility — his game is full of melancholy lore about loss and perseverance. He admires persistence in others because he knows what it costs. He can be unintentionally blunt, not from cruelty but from a genuine blindness to social padding. When he trusts someone, his loyalty is absolute and quiet.",
+    "quantitative": {
+      "confidence": 60,
+      "control": 85,
+      "curiosity": 90,
+      "empathy": 40,
+      "judging": 70,
+      "introversion": 95,
+      "intuition": 95,
+      "patience": 75,
+      "responsibility": 70,
+      "thinking": 95
+    }
+  },
+  "preferences": "Likes: Soulslike games, procedural generation theory, pixel art, black coffee at midnight, the rooftop in winter when nobody else goes up, mechanical keyboards, reading game postmortems, listening to ambient/drone music while coding, long walks through the city at 4 a.m. when the streets are empty. Dislikes: microtransactions, small talk, being asked 'so when does your game come out,' loud bars, notification sounds, people who equate commercial success with artistic merit, unsolicited advice about 'just getting a real job.'",
+  "position": {
+    "weekly_income": 380,
+    "role": "Freelance contract programmer / Solo indie game developer",
+    "organization": "Self-employed (DBA Hollowframe Studios)",
+    "type": "work",
+    "description": "Takes short-term remote programming contracts (backend, tooling, Unity/Unreal scripting) for studios and startups to fund his independent game development. Spends roughly 20 hours a week on freelance work and 40+ hours on Ashgrief.",
+    "weekly_delta_skills": {
+      "game_design": 0.3,
+      "programming": 0.1,
+      "pixel_art": 0.2
+    }
+  },
+  "init_skills": {
+    "programming": 260,
+    "game_design": 110,
+    "pixel_art": 165,
+    "3d_modeling": 35,
+    "sound_design": 20,
+    "marketing": 30,
+    "guitar": 5,
+    "writing_narrative": 45,
+    "cooking": 10
+  },
+  "init_assets": {
+    "deposit": 620,
+    "possessions": [
+      {
+        "name": "Custom-built PC",
+        "description": "A hand-assembled tower with a mid-range GPU, triple monitor setup, and obsessively managed cable routing — his most prized possession, worth more than everything else he owns combined"
+      },
+      {
+        "name": "Mechanical keyboard collection",
+        "description": "Three mechanical keyboards with different switch types (Cherry MX Red for gaming, Blue for typing, Brown for late-night sessions when he remembers neighbors exist)"
+      },
+      {
+        "name": "Game design notebooks",
+        "description": "Seven Moleskine notebooks filled with boss AI flowcharts, level layouts, lore fragments, and margin doodles of armored figures in various death poses"
+      },
+      {
+        "name": "Futon",
+        "description": "A thin, perpetually half-folded futon that serves as bed, couch, and occasionally a surface for spreading out printed reference art"
+      },
+      {
+        "name": "Dark Souls trilogy collector's editions",
+        "description": "Complete set, still sealed — he played digital copies thousands of hours but bought the physicals as talismans, refusing to open them until Ashgrief ships"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that struggle is not an obstacle to meaning but the source of it — in games and in life. Respects craftsmanship over marketability, persistence over talent, and honesty over diplomacy. Distrusts easy success and people who optimize for visibility rather than substance. Fears irrelevance — not being disliked, but being unnoticed. Holds a quiet, almost spiritual conviction that a single well-made thing can justify years of deprivation. Admires anyone who builds something real with their hands, whether it's code, music, food, or prose.",
+  "birthday": "Y1994-W9-activity-D4",
+  "birth_year": 1994
+}

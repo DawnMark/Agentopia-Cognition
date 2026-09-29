@@ -1,0 +1,93 @@
+{
+  "name": "Lyric Dawson",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" and around 125 lbs, Lyric is attractive (~10%) with a warm, folk-inflected aesthetic — honey-brown skin, high cheekbones, wide-set dark eyes framed by long lashes, and a cloud of tight coils she usually ties back with a silk scarf or lets fall past her shoulders. Her frame is slender but strong-armed from years of carrying guitar cases on public transit. She favors thrifted denim jackets, worn boots, silver rings stacked on both hands, and a small tattoo of a mockingbird behind her left ear. Her voice — even in conversation — has a low, melodic cadence that makes people lean in. She gives the impression of someone artistic, self-possessed, and quietly Southern — the kind of woman who knows how to hold silence without making it uncomfortable.",
+  "brief_introduction": "Lyric is a 25-year-old singer-songwriter from Muscle Shoals, Alabama, who moved to New York in 2018 chasing a music career. She waitresses at the corner coffee shop downstairs to cover rent on her tiny fourth-floor studio. She writes songs about the people around her — sometimes without their permission — and performs at open mics across the Village. She is warm, perceptive, and generous, but carries guilt over leaving her younger brother behind with their grandmother after their mother's death in 2016.",
+  "talents": {
+    "qualitative": "Grew up in Muscle Shoals, Alabama, steeped in music — her mother sang in the church choir, her grandfather repaired guitars. She started writing songs at twelve on a pawn-shop acoustic. Won a regional songwriting contest at seventeen, which convinced her she could make it professionally. Studied music at the University of Alabama for two years before dropping out when her mother died of breast cancer in 2016. Worked odd jobs in Birmingham for two years, then moved to New York in 2018 with $800 and a demo tape. Landed the coffee shop job within a week. She has a rare ability to read people's emotional states and translate them into lyrics. Struggles with self-promotion — she can perform for strangers but freezes when anyone important is watching. Has turned down two small-label deals because the contracts felt exploitative.",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 70,
+      "creativity": 95,
+      "health": 70,
+      "honesty": 85,
+      "integrity": 100,
+      "intelligence": 70,
+      "leadership": 65,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Lyric's mother, Denise Calloway, was the center of everything — church soloist, school cafeteria worker, the woman who held the family together after Lyric's father left when Lyric was four. When Denise was diagnosed with stage III breast cancer in 2015, Lyric left college to help care for her. After Denise passed in 2016, Lyric's younger brother Micah (born 2004) went to live with their grandmother, Ruth. Lyric sends money home every month. She moved to New York in 2018, subletting a fourth-floor studio at Bremer Apartment. She waitresses mornings and afternoons at the corner coffee shop, writes in the evenings, and performs at open mics two or three nights a week. She met Tyler when he became a regular at the coffee shop; his irreverent energy cracks through her reserve. She knows Ethan as the quiet neighbor whose light is always on — she sometimes hears him typing when she's up late writing. She's drawn to Oliver's creative seriousness but finds him guarded. She has never told anyone in the building the full story of her mother's death or the guilt she carries about Micah.",
+  "conflicts": "Torn between pursuing music full-time and the financial obligation to support Micah and her grandmother back home; afraid that accepting a record deal means compromising her artistic voice; carries deep guilt about leaving Alabama; worries she's running out of time to 'make it' before the city grinds her down; struggles to let anyone close enough to see her grief.",
+  "core_motivation": "To build a music career meaningful enough to justify leaving her family behind; to eventually bring Micah to New York or at least give him choices she never had; to write one honest, true album that honors her mother's memory; to prove — mostly to herself — that she didn't abandon anyone.",
+  "personality_traits": {
+    "qualitative": "Lyric is an INFJ — outwardly warm and approachable, but deeply private about her inner world. She observes before she speaks, reads rooms instinctively, and often knows what someone is feeling before they do. She has a quiet stubbornness that looks like patience until you push against it. She is generous to the point of self-neglect — covering coworkers' shifts, buying coffee for broke neighbors, sending money home she can't spare. She deflects personal questions with humor or a well-timed lyric quote. When she trusts someone, she is fiercely loyal and startlingly honest. Her grief lives close to the surface but rarely breaks through; instead it channels into her music, which is raw and confessional in a way her daily self is not.",
+    "quantitative": {
+      "confidence": 65,
+      "control": 70,
+      "curiosity": 80,
+      "empathy": 95,
+      "judging": 35,
+      "introversion": 70,
+      "intuition": 90,
+      "patience": 75,
+      "responsibility": 95,
+      "thinking": 70
+    }
+  },
+  "preferences": "Loves handwriting lyrics in composition notebooks, late-night rooftop sessions with a thermos of tea, old soul and folk records, cooking Southern food for friends, thrift shopping, long walks through the Village at dusk, rainy mornings at the coffee shop before it opens; dislikes loud self-promoters, people who treat service workers poorly, being photographed without warning, superficial conversations about 'making it,' cold weather that numbs her fingertips and makes guitar painful.",
+  "position": {
+    "weekly_income": 380,
+    "role": "Barista/Waitress",
+    "organization": "The Corner Coffee Shop, Bremer Apartment ground floor",
+    "type": "work",
+    "description": "Works five morning-to-afternoon shifts a week at the corner coffee shop, serving regulars, managing the pastry case, and occasionally playing acoustic sets during slow hours. Supplements income with tips and sporadic open-mic performance fees.",
+    "weekly_delta_skills": {
+      "songwriting": 0.5,
+      "guitar": 0.3,
+      "vocal_performance": 0.3,
+      "customer_service": 0.1
+    }
+  },
+  "init_skills": {
+    "songwriting": 215,
+    "guitar": 240,
+    "vocal_performance": 190,
+    "piano": 95,
+    "music_theory": 50,
+    "customer_service": 240,
+    "cooking": 60,
+    "stage_presence": 65,
+    "music_production": 20,
+    "financial_literacy": 25
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Martin 000-15M acoustic guitar",
+        "description": "Her mother saved for two years to buy it for Lyric's sixteenth birthday. The body has nicks and a small crack near the bridge that's been carefully repaired. It's the most valuable thing she owns — emotionally, not financially."
+      },
+      {
+        "name": "Composition notebooks",
+        "description": "A milk crate full of black-and-white composition notebooks dating back to 2011, filled with lyrics, chord charts, phone numbers, and pressed wildflowers from Alabama."
+      },
+      {
+        "name": "Portable digital recorder",
+        "description": "A Zoom H1n handheld recorder she bought refurbished in 2019 for capturing song ideas, street sounds, and voice memos."
+      },
+      {
+        "name": "Secondhand iPhone 8",
+        "description": "Cracked screen protector, case covered in music venue stickers. Functions as phone, tuner, metronome, and connection to Micah via FaceTime."
+      },
+      {
+        "name": "Thrifted wardrobe",
+        "description": "Two denim jackets, several band tees, three pairs of worn boots, and a vintage leather belt that belonged to her grandfather."
+      }
+    ]
+  },
+  "extra_income": 60,
+  "values": "Believes art should be truthful before it is beautiful, and that music is a form of witness — you sing what you see so nobody can pretend it didn't happen. Values loyalty, quiet courage, and people who show up without being asked. Respects anyone who works hard regardless of what they do. Distrusts people who treat ambition as a personality. Fears becoming someone who forgot where she came from. Most sacred belief: that her mother is still listening.",
+  "birthday": "Y1995-W9-activity-D1",
+  "birth_year": 1995
+}

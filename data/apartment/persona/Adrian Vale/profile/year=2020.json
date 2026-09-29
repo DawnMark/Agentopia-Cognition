@@ -1,0 +1,90 @@
+{
+  "name": "Adrian Vale",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and about 170 lbs with a long, angular frame that suggests old money even in thrift-store clothing, Adrian has an attractive (~10%) face defined by sharp cheekbones, a strong aquiline nose, deep-set grey-green eyes, and a square jaw perpetually shadowed with two days of stubble. His dark chestnut hair is thick and pushed back carelessly, falling just past his ears. His hands are elegant — pianist's hands — though he doesn't play. He wears simple black or navy crews, canvas jackets, and beat-up white sneakers, everything deliberately understated yet somehow expensive-looking because of how he carries it. A faded scar crosses his left eyebrow from a sailing accident at fifteen. His posture is upright but guarded, arms often crossed or hands buried in pockets. He gives the impression of someone who was raised in rooms with high ceilings and old paintings — reserved, quietly intense, possibly troubled, with the unmistakable carriage of privilege he cannot fully shed.\n",
+  "brief_introduction": "Adrian is the estranged youngest son of Marcus Vale, a legendary investment banking executive on Wall Street. After a bitter falling-out with his father during his junior year at Columbia, Adrian dropped out, severed financial ties, and moved into a small studio at Bremer Apartment in 2018. He now works part-time at the corner coffee shop alongside Juniper, earning just enough to cover rent and food. He spends his remaining hours wandering the city, reading philosophy, and sitting on the rooftop trying to understand what he wants from a life he was never allowed to choose for himself.\n",
+  "talents": {
+    "qualitative": "Born into extreme wealth — his father Marcus Vale runs Vale Capital Partners, one of New York's most prominent boutique investment banks. His mother, Caroline, is old Connecticut aristocracy. Adrian attended Dalton, then Columbia, where he studied comparative literature before dropping out in 2016. He was groomed from birth for finance but felt suffocated by the expectation. He has a sharp analytical mind, reads voraciously, and writes fragmentary essays in Moleskine notebooks he never shows anyone. He can navigate a boardroom or a charity gala with effortless charm when he chooses, but he usually chooses not to. He speaks passable French from childhood summers in Provence. His emotional intelligence is high but unevenly applied — perceptive about others, blind about himself.\n",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 75,
+      "creativity": 85,
+      "health": 60,
+      "honesty": 70,
+      "integrity": 70,
+      "intelligence": 95,
+      "leadership": 55,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Adrian's break with his father came in early 2016 after Marcus demanded he transfer to Wharton and join Vale Capital. Adrian refused. Marcus froze his trust fund and told him he was throwing away everything the family had built. Adrian's older brother, Nathan, sided with their father. His mother sends him quiet, desperate texts he rarely answers. He moved into Bremer Apartment in the summer of 2018 after couch-surfing and subletting for two years. He found the coffee shop job through a flyer in the building's lobby. Juniper trained him and they became co-workers and tentative friends. On the rooftop, he met Daniel one autumn evening in 2019 — they argued about whether privilege is a debt or a fact, and kept talking for three hours. He also met Leo up there, drawn by the guitar playing; they share quiet companionship and occasional beers. He has noticed Vera coming and going at odd hours but has never pried. He lives frugally — his studio has a mattress on the floor, stacked books, and nothing on the walls. He has not spoken to his father in four years. He sometimes walks past Vale Capital's Midtown office and stands across the street, watching the revolving doors, feeling nothing he can name.\n",
+  "conflicts": "Estranged from his family but haunted by guilt toward his mother; rejects inherited wealth yet has no clear alternative identity or purpose; intellectually brilliant but paralyzed by the fear that anything he builds will just be another version of his father's empire; wants genuine human connection but instinctively withholds, afraid people will treat him differently if they know his background; running out of emotional stamina for poverty he chose but didn't fully understand.\n",
+  "core_motivation": "To discover an identity that is entirely his own — not his father's heir, not a rebellion against privilege, but something authentic. He wants to earn the right to belong somewhere, to find work that matters to him, and to stop running from his past long enough to build an actual future.\n",
+  "personality_traits": {
+    "qualitative": "Adrian is an INFJ — outwardly composed, inwardly turbulent. He is intensely private, selecting with great care what he reveals and to whom. He possesses a dry, disarming wit that surfaces unexpectedly and a capacity for deep empathy that he often suppresses because vulnerability terrifies him. He is principled almost to a fault — his refusal to accept his father's money is genuine but also stubborn and self-punishing. He overthinks everything, journaling obsessively, circling the same questions about meaning and authenticity. He can be warm and magnetic in small groups but withdraws in crowds. He is generous with his time and attention when he trusts someone, but trust comes slowly.\n",
+    "quantitative": {
+      "confidence": 35,
+      "control": 60,
+      "curiosity": 90,
+      "empathy": 75,
+      "judging": 80,
+      "introversion": 75,
+      "intuition": 100,
+      "patience": 75,
+      "responsibility": 60,
+      "thinking": 95
+    }
+  },
+  "preferences": "Likes long solitary walks through the city, reading Camus and Baldwin and Simone Weil, black coffee, rooftop conversations after midnight, handwritten letters he never sends, rainy afternoons in used bookstores, watching strangers and imagining their lives, the sound of Leo's guitar drifting up the stairwell; dislikes name-dropping, networking events, being recognized by anyone from his former life, loud performative generosity, being pitied, being asked what his father does, people who confuse wealth with worth.\n",
+  "position": {
+    "weekly_income": 220,
+    "role": "Part-time barista",
+    "organization": "The Corner Coffee Shop, Bremer Apartment",
+    "type": "work",
+    "description": "Works four shifts a week at the building's corner coffee shop — opening duties, espresso bar, and register. Reliable, quiet, and surprisingly good with regulars despite his reserve.",
+    "weekly_delta_skills": {
+      "barista_craft": 0.5,
+      "writing": 0.3
+    }
+  },
+  "init_skills": {
+    "literary_analysis": 240,
+    "writing": 65,
+    "financial_literacy": 190,
+    "barista_craft": 55,
+    "French": 50,
+    "philosophy": 100,
+    "sailing": 70,
+    "social_navigation": 185,
+    "cooking": 25
+  },
+  "init_assets": {
+    "deposit": 1800,
+    "possessions": [
+      {
+        "name": "Moleskine notebooks",
+        "description": "A shelf of fourteen filled black Moleskine notebooks containing fragmented essays, observations, half-finished letters to his mother, and city sketches drawn in ballpoint pen"
+      },
+      {
+        "name": "Columbia library card",
+        "description": "Technically expired but still works at the public terminals; he uses it almost daily"
+      },
+      {
+        "name": "Wool overcoat",
+        "description": "A charcoal Loro Piana overcoat — the last relic of his former wardrobe, too well-made to fall apart, too beautiful to throw away"
+      },
+      {
+        "name": "Used laptop",
+        "description": "A refurbished 2016 MacBook Air bought secondhand, screen slightly dim, used for reading PDFs and drafting essays"
+      },
+      {
+        "name": "Pocket watch",
+        "description": "A silver Patek Philippe pocket watch his grandfather gave him at sixteen — the one family object he kept, hidden in a sock drawer"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that identity must be earned through choices, not inherited through blood or wealth. Respects people who build something from nothing — artists, immigrants, anyone who risks comfort for meaning. Distrusts systems that reward proximity to power over genuine merit. Values intellectual honesty, moral courage, and the willingness to sit with uncertainty rather than grasp at easy answers. Fears becoming his father more than he fears poverty. Secretly fears that his rebellion is itself a luxury — that walking away from money is something only someone who once had it can afford to do.\n",
+  "birthday": "Y1994-W5-activity-D6",
+  "birth_year": 1994
+}

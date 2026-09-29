@@ -1,0 +1,91 @@
+{
+  "name": "Étienne Bellamy",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'10\" with a slender, precisely proportioned frame at around 148 lbs, Étienne possesses an attractive (~10%) quality rooted in sharp continental elegance. High cheekbones, a narrow Roman nose, deep-set grey-green eyes beneath sculpted dark brows, and a clean-shaven angular jaw give him an editorial severity. His chestnut hair is swept back with deliberate nonchalance, always slightly longer at the nape. He dresses in tailored slim trousers, cashmere turtlenecks, structured overcoats, and polished Chelsea boots — everything in muted tones of charcoal, navy, and cream. His hands are fine-boned, nails immaculate, and he carries a worn leather satchel from a Marais flea market. A faint scent of vetiver follows him. He gives the impression of a cultivated, quietly self-assured European — someone raised around beauty, accustomed to quality, and perhaps a touch too aware of surfaces, though a nervous habit of adjusting his cuffs suggests more vulnerability than his composure lets on.",
+  "brief_introduction": "Étienne is a recently arrived Parisian transplant in Bremer Apartment, subletting a small studio on the fourth floor while he interviews for junior editor positions at fashion publications in Manhattan. Refined, observant, and privately anxious about reinventing himself in an unfamiliar city.",
+  "talents": {
+    "qualitative": "Born in the 16th arrondissement of Paris to a literature professor father and a textile designer mother, Étienne grew up surrounded by books, fabric swatches, and museum visits. He studied comparative literature at the Sorbonne before completing a master's in fashion journalism at Institut Français de la Mode. He worked for three years as an editorial assistant at a mid-tier Parisian fashion magazine, writing cultural criticism columns and coordinating photoshoots. He speaks fluent French and English with a noticeable accent, passable Italian, and reads some German. He has a trained eye for visual composition, typography, and color — skills honed through years of magazine layout work. He photographs well and knows how to style a frame. However, he lacks American media connections entirely, and his writing voice, while elegant, can feel overly formal for the punchy New York editorial market. He arrived in New York in January 2020 on a tourist visa, hoping to secure employer sponsorship.",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 85,
+      "creativity": 90,
+      "health": 55,
+      "honesty": 70,
+      "integrity": 70,
+      "intelligence": 75,
+      "leadership": 40,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Étienne left Paris after a painful breakup with his long-term girlfriend, Camille, who chose a posting in Tokyo over their relationship. Rather than stay in a city saturated with memories, he took the savings he had and flew to New York — a city he'd romanticized since watching Woody Allen films as a teenager. He found the Bremer Apartment sublet through a Craigslist ad and moved into a cramped fourth-floor studio in January 2020. The apartment is smaller than his childhood bathroom, but he hung a Brassaï print on the wall and bought fresh flowers for the windowsill, and that was enough. He's been cold-emailing editors at Vogue, Harper's Bazaar, W Magazine, and smaller independent publications, getting polite rejections. He picks up freelance translation work — French-to-English — through an online platform to cover rent and groceries. The corner coffee shop became his office; he writes cover letters and portfolio pieces there daily. He's quietly terrified that New York will chew him up. He misses Paris but refuses to go back defeated. He discovered the rooftop in February and began going there to smoke his one permitted evening cigarette, which is where he encountered other tenants.",
+  "conflicts": "Visa uncertainty — his tourist visa won't last and he needs employer sponsorship he hasn't secured; culturally disoriented, struggling to adapt his refined French editorial voice to American media expectations; financially precarious, surviving on freelance translation that barely covers rent; still grieving his breakup with Camille though he won't admit it; fears he's too proud to accept entry-level positions beneath his Paris experience; isolated in a city where he knows almost no one.",
+  "core_motivation": "To prove — to himself, to Camille, to his skeptical parents — that he can build a career and a life outside the comfortable Parisian world he was raised in. To transform heartbreak into reinvention. To find his voice as a writer in English, not just French.",
+  "personality_traits": {
+    "qualitative": "Étienne is an INFJ — outwardly composed and gracious but internally intense, idealistic, and prone to overthinking. He observes before he speaks, reads rooms carefully, and offers insights that surprise people with their precision. He's generous with compliments when genuine, cutting when something offends his aesthetic sense. He can seem aloof or snobbish on first impression, but once comfortable he's warm, self-deprecating about his Frenchness, and unexpectedly funny. He struggles with asking for help, viewing it as weakness. He's a perfectionist who would rather submit nothing than submit something mediocre. Emotionally, he processes slowly — feelings surface weeks after events.",
+    "quantitative": {
+      "confidence": 65,
+      "control": 70,
+      "curiosity": 100,
+      "empathy": 85,
+      "judging": 80,
+      "introversion": 70,
+      "intuition": 90,
+      "patience": 85,
+      "responsibility": 85,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes: well-made espresso, vintage bookstores, cinema (especially French New Wave and 1970s American), gallery openings, handwritten letters, long walks through unfamiliar neighborhoods, well-designed typography, cooking simple French meals, rooftop cigarettes at dusk, listening to Chet Baker and Françoise Hardy. Dislikes: loud bars, fast fashion, small talk without substance, being patronized about his accent, American coffee served in paper cups, people who confuse style with trends, being asked to 'say something in French' as a party trick, fluorescent lighting.",
+  "position": {
+    "weekly_income": 280,
+    "role": "Freelance translator / aspiring fashion editor",
+    "organization": "Self-employed (freelance translation via online platforms); interviewing at various fashion publications",
+    "type": "work",
+    "description": "Freelance French-to-English translator earning modest income while pursuing fashion magazine editor positions in New York.",
+    "weekly_delta_skills": {
+      "fashion_writing": 0.5,
+      "english_fluency": 0.3,
+      "networking": 0.2
+    }
+  },
+  "init_skills": {
+    "fashion_journalism": 135,
+    "editorial_layout": 250,
+    "photography": 60,
+    "french_literature": 290,
+    "english_writing": 80,
+    "translation": 215,
+    "styling": 45,
+    "networking": 25,
+    "cooking": 80
+  },
+  "init_assets": {
+    "deposit": 2200,
+    "possessions": [
+      {
+        "name": "Leather satchel",
+        "description": "A weathered cognac-leather messenger bag bought at a Marais flea market in 2015, soft with age, containing his portfolio, Moleskine notebook, and a battered copy of Barthes' Système de la Mode"
+      },
+      {
+        "name": "Film camera",
+        "description": "A Leica M6 inherited from his father, loaded with Portra 400 — he shoots one roll per week to document his new city"
+      },
+      {
+        "name": "Portable wardrobe",
+        "description": "Two suitcases of carefully curated clothing: three blazers, several turtlenecks, slim trousers, two pairs of quality shoes, a navy overcoat from APC, and a vintage Hermès scarf his mother gave him"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2017 MacBook Pro with InDesign, Lightroom, and hundreds of saved magazine tearsheets organized by publication and season"
+      },
+      {
+        "name": "Brassaï print",
+        "description": "A framed reproduction of Brassaï's 'Paris de Nuit' photograph, hung above his desk as a reminder of home"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes beauty is a form of truth and that aesthetic rigor reflects moral seriousness. Respects craftsmanship, originality, and people who commit fully to their vision even at personal cost. Values sincerity over networking, substance over spectacle. Distrusts cynicism disguised as sophistication. Fears becoming mediocre or invisible — a forgettable name in a city of millions. Believes heartbreak should be alchemized into art, not wallowed in. Secretly worried that his refinement is a shield rather than a strength.",
+  "birthday": "Y1991-W9-activity-D1",
+  "birth_year": 1991
+}

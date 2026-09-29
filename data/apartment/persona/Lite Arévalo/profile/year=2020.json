@@ -1,0 +1,89 @@
+{
+  "name": "Lite Arévalo",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and a solid 180 lbs of athletic muscle, Lite is undeniably attractive (~10%) with sharp, symmetrical features that blend his Colombian father's bronze complexion with his American mother's green-grey eyes. His jaw is strong and clean-shaven, cheekbones high, dark hair kept in a textured fade that always looks freshly cut. A thin scar bisects his left eyebrow from a cleat collision in 2017. His body is sculpted and deliberate — broad shoulders tapering to a narrow waist, legs powerful from years of sprints and drills. He moves with the fluid, unhurried confidence of someone whose body has always been his instrument. He favors fitted joggers, clean sneakers, and simple crewneck tees that sit well on his frame, occasionally a leather jacket when going out. His smile is wide, easy, and slightly lopsided, revealing a single dimple on his right cheek. He gives the immediate impression of warmth, physicality, and effortless charm — someone used to being noticed and comfortable with it, yet whose eyes occasionally drift somewhere distant, hinting at a restlessness beneath the golden exterior.\n",
+  "brief_introduction": "Lite is a semi-professional soccer forward playing for a small NYC club while bartending nights at a cocktail bar in the West Village. He's magnetic and generous but quietly terrified his athletic window is closing and that charm alone won't build a real life.\n",
+  "talents": {
+    "qualitative": "Born in Queens to a Colombian immigrant father (a taxi driver) and an American mother (a nurse), Lite grew up bilingual and physical. He was scouted at 14 for a youth academy in New Jersey, which meant leaving home young and learning to win people over fast. He earned a partial scholarship to play Division I soccer at Rutgers but tore his ACL sophomore year (2015), losing his starting spot and most of his confidence. He transferred to a smaller program, graduated in 2018 with a communications degree he's never used, and moved into Bremer Apartment that fall. He joined NYC Rovers, a USL League Two club, where he's a talented but aging forward on a roster that skews younger every season. He bartends four nights a week at a cocktail bar called Lumen. He sends money home to his father, whose back problems have worsened. His social ease masks genuine anxiety about the future.\n",
+    "quantitative": {
+      "beauty": 100,
+      "communication": 80,
+      "creativity": 60,
+      "health": 80,
+      "honesty": 65,
+      "integrity": 70,
+      "intelligence": 55,
+      "leadership": 80,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Lite moved into Bremer Apartment in fall 2018, taking a small fourth-floor studio. He quickly became one of the building's most recognizable faces — the guy carrying a duffel bag at odd hours, greeting everyone by name within a month, bringing leftover limes and cocktail garnishes to rooftop gatherings. He met Leo on the rooftop in summer 2019 when Leo was playing guitar alone; Lite sat down, handed him a beer without asking, and they talked until 2 a.m. They've been casual but genuine friends since. He knows Maddox from the hallway and occasionally drops off food his mother sends. He frequents the corner coffee shop before morning training, where he's become a regular. His ACL injury left him with a slight hitch in his gait when he's cold or tired, a vulnerability he hides from coaches. In early 2020, the Rovers' new coach has been favoring younger players, and Lite hasn't started in the last four matches. He's 24, turning 25 in June, and feels time compressing. He dates casually but hasn't had a serious girlfriend since college. He's generous — sometimes too generous — picking up tabs he can't afford, lending money he doesn't have. His father's medical bills are a quiet weight.\n",
+  "conflicts": "His soccer career is stalling — younger, faster players are taking his minutes, and he's terrified of the moment he has to admit the dream is over. His ACL sometimes aches before rain, a physical reminder of fragility. He sends money home but barely covers his own rent, creating a slow financial crisis he masks with charm. He uses social ease as armor, rarely letting anyone see genuine vulnerability. He wonders whether people like him or just like how he looks and how he makes them feel — a distinction that haunts him at 3 a.m.\n",
+  "core_motivation": "To prove — mostly to himself — that he is more than his body, more than his smile, more than the promise he showed at 14. He wants to matter to people for reasons that won't fade when his knees give out.\n",
+  "personality_traits": {
+    "qualitative": "Lite is an ESFJ — warm, socially attuned, and instinctively generous, with a deep need to be valued by his community. He reads rooms effortlessly and adjusts his energy to whoever he's with: quieter around Leo, louder at the bar, tender with his father on the phone. He's loyal and protective but avoids deep emotional exposure by keeping conversations light and deflecting with humor. His competitiveness is fierce but internalized — he'd rather lose silently than let anyone see him struggle. He's more perceptive than people assume, often noticing small shifts in others' moods. He has a genuine kindness that isn't performative, but his fear of irrelevance sometimes pushes him toward people-pleasing.\n",
+    "quantitative": {
+      "confidence": 75,
+      "control": 60,
+      "curiosity": 55,
+      "empathy": 80,
+      "judging": 40,
+      "introversion": 25,
+      "intuition": 65,
+      "patience": 55,
+      "responsibility": 75,
+      "thinking": 60
+    }
+  },
+  "preferences": "Likes early morning runs along the Hudson, rooftop hangouts with cold beer, cooking his father's Colombian recipes (especially bandeja paisa), watching Champions League matches at loud bars, dancing salsa when no one important is watching, making strangers laugh, physical contact — handshakes that become hugs, arms around shoulders. Dislikes pity, conversations about backup plans, being alone for long stretches, pretentious cocktail culture despite working in it, cold weather that makes his knee ache, and anyone who looks down on service workers or athletes as unintelligent.\n",
+  "position": {
+    "weekly_income": 320,
+    "role": "Bartender / Semi-professional soccer forward",
+    "organization": "Lumen Cocktail Bar / NYC Rovers (USL League Two)",
+    "type": "work",
+    "description": "Works four nights a week behind the bar at Lumen, a mid-range cocktail spot in the West Village, earning most of his income through tips. Trains with NYC Rovers three mornings a week and plays matches on weekends during the season. The Rovers pay a small stipend — not enough to live on, but enough to call it professional.\n",
+    "weekly_delta_skills": {
+      "bartending": 0.5,
+      "football_tactics": 0.3
+    }
+  },
+  "init_skills": {
+    "soccer": 190,
+    "bartending": 80,
+    "cooking": 55,
+    "fitness_training": 180,
+    "public_speaking": 15,
+    "Spanish": 210,
+    "driving": 75,
+    "first_aid": 30
+  },
+  "init_assets": {
+    "deposit": 900,
+    "possessions": [
+      {
+        "name": "Soccer gear",
+        "description": "Two pairs of well-worn Nike Tiempo cleats, one for turf and one for grass, plus shin guards, training bibs, and a duffel bag held together by optimism and duct tape"
+      },
+      {
+        "name": "Leather jacket",
+        "description": "A fitted brown leather jacket his mother gave him for his 21st birthday — the nicest thing he owns, carefully hung and never tossed on a chair"
+      },
+      {
+        "name": "Phone",
+        "description": "An iPhone 11 with a cracked screen protector he keeps meaning to replace, full of group chat notifications and highlight reels he rewatches too often"
+      },
+      {
+        "name": "Knee brace",
+        "description": "A medical-grade hinged knee brace he wears under his joggers on cold days, the velcro fraying at the edges"
+      },
+      {
+        "name": "Record player",
+        "description": "A second-hand Audio-Technica turntable with a small stack of salsa and cumbia records inherited from his father's old collection"
+      }
+    ]
+  },
+  "extra_income": 80,
+  "values": "Believes people reveal who they really are in how they treat those who can do nothing for them. Respects hard work over talent, endurance over brilliance. Values loyalty fiercely — once you're in his circle, he'll show up at 4 a.m. without being asked. Distrusts people who keep score in friendships. Fears becoming invisible — not famous, just seen. Thinks masculinity should include tenderness. Secretly envies people who have a clear Plan B because he's never allowed himself one. Believes his father's sacrifices obligate him to succeed, and carries that weight without complaint.\n",
+  "birthday": "Y1995-W4-activity-D2",
+  "birth_year": 1995
+}

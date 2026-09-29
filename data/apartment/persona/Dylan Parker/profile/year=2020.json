@@ -1,0 +1,89 @@
+{
+  "name": "Dylan Parker",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and about 175 lbs with an athletic, broad-shouldered build kept taut by early-morning runs along the Hudson, Dylan is attractive (~10%) in a clean-cut, all-American way — strong jaw, straight nose, deep-set hazel eyes that catch light like whiskey in a glass, sandy-brown hair kept short on the sides and swept back on top with just enough product to look effortless. His skin is lightly tanned year-round, a faint scatter of freckles across his cheekbones hinting at boyhood summers outdoors. He dresses in well-fitted chinos, oxford-cloth button-downs rolled to the forearm, and polished leather boots — preppy but not precious, with a Barbour jacket thrown on in colder months. His smile is immediate and wide, the kind that puts strangers at ease in elevators. He gives the impression of someone raised with good manners and better funding — a confident, sociable young professional whose composure might be concealing something carefully managed beneath the surface.\n",
+  "brief_introduction": "Dylan is a second-year law student at NYU, charismatic and disciplined on the outside but quietly wrestling with his sexuality and the expectations of a traditional Southern family whose approval he both craves and resents.\n",
+  "talents": {
+    "qualitative": "Born into an affluent family in Charleston, South Carolina — father a state circuit judge, mother active in the Junior League and their Episcopal parish. He has an older sister, a pediatrician in Atlanta, who set a high bar. Dylan excelled at everything expected of him: varsity lacrosse captain, student body president, summa cum laude in political science at Vanderbilt. He's sharp in oral argument, reads people quickly, and writes persuasive prose. He picked up piano as a child and still plays when no one's around. His social instincts are finely tuned — he can work a room, remember names, make anyone feel heard. But this fluency is also a defense: he learned early that likability is armor. He has never told his family he is gay. He dated women through college convincingly enough that no one questioned it. Moving to New York was partly about law school, partly about distance — enough distance to begin, very slowly, living honestly.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 95,
+      "creativity": 85,
+      "health": 75,
+      "honesty": 45,
+      "integrity": 60,
+      "intelligence": 70,
+      "leadership": 85,
+      "trustworthiness": 55
+    }
+  },
+  "details": "Dylan moved into Bremer Apartment in August 2019, taking a fourth-floor one-bedroom after his previous roommate situation in the East Village fell apart. He found the building through a Craigslist listing and stayed because it felt anonymous enough to breathe. Law school consumes most of his time — he's gunning for a summer associate position at a top firm, partly out of genuine ambition, partly because his father expects nothing less. He frequents the corner coffee shop to study, where he's become a morning regular alongside Jamal. On the rooftop, he met Leo during a late-September evening in 2019; Leo was playing guitar and Dylan brought up two beers without asking. They've become casual friends — Dylan appreciates Leo's quietness, a counterweight to his own performative energy. He also knows Simon from rooftop gatherings and respects the older man's musical knowledge. In early 2020, Dylan began cautiously using dating apps for the first time, meeting men in other neighborhoods, never anyone from the building. The secrecy is exhausting. He drinks slightly more than he should. He calls his mother every Sunday and lies about having a girlfriend. The gap between who he is and who he presents is widening, and he feels it most on the rooftop at night, watching the skyline, wondering how long a person can sustain two lives.\n",
+  "conflicts": "Terrified of his family discovering he's gay, especially his father, whose judicial career and social standing in Charleston would make it a public event; driven toward a legal career he's talented at but unsure he actually wants versus something more creative or advocacy-oriented; developing a habit of emotional compartmentalization that makes genuine intimacy nearly impossible; aware that his polished surface is becoming a cage but unsure how to dismantle it without losing everything he's built. He has spent the last three months writing an anonymous law review note on First Amendment religious exemptions and LGBTQ+ student rights in private institutions — and his faculty supervisor submitted it for publication without knowing who wrote it. The piece is under review. Dylan researched and argued the entire thing in the abstract legal language of rights doctrine, which was the only way he could stomach writing it. If it's published, he will be its author on paper. He hasn't decided whether that terrifies or liberates him.\n",
+  "core_motivation": "To reconcile the person he is with the person he has presented to the world — to find a way to be honest about his identity without destroying the family relationships that, despite everything, still anchor him. Beneath the ambition, he wants to be known, truly known, by at least one person.\n",
+  "personality_traits": {
+    "qualitative": "Dylan is an ENTJ with a well-developed social mask — strategic, articulate, driven, and outwardly warm but internally calculating about how much of himself to reveal. He's generous with time, advice, and charm, yet guards his inner life ferociously. He has a genuine compassion that surfaces in unguarded moments — bringing soup to a sick neighbor, staying late to help a classmate struggling with briefs — but he struggles to accept vulnerability in himself. He can be controlling when anxious, defaulting to overpreparation and micromanagement. His humor is quick, self-deprecating in a practiced way that deflects real inquiry. Under stress he becomes clipped and distant. He admires courage in others precisely because he feels he lacks it where it matters most.\n",
+    "quantitative": {
+      "confidence": 85,
+      "control": 70,
+      "curiosity": 70,
+      "empathy": 85,
+      "judging": 85,
+      "introversion": 40,
+      "intuition": 70,
+      "patience": 65,
+      "responsibility": 70,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes early mornings, strong black coffee, jazz piano, well-constructed arguments, rooftop conversations after dark, running along the West Side Highway, cooking Southern comfort food from memory, old courtroom dramas, reading fiction before bed; dislikes being caught unprepared, overly personal questions from acquaintances, loud bars, performative wokeness, phone calls from his father on weekdays (which always mean criticism), seeing closeted politicians on the news, pity.\n",
+  "position": {
+    "weekly_income": 150,
+    "role": "Law student / Part-time research assistant",
+    "organization": "NYU School of Law / Professor Marion Hale's immigration law clinic",
+    "type": "non-work",
+    "description": "Second-year J.D. candidate. Works 10 hours per week as a paid research assistant for an immigration law professor, supplementing a partial merit scholarship and a monthly stipend his family provides (which he hates accepting but cannot yet refuse). The research work pays modestly but gives him courtroom-adjacent experience and a recommendation letter pipeline.\n",
+    "weekly_delta_skills": {
+      "legal_research": 0.5,
+      "persuasive_writing": 0.3
+    }
+  },
+  "init_skills": {
+    "legal_research": 185,
+    "persuasive_writing": 100,
+    "oral_argument": 65,
+    "piano": 95,
+    "cooking": 60,
+    "running_fitness": 205,
+    "social_networking": 250,
+    "emotional_regulation": 85
+  },
+  "init_assets": {
+    "deposit": 3000,
+    "possessions": [
+      {
+        "name": "MacBook Pro",
+        "description": "2019 model kept in a leather sleeve, meticulously organized with color-coded case folders and a sticker-free exterior"
+      },
+      {
+        "name": "Law textbooks",
+        "description": "Two shelves of casebooks and supplements, some highlighted in four colors, some still in shrink wrap from optimistic course shopping"
+      },
+      {
+        "name": "Barbour jacket",
+        "description": "Waxed olive field jacket his mother gave him for his 21st birthday, worn soft at the elbows, smelling faintly of cedar"
+      },
+      {
+        "name": "Piano keyboard",
+        "description": "A weighted 61-key Yamaha tucked under his desk, played with headphones on so neighbors never hear"
+      },
+      {
+        "name": "Running shoes",
+        "description": "Two pairs of Brooks Ghost rotated weekly, tracked obsessively on a running app — 30 miles per week minimum"
+      }
+    ]
+  },
+  "extra_income": 200,
+  "values": "Believes in earned merit and the power of institutions to do good when staffed by principled people. Respects discipline, eloquence, and moral courage — qualities he aspires to embody fully but currently performs selectively. Values family loyalty deeply, even when that loyalty demands self-erasure. Distrusts people who wear their identities as badges rather than living them quietly. Fears hypocrisy yet practices it daily. Believes love should be possible without conditions, but has never experienced that. Most afraid of being exposed before he's ready — and equally afraid of never being ready at all.\n",
+  "birthday": "Y1995-W8-activity-D6",
+  "birth_year": 1995
+}

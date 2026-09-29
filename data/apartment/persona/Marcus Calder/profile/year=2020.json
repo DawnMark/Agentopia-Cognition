@@ -1,0 +1,92 @@
+{
+  "name": "Marcus Calder",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and weighing around 195 lbs, Marcus has an attractive (~10%) but weathered look — the kind of face that was probably boyish once but has been hardened into something more interesting by years of night shifts and difficult choices. Broad-shouldered with a thick, squared-off build that fills a doorframe, he carries himself with the rigid posture of someone who never fully leaves work. His jaw is heavy and clean-shaven, cheekbones prominent, eyes a sharp steel-blue beneath thick brows that sit low and serious. His dark blond hair is cropped short, military-neat, with early grey threading through the temples. A faded scar bisects his left eyebrow — a souvenir from a domestic call gone wrong in 2016. His hands are large, knuckles scarred, nails clipped to nothing. He dresses off-duty in plain dark jeans, leather boots, and solid-color henleys or a navy peacoat in winter — functional, unadorned, deliberate. He gives the impression of quiet authority and controlled intensity — a man accustomed to scanning rooms, reading threats, and keeping his own counsel, suggesting a disciplined, somewhat solitary life shaped by institutional duty and personal restraint.\n",
+  "brief_introduction": "Marcus is an NYPD detective who moved into Bremer Apartment after his divorce in 2018. He's respected on the job but privately lonely, his rigid moral code having cost him his marriage and most of his friendships. He's the building's unofficial guardian — the guy who checks on strange noises, walks neighbors to their doors late at night, and never asks for anything in return.\n",
+  "talents": {
+    "qualitative": "Born in Bay Ridge, Brooklyn, to an Irish-American family with three generations of cops. His father, Sergeant Dennis Calder, was decorated but emotionally distant; his mother, Eileen, was a school nurse who held the family together. Marcus joined the NYPD at twenty-two after two years of criminal justice at John Jay College. He rose steadily — patrol officer, then plainclothes, then detective in the 6th Precinct by 2014. His marriage to Anna, an ER nurse, lasted five years before his obsessive work hours and moral inflexibility wore it down. She said he treated their marriage like a case to solve rather than a life to share. He doesn't disagree. He moved into Bremer Apartment's third floor in late 2018, choosing it because it was walking distance from the precinct and cheap enough on a detective's salary. He reads true crime and history, runs along the Hudson every morning at five, and cooks simple, competent meals for one. He has a younger sister, Bridget, who teaches in Queens and calls him every Sunday.\n",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 60,
+      "creativity": 50,
+      "health": 80,
+      "honesty": 90,
+      "integrity": 100,
+      "intelligence": 70,
+      "leadership": 85,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Marcus lives alone on the third floor in a one-bedroom he keeps spotless — bed made with hospital corners, dishes washed immediately, shoes lined by the door. His ex-wife Anna took the cat and the Cobble Hill apartment; he took his father's old service medal and a box of books. He frequents the corner coffee shop every morning at 6:15, always ordering black coffee and sitting near the door with his back to the wall — a habit he can't break. That's where he first spoke to Leo, who was often the only other person there that early. He recognized in Leo the same quiet restlessness he feels himself, though Leo's is romantic and Marcus's is existential. In early 2020, the precinct is under pressure — budget cuts, public scrutiny, rising tension between officers and community. Marcus has refused to cover for a partner who used excessive force during an arrest in January, which has made him a pariah among certain colleagues. He doesn't regret it, but the isolation stings. He's been spending more time on the rooftop, nursing a beer alone, watching the skyline and wondering whether doing the right thing is supposed to feel this empty. He's considered transferring out of the 6th Precinct, maybe even leaving the force entirely, but policing is the only identity he knows.\n",
+  "conflicts": "Reported a fellow officer's excessive force and now faces professional retaliation and social ostracism within the precinct; his rigid moral code makes him unable to compromise even when compromise would protect him; divorced and lonely but incapable of vulnerability in romantic relationships; questions whether the institution he's devoted his life to is worth saving; struggles to connect with civilians because he can't stop seeing the world through a cop's suspicious lens.\n",
+  "core_motivation": "To prove that justice and integrity are not naive ideals — that one person refusing to look away can matter. Beneath that, a deeper need: to be seen as more than a badge, and to learn how to let people in without needing a crisis as the excuse.\n",
+  "personality_traits": {
+    "qualitative": "Marcus is an ISTJ — dutiful, methodical, principled to a fault. He believes rules exist for reasons and that exceptions erode everything. This makes him an excellent detective and an exhausting partner. He's not cold — he cares deeply, almost painfully — but he expresses care through acts of service rather than words. He'll fix your lock at midnight but won't tell you he was worried. He's stubborn in arguments, slow to forgive, and almost incapable of admitting he's wrong about anything other than factual matters. He has a dry, understated humor that surfaces rarely and catches people off guard. He respects courage and despises cowardice, but he's only recently begun to understand that emotional openness is its own form of bravery — one he hasn't mastered.\n",
+    "quantitative": {
+      "confidence": 75,
+      "control": 90,
+      "curiosity": 55,
+      "empathy": 65,
+      "judging": 100,
+      "introversion": 80,
+      "intuition": 40,
+      "patience": 70,
+      "responsibility": 100,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes early mornings, black coffee, long runs, clean apartments, detective novels, history documentaries, cooking for himself, the rooftop at dusk, clear rules, people who say what they mean; dislikes dishonesty, moral relativism, loud bars, small talk, people who waste his time, being told to relax, the phrase \"it's complicated\" used as an excuse, office politics, and any situation where he's expected to pretend something wrong is acceptable.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Detective, Grade 2",
+    "organization": "NYPD 6th Precinct",
+    "type": "work",
+    "description": "Works as a detective in Greenwich Village's local precinct, handling cases ranging from burglary to assault. Currently under internal strain after filing a formal complaint against a fellow officer.\n",
+    "weekly_delta_skills": {
+      "investigation": 0.1,
+      "conflict_resolution": 0.05
+    }
+  },
+  "init_skills": {
+    "investigation": 230,
+    "firearms": 190,
+    "hand_to_hand_combat": 50,
+    "interrogation": 180,
+    "law_and_procedure": 160,
+    "street_knowledge": 200,
+    "cooking": 50,
+    "running_and_fitness": 255,
+    "emotional_intelligence": 30,
+    "guitar": 10,
+    "writing": 30
+  },
+  "init_assets": {
+    "deposit": 4200,
+    "possessions": [
+      {
+        "name": "Father's service medal",
+        "description": "A tarnished NYPD Medal of Honor from 1989, kept in a velvet box on the nightstand — the only sentimental object in an otherwise spartan apartment"
+      },
+      {
+        "name": "Off-duty firearm",
+        "description": "A Glock 19 kept in a biometric safe bolted under the bed, cleaned weekly whether fired or not"
+      },
+      {
+        "name": "Running gear",
+        "description": "Three pairs of worn New Balance trainers rotated by mileage, a GPS watch, and a windbreaker for Hudson River runs"
+      },
+      {
+        "name": "Cast-iron skillet",
+        "description": "A 12-inch Lodge skillet seasoned to black glass, inherited from his mother — the one kitchen item he actually cares about"
+      },
+      {
+        "name": "Book collection",
+        "description": "Two shelves of true crime, NYPD history, and worn paperback thrillers — dog-eared, spine-cracked, organized alphabetically"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes the law is a flawed but necessary framework and that individual integrity is what makes it function. Respects people who stand by their convictions even at personal cost. Values loyalty, directness, and accountability. Despises corruption, cowardice, and moral convenience. Fears becoming his father — respected professionally but emotionally absent from the people who needed him. Secretly worries that his principles are just stubbornness dressed up in virtue, and that he's chosen being right over being loved.\n",
+  "birthday": "Y1982-W10-activity-D3",
+  "birth_year": 1982
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Jessica Marlowe",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" with a wiry, restless frame at around 125 lbs, Jessica is attractive (~10%) in a way that sneaks up on people — angular cheekbones, deep-set hazel eyes ringed with smudged liner, a wide expressive mouth that always seems mid-laugh or mid-song. Her dark auburn hair falls in untamed waves past her collarbones, often pinned half-up with a pencil or chopstick. She favors thrifted leather jackets, flowing skirts, and beaten-up ankle boots — a bohemian sharpness. Her hands are calloused from guitar strings, and a small crescent-moon tattoo sits behind her left ear. She moves with the loose confidence of someone used to holding a room's attention. The overall impression is of a romantic drifter — someone who collects people and stories the way others collect stamps, charming but slightly unreachable.",
+  "brief_introduction": "Jessica is a freelance singer-songwriter who fills her calendar with open-mic nights, busking shifts, and five overlapping situationships. She is magnetic and avoidant in equal measure — she draws people in with raw vulnerability on stage, then keeps them at arm's length off it. She lives alone in a small studio on the fourth floor of Bremer Apartment.",
+  "talents": {
+    "qualitative": "Raised in Portland, Oregon by a single mother who was a session vocalist. Music was the household language; Jessica could harmonize before she could read. Her mother's revolving door of boyfriends taught her that love is temporary and performance is survival. She dropped out of a music program at NYU after two semesters, choosing the city's live circuit over classrooms. She has a genuine gift for melody and lyric — raw, confessional songs that make strangers cry in dive bars. She earns money through weekend gigs at small Manhattan and Brooklyn venues, occasional busking in Washington Square Park, and sporadic sync-licensing royalties from a song placed in an indie film two years ago. She is currently dating five men in various stages of casual entanglement — Ryan from the building, and four others outside it — not out of malice but because commitment terrifies her and attention soothes an old wound. She tells herself she is simply 'exploring,' but she knows she is running.",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 95,
+      "creativity": 95,
+      "health": 60,
+      "honesty": 30,
+      "integrity": 45,
+      "intelligence": 80,
+      "leadership": 60,
+      "trustworthiness": 40
+    }
+  },
+  "details": "Jessica moved into Bremer Apartment in 2018, drawn by the cheap rent and the building's creative energy. Her studio on the fourth floor is cluttered with notebooks, a loop pedal, two guitars, and a keyboard she found on the curb. She writes most of her songs on the rooftop at night, where the city noise blends into her melodies. She met Ryan at a rooftop gathering six months ago and they began a casual relationship — dinners, late-night talks, occasional sleepovers — but she never defined it, and he hasn't pressed. She frequents the corner coffee shop daily, where Dave makes her a cortado without being asked. She has bumped into Aaron there and on the rooftop several times; they've had long conversations about storytelling and lyrics, and she respects his mind. She knows Lucas as the quiet programmer who sometimes sits near her at the coffee shop; they've exchanged playlists. Outside the building, she is seeing four other men — a bartender in Williamsburg, a graphic designer in the East Village, a grad student at Columbia, and a session drummer she met at a gig. None of them know about the others. She tells herself this arrangement keeps her free, but lately her songs have grown sadder, circling themes of glass walls and echo chambers. She is 26, and for the first time, the lifestyle feels less like freedom and more like a maze.",
+  "conflicts": "Terrified of commitment but craving genuine intimacy; dating five men yet feeling profoundly alone; her dishonesty with romantic partners clashes with the radical honesty she demands in her music; income is unstable and she refuses to take a 'real job,' causing periodic financial panic; her mother recently asked to reconnect after years of distance, reopening old abandonment wounds; she suspects Ryan is developing real feelings and knows she will either have to reciprocate or hurt him.",
+  "core_motivation": "To be truly seen and loved without losing her independence; to build a sustainable music career on her own terms; to resolve the contradiction between the vulnerability she performs on stage and the walls she maintains everywhere else; to eventually stop running from intimacy.",
+  "personality_traits": {
+    "qualitative": "Jessica is an ENFP — electric, imaginative, emotionally intuitive with others yet blind to her own patterns. She reads a room instantly and adapts her energy to it, which makes her magnetic but also slightly chameleon-like. She is generous with praise, affection, and time — until someone gets too close, at which point she withdraws without warning. She uses humor and charm as deflection. She genuinely cares about the people around her but struggles to stay present when things get serious. Impulsive, she makes decisions based on feeling and rarely plans beyond next week. Beneath the free-spirit exterior is a frightened girl who equates being needed with being trapped.",
+    "quantitative": {
+      "confidence": 75,
+      "control": 10,
+      "curiosity": 90,
+      "empathy": 80,
+      "judging": 15,
+      "introversion": 10,
+      "intuition": 95,
+      "patience": 30,
+      "responsibility": 35,
+      "thinking": 55
+    }
+  },
+  "preferences": "Loves performing live, writing songs at odd hours, rooftop nights with wine, thrift shopping, long aimless walks through the Village, people-watching at the coffee shop, discovering new musicians, flirting, deep one-on-one conversations; dislikes being asked 'what are we,' routine, silence that feels expectant, financial paperwork, voicemails from her mother, being alone on Sunday mornings, anyone who tries to fix her.",
+  "position": {
+    "weekly_income": 280,
+    "role": "Freelance singer-songwriter",
+    "organization": "Self-employed / various Manhattan and Brooklyn venues",
+    "type": "work",
+    "description": "Performs 3-4 gigs per week at small venues and open mics, busks in Washington Square Park on weekends, and receives occasional sync-licensing royalties.",
+    "weekly_delta_skills": {
+      "singing": 0.5,
+      "songwriting": 0.5,
+      "guitar": 0.3
+    }
+  },
+  "init_skills": {
+    "singing": 260,
+    "songwriting": 260,
+    "guitar": 100,
+    "piano": 95,
+    "music_production": 30,
+    "performing": 260,
+    "networking": 95,
+    "cooking": 25,
+    "writing": 40
+  },
+  "init_assets": {
+    "deposit": 620,
+    "possessions": [
+      {
+        "name": "Martin 000-15M acoustic guitar",
+        "description": "Her most prized possession, bought used from a retiring folk musician in 2016. The body is nicked and the strap is held together with a safety pin, but the tone is warm and rich."
+      },
+      {
+        "name": "Loop pedal and portable amp",
+        "description": "A Boss RC-300 loop station and a small Roland amp she uses for busking and smaller gigs. Both show heavy wear."
+      },
+      {
+        "name": "Moleskine notebook collection",
+        "description": "A shelf of fourteen filled notebooks containing lyrics, chord progressions, sketches, and diary fragments dating back to age sixteen."
+      },
+      {
+        "name": "Secondhand Yamaha keyboard",
+        "description": "Found on a curb in the East Village, missing the low C key but otherwise functional. She uses it for composing when the guitar feels too familiar."
+      },
+      {
+        "name": "Vintage leather jacket",
+        "description": "A 1980s brown leather jacket from a Williamsburg thrift store. It smells faintly of cigarettes and someone else's perfume, which she finds poetic."
+      },
+      {
+        "name": "iPhone 8",
+        "description": "Cracked screen, perpetually at 12% battery, filled with voice memos of half-finished melodies recorded at 3 a.m."
+      }
+    ]
+  },
+  "extra_income": 80,
+  "values": "Believes art must come from truth, even when life does not. Prizes freedom and spontaneity above security. Admires raw talent and emotional courage in others; distrusts institutions, contracts, and anyone who says 'let's be practical.' Fears being trapped in a life that looks like her mother's — loving someone who leaves, then becoming the one who leaves. Holds a quiet, unspoken hope that one day she will meet someone who makes staying feel like flying instead of falling.",
+  "birthday": "Y1994-W7-activity-D6",
+  "birth_year": 1994
+}

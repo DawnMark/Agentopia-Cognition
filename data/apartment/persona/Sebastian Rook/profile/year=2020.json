@@ -1,0 +1,88 @@
+{
+  "name": "Sebastian Rook",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" with a broad-shouldered, sinewy frame at around 180 lbs, Sebastian registers as attractive (~10%) in a rugged, carved-from-granite way — deep-set grey-blue eyes beneath a heavy brow, a strong Roman nose slightly flattened at the bridge, a square jaw darkened by perpetual five-o'clock shadow, and thick dark-brown hair cropped short on the sides and pushed back on top with minimal product. His skin is tanned and weathered beyond his years from weekends spent on outdoor rock faces, and his forearms are disproportionately muscular, veined, and covered in faint white scars from granite scrapes. His hands are remarkable — thick-fingered, chalked-dry, with calluses like leather pads across every knuckle. He dresses in two distinct modes: weekdays in tailored navy or charcoal suits with no tie, a brushed-steel watch, and polished oxfords; evenings and weekends in fitted climbing pants, worn approach shoes, and a faded Patagonia fleece with carabiner loops still clipped to the chest pocket. He moves with deliberate, grounded economy — never rushing, each step placed as though the floor might shift beneath him. He gives the impression of coiled physical authority wrapped in corporate restraint — someone whose body was built for mountains but whose mind was trained for spreadsheets, suggesting disciplined ambition, suppressed restlessness, and a private interior life that the boardroom never sees.",
+  "brief_introduction": "Sebastian is a strategy consultant at a mid-tier financial firm who spends every free hour climbing — indoor walls on weeknights, outdoor crags on weekends. He is successful by most metrics but quietly hollowed out by a career he chose for his father's approval rather than his own desire. Living at Bremer Apartment has begun to crack his compartmentalized life open.",
+  "talents": {
+    "qualitative": "Raised in a comfortable upper-middle-class household in Westchester County. His father is a retired corporate attorney; his mother a former ballet dancer turned Pilates instructor. He was an obedient, high-achieving child — varsity lacrosse, AP everything, Princeton on a partial merit scholarship. He discovered rock climbing his sophomore year of college and it became an obsession, the first thing that ever made him feel fully present. After graduating in 2013, he joined a financial consulting firm because it was expected of him. He is good at the work — analytical, persuasive, disciplined — but it fills no part of him that climbing doesn't already satisfy. He suppresses this dissonance with routine. He has started to notice that the people around him at Bremer — artists, couriers, filmmakers — seem more alive than anyone at his firm, and it unsettles him.",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 75,
+      "creativity": 55,
+      "health": 90,
+      "honesty": 60,
+      "integrity": 70,
+      "intelligence": 80,
+      "leadership": 75,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Sebastian moved into a fifth-floor one-bedroom at Bremer in August 2017, choosing it for the rent and the proximity to a Brooklyn Boulders gym. His apartment is the cleanest in the building — minimalist furniture, a hangboard bolted above the bedroom door frame, a rack of climbing gear organized by type in the hallway closet, a single framed photo of himself on the summit of Grand Teton at age 23. He earns well but lives modestly, funneling surplus income into climbing trips — Red River Gorge, Rumney, the Gunks. He frequents the corner coffee shop on weekend mornings, where he reads the Financial Times and occasionally crosses paths with Elliot Park. They began nodding, then exchanging a few words, then sitting near each other with a comfortable lack of obligation. Sebastian respects Elliot's quiet competence and sees a mirror of his own containment in Elliot's routine — though he suspects Elliot's walls are made of different material. He met Owen Calder on the rooftop in summer 2018 when Owen was stretching after a ride and Sebastian was doing pull-ups on the water tower scaffolding. They recognized in each other a shared devotion to physical discipline and a shared wariness of small talk. Their friendship operates through action — they've gone on predawn runs together, spotted each other through bodyweight circuits on the roof, and once rode Owen's spare bike sixty miles upstate to a climbing crag. They rarely discuss feelings, but Owen is the closest thing Sebastian has to a best friend in the building. Julian Cross approached him on the rooftop in late 2019, fascinated by the visual spectacle of Sebastian climbing the water tower. Julian asked to film him, and Sebastian — unused to being someone's muse — agreed reluctantly. He found Julian's enthusiasm disarming and has since appeared in two of Julian's short test-footage reels. In January 2020, Sebastian's firm announced restructuring; his division may be dissolved. Simultaneously, a climbing guide company in Colorado offered him a part-time guiding certification program. For the first time, the escape hatch is real and open, and he is terrified to walk through it.",
+  "conflicts": "His career provides identity and paternal approval but no fulfillment; climbing provides joy but he has never allowed himself to treat it as more than a hobby. The firm's restructuring forces a decision he has spent years avoiding. He fears disappointing his father, who views climbing as a 'phase.' He is emotionally guarded — capable of deep loyalty but unable to initiate vulnerability. He has not been in a serious relationship since a two-year partnership ended in 2017 when his ex told him he was 'present but unreachable.' He suspects she was right. He envies the artists in Bremer for their willingness to risk everything for something they love, and he is ashamed of his own caution.",
+  "core_motivation": "To close the gap between who he is at work and who he is on the rock — to stop living as two separate people and build a single, integrated life organized around what actually makes him feel alive. Beneath this, to earn his own respect rather than his father's, and to prove that choosing joy over prestige is not the same as choosing failure.",
+  "personality_traits": {
+    "qualitative": "Sebastian is a disciplined, stoic presence — an ISTJ who has trained himself to function with machine-like reliability. He is loyal, principled, and quietly generous, the kind of person who will carry someone's groceries up six flights without being asked but deflect any thanks. Beneath his composed exterior is a deep well of suppressed longing — for creative freedom, for emotional closeness, for a life that feels chosen rather than inherited. He processes emotion through physicality; when stressed, he climbs until his fingers bleed. He is slow to trust but once committed, fiercely devoted. His humor is dry and infrequent, which makes it land harder when it appears.",
+    "quantitative": {
+      "confidence": 80,
+      "control": 90,
+      "curiosity": 65,
+      "empathy": 60,
+      "judging": 75,
+      "introversion": 85,
+      "intuition": 65,
+      "patience": 70,
+      "responsibility": 90,
+      "thinking": 70
+    }
+  },
+  "preferences": "Loves outdoor climbing, route-setting problems, early morning solitude, black coffee, well-made gear, long drives to remote crags, physical exhaustion as meditation, the smell of chalk, reading mountaineering memoirs; dislikes office politics, networking events, performative socializing, being asked 'so what do you do for fun' at work functions, unsolicited career advice from his father, feeling trapped indoors, emotional conversations he hasn't prepared for.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Strategy Consultant",
+    "organization": "Kerrigan & Hale Financial Advisory",
+    "type": "work",
+    "description": "Mid-level strategy consultant advising corporate clients on restructuring, M&A due diligence, and operational efficiency. Strong analytical performer but disengaged from the firm's culture.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "financial_analysis": 270,
+    "strategic_planning": 140,
+    "rock_climbing": 230,
+    "physical_fitness": 290,
+    "data_modeling": 95,
+    "presentation": 65,
+    "wilderness_navigation": 55,
+    "cooking": 20,
+    "guitar": 10,
+    "filmmaking": 10
+  },
+  "init_assets": {
+    "deposit": 8400,
+    "possessions": [
+      {
+        "name": "Climbing gear collection",
+        "description": "Two ropes, a full rack of cams and nuts, three pairs of climbing shoes in varying levels of wear, a chalk bucket, harnesses, and a crash pad — all stored with military precision in the hallway closet"
+      },
+      {
+        "name": "Trek Émonda road bike",
+        "description": "A lightweight carbon road bike kept spotless and stored on a wall mount in the living room, used for weekend rides and occasional commutes"
+      },
+      {
+        "name": "Tailored work wardrobe",
+        "description": "Six suits, a dozen dress shirts, and three pairs of oxfords — the uniform of a life he chose by default, maintained out of habit"
+      },
+      {
+        "name": "Hangboard",
+        "description": "A Beastmaker 2000 hangboard bolted above his bedroom doorframe, fingertip-worn smooth from nightly training sessions"
+      },
+      {
+        "name": "Summit photograph",
+        "description": "A framed 8x10 print of himself standing atop the Grand Teton at age 23, wind-burned and grinning — the only decoration in his apartment and the only photo where he looks fully happy"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that discipline is freedom — that mastering the body and mind through repetition creates space for genuine choice. Respects physical courage and quiet competence over verbal intelligence or social polish. Views nature as the only honest environment; cities are stages where people perform versions of themselves. Distrusts easy charm and resents inherited advantage, despite having benefited from both. Fears becoming his father — not because his father is cruel, but because his father is a man who chose safety forty years ago and has been justifying it ever since. Believes love requires presence, not just loyalty, and knows he has historically offered only the latter. Suspects that the bravest thing he could ever do is not summit a mountain but walk away from a career that was never his to begin with.",
+  "birthday": "Y1991-W10-activity-D2",
+  "birth_year": 1991
+}

@@ -1,0 +1,307 @@
+{
+  "world": {
+    "name": "apartment",
+    "language": "en",
+    "seed": 0,
+    "time": {
+      "start_year": 2020,
+      "min_age": 16,
+      "n_year": 10,
+      "n_week": 10,
+      "n_day": 5,
+      "n_contact_slot": 5
+    },
+    "contact": {
+      "n_action_per_slot": 10,
+      "max_weeks_for_future_schedule": 4,
+      "n_prev_week_contact_history": 3
+    },
+    "activity": {
+      "joint_activity_min_turns": 5,
+      "joint_activity_max_turns": 20,
+      "solo_activity_min_turns": 2,
+      "solo_activity_max_turns": 5,
+      "enable_verification": true
+    },
+    "solo_activity": {
+      "max_possessions": 50,
+      "discard_count_ratio": 0.25,
+      "delta_limits": {
+        "vitality": {
+          "min": -5,
+          "max": 5
+        },
+        "fulfillment": {
+          "mood": {
+            "min": -5,
+            "max": 5
+          },
+          "material": {
+            "min": -5,
+            "max": 10
+          },
+          "esteem": {
+            "min": -1,
+            "max": 1
+          }
+        },
+        "skills": {
+          "min": 0,
+          "max": 3
+        },
+        "money": {
+          "min": -200,
+          "max": 200
+        }
+      }
+    },
+    "joint_activity": {
+      "delta_limits": {
+        "vitality": {
+          "min": -5,
+          "max": 5
+        },
+        "fulfillment": {
+          "mood": {
+            "min": -5,
+            "max": 5
+          },
+          "social": {
+            "min": -5,
+            "max": 5
+          },
+          "esteem": {
+            "min": -3,
+            "max": 3
+          },
+          "material": {
+            "min": 0,
+            "max": 0
+          }
+        },
+        "skills": {
+          "min": 0,
+          "max": 3
+        }
+      },
+      "allow_consumption": false,
+      "allow_work": false,
+      "allow_gifting": true
+    },
+    "location": {
+      "n_locations": 30,
+      "detail_level": "medium",
+      "load_from_template": false
+    },
+    "position": {
+      "load_from_template": false
+    },
+    "population": {
+      "population_per_year": 10,
+      "by_job_ratio": 0.2,
+      "init": {
+        "by_age": {
+          "age_min": 16,
+          "age_max": 20
+        }
+      },
+      "add_personas_in_first_n_year": 5
+    },
+    "context": {
+      "recent_activities_weeks": 2,
+      "recent_summary_weeks": 5
+    },
+    "public_activity": {
+      "max_events_per_week": 10,
+      "previous_events_weeks": 5,
+      "max_repeat_weeks": 5,
+      "internal_parallelism": 10,
+      "delta_limits": {
+        "vitality": {
+          "min": -5,
+          "max": 5
+        },
+        "fulfillment": {
+          "mood": {
+            "min": -5,
+            "max": 5
+          },
+          "social": {
+            "min": -3,
+            "max": 3
+          },
+          "esteem": {
+            "min": -2,
+            "max": 2
+          }
+        },
+        "skills": {
+          "min": 0,
+          "max": 3
+        }
+      }
+    },
+    "position_application": {
+      "round1_batch_size": 10,
+      "round2_batch_size": 20,
+      "max_neighbors_to_meet": 10,
+      "min_income": 100
+    },
+    "economy": {
+      "weekly_income": {
+        "min": 100,
+        "max": 500
+      },
+      "extra_work_income_per_day": {
+        "min": 40,
+        "max": 200,
+        "tiers": {
+          "low_skilled": {
+            "min": 40,
+            "max": 80,
+            "description": "Part-time, manual labor"
+          },
+          "medium_skilled": {
+            "min": 80,
+            "max": 120,
+            "description": "Tutoring, retail"
+          },
+          "high_skilled": {
+            "min": 120,
+            "max": 200,
+            "description": "Professional services"
+          }
+        }
+      },
+      "living_standards": {
+        "frugal": {
+          "cost": 100,
+          "material_delta": -5,
+          "description": "Save money for big purchases"
+        },
+        "moderate": {
+          "cost": 200,
+          "material_delta": 0,
+          "description": "Maintain current lifestyle"
+        },
+        "comfortable": {
+          "cost": 300,
+          "material_delta": 5,
+          "description": "Better quality of life"
+        },
+        "luxurious": {
+          "cost": 500,
+          "material_delta": 10,
+          "description": "Indulgent lifestyle"
+        }
+      }
+    },
+    "fulfillment_decay_min_ratio": {
+      "mood": 0.15,
+      "social": 0.15,
+      "esteem": 0.15,
+      "material": 0
+    },
+    "vitality_recovery": {
+      "enabled": true,
+      "daily_recovery": 1.5,
+      "_comment": "每天固定恢复 daily_recovery 点体力（可为小数）；活动自身的 delta_vitality 与 god 发放完全一致，正负都不做任何缩放。1.5 由 2 年运行定稿：活动消耗 6.3~8.0/周，+7.5/周 的净值约 -1/周，体力始终是真实约束又不会崩到 0（见设计正文决策记录 0.15.8）。"
+    },
+    "reward": {
+      "period_weeks": 10,
+      "max_related_for_ranking": 20,
+      "pagerank_damping": 0.85,
+      "pagerank_max_iter": 100,
+      "affection_weight": 0.5,
+      "mutual_affection_alpha": 2.0,
+      "misery_threshold_percentile": 0.25,
+      "misery_penalty_value": 5,
+      "social_weight": 0.4,
+      "economy_weight": 0.2,
+      "gamma": 0.9,
+      "rft_top_fraction": 0.25
+    },
+    "cognition": {
+      "baseline": "off",
+      "methodology_shadow": true,
+      "max_extract_calls_per_week": 1,
+      "memory_shadow": true,
+      "memory_max_new_per_week": 5,
+      "memory_relation_max_per_week": 10,
+      "memory_relation_llm_judge": false,
+      "memory_half_life_weeks": 8,
+      "memory_max_extract_calls_per_week": 1,
+      "memory_top_k": 8,
+      "idea_engine": true,
+      "idea_max_per_week": 2,
+      "idea_max_extract_calls_per_week": 1,
+      "idea_max_conversion_calls_per_week": 1,
+      "idea_min_potential": 0.05,
+      "method_hints": true,
+      "method_hints_top_k": 3,
+      "method_hints_max_chars": 1400,
+      "method_hints_exploration_slots": 1,
+      "method_hints_bandit": true,
+      "method_hints_record_declines": true,
+      "method_hints_low_money": 300,
+      "method_lifecycle": true,
+      "method_specialized_margin": 0.2,
+      "method_specialized_min_samples": 3,
+      "method_archive_after_weeks": 6,
+      "method_refinement_threshold": 0.6,
+      "goal_progress": true,
+      "goal_progress_weight": 0.3,
+      "lesson_ingest": true,
+      "lesson_max_new_per_week": 6,
+      "lesson_rewrite_threshold": 0.45,
+      "reward_caliber": "signed",
+      "proficiency_projection": false,
+      "capability_input": false,
+      "capability_gain_cap": true,
+      "capability_cap_mid": 0.25,
+      "capability_cap_mid_gain": 1.0,
+      "capability_cap_high": 0.45,
+      "capability_cap_high_gain": 0.0
+    },
+    "upstream_compat": {
+      "routine_prompt": true,
+      "seed_source": false
+    }
+  },
+  "role_model": "<MODEL_NAME>",
+  "role_model_max_tokens": 4096,
+  "god_model": "<MODEL_NAME>",
+  "god_model_max_tokens": 16384,
+  "fallback_model": "<MODEL_NAME>",
+  "models": {
+    "claude-sonnet": {
+      "api_key": "<ANTHROPIC_API_KEY>",
+      "anthropic_model_name": "claude-sonnet-4-5-20250929",
+      "max_tokens": 8192
+    },
+    "gpt-4o": {
+      "url": "<OPENAI_ENDPOINT>",
+      "api_key": "<OPENAI_API_KEY>",
+      "max_tokens": 16384
+    },
+    "my-vllm-model": {
+      "url": "<VLLM_ENDPOINT>",
+      "vllm_model_name": "<MODEL_NAME>",
+      "api_key": "EMPTY",
+      "context_length": 32768
+    },
+    "gemini-flash": {
+      "credentials_file": "gemini_key.json",
+      "project": "<GCP_PROJECT_ID>",
+      "location": "global",
+      "max_tokens": 8192
+    }
+  },
+  "max_concurrency": 10,
+  "temperature": 0.7,
+  "response_validation": {
+    "enabled": false,
+    "judge_model": "<MODEL_NAME>",
+    "max_retries": 3
+  }
+}

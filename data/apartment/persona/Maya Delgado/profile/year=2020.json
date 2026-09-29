@@ -1,0 +1,95 @@
+{
+  "name": "Maya Delgado",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'4\" and around 120 lbs, Maya has a fair (~20%) attractiveness with a warm, earthy aesthetic. Her skin is a rich olive-brown, cheekbones high and pronounced, dark almond eyes framed by thick lashes, nose small and rounded, lips full and usually tinted with residual pigment from biting her paintbrush. Her black hair falls in long loose waves past her shoulders, often gathered in a messy bun held by a pencil or chopstick. Her hands are perpetually flecked with acrylic paint — cadmium yellow in the creases, cerulean under the nails. She dresses in oversized linen shirts, paint-spattered overalls, canvas sneakers, and layered silver rings from a Oaxacan market. A tote bag bulging with sketchbooks hangs from one shoulder. She gives the impression of a quietly passionate creative — someone grounded and observant, with an immigrant family's practicality tempering an artist's restless hunger.",
+  "brief_introduction": "Maya is a junior at NYU studying fine arts, working part-time at the corner coffee shop to pay rent. She paints urban landscapes and portraits of strangers, and is quietly building a portfolio she hopes will earn her a gallery showing before graduation.",
+  "talents": {
+    "qualitative": "Born in San Antonio, Texas, to a Mexican immigrant father (construction foreman) and a Mexican-American mother (elementary school teacher). Oldest of three siblings — a younger brother (17) and a younger sister (13). Her father crossed the border at nineteen and built a life through manual labor; her mother's family has been in Texas for three generations. Maya showed artistic talent early, winning a regional high school art competition that helped her earn a partial scholarship to NYU. She arrived in New York in 2017 wide-eyed and overwhelmed. She's resourceful and disciplined from growing up in a household where money was tight but love was abundant. She sends a portion of her earnings home each month. She struggles with impostor syndrome in a program full of wealthy peers with MFA-parent pedigrees.",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 65,
+      "creativity": 95,
+      "health": 75,
+      "honesty": 70,
+      "integrity": 90,
+      "intelligence": 85,
+      "leadership": 30,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Maya moved into Bremer Apartment's fourth floor in August 2019 after her previous roommate situation in Brooklyn fell apart. She took the cheapest available unit — a tiny studio with a north-facing window that provides the kind of diffused light painters dream about. She works three shifts a week at the corner coffee shop downstairs, where she also paints during slow hours. The shop owner lets her hang canvases on the wall, turning the café into a rotating gallery. She met Leo at the coffee shop in fall 2019; he coded at one table while she painted at another, and a spilled coffee became their first conversation. They developed a quiet ritual of sharing that corner of the shop in companionable silence, occasionally exchanging thoughts about creative doubt. She met Leah on the rooftop one evening while sketching the skyline; Leah was tuning her instrument and they began a habit of Leah playing while Maya draws. Maya's thesis project is a series of large-scale portraits of Bremer Apartment residents — intimate, unguarded moments painted from memory and quick sketches. She hasn't told most of her subjects yet. The COVID lockdowns beginning in early 2020 threaten her part-time income and her ability to access campus studios.",
+  "conflicts": "Her scholarship covers tuition but not living expenses, so financial stress is constant; she feels guilty pursuing art when her family sacrificed for her education and her father's construction work is physically destroying his body; impostor syndrome in a program dominated by affluent peers; the emerging pandemic threatens her coffee shop income and her thesis timeline; she's developing feelings for Leo but senses he's emotionally unavailable, occupied by someone else.",
+  "core_motivation": "To prove — to her family, her peers, and mostly herself — that the sacrifice of leaving home and choosing art over a practical career was worth it. To capture the fleeting, honest humanity of the people around her before everyone inevitably scatters.",
+  "personality_traits": {
+    "qualitative": "Maya is an INFP — quietly idealistic, deeply feeling, and intensely private about her inner world. She observes before she speaks, absorbs before she reacts. Her empathy runs deep; she notices the barista's bad day, the neighbor's new limp, the shift in Leo's mood when he checks his phone. She channels emotion into paint rather than words, which makes her art visceral but her communication sometimes inadequate. She is stubborn in her convictions, fiercely loyal once trust is earned, and slow to anger but devastating when she finally is. She carries her family's immigrant work ethic like armor — rest feels like laziness, and asking for help feels like weakness.",
+    "quantitative": {
+      "confidence": 50,
+      "control": 70,
+      "curiosity": 90,
+      "empathy": 90,
+      "judging": 40,
+      "introversion": 75,
+      "intuition": 100,
+      "patience": 80,
+      "responsibility": 90,
+      "thinking": 55
+    }
+  },
+  "preferences": "Likes: painting at golden hour, the smell of turpentine mixed with coffee, sketching strangers on the subway, rooftop evenings with music, calling her mother on Sunday mornings, visiting the Met alone, street tacos from the cart on Bleecker, thrift-store hunting for fabrics she can use as canvas. Dislikes: being asked to justify why art matters, performative wokeness from wealthy classmates, wasting food, cold weather without proper layers, people who talk over others, the sound of her landlord's footsteps on rent day.",
+  "position": {
+    "weekly_income": 220,
+    "role": "Part-time barista / NYU fine arts student",
+    "organization": "The Corner Coffee Shop / NYU Tisch School of the Arts",
+    "type": "mixed",
+    "description": "Junior studying fine arts at NYU on partial scholarship, working three shifts a week at the building's corner coffee shop to cover rent and living expenses.",
+    "weekly_delta_skills": {
+      "painting": 0.3,
+      "barista_skills": 0.05
+    }
+  },
+  "init_skills": {
+    "painting": 210,
+    "drawing": 165,
+    "color_theory": 140,
+    "art_history": 40,
+    "photography": 35,
+    "barista_skills": 35,
+    "cooking": 80,
+    "Spanish": 205,
+    "writing": 30,
+    "music": 10
+  },
+  "init_assets": {
+    "deposit": 600,
+    "possessions": [
+      {
+        "name": "Paint supplies",
+        "description": "A well-used wooden box of acrylics and oils — some tubes squeezed nearly flat, a coffee can bristling with brushes of varying quality, a palette knife her professor gave her"
+      },
+      {
+        "name": "Portable easel",
+        "description": "A lightweight aluminum field easel she bought secondhand from a graduating senior, slightly wobbly but functional for rooftop and park sessions"
+      },
+      {
+        "name": "Sketchbooks",
+        "description": "A stack of fourteen filled Moleskine sketchbooks dating back to high school, plus three active ones she rotates — one for class, one for personal work, one for portraits of Bremer residents"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2016 MacBook Air with a cracked corner and fading battery, used for coursework, portfolio uploads, and video calls with family"
+      },
+      {
+        "name": "Silver rings",
+        "description": "Five mismatched silver rings bought at a market in Oaxaca during a family trip when she was fifteen — she never takes them off"
+      },
+      {
+        "name": "Bicycle",
+        "description": "A beat-up single-speed she found on Craigslist for forty dollars, spray-painted teal, her primary transportation across Manhattan"
+      }
+    ]
+  },
+  "extra_income": 50,
+  "values": "Believes art is not a luxury but a necessity — that making visible what others overlook is a form of justice. Values hard work, humility, and showing up consistently over talent alone. Respects people who are honest about their struggles rather than performing strength. Deeply loyal to family and feels the weight of being the first in her family to pursue something so impractical. Distrusts wealth that lacks self-awareness. Fears becoming someone who left home and has nothing to show for it. Believes love should be quiet, steady, and shown through actions rather than declarations.",
+  "birthday": "Y1999-W3-activity-D1",
+  "birth_year": 1999
+}

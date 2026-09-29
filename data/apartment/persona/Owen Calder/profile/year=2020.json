@@ -1,0 +1,87 @@
+{
+  "name": "Owen Calder",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'10\" with a wiry, corded frame at around 155 lbs, Owen registers as fair (~20%) in a windswept, angular way — sharp hazel eyes perpetually narrowed as though gauging distance, a long straight nose reddened at the tip from cold rides, thin lips often chapped and curved into an asymmetric smirk, and sun-darkened skin that contrasts with a pale forehead usually hidden beneath a cycling cap or beanie. His dirty-blond hair is shaved close on the sides and longer on top, matted flat from helmets. His jaw is defined but narrow, always carrying a few days of sandy stubble. His hands are calloused and nicked, knuckles scarred from chain grease and minor wrecks, nails trimmed brutally short. He dresses in utilitarian layers — a battered olive Carhartt jacket, messenger bags cross-strapped tight against his torso, slim black cycling pants or rolled-up dark jeans, clip-in shoes or beat-up Vans depending on whether he's working. A carabiner jangles from his belt loop holding keys and a bottle opener. He moves with restless, coiled momentum, always leaning forward slightly as though about to sprint. He gives the impression of a lean, weather-beaten urban nomad — someone who knows every street in the city by muscle memory, self-reliant to the point of stubbornness, with an outdoor roughness that suggests working-class grit and a reluctance to stay still.",
+  "brief_introduction": "Owen is a bike courier and cycling obsessive who uses the city's streets as both livelihood and therapy, running from a stalled life he doesn't know how to restart.",
+  "talents": {
+    "qualitative": "Raised in a blue-collar household in Scranton, Pennsylvania — father was a UPS driver, mother a school cafeteria worker. He was a promising high school track athlete but tore his ACL senior year, losing a partial scholarship to Penn State. Attended community college for a semester, dropped out, drifted through warehouse jobs, then moved to New York in 2016 with $600 and a steel-frame bike. Discovered courier work and found a strange freedom in it — no boss hovering, no cubicle, just the city and velocity. He's mechanically gifted; he builds and repairs bikes in his apartment and occasionally sells refurbished frames on Craigslist. He reads compulsively — history, urban planning, long-form journalism — but has no degree and carries a chip about it. Knows the five boroughs better than most cab drivers.",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 40,
+      "creativity": 55,
+      "health": 95,
+      "honesty": 75,
+      "integrity": 80,
+      "intelligence": 70,
+      "leadership": 30,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Owen lives in a fourth-floor walk-up studio at Bremer Apartment, which he moved into in early 2018 after a Craigslist sublet expired. His room is spartan — a mattress on the floor, a pegboard wall mounted with bike tools and spare wheels, a milk-crate bookshelf overflowing with dog-eared paperbacks, and a turquoise single-speed road bike hanging from ceiling hooks like a sculptural centerpiece. A second bike — a heavier steel-frame beater — leans by the door for courier shifts. He works as an independent bike courier six days a week, averaging 40–60 deliveries daily across Manhattan and Brooklyn. His mornings start at 5 AM; he's often pedaling through predawn streets when Takumi is biking to Fulton Fish Market, and they've developed a silent, nodding camaraderie — two men moving through empty streets with shared discipline. One freezing January morning in 2020, Owen got a flat near the market and Takumi, recognizing him, wordlessly helped him patch it, then offered him tea at the restaurant before opening. They've shared a handful of quiet early-morning conversations since, mostly about fish seasons and road conditions, but Owen considers Takumi one of the few people who understands the value of doing one thing relentlessly well. Owen frequents the corner coffee shop after his morning shift, where he crosses paths with Leo regularly. They share a table sometimes — Leo coding, Owen reading — in comfortable near-silence. Owen respects Leo's gentleness but privately thinks Leo overthinks everything and should just act. He discovered the rooftop in summer 2018 and goes there to stretch after long rides. He met Julian there in late 2019; Julian was framing shots of the skyline and asked Owen to ride across the rooftop so he could film the motion. Owen obliged, amused, and they've had sporadic rooftop conversations since — Julian's hyperverbal enthusiasm is the opposite of Owen's laconic style, but Owen finds it oddly energizing. Owen's deeper problem is stagnation. He's 25, still couriering, and the work is getting harder on his body. A regular customer — a startup founder — offered him an operations manager role in a logistics company in late 2019. It pays well, offers health insurance, and would mean giving up the bike as his primary life. He hasn't responded. His father called at Christmas and asked when he was going to get a real job. Owen hung up and rode 80 miles through Brooklyn and Queens in the rain.",
+  "conflicts": "His body is showing signs of wear — a persistent knee ache, numb fingers in winter — and he knows courier work has an expiration date, but the freedom it provides is the only thing keeping him sane. The logistics job offer represents stability but feels like surrender. He has no degree, no savings beyond rent, and no plan. His relationship with his father is strained by mutual disappointment. He uses cycling as emotional avoidance — when something is difficult, he rides until his legs burn and calls it solved. He wants deeper connections with people in the building but doesn't know how to be vulnerable without momentum.",
+  "core_motivation": "To find something worth stopping for. Owen has spent four years in motion — literal, constant motion — because stillness forces him to confront the gap between who he is and who he thought he'd become. He wants to build a life that justifies having left home, but he doesn't yet know what that life looks like beyond the next ride.",
+  "personality_traits": {
+    "qualitative": "Owen is an ISTP — practical, observant, and fiercely independent. He processes the world through physical experience rather than abstraction. He's laconic but not unfriendly; he simply doesn't waste words. He respects competence and effort, dislikes pretension, and has a dry, understated humor that surfaces unexpectedly. He's loyal to people who earn it but slow to let anyone in. His emotional vocabulary is limited — he substitutes action for expression, which makes him reliable in a crisis and frustrating in a conversation about feelings. He carries quiet shame about his lack of education and masks it with indifference.",
+    "quantitative": {
+      "confidence": 65,
+      "control": 75,
+      "curiosity": 70,
+      "empathy": 55,
+      "judging": 40,
+      "introversion": 85,
+      "intuition": 55,
+      "patience": 80,
+      "responsibility": 85,
+      "thinking": 70
+    }
+  },
+  "preferences": "Likes long solo rides at dawn and dusk, building and repairing bikes, reading history and urban planning books, strong black coffee, rooftop sunsets, the satisfying click of a well-tuned derailleur, rain on empty streets, people who say what they mean. Dislikes small talk, being patronized about his lack of degree, traffic-clogged avenues, SUVs in bike lanes, being asked 'what's next,' sitting in offices, dishonesty disguised as politeness.",
+  "position": {
+    "weekly_income": 380,
+    "role": "Independent bike courier",
+    "organization": "Self-employed (contract work via multiple courier apps and direct restaurant/business accounts)",
+    "type": "work",
+    "description": "Full-time bike courier delivering packages, food, and documents across Manhattan and Brooklyn six days a week.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "cycling": 260,
+    "bike_mechanics": 235,
+    "urban_navigation": 260,
+    "physical_endurance": 140,
+    "basic_cooking": 85,
+    "reading_and_self_education": 260,
+    "interpersonal_communication": 30,
+    "logistics_and_planning": 90,
+    "first_aid": 90
+  },
+  "init_assets": {
+    "deposit": 620,
+    "possessions": [
+      {
+        "name": "Turquoise single-speed road bike",
+        "description": "Custom-built from a vintage Bianchi frame, lightweight with drop handlebars wrapped in black tape, his most prized possession — he's ridden it roughly 30,000 miles."
+      },
+      {
+        "name": "Steel-frame beater courier bike",
+        "description": "A heavy, indestructible black Surly frame with a front rack and panniers, used for daily delivery work in all weather."
+      },
+      {
+        "name": "Bike tool pegboard and spare parts",
+        "description": "A wall-mounted collection of hex keys, chain tools, spare tubes, cables, brake pads, and two extra wheelsets — enough to run a small repair shop."
+      },
+      {
+        "name": "Milk-crate bookshelf",
+        "description": "Four stacked plastic crates holding roughly 60 paperbacks — Robert Caro, Jane Jacobs, Tony Judt, Joan Didion, lots of used history and journalism."
+      },
+      {
+        "name": "Smartphone with cracked screen",
+        "description": "A two-year-old Android phone held together with a rubber case, essential for courier app navigation, screen cracked from a fall on Seventh Avenue."
+      }
+    ]
+  },
+  "extra_income": 40,
+  "values": "Believes that freedom is the highest good and that most people trade it away too cheaply for comfort. Respects anyone who masters a craft through repetition and physical commitment. Views the city as a living organism best understood at street level, not from office windows. Distrusts institutions, credentials, and anyone who measures a person's worth by their résumé. Fears becoming his father — not because his father is bad, but because his father settled and spent thirty years quietly regretting it. Believes honesty is expressed through what you do, not what you say. Suspects that his love of motion is also a form of cowardice.",
+  "birthday": "Y1994-W8-activity-D1",
+  "birth_year": 1994
+}

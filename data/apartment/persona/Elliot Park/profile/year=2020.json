@@ -1,0 +1,83 @@
+{
+  "name": "Elliot Park",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'9\" and weighing around 155 lbs, Elliot registers as average (~40%) in a clean, forgettable way — the kind of face you'd pass on the subway and never recall. He is lean and narrow-shouldered with a slight forward hunch from years of laptop work. His features are pleasant but unremarkable: warm brown eyes behind black-framed glasses, a soft jaw, a small mouth that defaults to a neutral, mildly pensive line, and neat black hair parted to the side that always looks like it was combed once in the morning and never touched again. His skin is fair with a yellowish undertone, prone to dark under-eye circles. He wears the same rotation of muted crew-neck sweaters, dark jeans, and white sneakers — functional, invisible, chosen to avoid decisions. His hands are smooth and restless, always turning a pen or tapping a rhythm on his thigh. He carries a scuffed black backpack everywhere like a security blanket. He gives the impression of someone deliberately minimizing his footprint — quiet, competent, self-contained — a man who has arranged his life so that nothing demands too much from him, and who may not realize how lonely that arrangement has become.\n",
+  "brief_introduction": "Elliot is a backend software engineer at a mid-size fintech company, living alone in a third-floor studio at Bremer Apartment. He is kind, reliable, and emotionally cautious — a man who has optimized his life for stability after a turbulent childhood, but who quietly suspects that stability and numbness may be the same thing.\n",
+  "talents": {
+    "qualitative": "Born in Flushing, Queens, to Korean immigrant parents who ran a dry-cleaning shop. His father left when Elliot was eleven; his mother worked double shifts to keep them afloat. Elliot learned early that being quiet and self-sufficient was the kindest thing he could do for her. He excelled academically — full scholarship to Stony Brook for computer science — and landed a stable engineering job right out of college. He is genuinely skilled at systems thinking, debugging, and building clean architecture. He reads voraciously — sci-fi, philosophy, history — and has a quiet, dry wit that surprises people who assume he has nothing to say. He taught himself woodworking from YouTube videos and built his own bookshelf. He is a decent cook of Korean comfort food. His emotional vocabulary, however, is underdeveloped; he can diagnose a distributed systems failure in minutes but cannot name what he is feeling on most days.\n",
+    "quantitative": {
+      "beauty": 50,
+      "communication": 40,
+      "creativity": 85,
+      "health": 60,
+      "honesty": 70,
+      "integrity": 100,
+      "intelligence": 100,
+      "leadership": 30,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Elliot has lived at Bremer since 2016. His third-floor studio is small but meticulously organized: a standing desk with dual monitors, a hand-built bookshelf crammed with paperbacks, a single monstera plant he talks to when debugging, and a rice cooker that is never fully put away. He works remotely most days from the corner coffee shop, where Megan knows his order — a pour-over and a plain croissant — and where they exchange small talk that Elliot quietly looks forward to more than he admits. He met Maddox through a building-wide Wi-Fi outage in 2018; they ended up troubleshooting the router together and discovered a shared interest in mechanical keyboards and systems architecture. They now have a standing Thursday-evening ritual of beers and quiet parallel work in Maddox's apartment, occasionally trading observations about code or life with equal brevity. He encounters Dylan on early mornings when Elliot is leaving for a walk and Dylan is returning from a rooftop workout; they nod, sometimes exchange a sentence or two. Elliot respects Dylan's discipline but finds his silence familiar in an uncomfortable way — it mirrors his own. His mother still lives in Queens. He visits her every other Sunday and fixes things around her apartment. She asks when he will meet someone. He changes the subject. In early 2020, his company is discussing layoffs, and for the first time, his optimized, predictable life feels fragile.\n",
+  "conflicts": "Has built a life of safety and routine but is beginning to feel its walls closing in; layoff rumors at work threaten the financial stability he has organized his entire identity around. Wants connection but treats vulnerability as inefficiency — something to be engineered out rather than leaned into. Carries guilt about his mother's sacrifices and a quiet anger toward his absent father that he has never processed. Fears that his quietness is not peace but paralysis. Suspects he is capable of more — more feeling, more risk, more life — but does not know how to refactor a self he built for survival.\n",
+  "core_motivation": "To build something meaningful — a life, a relationship, a project — that proves his father's departure did not break him. Beneath that, to feel genuinely known by another person and discover that being known does not lead to being left. He also wants to give his mother ease and pride, to make her years of sacrifice retroactively worth it.\n",
+  "personality_traits": {
+    "qualitative": "Elliot is a textbook INTP — analytical, reserved, internally rich but externally muted. He processes the world through logic first and emotion second, not because he lacks feeling but because feeling was never safe in his household. He is loyal to a fault once trust is established, but trust takes months. He has a dry, observational humor that emerges in small doses, usually catching people off guard. He avoids conflict not out of cowardice but out of a deep-seated belief that his needs are less important than others'. He is patient with problems and impatient with pretense. He overthinks decisions, under-communicates his wants, and retreats into work when emotions become legible.\n",
+    "quantitative": {
+      "confidence": 35,
+      "control": 70,
+      "curiosity": 90,
+      "empathy": 85,
+      "judging": 35,
+      "introversion": 95,
+      "intuition": 85,
+      "patience": 95,
+      "responsibility": 95,
+      "thinking": 90
+    }
+  },
+  "preferences": "Likes quiet mornings at the coffee shop, reading sci-fi novels, building small woodworking projects, cooking Korean stews on Sunday evenings, solving complex engineering problems, long walks through the Village at night, listening to ambient electronic music, and the particular silence of his apartment at 2 a.m. Dislikes loud networking events, small talk that stays small, people who perform busyness as a personality, being asked why he is so quiet, unsolicited advice about dating, and food that is overly sweet.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Backend Software Engineer",
+    "organization": "Lumen Financial Technologies",
+    "type": "work",
+    "description": "Full-time remote-capable backend engineer working on payment processing systems. Primarily codes in Go and Python. Reliable, thorough, rarely late on deliverables. Not interested in management track.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "software_engineering": 130,
+    "systems_architecture": 200,
+    "python": 120,
+    "go": 170,
+    "woodworking": 35,
+    "cooking": 80,
+    "writing": 95,
+    "public_speaking": 15,
+    "emotional_communication": 20
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "Custom-built PC",
+        "description": "A meticulously assembled desktop with dual monitors, mechanical keyboard with Cherry MX Brown switches, used for both work and personal projects.\n"
+      },
+      {
+        "name": "Hand-built bookshelf",
+        "description": "A walnut bookshelf he constructed over three weekends from YouTube tutorials, slightly uneven on one side but sturdy and filled with over two hundred paperbacks.\n"
+      },
+      {
+        "name": "Rice cooker",
+        "description": "A Zojirushi rice cooker his mother gave him when he moved out, the one appliance he would save in a fire.\n"
+      },
+      {
+        "name": "Monstera plant",
+        "description": "A large monstera deliciosa named \"Null\" that sits beside his desk and has somehow thrived for three years despite inconsistent watering.\n"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that reliability is the highest form of respect — that showing up consistently matters more than grand gestures. Values competence, humility, and quiet integrity. Distrusts charm and spectacle; admires people who do difficult things without announcing it. Fears abandonment more than failure, which is why he has structured his life to need no one. Respects his mother's sacrifice with a devotion that borders on obligation. Believes kindness is undervalued and loudness is overrewarded. Suspects that the life he has built is good on paper but hollow at the center, and is only beginning — reluctantly — to sit with that suspicion.\n",
+  "birthday": "Y1988-W9-activity-D5",
+  "birth_year": 1988
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Amber Delacroix",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" and about 130 lbs, Amber has an attractive (~10%) warmth that registers immediately — honey-brown skin, high cheekbones dusted with faint freckles, wide-set hazel eyes that catch light like river glass, and a full mouth that defaults to a half-smile. Her dark auburn curls are usually pulled into a loose topknot secured with a paintbrush or pencil, stray coils framing her temples. She has a dancer's posture despite never having trained, shoulders back, chin slightly lifted, with paint-flecked hands and short, practical nails. She favors oversized linen shirts knotted at the waist, high-waisted jeans, canvas sneakers, and a thin gold chain her grandmother gave her. There is almost always a smudge of cadmium yellow or cerulean somewhere on her forearm. She gives the impression of someone sunny, perceptive, and grounded — a person who makes strangers feel they've been friends for years, suggesting a Southern upbringing steeped in hospitality and quiet resilience.\n",
+  "brief_introduction": "Amber is the head barista at the Corner Coffee Shop and an aspiring painter who moved to New York from Savannah, Georgia in 2017. She is warm and perceptive, often the emotional glue among the building's residents, though she privately battles self-doubt about whether her art will ever be more than a hobby.\n",
+  "talents": {
+    "qualitative": "Born in Savannah to a Creole mother who taught high-school French and a Black father who ran a framing shop, Amber grew up surrounded by color, language, and the smell of wood varnish. She won a regional young-artist prize at sixteen, which funded her first summer program at SCAD. She studied fine art at SCAD on partial scholarship, graduating in 2017, then drove north with two suitcases and a roll of canvases. She's observant and emotionally intelligent, able to read a room the way she reads a composition — noticing what's off-balance. She picked up barista work quickly and now manages the morning shift. Her painting style leans toward intimate realism — portraits, still lifes of bodega flowers, fire escapes at dusk. She sells a piece every few months through a friend's Williamsburg gallery but hasn't had a solo show. She speaks passable French from her mother and can cook Lowcountry dishes that make the whole hallway smell like home.\n",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 95,
+      "creativity": 95,
+      "health": 75,
+      "honesty": 75,
+      "integrity": 95,
+      "intelligence": 70,
+      "leadership": 85,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Amber moved into Bremer Apartment in late 2017, taking a small studio on the fourth floor. She got hired at the Corner Coffee Shop within a week and has been there since, rising to head barista. The shop became her social anchor — she memorized every resident's order and, through that tiny ritual, became someone people confided in. She met Leo in early 2018 when he started coming in every morning for a double espresso; she noticed he always lingered, writing in a notebook, and eventually they struck up a friendship. She's one of the few people who has heard Leo play guitar up close and has gently encouraged him to perform publicly. She met Phoenix through late-night rooftop sessions and asked to paint his portrait; he agreed, and they spent several evenings on the roof while she sketched. She knows Tyler from his gregarious appearances at the coffee shop and the rooftop. In 2019, her father was diagnosed with early-onset Parkinson's, which shook her deeply. She sent most of her savings home and has been stretching every dollar since. She paints after her shifts, often until 2 AM, fueled by the same espresso she serves. A small gallery in Williamsburg has offered her a group show slot in spring 2020, which would be her most significant exhibition yet, but she needs to produce six new pieces and doubts she can manage it alongside work and family worry.\n",
+  "conflicts": "Torn between staying in New York to pursue her art career and returning to Savannah to help her aging parents; financial pressure from sending money home while paying Manhattan rent on a barista's wages; self-doubt about whether her art is good enough for a real career; wants to encourage Leo to confess his feelings to Katie but fears overstepping; the spring 2020 group show deadline is approaching and she has only completed two of six pieces.\n",
+  "core_motivation": "To prove — mostly to herself — that leaving Savannah was worth it by building a legitimate art career, while remaining the kind of person her parents raised her to be: generous, present, and honest. She wants to finish the six paintings, earn the group show, and eventually support her family through her art rather than despite it.\n",
+  "personality_traits": {
+    "qualitative": "Amber is an ENFJ — warm, organized, and instinctively nurturing, but with a private streak of perfectionism that can paralyze her creative work. She draws energy from people yet needs solitary studio hours to recharge. She's diplomatic, rarely confrontational, which sometimes means she swallows frustrations until they surface as anxiety. She has a gift for making others feel seen, but she's less skilled at asking for help herself. Her humor is gentle and observational. She values hard work, sincerity, and showing up — and quietly judges people who coast on privilege without awareness. Under stress she becomes hyper-productive and sleepless.\n",
+    "quantitative": {
+      "confidence": 55,
+      "control": 75,
+      "curiosity": 100,
+      "empathy": 90,
+      "judging": 70,
+      "introversion": 30,
+      "intuition": 90,
+      "patience": 80,
+      "responsibility": 100,
+      "thinking": 60
+    }
+  },
+  "preferences": "Likes painting portraits from life, experimenting with oil glazes, hosting casual dinners in her tiny kitchen, exploring Brooklyn flea markets for objects to paint, listening to Nina Simone and Solange while she works, long phone calls with her mother, sunrise runs along the Hudson, reading James Baldwin essays, and finding the perfect latte art pour. Dislikes pretentiousness in the art world, being rushed, cold weather that keeps people indoors, wasting food, loud confrontations, and being told her art is \"pretty\" — she wants it to be true, not decorative.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Head Barista",
+    "organization": "The Corner Coffee Shop",
+    "type": "work",
+    "description": "Manages the morning shift (6 AM – 2 PM) five days a week, trains new hires, handles inventory orders. Occasionally picks up evening shifts for extra cash. Sells paintings through a Williamsburg gallery on consignment, netting roughly $200–400 per sale, a few times a year.\n",
+    "weekly_delta_skills": {
+      "painting": 0.5,
+      "barista_craft": 0.2,
+      "people_management": 0.1
+    }
+  },
+  "init_skills": {
+    "oil_painting": 115,
+    "drawing": 180,
+    "color_theory": 210,
+    "barista_craft": 115,
+    "cooking": 35,
+    "French": 40,
+    "people_management": 70,
+    "guitar": 30,
+    "photography": 20,
+    "accounting": 30
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Portable easel and oil paint set",
+        "description": "A well-worn French-style pochade box and a tackle box of Gamblin oils, turpentine, and linseed medium — the most expensive things she owns, gifted by her father from his shop's framing scraps and her SCAD graduation money."
+      },
+      {
+        "name": "Grandmother's gold chain",
+        "description": "A thin 14k gold necklace with a tiny fleur-de-lis pendant, passed down from her Creole grandmother; she never takes it off."
+      },
+      {
+        "name": "Secondhand iPhone 8",
+        "description": "Bought refurbished in 2018, cracked screen protector, camera roll full of reference photos for paintings."
+      },
+      {
+        "name": "Stack of half-finished canvases",
+        "description": "Twelve stretched canvases in various sizes leaning against her studio wall, four with underpaintings for the spring group show."
+      },
+      {
+        "name": "Cast-iron skillet",
+        "description": "Seasoned black iron pan brought from Savannah, used for shrimp and grits, cornbread, and anything that needs a good sear."
+      }
+    ]
+  },
+  "extra_income": 40,
+  "values": "Believes that art is a form of witnessing — that painting someone honestly is an act of love. Values generosity, showing up, and emotional courage. Respects people who work hard without performing their struggle. Distrusts shortcuts and art-world gatekeeping. Fears becoming comfortable enough to stop creating. Holds family obligation as sacred but wrestles with guilt that pursuing her own dreams sometimes conflicts with that obligation. Thinks vulnerability is strength, which is partly why she quietly roots for Leo to speak up — she sees in his silence a version of her own hesitations about her art.\n",
+  "birthday": "Y1995-W8-activity-D1",
+  "birth_year": 1995
+}

@@ -1,0 +1,77 @@
+# ── Secrets — never commit ──────────────────────────────────────────────────
+config.json
+.env
+.env.*
+gemini_key.json
+credentials*.json
+*.key
+*.pem
+
+# ── Simulation outputs ──────────────────────────────────────────────────────
+# Every run directory is named <world>_MMDDHHMM and embeds a copy of config.json,
+# which contains API keys. Base worlds under data/ are committed; runs are not.
+data/*_[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]/
+data/*_[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]/*
+data/*.zip
+logs/
+rft_data/
+analysis/
+reports/
+
+# ── Private worlds and evaluation data ──────────────────────────────────────
+# Locally authored worlds, the persona template used to write them, and every
+# report derived from them. Kept out of the public repository on purpose.
+data/shanghai_apartment/
+data/persona_template_shanghai/
+data/CONTAMINATED_*/
+docs/character-behavior-analysis-3y.md
+
+# ── Engineering notes — this repository ships user-facing docs only ─────────
+docs/agent-cognition-architecture.md
+docs/baseline-comparison.md
+docs/dev-notes.md
+docs/known-issues.md
+docs/methodology-reward-design.md
+docs/phase2-memory-design.md
+docs/phase123-acceptance-1y.md
+docs/lesson-bridge-acceptance.md
+docs/phase4-review.md
+docs/phase4-acceptance.md
+docs/phase5-acceptance.md
+docs/phase6-acceptance.md
+docs/project-acceptance-plan.md
+
+# ── Project reports — kept out of the public release ────────────────────────
+docs/project-report.md
+docs/project-acceptance-3y.md
+
+# ── Local creative workspace (novel drafts, character art) ──────────────────
+art/
+
+# ── Regenerable caches ──────────────────────────────────────────────────────
+llm_cache/
+.pytest_cache/
+.tmp_test/
+
+# ── Local scratch ───────────────────────────────────────────────────────────
+tmp_*.py
+tmp_*.txt
+tmp_*.json
+tmp_*.md
+
+# ── Local IDE / agent settings ──────────────────────────────────────────────
+.claude/settings.local.json
+.claude/*.local.json
+
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# ── OS ──────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

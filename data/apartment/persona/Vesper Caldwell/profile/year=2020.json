@@ -1,0 +1,90 @@
+{
+  "name": "Vesper Caldwell",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" at roughly 130 lbs with a slender, angular frame, Vesper registers as attractive (~10%) in a stark, unconventional way — high cheekbones casting deliberate shadows, deep-set gray-green eyes ringed faintly dark from habitual late nights, a sharp jaw, and a long pale neck she often tilts when listening. Her ash-blonde hair is cut bluntly at the collarbone and usually tucked behind one ear. Her hands are slim with short unpainted nails, often ink-smudged or faintly chemical-stained from darkroom work. She dresses in monochrome — black turtlenecks, vintage denim, a battered olive field jacket, silver rings stacked on her left hand, worn leather boots. There is no softness in her aesthetic; everything is pared down and precise. She gives the immediate impression of someone coolly self-possessed and slightly unreachable — a nocturnal observer who curates distance the way others curate warmth, suggesting an artistic temperament shaped by early independence and perhaps some wound she has folded neatly out of sight.\n",
+  "brief_introduction": "Vesper is a freelance photographer and part-time bartender living alone on the third floor. She left Savannah at nineteen after a falling-out with her evangelical family over her refusal to follow the life they planned. She is quietly ambitious, emotionally guarded, and drawn to documenting strangers — which makes Bremer Apartment an inexhaustible subject. She has developed a tentative friendship with Leo through late-night coffee shop encounters and recognizes something familiar in his avoidance.\n",
+  "talents": {
+    "qualitative": "Raised in a strict religious household in Savannah, Georgia — father a deacon, mother a piano teacher, one older brother who stayed and married young. Vesper showed early aptitude for visual art, winning a state photography prize at sixteen, which her parents dismissed as vanity. She left for New York at nineteen on savings from waitressing, enrolled briefly at SVA but dropped out after one year when tuition became unmanageable. Since then she has built a modest freelance portfolio shooting editorial work, street photography, and the occasional wedding to pay bills. She bartends four nights a week at a cocktail bar in the West Village. She is highly self-taught, disciplined, and visually intelligent but struggles with self-promotion and trusting collaborators. She has a quiet, dry humor that surfaces unexpectedly.\n",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 65,
+      "creativity": 100,
+      "health": 70,
+      "honesty": 70,
+      "integrity": 80,
+      "intelligence": 75,
+      "leadership": 30,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Vesper moved into Bremer Apartment in late 2017, taking over a lease from a departing grad student. The third-floor studio is small — a converted one-bedroom she has turned into a combined living and darkroom space, blackout curtains always half-drawn. She works Tuesday through Friday nights behind the bar at a cocktail spot called Vellum on Bleecker Street, then spends mornings editing photos or walking the city with her camera. She first noticed Leo at the corner coffee shop in early 2019 — he was always there with his laptop looking quietly miserable, and one morning she asked if she could photograph his hands while he typed. He said yes, awkwardly, and they began exchanging small talk that deepened over months into a real if still cautious friendship. She finds his unexpressed feelings almost painfully legible. She met Mike when he started coming to Vellum after deadline nights; she serves him old-fashioneds and listens to his half-drunk observations about the neighborhood. She encountered Stella on the rooftop one sleepless October night in 2019 — neither spoke for twenty minutes, and that silence became the foundation of a slow, mutual respect. Vesper is working toward her first solo exhibition, quietly assembling a series called \"Thin Walls\" — portraits of apartment life shot on medium-format film. She has not told anyone in the building they are her subjects.\n",
+  "conflicts": "Estranged from her family and refusing to reach out, yet quietly grieving the loss — especially of her mother. Her photography project uses her neighbors as unwitting subjects, raising ethical questions she hasn't resolved. She is drawn to Leo but unsure whether her feelings are romantic or simply recognition of a kindred avoidance; acting on either interpretation terrifies her. Financially precarious — bartending covers rent but leaves little margin, and one bad month could derail her exhibition plans. She fears that her self-reliance is actually just loneliness she has learned to aestheticize.\n",
+  "core_motivation": "To prove — to herself, to the family that dismissed her — that her way of seeing the world has value. To complete her photo exhibition and be recognized as a serious artist. To learn, slowly, that letting someone in does not mean losing control.\n",
+  "personality_traits": {
+    "qualitative": "Vesper is an INTJ — strategic, independent, and intensely private. She processes the world visually and tends to observe before participating. She is not cold but selective; warmth, when it arrives, is precise and genuine. She has a dry, understated humor and a talent for asking the one question people don't expect. She avoids conflict not from weakness but from a learned belief that fighting rarely changes anyone. Her greatest flaw is her tendency to substitute observation for participation — she can spend so long framing a moment that she forgets to live inside it.\n",
+    "quantitative": {
+      "confidence": 60,
+      "control": 70,
+      "curiosity": 95,
+      "empathy": 85,
+      "judging": 75,
+      "introversion": 95,
+      "intuition": 90,
+      "patience": 70,
+      "responsibility": 70,
+      "thinking": 70
+    }
+  },
+  "preferences": "Likes: early morning light, black-and-white film, well-made cocktails, rain on fire escapes, long walks without destination, Leo's guitar playing overheard from the stairwell, diners that stay open past 2 AM, handwritten letters she never sends to her mother, the smell of darkroom chemicals, Stella's comfortable silence. Dislikes: small talk at parties, being photographed herself, unsolicited advice, performative vulnerability on social media, loud neighbors after midnight when she's trying to print, anyone who calls photography a hobby, pity.\n",
+  "position": {
+    "weekly_income": 380,
+    "role": "Bartender / Freelance Photographer",
+    "organization": "Vellum Bar (West Village) / Self-employed",
+    "type": "work",
+    "description": "Bartends four nights a week at Vellum, a mid-range cocktail bar on Bleecker Street. Takes freelance photography commissions — editorial, portraiture, occasional event work — to supplement income. Pursuing a personal art project on the side.\n",
+    "weekly_delta_skills": {
+      "photography": 0.5,
+      "bartending": 0.1
+    }
+  },
+  "init_skills": {
+    "photography": 220,
+    "photo_editing": 140,
+    "darkroom_processing": 130,
+    "bartending": 45,
+    "visual_composition": 110,
+    "social_observation": 250,
+    "self_promotion": 15,
+    "cooking": 40,
+    "writing": 60
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Mamiya RB67 medium-format camera",
+        "description": "Bought secondhand from a retiring photographer in Brooklyn for $600 — her most prized possession. Heavy, mechanical, and demanding; she carries it in a padded canvas bag everywhere.\n"
+      },
+      {
+        "name": "Canon AE-1 35mm camera",
+        "description": "Her first real camera, a gift from a high school art teacher who believed in her. Scratched and well-worn but still perfectly functional. She uses it for daily street shooting.\n"
+      },
+      {
+        "name": "Darkroom equipment",
+        "description": "An enlarger, developing tanks, chemical trays, and a safelight — all crammed into her tiny bathroom, which doubles as a darkroom when she hangs a blackout curtain over the door.\n"
+      },
+      {
+        "name": "Portfolio binder",
+        "description": "A black leather binder containing forty of her best prints, carefully sequenced. She updates it obsessively before any meeting with a gallery or editor.\n"
+      },
+      {
+        "name": "Olive field jacket",
+        "description": "A vintage M-65 jacket she found at a thrift store her first week in New York. It has become a kind of armor — she wears it almost daily, pockets stuffed with film canisters and receipts.\n"
+      }
+    ]
+  },
+  "extra_income": 120,
+  "values": "Believes that art justifies sacrifice and that seeing clearly is a moral act. Respects self-discipline, quiet persistence, and people who create without needing an audience. Distrusts easy charm and grand declarations — she trusts behavior over words. Values independence almost to a fault, equating self-sufficiency with safety. Fears becoming ordinary, fears being truly known and found lacking, fears that her estrangement from her family is a wound she is choosing not to heal. Secretly believes that love is something you prove through sustained attention, not through confession — which conveniently allows her to watch Leo from a safe distance without risking anything.\n",
+  "birthday": "Y1995-W8-activity-D5",
+  "birth_year": 1995
+}

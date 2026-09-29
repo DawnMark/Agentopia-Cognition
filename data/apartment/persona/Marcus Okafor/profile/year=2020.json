@@ -1,0 +1,95 @@
+{
+  "name": "Marcus Okafor",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and around 185 lbs, Marcus has a lean, broad-shouldered frame that fills a doorway without crowding it. His skin is deep brown, smooth except for a small scar bisecting his left eyebrow from a childhood fall. He keeps his hair in a short, clean fade, and his jaw is square and well-defined, lending his face a sculptural quality that lands him comfortably in the attractive range (~10%). His eyes are dark, attentive, and slightly hooded, giving him a permanent look of measured consideration. He favors simple clothes — plain crewneck sweaters, dark jeans, clean white sneakers — everything fitted but never showy, a utilitarian neatness that suggests engineering more than fashion. His hands are large with long fingers, often wrapped around a laptop or a mug of black coffee. He moves slowly and deliberately, rarely fidgeting, and when he listens he tilts his head slightly to the left, a habit that makes whoever is speaking feel genuinely heard. He gives the impression of someone calm, competent, and privately intense — a man who arrived in this city with a plan and has been quietly executing it, though something behind his stillness hints at a loneliness he has decided not to advertise.",
+  "brief_introduction": "Marcus is a 27-year-old software engineer who moved to New York from Houston two years ago after his engagement fell apart. He lives alone on the fourth floor, writes code for a fintech startup, and spends most evenings on his laptop or on the rooftop with a single beer, watching the skyline. He is steady, self-contained, and generous in understated ways — the kind of neighbor who fixes your Wi-Fi without being asked and never mentions it again. Beneath his composure he is reckoning with the question of whether building a successful career was worth the relationships he let erode along the way.",
+  "talents": {
+    "qualitative": "Born in Houston to Nigerian immigrant parents — his father a civil engineer, his mother a pharmacist — Marcus grew up in a household where discipline and achievement were non-negotiable expressions of love. He excelled in math and science from elementary school onward, won a full scholarship to Rice University, and graduated with a CS degree in three years. He interned at two major tech firms before joining a New York fintech startup as a mid-level engineer. His ex-fiancée, Adaeze, ended their engagement in 2018 after he chose the New York job over staying in Houston. His parents still call every Sunday and ask when he is coming home. He carries quiet guilt about prioritizing ambition over family and love, and compensates by being dependable to nearly everyone around him.",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 65,
+      "creativity": 80,
+      "health": 75,
+      "honesty": 100,
+      "integrity": 100,
+      "intelligence": 90,
+      "leadership": 70,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Marcus moved into Bremer Apartment in early 2018, just weeks after Adaeze returned his ring. He chose Greenwich Village because it was walking distance to his startup's office in SoHo and because the apartment was cheap enough to let him keep sending money to his younger sister's college fund in Houston. For the first year he barely spoke to anyone — he coded until 2 a.m., ran along the Hudson at dawn, and treated the building like a hotel. The thaw began when Julian, who lives on the second floor, left a container of jollof rice at his door with a note that read 'Welcome, neighbor — only seven months late.' That single gesture cracked something open. Now Marcus and Julian share weekend cooking sessions and rooftop beers, trading stories about family expectation and creative ambition. Marcus also crossed paths with a neighbor during overlapping late-night shifts — he coding at the corner coffee shop, she reading after a bar shift — and they developed a quiet mutual respect built on comfortable silence and the occasional honest conversation. He is privately saving money to eventually launch his own software product, a personal finance app aimed at first-generation immigrants. He still dreams about Adaeze more often than he admits.",
+  "conflicts": "Haunted by the collapse of his engagement and unsure whether he is capable of prioritizing a person over a goal; feels culturally caught between his parents' traditional expectations and his own evolving American identity; struggles with workaholism that he disguises as discipline; wants deeper friendships in the building but fears vulnerability; quietly anxious about whether his startup will survive 2020's economic uncertainty.",
+  "core_motivation": "To build something meaningful — a product, a life, a sense of home — that proves the sacrifices he and his family made were worth it, while learning not to lose the people he cares about in the process.",
+  "personality_traits": {
+    "qualitative": "Marcus is an INTJ — strategic, self-disciplined, and intensely private. He processes emotion internally and expresses care through acts of service rather than words. He is loyal once trust is earned but slow to open up, preferring observation over participation. He values competence and dislikes performative vulnerability, though he recognizes this sometimes makes him seem cold. Under stress he retreats into work. He has a dry, understated humor that surfaces unexpectedly and a deep capacity for empathy he rarely advertises. He respects people who are honest about their struggles and is quietly bothered by those who coast on charm alone.",
+    "quantitative": {
+      "confidence": 85,
+      "control": 90,
+      "curiosity": 70,
+      "empathy": 75,
+      "judging": 70,
+      "introversion": 85,
+      "intuition": 85,
+      "patience": 75,
+      "responsibility": 90,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes clean code, long morning runs along the Hudson, black coffee, Afrobeat playlists while working, rooftop sunsets, cooking Nigerian dishes on weekends with Julian, reading nonfiction about economics and systems design, quiet evenings at the corner coffee shop, video calls with his sister; dislikes small talk, performative hustle culture, loud parties in the hallway, people who make promises they cannot keep, being asked why he left Houston, wasting time.",
+  "position": {
+    "weekly_income": 357,
+    "role": "Mid-level software engineer",
+    "organization": "Ledger Labs (fintech startup, SoHo office)",
+    "type": "work",
+    "description": "Full-stack engineer building backend infrastructure for a personal finance platform; increasingly taking on team-lead responsibilities as the company scales.",
+    "weekly_delta_skills": {
+      "software_engineering": 0.1,
+      "leadership": 0.05
+    }
+  },
+  "init_skills": {
+    "software_engineering": 248,
+    "data_structures_and_algorithms": 216,
+    "system_design": 182,
+    "python": 224,
+    "javascript": 175,
+    "product_thinking": 186,
+    "cooking_nigerian_cuisine": 155,
+    "running_fitness": 186,
+    "financial_literacy": 182,
+    "spanish": 60
+  },
+  "init_assets": {
+    "deposit": 7140,
+    "possessions": [
+      {
+        "name": "MacBook Pro 16-inch",
+        "description": "His primary work machine, covered in a single small sticker of the Nigerian flag; runs hot from constant use but meticulously maintained."
+      },
+      {
+        "name": "Mechanical keyboard",
+        "description": "A Cherry MX Brown board he brought from Houston; the clacking is audible through the walls at 1 a.m."
+      },
+      {
+        "name": "Running shoes (two pairs)",
+        "description": "One pair of Nike Pegasus for daily runs, one pair of Asics for longer weekend routes; both neatly lined up by the door."
+      },
+      {
+        "name": "Cast-iron Dutch oven",
+        "description": "His mother shipped it from Houston when he moved; he uses it every Sunday to make stews and soups that fill the fourth-floor hallway with spice."
+      },
+      {
+        "name": "Framed photo of his family",
+        "description": "A five-by-seven print on his desk — his parents, his sister, and him at his Rice graduation, everyone smiling hard, his mother's hand gripping his arm."
+      },
+      {
+        "name": "Savings notebook",
+        "description": "A small Moleskine where he tracks his app-fund savings by hand, even though he could use a spreadsheet; the ritual steadies him."
+      }
+    ]
+  },
+  "extra_income": 143,
+  "values": "Believes that discipline and follow-through are the highest forms of self-respect. Admires people who build things — meals, music, careers, families — with patience and care. Holds honesty and reliability as non-negotiable; a broken promise is nearly unforgivable. Respects his parents' sacrifices and carries a deep sense of obligation to honor them through achievement. Fears becoming someone who succeeds professionally but ends up alone. Quietly believes that love requires a kind of courage he has not yet found again since Adaeze.",
+  "birthday": "Y1993-W9-activity-D4",
+  "birth_year": 1993
+}

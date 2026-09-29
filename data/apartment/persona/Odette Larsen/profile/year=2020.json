@@ -1,0 +1,90 @@
+{
+  "name": "Odette Larsen",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" with a lean, sinewy frame of about 122 lbs, Odette possesses the elongated proportions and erect carriage of a classically trained dancer — narrow hips, defined calves, a neck that seems to add inches to her height. Her face is attractive (~10%), with high Nordic cheekbones, pale grey-blue eyes set wide apart, a straight narrow nose, and a mouth that rests in a slight, serious line. Her ash-blonde hair is almost always swept into a low bun, exposing small ears and a faint scar along her left jawline from a childhood fall. Her skin is fair, prone to flushing at the cheeks. She favors muted tones — oatmeal knits, black leggings, worn leather flats — and moves through a room with unconscious precision, every gesture economical and controlled. She gives the impression of someone disciplined, quietly intense, possibly European, carrying an inner world she selects carefully whom to share with.\n",
+  "brief_introduction": "Odette is a 27-year-old ballet dancer who moved to New York at 21 from Minneapolis, chasing a dream that has proven slower and more punishing than she imagined. She teaches beginner and intermediate ballet at a small studio in the West Village while auditioning relentlessly. She lives alone in a fourth-floor studio apartment in Bremer, subsisting on discipline and stubbornness. Her relationship with her body is complicated — it is both her instrument and her adversary. She finds unexpected kinship with fellow artists in the building.\n",
+  "talents": {
+    "qualitative": "Born in Minneapolis to a Danish-American father (carpenter) and an American mother (elementary school teacher). Started ballet at age five after her mother took her to a Nutcracker performance. By twelve she was training six days a week. Won a regional youth ballet competition at fifteen. Moved to NYC at 21 on a partial scholarship to a small contemporary ballet company that folded after two seasons. Since then she has freelanced — performing in showcases, teaching classes, picking up contemporary and modern gigs. Her technical skill is strong but the professional ballet world is brutal and narrow. She has dealt with a knee injury at 24 that cost her six months and shook her confidence deeply. She is resilient but privately fears her window is closing. She reads voraciously — poetry, novels, philosophy — as a counterweight to the physical obsession of dance. She cooks simple Scandinavian meals her father taught her and finds domestic ritual grounding.\n",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 60,
+      "creativity": 80,
+      "health": 80,
+      "honesty": 80,
+      "integrity": 90,
+      "intelligence": 85,
+      "leadership": 65,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Odette moved into Bremer Apartment in 2017 after her ballet company dissolved. The fourth-floor studio is small — a single room with a kitchenette, a barre she installed herself along one wall, and a narrow window overlooking the street. She teaches four days a week at Westside Dance Collective, earning enough to cover rent and groceries with little left over. She auditions roughly twice a month. Her knee injury in 2017 required physical therapy and introduced her to a fear she had never known: that her body might betray her permanently. She recovered but now warms up obsessively and ices her joints every night. She rarely drinks. She found the rooftop her first summer and began going up late at night to stretch and breathe. That is where she first heard Cassian playing saxophone — the sound drifting up through the warm air like something from another century. They developed a quiet friendship built on mutual respect for craft and solitude. She and Chloe became friends through the corner coffee shop, where Odette reads between teaching shifts. She keeps in touch with her parents via weekly Sunday calls. She has not been in a serious relationship in two years, having ended things with a fellow dancer who she realized loved the idea of her more than her actual self.\n",
+  "conflicts": "Fears she is aging out of a career she has sacrificed everything for; struggles with the gap between her artistic ambition and economic reality; her knee is a constant low-grade anxiety; she isolates herself when stressed, pushing away the people who care; she sometimes resents dancers who succeeded with less discipline but better luck or connections.\n",
+  "core_motivation": "To perform — not for fame, but for the transcendent feeling of being fully inside the music and the movement. To prove that devotion to craft is not naïve. To build a life in New York that feels chosen rather than endured.\n",
+  "personality_traits": {
+    "qualitative": "Odette is an INFJ — introspective, idealistic, quietly intense. She holds herself to exacting standards and extends more grace to others than to herself. She is warm once trust is established but guarded with strangers, not out of coldness but out of a deep need to protect her inner world. She is perceptive about others' emotions, often noticing tension before it is spoken. Discipline is her defining trait — sometimes a strength, sometimes a cage. She has a dry, understated humor that surprises people. She is fiercely loyal but slow to forgive betrayal. Under pressure she retreats inward rather than lashing out.\n",
+    "quantitative": {
+      "confidence": 55,
+      "control": 80,
+      "curiosity": 75,
+      "empathy": 100,
+      "judging": 80,
+      "introversion": 70,
+      "intuition": 90,
+      "patience": 75,
+      "responsibility": 90,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: early morning practice before anyone else arrives, reading poetry on the rooftop at dusk, black coffee with cardamom, listening to live jazz, long walks through the Village, cooking simple meals, the feeling after a good rehearsal, handwritten letters, silence shared with someone who doesn't need to fill it. Dislikes: superficial praise, being watched while stretching, loud bars, people who treat art as content, unsolicited advice about her career timeline, wastefulness, being pitied.\n",
+  "position": {
+    "weekly_income": 340,
+    "role": "Ballet instructor and freelance dancer",
+    "organization": "Westside Dance Collective",
+    "type": "work",
+    "description": "Teaches beginner and intermediate ballet classes four days a week; freelances as a dancer for showcases, contemporary productions, and occasional commercial work.\n",
+    "weekly_delta_skills": {
+      "ballet_technique": 0.1,
+      "choreography": 0.05,
+      "teaching": 0.1
+    }
+  },
+  "init_skills": {
+    "ballet_technique": 270,
+    "contemporary_dance": 250,
+    "choreography": 175,
+    "teaching": 90,
+    "music_theory": 50,
+    "cooking": 85,
+    "writing": 30,
+    "physical_therapy_knowledge": 80
+  },
+  "init_assets": {
+    "deposit": 1800,
+    "possessions": [
+      {
+        "name": "Portable ballet barre",
+        "description": "A freestanding wooden barre bolted to the studio wall, slightly scuffed from years of daily use"
+      },
+      {
+        "name": "Pointe shoes (multiple pairs)",
+        "description": "Three pairs in rotation — one performance-ready, one for rehearsal, one being broken in, all Freed of London"
+      },
+      {
+        "name": "Book collection",
+        "description": "Two shelves of well-thumbed paperbacks — Rilke, Anne Carson, James Baldwin, Toni Morrison, a worn Danish cookbook from her father"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2016 MacBook Air with a cracked corner, used for audition tapes, scheduling, and Sunday video calls with her parents"
+      },
+      {
+        "name": "Knee brace and recovery kit",
+        "description": "A neoprene brace, foam roller, resistance bands, and ice packs — her nightly ritual"
+      }
+    ]
+  },
+  "extra_income": 60,
+  "values": "Believes that dedication to craft is a form of integrity, that beauty exists in discipline and repetition, and that art requires sacrifice but should never require self-destruction. Respects anyone who commits fully to something, regardless of whether they succeed. Distrusts shortcuts and charm without substance. Fears mediocrity more than failure. Values honesty, quiet loyalty, and the courage to keep going when no one is watching. Finds meaning in small, daily acts of devotion — a perfect relevé, a well-cooked meal, a conversation where someone truly listens.\n",
+  "birthday": "Y1993-W6-activity-D6",
+  "birth_year": 1993
+}

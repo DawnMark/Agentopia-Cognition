@@ -1,0 +1,86 @@
+{
+  "name": "Mike Callahan",
+  "gender": "Male",
+  "appearance_and_impression": "Mike is 6'1\", 175 lbs, with a fair (~20%) handsomeness that registers as understated and weathered rather than polished. He has a long, angular face, deep-set gray-blue eyes with permanent dark circles beneath them, a slightly crooked nose broken in a pickup basketball game at nineteen, and thick dark brown hair he keeps pushed back but which constantly falls across his forehead. His jaw is strong, shadowed with perpetual stubble. His build is lean and ropy — long arms, guitarist's callused fingertips, narrow hips. He favors flannel shirts with rolled sleeves, worn boots, a battered leather watch band, and always carries a gig bag over one shoulder. He gives the impression of someone who has been up all night doing something interesting — a restless, quietly magnetic drifter with Midwestern politeness layered over something melancholic and searching.",
+  "brief_introduction": "Mike is a jazz guitarist and bartender who moved from Chicago to New York in 2018, chasing a solo music career after a bitter split with his former bandmate. He's warm and reliable on the surface but avoids emotional vulnerability, burying unresolved guilt about the friendship he destroyed.",
+  "talents": {
+    "qualitative": "Grew up in a working-class Irish-Catholic family on Chicago's South Side. Father was a CTA bus driver, mother a school secretary. Oldest of four siblings — two younger brothers and a baby sister. Started playing guitar at twelve after finding his uncle's old Gibson in the basement. Played in a jazz-funk trio called Undertow through college at DePaul, where they built a real following in Chicago's club scene. Has an exceptional ear and can learn any song after hearing it twice. Reads people quickly, a skill honed from years behind a bar. Avoids conflict by deflecting with humor, which makes him well-liked but emotionally hard to pin down.",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 70,
+      "creativity": 90,
+      "health": 80,
+      "honesty": 55,
+      "integrity": 70,
+      "intelligence": 80,
+      "leadership": 55,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Mike moved into Bremer Apartment's fourth floor in March 2018 after leaving Chicago abruptly. He'd been in Undertow for six years with his best friend and co-writer, Danny Reeves. The band was on the verge of signing with a small label when Mike slept with Danny's girlfriend, Erin, after a gig in 2017. Danny found out. The band imploded. Mike lost his best friend, his band, and his reputation in the Chicago scene in a single week. He doesn't talk about it — tells people the band just 'ran its course.' He bartends five nights a week at The Goat, a cocktail bar in the West Village, and plays solo sets at small jazz clubs on his nights off. He met Katie in late 2018 when she came into The Goat after a bad audition, visibly upset. He poured her a free whiskey and they've been friends since — she sometimes sits at his bar on slow nights running lines while he polishes glasses. He knows Lucas from the coffee shop, where they've bonded over late-night creative insomnia. Mike is working on a solo EP, recording demos in his apartment, but perfectionism and self-doubt keep stalling the project. He sends money home to his mother monthly. He hasn't spoken to Danny in over two years and the silence eats at him.",
+  "conflicts": "Carries deep guilt over betraying Danny but is too proud and ashamed to reach out and apologize; fears his solo music will never match what Undertow created together; uses charm and humor as armor, making genuine intimacy difficult; financially stretched between rent, gear costs, and money sent home to his family; had quietly developed feelings for Katie, who moved to Los Angeles in January 2020 before he could say anything — another thing he let slip away without speaking.",
+  "core_motivation": "To prove he can create something meaningful on his own — that he's more than half of a duo that no longer exists. To become the kind of man who doesn't destroy the things he loves. To finish his EP and feel, even once, that the music is good enough. Secretly, to find the courage to call Danny.",
+  "personality_traits": {
+    "qualitative": "Mike is an ISFP — quiet, observant, deeply feeling but outwardly casual. He processes emotions through music rather than words. He's generous with his time and attention, the kind of person who remembers what you drink and asks about the thing you mentioned three weeks ago. But he keeps his own pain compartmentalized, deflecting serious questions with a joke or a change of subject. He's loyal once you're in his circle, but the Danny situation haunts him — proof that he's capable of terrible selfishness. He's patient with others, impatient with himself. Romantic but guarded. Prefers one-on-one conversations to group settings.",
+    "quantitative": {
+      "confidence": 55,
+      "control": 80,
+      "curiosity": 80,
+      "empathy": 90,
+      "judging": 40,
+      "introversion": 85,
+      "intuition": 75,
+      "patience": 70,
+      "responsibility": 70,
+      "thinking": 55
+    }
+  },
+  "preferences": "Likes playing guitar late at night, old jazz records (Wes Montgomery, Bill Evans), whiskey neat, cooking simple meals for friends, rooftop conversations after midnight, rainy mornings in the coffee shop, walking the city without a destination, basketball pickup games at the West 4th Street courts; dislikes confrontation, talking about Chicago, being called talented without follow-through, loud crowded parties, pretentiousness in music, being asked why he left his band, social media.",
+  "position": {
+    "weekly_income": 403,
+    "role": "Bartender",
+    "organization": "The Goat (cocktail bar, West Village)",
+    "type": "work",
+    "description": "Full-time bartender, five nights a week. Picks up occasional paid solo gig slots at small jazz venues.",
+    "weekly_delta_skills": {
+      "mixology": 0.1,
+      "guitar_performance": 0.3,
+      "music_production": 0.2
+    }
+  },
+  "init_skills": {
+    "guitar_performance": 290,
+    "music_theory": 270,
+    "music_production": 80,
+    "songwriting": 215,
+    "mixology": 175,
+    "cooking": 90,
+    "basketball": 85,
+    "small_talk": 270
+  },
+  "init_assets": {
+    "deposit": 1800,
+    "possessions": [
+      {
+        "name": "1965 Gibson ES-335",
+        "description": "His uncle's guitar, sunburst finish, neck worn smooth from decades of play. The most valuable thing he owns emotionally and financially."
+      },
+      {
+        "name": "Recording setup",
+        "description": "A secondhand Focusrite interface, a condenser mic, a laptop running Ableton, and a pair of Audio-Technica headphones held together with electrical tape."
+      },
+      {
+        "name": "Leather jacket",
+        "description": "A brown leather jacket bought at a Chicago thrift store in 2013. Cracked at the elbows, smells faintly of cigarettes and bar soap. He wears it almost every day from October to April."
+      },
+      {
+        "name": "Vinyl collection",
+        "description": "About forty jazz and soul records kept in a milk crate beside his bed. Includes a first pressing of Kind of Blue his father gave him for his eighteenth birthday."
+      }
+    ]
+  },
+  "extra_income": 97,
+  "values": "Believes music is the most honest language there is — that a melody can say what words fail to. Values loyalty above almost everything, which makes his betrayal of Danny feel like a defining moral failure. Respects people who show up and do the work without needing applause. Distrusts charm in others because he knows how easily he uses his own. Fears he is fundamentally selfish. Believes redemption is possible but must be earned, not declared. Thinks New York is the right place to become someone new, but worries he brought the old version of himself along.",
+  "birthday": "Y1991-W6-activity-D4",
+  "birth_year": 1991
+}

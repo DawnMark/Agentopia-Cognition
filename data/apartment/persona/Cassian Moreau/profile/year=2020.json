@@ -1,0 +1,92 @@
+{
+  "name": "Cassian Moreau",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" with a lean, rangy frame at around 170 lbs, Cassian is attractive (~10%) in an angular, slightly weathered way — high cheekbones, deep-set dark brown eyes beneath heavy brows, a strong jaw softened by a perpetual half-smile, and warm brown skin that catches lamplight like polished wood. His black hair is kept in short, loose curls, often pushed back carelessly. His hands are conspicuously elegant — long-fingered, calloused at the tips. He favors rumpled linen shirts, dark jeans, and vintage leather boots; there is always something slightly undone about him, a rolled sleeve, an open collar. A thin scar runs along his left eyebrow from a childhood fall. He carries himself with the unhurried confidence of someone accustomed to being watched, though his gaze tends to drift toward exits. He gives the impression of a man who is deeply present and slightly elsewhere at the same time — artistic, self-possessed, possibly unreliable, but magnetically interesting.\n",
+  "brief_introduction": "Cassian is a jazz pianist and composer who moved into Bremer Apartment three years ago. He is charming and warm in public but deeply private, still processing the end of a long relationship and a stalled recording career. He earns a modest living performing at clubs and giving piano lessons.\n",
+  "talents": {
+    "qualitative": "Born in New Orleans to a Haitian-American father (a session musician) and a French-Creole mother (a high school music teacher). Music was the family language — he started piano at five, was performing in his father's band by fourteen. He studied jazz performance at the New School in Manhattan on a partial scholarship, graduated in 2013, and spent several years gigging steadily, recording one well-received indie album in 2016. But the momentum stalled: his label folded, a second album was shelved, and his seven-year relationship with a dancer ended painfully in 2018. He moved into Bremer Apartment in 2017, initially sharing a unit with a friend who later moved out. Now he lives alone on the fourth floor in a one-bedroom crowded with a digital piano, stacks of vinyl, and half-finished sheet music. He supplements performance income by teaching piano to neighborhood kids and the occasional adult student. He is musically gifted — his ear is extraordinary, his improvisational instincts borderline supernatural — but he struggles with the business side of the industry and with finishing projects. He is well-read, speaks passable French, and cooks excellent Creole food.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 80,
+      "creativity": 95,
+      "health": 85,
+      "honesty": 65,
+      "integrity": 75,
+      "intelligence": 85,
+      "leadership": 60,
+      "trustworthiness": 60
+    }
+  },
+  "details": "Cassian's father, Lucien, died of a heart attack in 2015, just before Cassian's album came out. The grief colored everything that followed — the music, the relationship, the move to New York's quieter corners. His mother, Delphine, still lives in New Orleans and calls every Sunday. He has a younger sister, Margaux, who is a nurse in Atlanta. Cassian's ex-partner, a contemporary dancer, left him after he retreated emotionally following his father's death; he acknowledges this was fair but it still stings. He spends most evenings either performing at a jazz club in the West Village or composing alone in his apartment, the muffled sound of piano filtering through the walls after midnight. He frequents the corner coffee shop in the mornings, nursing a double espresso while scribbling in a Moleskine. On warm nights he gravitates to the rooftop, sometimes bringing a portable keyboard, sometimes just a bottle of wine. He is trying to finish his second album but keeps rewriting everything. He smokes occasionally when anxious — a habit he hides poorly.\n",
+  "conflicts": "Struggling to complete his second album, paralyzed by perfectionism and grief he hasn't fully processed. Financially precarious — gig income fluctuates and he occasionally falls behind on rent. Emotionally guarded after his breakup; drawn to connection but afraid of vulnerability. Feels guilty about not visiting his mother more often. Quietly envious of artists who seem to produce work effortlessly. Knows he self-sabotages but hasn't figured out how to stop.\n",
+  "core_motivation": "To finish the album he owes his late father's memory, to prove he can sustain a career in music without compromising artistically, and to learn how to let people in again without losing himself.\n",
+  "personality_traits": {
+    "qualitative": "Cassian is an INFP — outwardly warm and socially adept, but his inner world is vast and heavily guarded. He listens more than he speaks, and when he does speak, his words are chosen with a musician's ear for rhythm and weight. He is generous with his time and talent — he'll play at a friend's birthday for free, teach a kid for half-price — but he deflects personal questions with humor or silence. He romanticizes solitude yet craves intimacy. He is patient with others but ruthlessly self-critical. His charm is genuine but also a shield; people feel close to him without realizing how little he's actually revealed. When he trusts someone, his loyalty is absolute.\n",
+    "quantitative": {
+      "confidence": 65,
+      "control": 40,
+      "curiosity": 75,
+      "empathy": 100,
+      "judging": 25,
+      "introversion": 85,
+      "intuition": 90,
+      "patience": 70,
+      "responsibility": 60,
+      "thinking": 85
+    }
+  },
+  "preferences": "Loves jazz (especially Monk, Coltrane, Bill Evans), cooking for others, vinyl records, late-night rooftop conversations, rainy mornings with espresso, old films, handwritten letters, long walks through the Village, improvising on piano when no one is listening. Dislikes self-promotion, networking events, loud bars without live music, being rushed, superficial conversation, digital streaming algorithms, people who treat art as content, and cold weather that stiffens his fingers.\n",
+  "position": {
+    "weekly_income": 320,
+    "role": "Jazz pianist / piano teacher",
+    "organization": "Freelance — performs at The Birdhouse (West Village jazz club), teaches private lessons",
+    "type": "work",
+    "description": "Performs three to four nights a week at The Birdhouse and other small venues. Teaches piano to six regular students, mostly children and teens in the neighborhood. Occasionally picks up session work for indie recordings.\n",
+    "weekly_delta_skills": {
+      "piano_performance": 0.1,
+      "composition": 0.05,
+      "music_theory": 0.02
+    }
+  },
+  "init_skills": {
+    "piano_performance": 290,
+    "composition": 190,
+    "music_theory": 255,
+    "improvisation": 290,
+    "singing": 90,
+    "music_production": 75,
+    "cooking": 290,
+    "French": 40,
+    "teaching": 75,
+    "networking": 25
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Yamaha CP88 stage piano",
+        "description": "His primary instrument — a weighted-key digital stage piano he bought secondhand in 2014. It sits against the wall of his bedroom, surrounded by cables and a small amp.\n"
+      },
+      {
+        "name": "Vinyl collection",
+        "description": "About 300 records inherited from his father and accumulated over the years, stored in wooden crates. Heavy on Blue Note pressings, New Orleans funk, and French chanson.\n"
+      },
+      {
+        "name": "Moleskine notebooks",
+        "description": "A stack of fifteen or so filled notebooks containing song sketches, lyrics, chord progressions, journal entries, and occasional drawings. He never lets anyone read them.\n"
+      },
+      {
+        "name": "Lucien's trumpet",
+        "description": "His late father's brass trumpet, kept in its original case on a shelf. He doesn't play it — he just keeps it close.\n"
+      },
+      {
+        "name": "Secondhand MacBook Pro",
+        "description": "A 2015 model running Ableton Live, used for home recording and demos. The fan whirs loudly and the battery lasts forty minutes unplugged.\n"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes music is sacred — a conversation between the living and the dead, not a commodity. Values authenticity over success; respects anyone who commits fully to their craft regardless of recognition. Admires vulnerability in others even though he struggles with it himself. Distrusts institutions and industry gatekeepers. Holds loyalty and quiet integrity above all; despises performative emotion and people who treat relationships as transactions. Fears mediocrity, fears becoming his father (dying before finishing his work), and fears that his best years as a musician may already be behind him.\n",
+  "birthday": "Y1991-W4-activity-D3",
+  "birth_year": 1991
+}

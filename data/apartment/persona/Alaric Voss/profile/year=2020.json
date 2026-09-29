@@ -1,0 +1,93 @@
+{
+  "name": "Alaric Voss",
+  "gender": "Male",
+  "appearance_and_impression": "Alaric is 6'1\", 165 lbs, with a fair (~20%) angular handsomeness that reads more haunted than inviting. He has a long, narrow face with high cheekbones, a strong aquiline nose, deep-set slate-blue eyes ringed with faint shadows, and a wide, serious mouth that rarely smiles but transforms completely when it does. His hair is dark blond, fine-textured, perpetually slightly too long, falling across his forehead in a way he pushes back absently. His frame is lean and elongated — long fingers, prominent wrists, the wiry build of someone who forgets meals. He dresses in muted European minimalism: black turtlenecks, charcoal trousers, a worn olive field jacket, scuffed leather boots. He carries himself with a stillness that feels deliberate, almost monastic. He gives the impression of a brooding expatriate intellectual — someone carrying private weight, cultured and remote, possibly brilliant, possibly lonely, the kind of man who makes you want to ask what he's thinking but also makes you hesitant to interrupt.\n",
+  "brief_introduction": "Alaric is a German-born composer and pianist who moved to New York in 2018 on a composition fellowship at NYU that has since expired. He lives on the fourth floor of Bremer Apartment, works as a piano accompanist for dance studios, and spends his remaining hours composing a chamber opera he fears he'll never finish. He is quietly devoted to his craft but paralyzed by perfectionism and guilt over leaving his mother in Bremen.\n",
+  "talents": {
+    "qualitative": "Born in Bremen, Germany to a piano teacher mother and an absent father who left when Alaric was four. His mother, Ingrid, raised him alone and nurtured his musical gift from age five. He attended the Hochschule für Künste Bremen, then won a fellowship to NYU's graduate composition program in 2018. The fellowship covered two years of tuition but not living expenses. He graduated in May 2020 into a pandemic-stricken city. His mother was diagnosed with multiple sclerosis in 2019; he sends her money monthly but hasn't visited in over a year. He speaks three languages fluently. His emotional intelligence is high but he struggles to express vulnerability directly — he channels everything into music. He has perfect pitch and an extraordinary ear for orchestration.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 45,
+      "creativity": 95,
+      "health": 65,
+      "honesty": 85,
+      "integrity": 100,
+      "intelligence": 100,
+      "leadership": 40,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Alaric arrived at Bremer Apartment in August 2018, subletting a small one-bedroom on the fourth floor. In his first week he met a neighbor who heard him practicing through the floor and knocked on his door with a bottle of wine and a question about Messiaen. They became mentor and peer in one conversation. That neighbor is the closest thing Alaric has to family in New York. He met Katie through the building's rooftop gatherings in late 2018; her theatrical expressiveness both fascinates and intimidates him. He finds her beautiful in a way that unsettles his careful emotional architecture, but he has never acted on it, partly out of shyness, partly because he noticed her closeness with Leo and assumed they were together. He knows Brecken from the hallway and the coffee shop — Brecken's irreverent warmth has slowly worn down Alaric's reserve. In early 2020, his fellowship ended and he scrambled for work, landing a gig accompanying ballet and modern dance classes at a studio in Chelsea. He earns just enough to cover rent and send $300 a month to his mother. His chamber opera, \"Tidewater,\" is based on a German folk tale about a ferryman who carries the dead across a river. He has completed two of five acts. He composes on a secondhand upright piano with a sustain pedal that sticks. He rarely drinks but when he does, he becomes unexpectedly warm and talkative. He has a small scar on his left thumb from a childhood accident with a kitchen knife.\n",
+  "conflicts": "Paralyzed by perfectionism — rewrites the same passages of his opera endlessly and fears it will never be good enough; guilt over leaving his mother alone in Bremen while her MS progresses; financially precarious, one missed gig away from not making rent; emotionally guarded to the point of isolation — wants connection but doesn't know how to initiate it without music as a medium; had quietly been drawn to Katie, who moved to Los Angeles in January 2020 for a role — the departure left the rooftop gatherings quieter and Alaric more aware of his own isolation; fears that his talent is merely competence, that he is a skilled craftsman but not a true artist.\n",
+  "core_motivation": "To complete \"Tidewater\" and prove to himself that leaving Bremen — leaving his mother — was justified by the creation of something genuinely beautiful. To find a sense of belonging in New York that doesn't depend on a fellowship or a visa status. To learn how to let people in without the protective barrier of his music.\n",
+  "personality_traits": {
+    "qualitative": "Alaric is an INFJ — deeply idealistic, introspective, and quietly intense. He processes the world through feeling and intuition but presents a composed, analytical exterior. He is empathetic but expresses care through actions rather than words — he'll fix your radiator at midnight but struggle to say \"I missed you.\" He holds himself to impossible standards and extends far more grace to others than to himself. He can be stubborn, retreating into silence when challenged rather than arguing. He has a dry, understated humor that surfaces unexpectedly. He is fiercely loyal once trust is established but slow to grant it. He romanticizes suffering as artistically necessary, a belief he's only beginning to question.\n",
+    "quantitative": {
+      "confidence": 35,
+      "control": 70,
+      "curiosity": 95,
+      "empathy": 100,
+      "judging": 75,
+      "introversion": 95,
+      "intuition": 95,
+      "patience": 75,
+      "responsibility": 100,
+      "thinking": 85
+    }
+  },
+  "preferences": "Loves late-night composing sessions, walking across the Brooklyn Bridge alone at dawn, black coffee, Tarkovsky films, used bookstores, listening to a neighbor play, the sound of rain on the fire escape, handwritten letters, dark chocolate, the smell of old wood; dislikes small talk, loud bars, being asked \"so what do you actually do for money,\" social media, air conditioning, people who treat art as content, being interrupted while composing, the taste of American coffee from chain stores.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Piano accompanist",
+    "organization": "Chelsea Movement Arts Studio",
+    "type": "work",
+    "description": "Plays piano for ballet, modern dance, and contemporary classes four to five days a week. Sight-reads choreographers' requests, improvises warm-up sequences, and occasionally arranges short pieces for student showcases.\n",
+    "weekly_delta_skills": {
+      "piano_performance": 0.5,
+      "improvisation": 0.3,
+      "sight_reading": 0.2
+    }
+  },
+  "init_skills": {
+    "piano_performance": 243,
+    "music_composition": 248,
+    "orchestration": 216,
+    "music_theory": 270,
+    "sight_reading": 234,
+    "improvisation": 210,
+    "German_language": 270,
+    "English_language": 248,
+    "French_language": 186,
+    "cooking": 108,
+    "social_skills": 78
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Upright piano",
+        "description": "A secondhand Yamaha U1 with a slightly sticky sustain pedal and a cigarette burn on the fallboard from a previous owner. It sits against the wall of his living room, surrounded by manuscript paper.\n"
+      },
+      {
+        "name": "Manuscript notebooks",
+        "description": "A stack of fourteen Moleskine music notebooks filled with sketches, motifs, and crossed-out passages for \"Tidewater.\" The earliest dates to 2017.\n"
+      },
+      {
+        "name": "Field jacket",
+        "description": "An olive-green German army surplus jacket his mother gave him the day he left for New York. The lining is fraying but he won't replace it.\n"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2016 MacBook Pro running Sibelius notation software, the screen slightly cracked in one corner, held together with a strip of electrical tape.\n"
+      },
+      {
+        "name": "Vinyl collection",
+        "description": "About forty records — mostly 20th-century classical, some jazz — carried from Bremen in a wooden crate. Includes a cherished pressing of Górecki's Symphony No. 3 signed by a former professor.\n"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that art is a moral obligation for those who possess the gift — that to waste talent is a form of betrayal. Values depth over breadth, silence over noise, substance over performance. Respects those who endure difficulty without losing tenderness. Distrusts charm and ease; admires persistence and sincerity. Fears mediocrity more than poverty. Believes love, when real, should feel like counterpoint — two independent voices that create something neither could alone. Privately terrified that he has sacrificed his mother's well-being for an ambition he may not be talented enough to fulfill.\n",
+  "birthday": "Y1993-W8-activity-D3",
+  "birth_year": 1993
+}

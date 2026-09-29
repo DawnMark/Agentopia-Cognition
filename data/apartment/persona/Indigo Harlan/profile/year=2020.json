@@ -1,0 +1,89 @@
+{
+  "name": "Indigo Harlan",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'11\" with a lean, slightly underfed frame at around 155 lbs, Indigo falls in the fair range (~20%) of attractiveness — not conventionally handsome but possessed of an angular, foxlike face that rewards a second glance. Deep-set grey-green eyes sit beneath heavy brows, perpetually shadowed by sleeplessness. His dark brown hair is usually grown out past his ears, tucked haphazardly behind one ear or hidden under a faded navy beanie. His skin is pale with a faint olive undertone, and a thin scar bisects his left eyebrow from a childhood accident. He favors oversized flannels, dark jeans, and battered canvas sneakers — an aesthetic somewhere between Pacific Northwest thrift store and absent-minded academic. His hands are long-fingered and restless, always fidgeting with a pen, a phone, or the edge of his sleeve. He carries a weathered leather messenger bag everywhere, stuffed with notebooks and tangled charging cables. His overall manner suggests someone cerebral, introverted, and quietly intense — the kind of person who notices details others miss but rarely volunteers what he's seen.\n",
+  "brief_introduction": "Indigo is a 27-year-old freelance concept artist who moved into Bremer Apartment's fourth floor eight months ago after leaving a tech startup in Seattle that burned him out. He draws environments and storyboards by day for animation and indie game clients, and sketches the city for himself by night. He's quietly rebuilding a life he let collapse, developing a cautious friendship with Caius through rooftop evenings and exchanging shy nods with another regular at the corner coffee shop.\n",
+  "talents": {
+    "qualitative": "Born in Olympia, Washington to a librarian mother and a long-haul trucker father who was mostly absent. His parents divorced when he was twelve; he stayed with his mother and younger brother, Felix. Showed early aptitude for both art and math, earned a partial scholarship to University of Washington, and dropped out after junior year to join a friend's tech startup. The startup consumed four years of his life before folding in early 2019. He left with nothing but fourteen Moleskine notebooks of city sketches drawn during crunch-time insomnia sessions. A former colleague at the startup had worked in games before tech; he connected Indigo with a small indie studio needing an environment artist. Indigo sent the notebooks. He got the gig. He has been freelancing as a concept artist — environment design, storyboards, creature sketches for animation and indie games — since arriving in New York. He is self-critical to a fault, often discarding finished pieces that clients would have accepted. He sends money home to his mother monthly.\n",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 40,
+      "creativity": 70,
+      "health": 55,
+      "honesty": 70,
+      "integrity": 100,
+      "intelligence": 90,
+      "leadership": 40,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Indigo arrived at Bremer Apartment in June 2019, subletting 4B from an actress who left for an LA pilot season and never came back. He inherited her mismatched furniture and a cactus he has somehow kept alive. His freelance clients are mostly small companies needing web applications; the work is steady enough but unglamorous. He codes at the corner coffee shop most mornings, always the same window seat, always a double espresso with no sugar. Evenings he spends on the rooftop when weather permits, sketching the water tower or the skyline, headphones on. That's where he met Caius — two quiet men sharing the same corner of the roof, eventually sharing conversation. Indigo recognized the sound of someone composing through difficulty, and Caius recognized the posture of someone drawing to stay sane. Their friendship is built on parallel silence more than speech. Indigo has also noticed another regular at the coffee shop — someone with an insomniac's schedule like his own — and they've graduated from nods to brief, careful exchanges about books and weather. He finds her guarded warmth familiar. He has not told anyone in the building about the panic attacks that started after the startup collapsed, or that he sees a therapist in Midtown every Thursday.\n",
+  "conflicts": "Struggles with burnout and the fear that he is incapable of commitment — to a career, a city, or a person. Sends money to his mother but avoids her phone calls because her worry makes him feel guilty. Wants to turn his sketching into something real but sabotages himself by destroying finished work. Quietly attracted to a neighbor but convinced he has nothing stable enough to offer anyone. Terrified that New York will become another place he eventually flees.\n",
+  "core_motivation": "To prove — mostly to himself — that he can build something lasting: a career, a creative practice, a circle of people who matter. To stop running from difficulty and learn to stay.\n",
+  "personality_traits": {
+    "qualitative": "Indigo is an INTP-leaning introvert with a rich inner life he rarely externalizes. He is observant, analytical, and quietly empathetic — more likely to notice someone's distress than to say so aloud. He defaults to self-reliance and finds asking for help almost physically uncomfortable. His humor is dry and arrives unexpectedly, often making people laugh before they realize he was joking. He is loyal once trust is established but slow to grant that trust. Under stress he withdraws, sometimes disappearing from social spaces for days. He values authenticity fiercely and has little patience for performative behavior.\n",
+    "quantitative": {
+      "confidence": 45,
+      "control": 65,
+      "curiosity": 100,
+      "empathy": 85,
+      "judging": 45,
+      "introversion": 90,
+      "intuition": 75,
+      "patience": 85,
+      "responsibility": 80,
+      "thinking": 90
+    }
+  },
+  "preferences": "Likes: early morning coding sessions, ink drawing, rooftop solitude, well-designed software, used bookstores, rain, black coffee, lo-fi ambient music, long walks through the Village at night, honest conversation with few words. Dislikes: networking events, small talk that stays small, loud bars, people who mistake introversion for arrogance, being asked \"so what's next?\", waste of any kind, his own tendency to overthink.\n",
+  "position": {
+    "weekly_income": 420,
+    "role": "Freelance Concept Artist",
+    "organization": "Self-employed (indie game studios and animation clients)",
+    "type": "work",
+    "description": "Environment design, storyboarding, and creature concepts for indie game studios and small animation projects. Contracts range from two-week sprints to multi-month productions. Income is irregular; some months are flush, others nearly dry. Occasionally picks up UI illustration work for apps when the pipeline is thin.\n",
+    "weekly_delta_skills": {
+      "illustration": 0.2,
+      "environment_design": 0.15
+    }
+  },
+  "init_skills": {
+    "illustration": 50,
+    "environment_design": 25,
+    "storyboarding": 15,
+    "UI_design": 75,
+    "mathematics": 270,
+    "web_development": 55,
+    "cooking": 20,
+    "communication": 15
+  },
+  "init_assets": {
+    "deposit": 2200,
+    "possessions": [
+      {
+        "name": "Custom-built laptop",
+        "description": "A 2018 ThinkPad he upgraded himself with extra RAM and an SSD; covered in small stickers from tech conferences and a hand-drawn octopus decal."
+      },
+      {
+        "name": "Moleskine notebooks",
+        "description": "A stack of fourteen filled sketchbooks and three in rotation, filled with ink drawings of New York architecture, strangers on the subway, and the Bremer rooftop water tower."
+      },
+      {
+        "name": "Inherited cactus",
+        "description": "A stubborn barrel cactus in a chipped terra-cotta pot, left behind by the previous tenant; he has named it Alan."
+      },
+      {
+        "name": "Messenger bag",
+        "description": "A scuffed brown leather bag bought at a Seattle flea market, containing at any given time two notebooks, a charger, a pen case, and a dog-eared copy of whatever he is reading."
+      },
+      {
+        "name": "Drawing supplies",
+        "description": "A curated set of Micron pens, a portable watercolor tin he rarely uses, and a metal ruler, all stored in a canvas roll."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that integrity matters more than success and that most worthwhile things are built slowly. Respects people who are honest about their struggles rather than performing competence. Distrusts institutions and corporate culture but recognizes he benefits from the systems he critiques. Fears becoming his father — someone who chose leaving over staying. Admires craftsmanship in any form: a clean line of code, a well-made song, a careful sentence. His deepest conviction is that showing up consistently is the hardest and most important thing a person can do.\n",
+  "birthday": "Y1993-W7-activity-D3",
+  "birth_year": 1993
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Eulalia Mendes",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'4\" with a slender, narrow-shouldered frame at about 115 lbs, Eulalia is fair in attractiveness (~20%) with a gentle, bookish aesthetic. Her face is oval with soft brown eyes behind tortoiseshell glasses, a slightly upturned nose dusted with faint freckles, and full lips she often presses together when thinking. Her dark brown hair, thick and wavy, is usually gathered in a loose bun with a pencil stuck through it. She favors earth-toned cardigans, worn canvas sneakers, and a tote bag overflowing with library books and loose papers. Her posture curves slightly inward, as if she's perpetually sheltering something fragile. She gives the impression of a quiet, observant academic — someone cautious, introspective, and perhaps carrying a private sadness beneath her composed, gentle exterior.",
+  "brief_introduction": "Eulalia is a 25-year-old PhD candidate in comparative literature at NYU who lives alone in a small studio on the fourth floor of Bremer Apartment. She emigrated from Brazil with her mother at age twelve and carries the weight of her family's sacrifices quietly. She is Valencia's closest friend in the building, and Vanessa once helped her mother with immigration paperwork — a debt Eulalia has never forgotten.",
+  "talents": {
+    "qualitative": "Born in São Paulo, Brazil, Eulalia moved to the U.S. with her mother, Rosa, after her parents' divorce. Rosa worked as a hotel housekeeper in Queens while Eulalia excelled in school, earning a full scholarship to NYU for her undergraduate degree and continuing into a funded PhD program. She has a gift for languages — fluent in Portuguese, English, and Spanish, with reading knowledge of French and Italian. Her academic writing has been published in two small literary journals. She tutors undergraduate students in writing for extra income. She struggles with imposter syndrome and often feels caught between the intellectual world she inhabits and the working-class immigrant world she comes from. She sends part of her stipend to her mother every month.",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 85,
+      "creativity": 95,
+      "health": 65,
+      "honesty": 95,
+      "integrity": 95,
+      "intelligence": 100,
+      "leadership": 40,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Eulalia's childhood was shaped by displacement. She remembers São Paulo in fragments — the sound of rain on corrugated roofing, her grandmother's garden, the fight that ended her parents' marriage. Her mother brought her to New York with two suitcases and a contact number for a cousin in Astoria. Those early years were defined by language barriers, shared apartments, and Rosa cleaning rooms at a midtown hotel. Eulalia threw herself into books as both escape and weapon. She graduated valedictorian from her public high school in Queens and earned a full ride to NYU. Now in her third year of a PhD in comparative literature, she studies narratives of exile and belonging in Latin American fiction — a subject she cannot separate from her own life. She moved into Bremer Apartment two years ago because it was close to campus and cheap enough. She met Valencia first — drawn together by shared language and the coffee shop downstairs, where Eulalia writes most of her dissertation. Vanessa she knows differently: three years ago, Rosa faced a visa complication, and Vanessa, then newly practicing, helped pro bono. Eulalia never forgot that kindness. She is quietly devoted to the people she loves but finds it hard to ask for help herself. She tutors undergraduates in academic writing twice a week at NYU for supplemental income on top of her teaching assistantship stipend.",
+  "conflicts": "Her dissertation deadline looms and she is behind, paralyzed by perfectionism and self-doubt. She feels guilty about not earning enough to truly support her mother. She is developing quiet, unspoken feelings for someone in the building but is terrified of vulnerability after watching her parents' marriage collapse. She often feels like an outsider — too academic for her family, too working-class for academia.",
+  "core_motivation": "To finish her PhD and prove that her mother's sacrifices were not in vain; to build a life that honors where she came from while forging something new; to find the courage to let someone in emotionally.",
+  "personality_traits": {
+    "qualitative": "Eulalia is an INFJ — deeply empathetic, idealistic, and introspective, but prone to overthinking and emotional withdrawal. She listens more than she speaks and notices details others miss. She is fiercely loyal to those she cares about but guards her own inner world carefully. Her humor is dry and understated, surfacing unexpectedly. She holds herself to impossibly high standards, which fuels both her accomplishments and her anxiety. She is generous in small, quiet ways — leaving notes, remembering preferences, showing up without being asked. Conflict makes her retreat inward rather than fight.",
+    "quantitative": {
+      "confidence": 50,
+      "control": 70,
+      "curiosity": 95,
+      "empathy": 95,
+      "judging": 80,
+      "introversion": 100,
+      "intuition": 95,
+      "patience": 70,
+      "responsibility": 100,
+      "thinking": 90
+    }
+  },
+  "preferences": "Likes: reading in the coffee shop for hours, handwritten letters, rainy afternoons, cooking Brazilian recipes from memory, quiet conversations on the rooftop at dusk, Valencia's music, old films, underlining passages in books, the smell of libraries. Dislikes: loud parties, being put on the spot, superficial small talk, wasting food, people who dismiss immigrant experiences, asking for favors, her own tendency to procrastinate.",
+  "position": {
+    "weekly_income": 380,
+    "role": "PhD Candidate & Teaching Assistant",
+    "organization": "NYU Department of Comparative Literature",
+    "type": "work",
+    "description": "Third-year doctoral student funded by a teaching assistantship. She leads two undergraduate discussion sections per week and tutors students in academic writing on the side.",
+    "weekly_delta_skills": {
+      "literary_analysis": 0.5,
+      "academic_writing": 0.3,
+      "teaching": 0.2
+    }
+  },
+  "init_skills": {
+    "literary_analysis": 210,
+    "academic_writing": 160,
+    "teaching": 55,
+    "translation_portuguese": 250,
+    "translation_spanish": 230,
+    "translation_french": 40,
+    "creative_writing": 65,
+    "public_speaking": 20,
+    "cooking": 75,
+    "research_methodology": 250
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Laptop",
+        "description": "A four-year-old ThinkPad with a cracked corner and dozens of open browser tabs at any given time, covered in library barcode stickers"
+      },
+      {
+        "name": "Book collection",
+        "description": "Three overflowing bookshelves of paperbacks — Borges, Clarice Lispector, García Márquez, Woolf — many dog-eared and annotated in two languages"
+      },
+      {
+        "name": "Mother's rosary",
+        "description": "A simple wooden rosary Rosa pressed into her hand when she moved to Manhattan, kept on the nightstand though Eulalia's faith has lapsed"
+      },
+      {
+        "name": "Bicycle",
+        "description": "A secondhand single-speed she rides to campus, chain slightly rusted, basket on the front for library books"
+      },
+      {
+        "name": "Typewriter",
+        "description": "A vintage Olivetti Lettera 32 found at a Brooklyn flea market — she uses it for first drafts of personal writing, loves the sound of the keys"
+      }
+    ]
+  },
+  "extra_income": 120,
+  "values": "Believes that stories are how people survive displacement and grief. Values loyalty, quiet integrity, and showing up for people without expecting recognition. Respects hard work deeply — especially invisible, unglamorous labor like her mother's. Distrusts easy charm and people who have never had to earn anything. Fears becoming someone who forgets where she came from. Most terrified of finishing her degree and discovering it doesn't fill the emptiness she's been running from.",
+  "birthday": "Y1995-W2-activity-D1",
+  "birth_year": 1995
+}

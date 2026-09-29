@@ -1,0 +1,87 @@
+{
+  "name": "Anna Kowalski",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'4\" and around 120 lbs, Anna has a fair (~20%) prettiness that reads as understated and continental. Her face is oval with high Slavic cheekbones, a straight narrow nose, and pale blue eyes set beneath strong dark brows that give her a perpetually serious expression even when she's amused. Her hair is sandy blonde, fine-textured, usually pulled into a low bun with a pencil stuck through it. Her skin is fair and prone to flushing at the cheeks. She has small hands, bitten nails, and a thin scar along her left thumb from a kitchen accident. She dresses practically — wool sweaters in muted tones, corduroy trousers, leather ankle boots, a secondhand navy peacoat — always carrying a battered canvas messenger bag stuffed with notebooks and library books. She gives the impression of a serious, watchful young woman from somewhere else — someone raised on discipline and duty who is quietly, cautiously reaching toward a freer version of herself.\n",
+  "brief_introduction": "Anna is a 24-year-old graduate journalism student at NYU who moved into Bremer Apartment in September 2019. The daughter of Polish immigrants, she is caught between her parents' expectations of financial stability and her own desire to write literary nonfiction. She is observant, disciplined, and quietly warm once trust is earned — but guarded by default, shaped by years of translating not just language but culture for her family. She befriended Katie through the coffee shop and shares a cautious, respectful rapport with Leo on the rooftop.\n",
+  "talents": {
+    "qualitative": "Born in Chicago to Polish immigrants — her father Marek is a carpenter, her mother Ewa a home health aide. She grew up translating bills, lease agreements, and parent-teacher conference conversations for her parents from age nine. This made her precise with language and preternaturally responsible. She earned a full scholarship to University of Illinois for English, graduated summa cum laude, then was accepted to NYU's graduate journalism program with partial funding. She writes carefully crafted long-form essays about immigrant communities, displacement, and American identity. She has a sharp editorial eye and an almost photographic memory for conversations. She is not naturally social but has learned to interview strangers with disarming gentleness. She struggles with creative risk — her writing is technically excellent but sometimes emotionally guarded, mirroring her personality.\n",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 80,
+      "creativity": 80,
+      "health": 65,
+      "honesty": 100,
+      "integrity": 90,
+      "intelligence": 80,
+      "leadership": 60,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Anna moved into a small studio on the fourth floor of Bremer Apartment in September 2019, subletting from a departing tenant she found on Craigslist. She chose Greenwich Village for its proximity to NYU. Her first months were lonely — she knew no one in New York and spent evenings writing in the corner coffee shop. That's where she met Katie in October 2019, who sat down at her table uninvited, complimented her handwriting, and asked what she was working on. They became friends slowly, then quickly — Katie's openness disarming Anna's reserve. Anna met Leo through Katie on the rooftop in late 2019 and recognized a fellow quiet person. They don't talk much, but she sometimes sits near him while he plays guitar and writes in her notebook, and neither of them minds the silence. She works three shifts a week as a copy editor for a small online magazine, which barely covers rent. Her parents call every Sunday and ask when she'll get a real job. She is working on her thesis — a long-form piece about Polish construction workers in New York — and it requires her to interview men who remind her painfully of her father. In early 2020, with the world feeling uncertain, she questions whether journalism can actually change anything or whether she's been naive.\n",
+  "conflicts": "Torn between her parents' expectation that education should lead to financial security and her own passion for literary journalism that pays almost nothing; struggling to write her thesis because the subject matter forces her to confront her complicated feelings about her father's sacrifices and her own guilt for leaving Chicago; afraid that her emotional guardedness makes her writing — and her life — too safe; growing close to Katie and Leo but worried that real friendship requires a vulnerability she's been trained to withhold.\n",
+  "core_motivation": "To write something true and important — a piece of journalism that honors the invisible lives of people like her parents. To prove that leaving Chicago wasn't abandonment but an act of becoming. To learn how to let people in without losing the self-discipline that has kept her afloat.\n",
+  "personality_traits": {
+    "qualitative": "Anna is an ISTJ leaning toward INFJ — methodical, observant, deeply feeling but outwardly composed. She processes emotions internally and expresses care through acts of service rather than words: she'll proofread your essay at midnight, remember your coffee order, quietly leave a scarf on your door when the heat breaks. She is honest to a fault, sometimes blunt without meaning to be. She has a dry, deadpan humor that surprises people who mistake her seriousness for humorlessness. She is fiercely loyal once attached but slow to attach. She has a perfectionistic streak that can tip into paralysis — she'll rewrite a single paragraph forty times rather than submit something imperfect. She is brave in professional contexts (interviewing strangers, pitching editors) but timid in personal ones (admitting loneliness, asking for help).\n",
+    "quantitative": {
+      "confidence": 35,
+      "control": 85,
+      "curiosity": 95,
+      "empathy": 70,
+      "judging": 75,
+      "introversion": 80,
+      "intuition": 70,
+      "patience": 85,
+      "responsibility": 95,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes handwritten notebooks, black coffee, public libraries, long walks through unfamiliar neighborhoods, documentary films, reading oral histories, cooking Polish food when homesick, quiet mornings in the coffee shop, listening to Leo play guitar on the rooftop, Katie's unfiltered storytelling; dislikes small talk, loud bars, people who romanticize poverty, being asked where she's \"really from,\" wasting food, asking anyone for money, performative vulnerability on social media, writing that prioritizes style over substance.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Graduate student / Part-time copy editor",
+    "organization": "NYU Arthur L. Carter Journalism Institute / The Broadside (online magazine)",
+    "type": "non-work",
+    "description": "Second-year MFA journalism student at NYU. Works remotely three shifts a week as a copy editor for The Broadside, a small progressive online magazine covering New York culture and politics.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "writing_longform": 220,
+    "editing_and_copyediting": 240,
+    "interviewing": 170,
+    "research": 130,
+    "photography": 90,
+    "polish_language": 240,
+    "cooking": 40,
+    "data_analysis": 30,
+    "social_media": 20
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Laptop",
+        "description": "A 2017 MacBook Air with a cracked corner and three layers of stickers from journalism conferences, functioning but slow."
+      },
+      {
+        "name": "Notebook collection",
+        "description": "A stack of eleven Moleskine and off-brand notebooks filled with interview transcripts, observations, and thesis drafts, stored in a milk crate under her desk."
+      },
+      {
+        "name": "Father's watch",
+        "description": "A scratched Seiko automatic watch her father wore for twenty years on job sites before giving it to her when she left for NYU. She wears it daily."
+      },
+      {
+        "name": "Peacoat",
+        "description": "A navy wool peacoat bought at a Brooklyn Goodwill for twelve dollars. It smells faintly of cedar and someone else's perfume."
+      },
+      {
+        "name": "Voice recorder",
+        "description": "An Olympus digital voice recorder used for interviews, always in her bag alongside a backup pack of AA batteries."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that bearing witness to ordinary lives is a moral act. Respects hard work, modesty, and people who carry weight without complaint — shaped by watching her parents do exactly that. Distrusts charm without substance and success without sacrifice. Values precision in language because she learned early that the wrong word in a translation could cost her family money or dignity. Fears becoming someone who observes life but never fully lives it. Privately terrified that her parents' sacrifices will have been for nothing if she fails. Believes love is proven through consistency and presence, not grand gestures.\n",
+  "birthday": "Y1996-W6-activity-D5",
+  "birth_year": 1996
+}

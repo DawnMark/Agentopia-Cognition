@@ -1,0 +1,89 @@
+{
+  "name": "Selene Papadimitriou",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" with a lean, slightly angular frame at around 130 lbs, Selene has an attractive (~10%) understated elegance — high cheekbones, deep-set grey-green eyes beneath dark, arched brows, and long near-black hair she usually twists into a loose knot held by a pencil or chopstick. Her skin is a warm olive, lightly freckled across the nose. Her aesthetic is utilitarian-chic: oversized knit sweaters, dark slim jeans, worn leather boots, silver rings on slender fingers. Her posture is slightly hunched from years at a laptop, but when she stands fully upright there's a quiet stateliness to her. She has a thin scar along her left jawline from a childhood fall. Her resting expression is pensive, almost melancholy, which softens dramatically when she smiles — which she does rarely but genuinely. She gives the impression of a self-contained, observant intellectual with an immigrant family's quiet resilience and an artist's buried restlessness.\n",
+  "brief_introduction": "Selene is a junior architect at a small preservation firm who moved to New York from Columbus, Ohio four years ago. She lives alone on the fourth floor of Bremer Apartment, keeps unusual hours, and is known as the neighbor who fixes everyone's Wi-Fi and leaky faucets. She is finally doing the work she abandoned in college for financial pragmatism — and discovering that arriving at your dream ten years late comes with its own complicated grief.\n",
+  "talents": {
+    "qualitative": "Born to Greek immigrant parents who ran a small diner in Columbus, Ohio. Her father, Dimitri, was a stubborn, loving man who died of a heart attack in 2017; her mother, Eleni, still runs the diner alone and calls Selene every Sunday. Selene was the eldest of three — she has a younger brother, Niko (24, still in Columbus), and a younger sister, Cleo (21, studying nursing in Chicago). She showed early aptitude in both art and math; her high school teachers pushed her toward architecture. She was accepted into Ohio State's architecture program but switched to computer science after sophomore year when her father's medical bills mounted and she needed a faster path to income. She graduated in 2014, worked as a front-end developer at a Columbus agency, then moved to New York in 2016 freelancing in web development. In 2018, she got engaged to a man named Eric, a financial analyst. The relationship ended in early 2019 when she discovered he'd been unfaithful. She moved into Bremer Apartment that March. With her life upended anyway, she enrolled in a part-time architecture licensure program at CCNY and secured a junior position at Hollis & Stern, a small Brooklyn firm specializing in adaptive reuse and historic preservation. She earns considerably less than she did freelancing, is still sitting her licensure exams, and fills Moleskine notebooks with building studies she now shows her supervisors.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 55,
+      "creativity": 75,
+      "health": 55,
+      "honesty": 75,
+      "integrity": 90,
+      "intelligence": 95,
+      "leadership": 55,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Selene's life in Bremer Apartment is structured around freelance contracts — she builds websites and UI interfaces for small businesses and startups, mostly working from her apartment or the corner coffee shop. She keeps a disciplined schedule: up by 7, coffee by 7:30, work by 8, break at noon for a walk. But her nights are unmoored. She stays up past 2 a.m., sketching buildings she'll never design or reading dense novels. The broken engagement left her distrustful of romantic vulnerability; she deflects interest with dry humor. She befriended Stella through the thin wall between their apartments — Stella's singing drifted through one evening and Selene knocked to say it was beautiful instead of asking her to stop. She frequents Solstice's coffee shop daily and they've developed a quiet mutual respect. She recognized Thalia's Greek last name on a package in the hallway and they bonded over shared heritage. She sends money home to her mother monthly and carries guilt about not being in Columbus to help with the diner.\n",
+  "conflicts": "She's finally doing the work she abandoned at twenty, but she's the oldest junior in the firm and the licensure exams are harder than she expected; the gap between the architect she imagined being and the one she's becoming is wider than she thought, and she is not always sure whether to grieve it or accept it. Still processing the betrayal of her broken engagement and struggles to trust romantic partners. The pay cut from freelancing to junior salary means she's sending less money home to her mother, who hasn't complained but whose silences say enough. Worries she is becoming too isolated and that self-sufficiency has calcified into loneliness.\n",
+  "core_motivation": "To find the courage to pursue architecture again — even in some small way — while maintaining the financial stability her family depends on. To learn to let people in again without losing herself. To honor her father's memory by building something lasting.\n",
+  "personality_traits": {
+    "qualitative": "Selene is an INTJ — strategic, independent, quietly intense. She processes the world through logic first but has a deep well of emotion she rarely surfaces. She is fiercely loyal to the few people she lets close, and she expresses care through acts of service — fixing a leaky faucet, debugging someone's laptop, leaving a bag of her mother's koulourakia outside a neighbor's door. She dislikes small talk but thrives in one-on-one conversations of substance. She has a dry, deadpan wit that catches people off guard. She is slow to anger but when pushed past her limit, her words are surgical. She holds herself to exacting standards and extends more grace to others than to herself.\n",
+    "quantitative": {
+      "confidence": 55,
+      "control": 70,
+      "curiosity": 100,
+      "empathy": 75,
+      "judging": 80,
+      "introversion": 90,
+      "intuition": 95,
+      "patience": 75,
+      "responsibility": 100,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes: strong black coffee, architectural documentaries, late-night sketching, Greek food, solving complex coding problems, rain on windows, one-on-one conversations, live jazz, old brick buildings, well-made knives and tools, her mother's voice on the phone. Dislikes: dishonesty, superficial networking events, being asked \"why are you still single,\" fluorescent lighting, waste and excess, people who don't follow through on promises, loud bars, her own tendency to overthink.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Junior Architect",
+    "organization": "Hollis & Stern Architecture (adaptive reuse and preservation, Brooklyn)",
+    "type": "work",
+    "description": "Drafts construction documents, assists on permit applications, manages client communications for adaptive reuse projects, and conducts site surveys for historic buildings. Also enrolled part-time in the CCNY architecture licensure program, sitting ARE exams on evenings and weekends. Her front-end development background makes her unusually fluent in the firm's project management software and BIM tools.\n",
+    "weekly_delta_skills": {
+      "architectural_drawing": 0.2,
+      "architectural_design": 0.15
+    }
+  },
+  "init_skills": {
+    "architectural_drawing": 95,
+    "architectural_design": 25,
+    "construction_documentation": 15,
+    "web_development": 50,
+    "ui_ux_design": 90,
+    "cooking": 60,
+    "basic_repair_and_maintenance": 265,
+    "financial_management": 70
+  },
+  "init_assets": {
+    "deposit": 4200,
+    "possessions": [
+      {
+        "name": "Custom-built desktop PC",
+        "description": "A powerful workstation she assembled herself, dual monitors, mechanical keyboard — her primary work tool, kept meticulously clean"
+      },
+      {
+        "name": "Moleskine sketchbook collection",
+        "description": "Seven filled notebooks of architectural sketches, building studies, and margin doodles — hidden in a drawer beneath folded sweaters"
+      },
+      {
+        "name": "Father's wristwatch",
+        "description": "A battered Seiko automatic from the 1980s that her father wore every day at the diner; the crystal is scratched but it still keeps time"
+      },
+      {
+        "name": "Drafting tools",
+        "description": "A set of professional-grade architectural drafting instruments — T-square, triangles, scale ruler — bought in college and barely used since, stored in their original leather case"
+      },
+      {
+        "name": "Cast iron skillet",
+        "description": "Inherited from her father's diner kitchen, seasoned black and nearly indestructible; she makes eggs in it every morning"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that integrity is non-negotiable — that what you do when no one is watching defines you. Values competence, follow-through, and quiet generosity over grand gestures. Respects people who build things — whether buildings, meals, or lives — with their hands. Distrusts charm without substance. Fears mediocrity and complacency more than failure. Holds family duty as sacred but resents how it sometimes constrains her. Believes love should be steady and chosen daily, not dramatic; her broken engagement taught her that passion without honesty is worthless. Admires resilience in others because she demands it of herself.\n",
+  "birthday": "Y1991-W8-activity-D6",
+  "birth_year": 1991
+}

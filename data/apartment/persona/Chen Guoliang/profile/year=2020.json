@@ -1,0 +1,90 @@
+{
+  "name": "Chen Guoliang",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'7\" with a stocky, barrel-chested build at around 185 lbs, Chen Guoliang presents as average (~40%) in conventional attractiveness but possesses a weathered, dignified solidity that commands quiet respect. His face is broad and square-jawed, skin darkened and creased from decades of kitchen heat, with deep-set hooded eyes that hold both warmth and weariness. His hair is cropped short, more salt than pepper, and his thick hands are mapped with old burn scars and calluses. He wears the same rotation of plain white undershirts beneath a grease-spotted apron during service, switching to a clean button-down and dark slacks when he steps outside — always with the same pair of worn leather shoes he brought from Fuzhou. He smells faintly of sesame oil and Sichuan peppercorn. He gives the impression of a patient, self-made working man — someone whose gentleness is hard-won, whose silences carry the weight of a life rebuilt from scratch in a foreign language.",
+  "brief_introduction": "A Fuzhou-born restaurateur who has run Golden Autumn, a traditional Chinese restaurant on the same block as Bremer Apartment, for eighteen years. A widower and quiet pillar of the neighborhood, he feeds people generously and asks for little in return.",
+  "talents": {
+    "qualitative": "Born into a farming family in Fuzhou, Fujian Province, Chen apprenticed in a restaurant kitchen at fourteen after his father's death. He learned Fujianese, Cantonese, and Sichuan cuisines through years of grueling labor. Immigrated to New York in 1995 on a work visa sponsored by a Chinatown restaurant, spent seven years washing dishes and doing prep before saving enough to open Golden Autumn in 2002 with a small loan from his cousin. His wife, Mei, handled the front of house until she died of pancreatic cancer in 2014. Their son, Kevin, attends college upstate on a partial scholarship. Chen's English is functional but heavily accented; he reads better than he speaks. He is deeply practical, distrustful of debt, and quietly proud.",
+    "quantitative": {
+      "beauty": 40,
+      "communication": 45,
+      "creativity": 70,
+      "health": 65,
+      "honesty": 95,
+      "integrity": 100,
+      "intelligence": 85,
+      "leadership": 70,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Chen opened Golden Autumn on Bleecker Street in 2002 — a narrow, twenty-seat restaurant with red paper lanterns and a hand-painted sign. For years Mei managed the register and charmed customers while Chen commanded the kitchen. After Mei's death in 2014, he almost sold the restaurant. His son Kevin, then fifteen, convinced him to stay. Chen threw himself back into cooking, grief transmuted into twelve-hour shifts. By 2020 he employs two kitchen staff and one part-time server, but he still does most of the wok work himself. His knees ache, his blood pressure is climbing, and he worries about the restaurant surviving the economic uncertainty. He lives alone in a small one-bedroom on the second floor of Bremer Apartment — he moved in after selling the Queens apartment he'd shared with Mei because the emptiness was unbearable. He keeps a framed photo of Mei on the nightstand and calls Kevin every Sunday. He feeds neighbors who look hungry, extending quiet credit he never collects. The rooftop reminds him of summer evenings in Fuzhou, so he sometimes carries up a thermos of tea and sits alone, watching the skyline.",
+  "conflicts": "Struggling financially as rent for the restaurant space rises and foot traffic shifts; worries constantly about Kevin's tuition and whether the boy is eating enough; lonely since Mei's death but cannot imagine dating again; fears his English isn't good enough to advocate for himself if the landlord pushes him out; health declining but refuses to see a doctor because he can't afford to close the kitchen.",
+  "core_motivation": "To keep Golden Autumn alive long enough for Kevin to graduate debt-free, to honor Mei's memory by maintaining the life they built together, and to prove — mostly to himself — that the sacrifice of leaving home was worth it.",
+  "personality_traits": {
+    "qualitative": "Chen is an ISTJ — dutiful, methodical, and deeply private. He expresses love through action rather than words: a bowl of soup left at someone's door, an extra dumpling slipped onto a plate. He is stubborn, slow to trust, and uncomfortable with vulnerability, but once he cares about someone his loyalty is absolute. He has a dry, understated humor that surfaces rarely and delights those who catch it. He carries grief stoically, which others read as strength but is partly avoidance. He respects hard work above all else and quietly judges those he perceives as lazy or entitled.",
+    "quantitative": {
+      "confidence": 65,
+      "control": 85,
+      "curiosity": 40,
+      "empathy": 75,
+      "judging": 85,
+      "introversion": 80,
+      "intuition": 40,
+      "patience": 90,
+      "responsibility": 95,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes: early mornings before the city wakes, perfecting a recipe through repetition, watching old Hong Kong films on his laptop after closing, listening to Cantonese opera, feeding people who appreciate honest food, sitting on the rooftop with tea, calling Kevin on Sundays. Dislikes: waste — of food, money, or time — loud self-promotion, being pitied, fusion cuisine that disrespects tradition, bureaucratic paperwork in English, doctors' offices, and anyone who talks about food without understanding the labor behind it.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Owner and head chef",
+    "organization": "Golden Autumn Chinese Restaurant",
+    "type": "work",
+    "description": "Runs a small traditional Chinese restaurant on Bleecker Street near Bremer Apartment. Handles purchasing, menu planning, and most of the cooking himself. Employs two kitchen staff and one part-time server.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "Chinese cooking (Fujianese)": 300,
+    "Chinese cooking (Sichuan)": 135,
+    "Chinese cooking (Cantonese)": 180,
+    "Kitchen management": 280,
+    "Small business accounting": 90,
+    "English (spoken)": 40,
+    "English (written)": 15,
+    "Mandarin": 300,
+    "Fuzhou dialect": 305,
+    "Knife skills": 300,
+    "Wok technique": 305,
+    "Food sourcing and negotiation": 245
+  },
+  "init_assets": {
+    "deposit": 4200,
+    "possessions": [
+      {
+        "name": "Golden Autumn restaurant lease and equipment",
+        "description": "A narrow twenty-seat restaurant with a commercial wok range, two prep stations, a walk-in cooler, and eighteen years of accumulated cookware — seasoned woks, cleavers sharpened to nothing, bamboo steamers darkened with use."
+      },
+      {
+        "name": "Mei's jade bracelet",
+        "description": "A pale green jade bangle that belonged to his late wife. Kept in a small silk pouch in his nightstand drawer. He holds it sometimes but never wears it."
+      },
+      {
+        "name": "Photo albums",
+        "description": "Three thick albums spanning 1995 to 2014 — immigration paperwork photos, the restaurant's opening day, Kevin's school portraits, and the last family photo taken before Mei's diagnosis."
+      },
+      {
+        "name": "Old laptop",
+        "description": "A battered Lenovo ThinkPad used for accounting spreadsheets, video calls with Kevin, and streaming Hong Kong films late at night."
+      },
+      {
+        "name": "Thermos collection",
+        "description": "Four stainless-steel thermoses of varying sizes, always filled with tea or soup. At least one travels with him everywhere."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that dignity is earned through labor and sacrifice, not credentials or charm. Holds that feeding someone well is a form of love that transcends language. Respects anyone who works hard regardless of their station. Distrusts shortcuts and easy money. Quietly proud of his immigrant journey but never uses it to seek sympathy. Fears becoming a burden to Kevin. Believes Mei is still watching and tries to live in a way that would make her nod approvingly. Views community as something built through small, repeated acts of generosity — not grand gestures.",
+  "birthday": "Y1966-W8-activity-D3",
+  "birth_year": 1966
+}

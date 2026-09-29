@@ -1,0 +1,82 @@
+{
+  "name": "Ethan Cole",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'9\" and still growing into a lanky 145-lb frame, Ethan registers as fair (~20%) in an unfinished, adolescent way — soft jawline not yet fully defined, clear hazel eyes a shade too large for his narrow face, a scattering of faint freckles across the bridge of a slightly upturned nose, and wavy dark-brown hair that falls past his ears in messy curtains he's always pushing aside. His skin is pale from too many hours indoors, with a faint flush that betrays every emotion before he can mask it. He dresses in thrift-store layers — oversized flannel shirts, faded band tees (Radiohead, Elliott Smith), cuffed jeans, scuffed white Converse — a look that reads as deliberate sensitivity rather than poverty. His posture curves inward slightly, shoulders rounded, as if trying to occupy less space. He carries a battered Jansport backpack stuffed with dog-eared paperbacks and a composition notebook he guards fiercely. He moves through rooms like someone hoping not to be noticed but secretly wishing someone would notice anyway. He gives the impression of a bright, shy teenager on the cusp of something — bookish, emotionally raw, quietly observant — the kind of kid who writes poetry in margins and falls in love with people he's too afraid to speak to.\n",
+  "brief_introduction": "Ethan is a seventeen-year-old junior at a Manhattan public high school who lives with his mother in a small third-floor apartment in Bremer. Introspective and quietly talented as a writer, he nurses a secret crush on Lyric, the waitress he sees at the corner coffee shop, and spends most of his free time orbiting spaces where she might appear.\n",
+  "talents": {
+    "qualitative": "Born in Brooklyn to a single mother — a night-shift nurse at Mount Sinai — Ethan grew up in modest, affection-rich circumstances. His father left when he was four; he has no siblings. He was a voracious reader by age seven and began writing short stories in middle school, winning a citywide young-authors contest at fourteen. His English teachers consistently praise his prose; his math teachers consistently wish he'd try harder. He transferred to a Manhattan high school when his mother moved into Bremer Apartment in 2018. He earns pocket money working Saturday shifts as a busboy at a diner on Bleecker Street. Socially, he orbits the edge of groups — liked but not sought out, respected but rarely invited. He keeps a private composition notebook filled with fragments of a coming-of-age novella loosely based on life in the building.\n",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 35,
+      "creativity": 100,
+      "health": 55,
+      "honesty": 85,
+      "integrity": 75,
+      "intelligence": 80,
+      "leadership": 20,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Ethan and his mother, Karen Cole, moved into a small third-floor two-bedroom in Bremer Apartment in August 2018 after Karen took a position at Mount Sinai. The apartment is cramped but clean — his room contains a twin bed, a secondhand desk, a shelf of paperbacks arranged alphabetically, and a corkboard pinned with torn-out poems and a photo of his mother at her nursing school graduation. He attends a public high school in the West Village and is a quiet but consistent B-plus student, strongest in English and history, weakest in math and chemistry. He discovered the corner coffee shop within a week of moving in and began spending afternoons there with a book. That is where he first saw Lyric — wiping tables, laughing at something a customer said — and felt something shift inside his chest that he has been trying to write his way through ever since. He has never spoken to her beyond ordering a drip coffee with two sugars. He has filled thirty pages of his notebook with observations about her — her voice, her tattoo, the way she tucks her pen behind her ear. He sometimes sees Leonidas Argyros writing at the same coffee shop and has silently admired the man's concentration, once working up the courage to ask what he was reading. On the rooftop, he has exchanged a few words with Dylan Cross during early weekend mornings when Ethan goes up to write and Dylan is finishing his workout. He finds Dylan intimidating but oddly comforting. He has seen Megan behind the counter hundreds of times and she is one of the few adults who asks him how school is going. In early 2020, his English teacher has encouraged him to apply for a summer writing workshop at Columbia, but the application requires a personal essay about vulnerability, which terrifies him.\n",
+  "conflicts": "Paralyzed by his crush on Lyric — wants desperately to speak to her but fears that a seventeen-year-old has nothing to offer a grown woman; his writing ambitions feel urgent but fragile, and he is terrified that sharing his work will reveal him as ordinary; his mother works nights and he spends most evenings alone, breeding a loneliness he cannot name; the Columbia application demands emotional exposure he has spent years avoiding; he senses his adolescence is ending and worries he is wasting it by watching life from the margins instead of living it.\n",
+  "core_motivation": "To become a real writer — not someday, but now — and to prove to himself that the interior world he inhabits so richly can translate into something others recognize as meaningful. Beneath that, to be seen and valued by someone he admires, specifically Lyric, as evidence that he is not invisible. And deepest of all, to make his mother's sacrifices worth something.\n",
+  "personality_traits": {
+    "qualitative": "Ethan is a textbook INFP — idealistic, introspective, emotionally intense beneath a quiet surface. He processes the world through feeling and intuition, often retreating into his notebook when reality becomes overwhelming. He romanticizes people and situations, building elaborate interior narratives that sometimes diverge sharply from fact. He is gentle, empathetic, and deeply loyal to the few people he cares about, but his shyness can read as aloofness. He avoids conflict almost pathologically. He has a dry, self-deprecating humor that emerges in writing more than speech. He is harder on himself than anyone else would be.\n",
+    "quantitative": {
+      "confidence": 20,
+      "control": 50,
+      "curiosity": 95,
+      "empathy": 100,
+      "judging": 50,
+      "introversion": 100,
+      "intuition": 90,
+      "patience": 85,
+      "responsibility": 80,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: reading literary fiction and poetry (favorites include Salinger, Ocean Vuong, Sylvia Plath), writing in his composition notebook, sitting in the corner coffee shop, observing people, rainy afternoons, the rooftop at dusk, Elliott Smith and Radiohead, old films, walking the Village streets alone at night. Dislikes: loud parties, being called on in class, math homework, his father's absence being treated as normal, anyone reading his notebook without permission, feeling invisible, performative confidence in others.\n",
+  "position": {
+    "weekly_income": 60,
+    "role": "High school junior / weekend busboy",
+    "organization": "West Village High School / Bleecker Street Diner",
+    "type": "non-work",
+    "description": "Full-time high school student who works Saturdays as a busboy at a nearby diner for extra money.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "creative_writing": 170,
+    "literary_analysis": 145,
+    "cooking": 15,
+    "math": 85,
+    "history": 50,
+    "observation": 170,
+    "social_skills": 15,
+    "public_speaking": 0
+  },
+  "init_assets": {
+    "deposit": 320,
+    "possessions": [
+      {
+        "name": "Composition notebook",
+        "description": "A black-and-white marbled notebook, nearly full, containing fragments of a novella, character sketches of building residents, and thirty pages devoted to observations of Lyric. He guards it with his life."
+      },
+      {
+        "name": "Paperback collection",
+        "description": "About sixty secondhand novels and poetry collections arranged alphabetically on a wooden shelf — Salinger, Plath, Vonnegut, Vuong, Baldwin — spines cracked from rereading."
+      },
+      {
+        "name": "Old laptop",
+        "description": "A refurbished 2015 MacBook Air his mother bought him for his sixteenth birthday; the battery lasts forty minutes unplugged, but it runs a word processor fine."
+      },
+      {
+        "name": "Thrift-store wardrobe",
+        "description": "A rotating collection of oversized flannels, band tees, and cuffed jeans sourced from Village thrift shops — curated to look effortless."
+      }
+    ]
+  },
+  "extra_income": 40,
+  "values": "Believes that paying close attention to the world is a moral act — that noticing things others overlook is both a gift and a responsibility. Holds authenticity and emotional courage as the highest virtues, even though he struggles to practice them himself. Respects anyone who creates something honest — a song, a sentence, a meal — more than anyone who accumulates power or money. Distrusts loudness, bravado, and people who never seem to doubt themselves. Fears mediocrity more than failure. Believes love is transformative and sacred, shaped by the novels he reads, and terrified that real love will be smaller and messier than the version in his head. Feels a deep, quiet obligation to his mother that manifests as guilt whenever he spends time on anything that isn't productive.\n",
+  "birthday": "Y2003-W9-activity-D5",
+  "birth_year": 2003
+}

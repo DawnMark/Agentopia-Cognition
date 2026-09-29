@@ -1,0 +1,93 @@
+{
+  "name": "Leah Moreno",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" and roughly 125 lbs, Leah has an attractive (~10%) quality that sneaks up on people — not striking at first glance but increasingly magnetic. Her aesthetic is sharp-bohemian: angular cheekbones, deep-set dark eyes under thick brows, olive skin perpetually flushed at the nose from cold or wine. Her black hair is long, usually twisted into a careless braid that falls over one shoulder, strands escaping around her temples. She has a small scar bisecting her left eyebrow from a childhood bike accident, a silver ring on her thumb, and calloused fingertips from years of cello. She dresses in oversized knit sweaters, vintage corduroys, Doc Martens, and an army-green canvas jacket covered in enamel pins. Her posture is good — shoulders back, chin slightly lifted — but her eyes dart and assess before she speaks, suggesting vigilance beneath the warmth. She gives the impression of someone fiercely intelligent and quietly intense — an artist who has learned to be practical, carrying both tenderness and a well-rehearsed self-sufficiency that hints at old wounds.\n",
+  "brief_introduction": "Leah is a 26-year-old MFA candidate in music composition at NYU and a freelance cellist who gigs with chamber ensembles and indie bands across Brooklyn and Manhattan. She moved into Bremer Apartment in 2018, apartment 4B. She's warm and loyal but emotionally guarded, still healing from her mother's death two years ago.\n",
+  "talents": {
+    "qualitative": "Born in Santa Fe, New Mexico to a Mexican-American father (high school music teacher) and a Jewish-American mother (hospice nurse). Started cello at age seven after hearing Jacqueline du Pré on a scratched CD her mother owned. Won a regional young artists competition at fifteen. Attended Oberlin Conservatory on scholarship, graduated 2016, moved to New York for freelance work, then enrolled at NYU's graduate program in 2018 with a teaching assistantship. Her mother died of pancreatic cancer in early 2018, just before Leah moved into Bremer. Her father remarried in 2019, which Leah intellectually accepts but emotionally resents. She processes grief through composition — her thesis piece is a cello suite inspired by her mother's voice. Financially precarious: the assistantship covers tuition but not much else, so she patches income together from gigs, private lessons, and occasional session recording work.\n",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 75,
+      "creativity": 95,
+      "health": 65,
+      "honesty": 85,
+      "integrity": 90,
+      "intelligence": 80,
+      "leadership": 60,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Leah moved into 4B in August 2018, two months after burying her mother in Santa Fe. She chose Bremer because it was cheap and close to NYU. The first month she barely left her apartment — just practiced cello with a mute on, ate takeout, and stared at the ceiling. One September night she heard guitar from the rooftop and followed it upstairs. That was Leo. They didn't speak much that first time, just played — her cello against his guitar, improvising in the dark. It became a semi-regular thing. Through Leo she met Trevor at a rooftop gathering and found his blunt energy oddly comforting. She visits the corner coffee shop almost daily, where Daisy knows her order — a cortado with oat milk — and they've developed a quiet morning rapport. Her MFA thesis is due in spring 2020, and the pressure is enormous. She teaches private cello lessons to three kids on the Upper West Side on weekends and plays pickup gigs with a chamber group called Lux Ensemble. She earns just enough to cover rent and ramen. She dated a fellow musician briefly in 2019 but ended it when she realized she was using the relationship to avoid grief. She's learning to sit with loneliness instead of running from it.\n",
+  "conflicts": "Her thesis deadline looms and she's creatively blocked — the piece about her mother feels too personal to finish and too important to abandon. Her father's remarriage has opened old grief she thought she'd processed. Financially she's one cancelled gig away from not making rent. She suspects Leo has feelings for someone and worries their uncomplicated musical friendship will change. She wants deep connection but instinctively withdraws when people get close, a pattern she recognizes but can't seem to break.\n",
+  "core_motivation": "To complete the cello suite for her mother — not just as a thesis but as a way of finally saying goodbye. To stop equating vulnerability with weakness. To build a life in New York that honors both her ambition and her need for genuine human connection.\n",
+  "personality_traits": {
+    "qualitative": "Leah is an INFJ — outwardly warm and attentive but privately intense and guarded. She reads people quickly and accurately, which makes her a generous friend but also someone who keeps score without meaning to. She's disciplined about her craft to the point of self-punishment, often practicing until her fingers ache. She uses humor — dry, self-deprecating — as a deflection tool. When she trusts someone, her loyalty is absolute, but earning that trust takes time. She is deeply empathetic yet sometimes emotionally avoidant about her own pain. She journals obsessively, filling Moleskine notebooks with fragments of melody, overheard dialogue, and unsent letters to her mother.\n",
+    "quantitative": {
+      "confidence": 60,
+      "control": 70,
+      "curiosity": 90,
+      "empathy": 100,
+      "judging": 80,
+      "introversion": 75,
+      "intuition": 100,
+      "patience": 75,
+      "responsibility": 100,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes: playing cello late at night, rooftop jam sessions with Leo, morning cortados at the corner coffee shop, handwritten letters, film scores by Ryuichi Sakamoto and Jonny Greenwood, walking across the Brooklyn Bridge at dusk, cooking her mother's green chile stew, thrift shopping for vintage sweaters, Moleskine notebooks, rainy Sundays, mezcal neat. Dislikes: small talk at parties, being asked \"so what do you do with a music degree?\", loud chewing, her father's new wife's Facebook posts, performing music she doesn't believe in, being pitied, air conditioning set below 68°F, people who text during concerts.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "MFA candidate / Teaching assistant / Freelance cellist",
+    "organization": "NYU Steinhardt Music Composition Program / Lux Ensemble",
+    "type": "mixed",
+    "description": "Graduate student in music composition with a teaching assistantship that covers tuition and provides a small stipend. Supplements income with private cello lessons ($60/hour, ~3 students/week) and freelance gig work with chamber ensembles and recording sessions.\n",
+    "weekly_delta_skills": {
+      "composition": 0.3,
+      "cello_performance": 0.1,
+      "music_theory": 0.2,
+      "teaching": 0.1
+    }
+  },
+  "init_skills": {
+    "cello_performance": 260,
+    "composition": 135,
+    "music_theory": 260,
+    "sight_reading": 185,
+    "piano": 35,
+    "improvisation": 260,
+    "music_production_software": 80,
+    "teaching": 90,
+    "cooking": 20,
+    "writing": 65
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Cello",
+        "description": "A 2003 Jay Haide à l'ancienne — not a Stradivarius, but a warm, responsive instrument she bought used from a retiring orchestral player in Cleveland for $3,500. It has a small dent near the scroll from a cab door incident. She calls it 'Elena' after her mother."
+      },
+      {
+        "name": "Moleskine notebooks",
+        "description": "A shelf of 23 filled notebooks spanning college to present — fragments of melody, journal entries, sketches, unsent letters to her mother, coffee ring stains."
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2017 MacBook Air with a cracked corner, loaded with Sibelius notation software and hundreds of voice memos of musical ideas."
+      },
+      {
+        "name": "Vinyl collection",
+        "description": "About 40 records — mostly classical, some Radiohead, Joni Mitchell, Silvio Rodríguez — inherited half from her mother, bought half from Village thrift shops."
+      },
+      {
+        "name": "Army-green canvas jacket",
+        "description": "Covered in enamel pins collected from every city she's performed in. The inside pocket still holds a dried sprig of sage her mother tucked there before a concert in 2017."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that art is not a luxury but a necessity — that music can articulate what language cannot. Values emotional courage and despises emotional dishonesty, even though she struggles with her own avoidance. Respects craft and discipline over raw talent. Believes grief should be honored, not rushed. Distrusts people who treat relationships as transactional. Fears becoming so self-protective that she ends up alone. Secretly believes her mother's death was the universe demanding a price for the life she wanted in New York, and she hasn't fully shaken that irrational guilt.\n",
+  "birthday": "Y1994-W10-activity-D2",
+  "birth_year": 1994
+}

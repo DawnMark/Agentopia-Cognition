@@ -1,0 +1,89 @@
+{
+  "name": "Aaron Whitfield",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and roughly 180 lbs, Aaron has a fair (~20%) look defined by angular cheekbones, deep-set slate-blue eyes, and a pointed chin perpetually shadowed by two-day stubble. His dirty-blond hair is cropped short on the sides but left longer on top, often pushed back carelessly with one hand. His frame is rangy and slightly underfed — broad shoulders tapering to a narrow waist, wrists bony, collarbones visible beneath the open collar of his wrinkled Oxford shirts. A thin scar runs through his left eyebrow from a car accident at nineteen. He wears dark chinos, desert boots, and a weathered navy peacoat regardless of season, usually with a leather messenger bag slung across his chest. He moves quickly, restlessly, like someone perpetually late. He projects the air of a sharp, slightly world-weary observer — a man who's seen enough to be skeptical but not yet enough to be cynical, someone who probably writes things down about you after you leave.",
+  "brief_introduction": "Aaron is a freelance journalist and aspiring novelist who moved to Bremer Apartment in 2019. He's working on a debut novel about immigrant families in New York while scraping together income from magazine features and copywriting gigs. He carries guilt over his estranged relationship with his father and channels his emotional complexity into his writing.",
+  "talents": {
+    "qualitative": "Born in Columbus, Ohio to a high school English teacher mother and a factory foreman father. His parents divorced when he was twelve after his father's alcoholism became unmanageable. Aaron was a voracious reader as a child, won state writing competitions in high school, and earned a partial scholarship to Northwestern's Medill School of Journalism. After graduating in 2012, he worked as a staff reporter at the Chicago Tribune for five years covering immigration and labor beats. He moved to New York in 2018 to freelance and write his novel, burning through most of his savings. He landed at Bremer Apartment in early 2019 after subletting in Bushwick fell through. He sold a long-form piece to The Atlantic in late 2019 about undocumented restaurant workers, which gave him modest recognition but not financial stability. He drinks too much bourbon on deadline nights and smokes on the fire escape when stressed. He's perceptive about other people's pain but avoids examining his own.",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 80,
+      "creativity": 95,
+      "health": 55,
+      "honesty": 75,
+      "integrity": 80,
+      "intelligence": 70,
+      "leadership": 55,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Aaron moved into a small one-bedroom on the fourth floor in January 2019. He met Leo first — they share a wall, and Aaron knocked one evening to apologize for typing too loudly at 2 AM. They bonded over being quiet, cerebral men living in a city that rewards loudness. Aaron frequents the corner coffee shop where Jamal works, often spending four or five hours writing at the window table. He met Katie through Leo in spring 2019 and they developed an easy, teasing friendship; she sometimes reads passages from his novel drafts aloud in funny accents to loosen him up. He met Mike on the rooftop in summer 2019 and they occasionally drink together after Mike's bar shifts. Aaron's father was diagnosed with early-onset dementia in late 2019. Aaron hasn't visited and tells no one except Leo, who overheard him on the phone. His novel is about three generations of a Dominican family in Washington Heights, drawn from interviews he conducted for the Atlantic piece. He worries constantly about whether a white man from Ohio has the right to tell that story. His freelance income is inconsistent — some months flush, some months he eats ramen for a week. He's never married, had one serious relationship in Chicago that ended when she said he loved his work more than her.",
+  "conflicts": "Guilt over not visiting his ailing father warring with unresolved anger about his childhood; imposter syndrome about writing a novel centered on immigrant experiences outside his own; financial precariousness threatening his ability to stay in New York; a growing attraction to Katie that he suppresses because he sees how Leo looks at her and values Leo's friendship too much to compete.",
+  "core_motivation": "To finish his novel and prove — to himself, to his mother, to the ghosts of every teacher who believed in him — that he can create something lasting and true. To reconcile with his father before it's too late, even though every instinct tells him to stay away. To be the kind of man who chooses integrity over self-interest, especially when it costs him.",
+  "personality_traits": {
+    "qualitative": "Aaron is an INTJ — strategic, independent, intensely focused when engaged, and emotionally guarded. He observes people with a journalist's eye and a novelist's empathy, cataloging details others miss. He's witty in conversation, capable of warmth, but defaults to deflection when topics turn personal. He uses humor as armor and work as an escape. He's fiercely principled about his writing ethics but privately tormented by self-doubt. He can be stubborn to the point of self-sabotage — refusing help, refusing to compromise, refusing to admit he's struggling. Under stress he withdraws, drinks, and writes until dawn.",
+    "quantitative": {
+      "confidence": 55,
+      "control": 75,
+      "curiosity": 90,
+      "empathy": 80,
+      "judging": 80,
+      "introversion": 85,
+      "intuition": 90,
+      "patience": 55,
+      "responsibility": 70,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes: long-form journalism, noir fiction, bourbon neat, late-night typing sessions, rooftop conversations, black coffee, documentary films, walking the city alone at night, listening to jazz from Simon's apartment, honest arguments. Dislikes: small talk, social media self-promotion, being asked 'what's your novel about,' loud bars (despite frequenting them), people who confuse opinion with reporting, unsolicited advice about his father, pity.",
+  "position": {
+    "weekly_income": 350,
+    "role": "Freelance journalist and novelist",
+    "organization": "Self-employed (contributes to The Atlantic, New York Magazine, various outlets)",
+    "type": "work",
+    "description": "Freelance writer earning income from magazine features, copywriting for a tech firm, and occasional journalism workshops he teaches at The New School.",
+    "weekly_delta_skills": {
+      "creative_writing": 0.5,
+      "journalism": 0.3
+    }
+  },
+  "init_skills": {
+    "creative_writing": 105,
+    "journalism": 250,
+    "interviewing": 210,
+    "research": 290,
+    "copywriting": 75,
+    "guitar": 5,
+    "cooking": 30,
+    "photography": 35
+  },
+  "init_assets": {
+    "deposit": 1800,
+    "possessions": [
+      {
+        "name": "MacBook Pro",
+        "description": "A 2017 MacBook Pro with a cracked corner from being dropped in a cab, covered in coffee ring stains, containing 74,000 words of his unfinished novel and six years of reporter's notes."
+      },
+      {
+        "name": "Messenger bag",
+        "description": "A battered brown leather messenger bag his mother gave him when he graduated from Northwestern, stuffed with notebooks, pens, a voice recorder, and loose receipts."
+      },
+      {
+        "name": "Book collection",
+        "description": "Three overflowing bookshelves of journalism, literary fiction, and poetry — heavily annotated copies of Joan Didion, James Baldwin, Roberto Bolaño, and Denis Johnson."
+      },
+      {
+        "name": "Father's watch",
+        "description": "A Timex Marlin his father wore every day at the factory, given to Aaron by his mother after the divorce. He keeps it in his desk drawer, unwound."
+      },
+      {
+        "name": "Recorder",
+        "description": "A Sony digital voice recorder used for interviews, with hours of unreleased conversations from his Atlantic piece."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes journalism is a public trust and storytelling is an act of moral witness. Respects people who endure quietly — workers, immigrants, anyone carrying weight without complaint. Values honesty above politeness, craft above talent, persistence above inspiration. Distrusts easy charm and inherited advantage. Fears becoming his father — emotionally absent, retreating into a bottle when the world gets hard. Believes love is something you prove through presence, not words, which makes his absence from his father's life a hypocrisy he can't resolve.",
+  "birthday": "Y1990-W10-activity-D1",
+  "birth_year": 1990
+}

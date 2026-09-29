@@ -1,0 +1,83 @@
+{
+  "name": "Simon Delacroix",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and roughly 190 lbs, Simon has a fair (~20%) handsomeness weathered by time — deep-set gray-blue eyes beneath heavy brows, a broad forehead lined with creases, a salt-and-pepper beard kept close-trimmed, and large, scarred hands that betray decades at a keyboard. His build is solid but softening at the middle, shoulders still broad from years of hauling equipment. He favors dark turtlenecks, corduroy trousers, leather brogues, and a charcoal wool overcoat regardless of season. A silver ring on his right index finger catches light when he gestures, which he does often and deliberately. He projects the energy of a man who has seen enough of life to be both generous and guarded — a weary raconteur, someone cultured and quietly melancholic, suggesting a background steeped in artistic discipline and private disappointment.\n",
+  "brief_introduction": "Simon is the longest-tenured resident of Bremer Apartment, a jazz pianist who once toured Europe with a celebrated quartet but returned to New York after his marriage collapsed in 2005. He now teaches piano at a community music school in the West Village and plays weekend sets at a small club in Harlem. He lives alone on the fourth floor surrounded by vinyl records, manuscript paper, and the upright Steinway he refuses to part with. He is respected in the building as a quiet elder figure — not old, but seasoned — who offers wisdom sparingly and never imposes it.\n",
+  "talents": {
+    "qualitative": "Born in New Orleans to a Creole mother who sang in church choirs and a French-American father who repaired instruments. Music was the family language. Simon studied at the New Orleans Center for Creative Arts, then earned a scholarship to the Manhattan School of Music in 1990. By his late twenties he was touring with the Alain Moreau Quartet across Europe, recording two albums that received critical praise but modest sales. He married a cellist named Claire in 2000; they divorced in 2005 after he chose touring over starting a family. He returned to New York humbled, took a teaching position, and has lived at Bremer Apartment since 2006. He composes quietly — a drawer full of unfinished pieces — but hasn't recorded anything under his own name. He is fluent in French, well-read, a decent cook of Creole food, and an attentive listener who understands loneliness from the inside.\n",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 80,
+      "creativity": 90,
+      "health": 65,
+      "honesty": 75,
+      "integrity": 100,
+      "intelligence": 80,
+      "leadership": 60,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Simon moved into Bremer Apartment in 2006, one year after his divorce. The building was cheaper then, and he needed somewhere quiet to fall apart. He taught himself to live alone again — cooking gumbo on Sunday nights, listening to Coltrane at low volume, grading student compositions at the kitchen table. Over fourteen years he has watched dozens of tenants come and go. He knows the building's rhythms better than anyone: which pipes freeze in January, which walls carry sound, which stairs creak at 2 a.m. He plays a weekend residency at Smoke Jazz Club in Harlem every Friday and Saturday night, earning modest but steady pay. During the week he teaches at the Greenwich House Music School. He heard Leo playing guitar on the rooftop in 2018 and left a note under his door: \"You have good instincts. If you ever want to learn chord voicings, 4B.\" They've been meeting informally since. He's watched Mike arrive and recognizes the hungry performer energy — it reminds him of his younger self, which makes him both sympathetic and wary. He keeps a framed photo of Claire in a drawer he opens less often each year. He has never remarried and rarely dates. His greatest fear is that his best music is behind him.\n",
+  "conflicts": "Haunted by the belief that he sacrificed his marriage for a career that never reached its potential; wants to record his own album but fears it will confirm his mediocrity; struggles with increasing loneliness as he ages in a building full of young people; feels a paternal protectiveness toward Leo and Katie that he knows he has no right to claim; worries that teaching has become a hiding place rather than a vocation.\n",
+  "core_motivation": "To finish the album of original compositions he has been drafting for a decade — to leave behind one honest, complete artistic statement before it's too late. To mentor without controlling, and to prove to himself that choosing music over Claire wasn't a waste of two lives.\n",
+  "personality_traits": {
+    "qualitative": "Simon is an INFJ — insightful, reserved, deeply empathetic but selective about where he invests emotionally. He speaks in deliberate, unhurried sentences, often using metaphor. He can read a room with uncanny accuracy and frequently understands people's problems before they articulate them. He has a dry, warm humor that surfaces unexpectedly. He avoids conflict not from cowardice but from a belief that most arguments are performances. He can be stubborn when his values are challenged, and he holds grudges quietly. His loneliness is self-imposed — he pushes people away when they get close enough to see his regrets.\n",
+    "quantitative": {
+      "confidence": 60,
+      "control": 70,
+      "curiosity": 85,
+      "empathy": 90,
+      "judging": 80,
+      "introversion": 75,
+      "intuition": 95,
+      "patience": 95,
+      "responsibility": 80,
+      "thinking": 80
+    }
+  },
+  "preferences": "Loves jazz, blues, classical music, Creole cooking, black coffee, old films, walking through the Village at dusk, the smell of vinyl, long conversations on the rooftop, teaching students who actually practice; dislikes loudness for its own sake, dishonesty, people who treat art as content, superficial networking, being pitied, talking about his ex-wife, social media, and anyone who plays piano with the sustain pedal held down the entire time.\n",
+  "position": {
+    "weekly_income": 385,
+    "role": "Piano instructor and performing musician",
+    "organization": "Greenwich House Music School / Smoke Jazz Club",
+    "type": "work",
+    "description": "Teaches piano and jazz theory to students aged 12–60 at the Greenwich House Music School four days a week. Plays a Friday–Saturday residency at Smoke Jazz Club in Harlem with a rotating trio. Occasionally picks up session work or private lessons for extra income.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "piano": 310,
+    "jazz_composition": 210,
+    "music_theory": 300,
+    "guitar": 65,
+    "singing": 15,
+    "cooking": 155,
+    "French_language": 140,
+    "teaching": 295,
+    "audio_production": 85
+  },
+  "init_assets": {
+    "deposit": 4200,
+    "possessions": [
+      {
+        "name": "Steinway upright piano (1961)",
+        "description": "A vintage Model 45 upright he bought from a retiring professor in 2003. The action is imperfect but the tone is rich and dark. It dominates his small living room."
+      },
+      {
+        "name": "Vinyl collection",
+        "description": "Roughly 800 records spanning jazz, blues, soul, and classical — meticulously alphabetized in custom shelving he built himself. Includes a signed Miles Davis pressing."
+      },
+      {
+        "name": "Manuscript notebooks",
+        "description": "A stack of fourteen Moleskine music notebooks filled with original compositions, chord charts, and fragmentary lyrics — the raw material for the album he keeps promising himself."
+      },
+      {
+        "name": "Wool overcoat",
+        "description": "A charcoal Crombie overcoat bought in London during a 2001 tour. Worn almost daily from October to April. The lining is fraying but he refuses to replace it."
+      }
+    ]
+  },
+  "extra_income": 115,
+  "values": "Believes music is a spiritual discipline, not a career strategy. Respects craft, patience, and the willingness to be bad at something long enough to become good. Values emotional honesty over emotional display — feels more kinship with someone who is quietly struggling than someone loudly triumphant. Distrusts ambition that isn't rooted in love for the work itself. Fears irrelevance and silence — not the musical kind, but the kind that settles over a life no one is paying attention to. Believes love requires sacrifice but has never figured out which sacrifices are noble and which are just cowardice dressed up as devotion.\n",
+  "birthday": "Y1972-W7-activity-D5",
+  "birth_year": 1972
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Solstice Reyes",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" with a lean, willowy frame at around 128 lbs, Solstice registers as attractive (~10%) with a warm, earthy aesthetic. Her face is angular — high forehead, wide-set amber-brown eyes, a narrow nose with a slight bump at the bridge, and full, unpainted lips. Her skin is a deep olive, sun-marked with faint freckles across the cheeks. She wears her dark auburn hair long and unstyled, often tucked behind one ear or loosely knotted. Her hands are rough from work, nails kept short and unpolished. She dresses in muted linens, oversized cardigans, and worn leather sandals even into October. A thin silver chain with a turquoise pendant sits at her collarbone. Her posture is unusually still and upright, giving her a calm, almost monastic presence. She suggests someone raised close to open land — unhurried, self-possessed, quietly watchful, and perhaps hiding discipline beneath softness.\n",
+  "brief_introduction": "Solstice is a freelance yoga instructor and part-time barista at the corner coffee shop beneath Bremer Apartment. She moved to New York from Taos, New Mexico, three years ago after a painful falling-out with her mother, a folk healer who expected Solstice to carry on the family practice. She is thoughtful, emotionally steady on the surface, but privately battles guilt over the life she abandoned and fear that her independence is just selfishness dressed up as courage. She briefly dated Trevor and still feels the residual awkwardness. She finds quiet kinship with Dylan on the rooftop and has become a gentle, stabilizing presence for Orion when he drifts into the coffee shop after difficult days.\n",
+  "talents": {
+    "qualitative": "Born in Taos, New Mexico, to a single mother who practiced curanderismo — traditional folk healing. Her father left before she was born; she knows his name but nothing else. Her mother, Pilar, raised her in a small adobe house surrounded by sage fields. Solstice was a serious, observant child who read voraciously and showed early aptitude for biology and herbalism. She earned a partial scholarship to the University of New Mexico, studied kinesiology, and discovered yoga during a difficult sophomore year marked by anxiety and insomnia. After graduating she taught classes in Albuquerque and Santa Fe, building a small following. But her mother's increasing pressure to return to Taos and apprentice as a healer created a rift that became irreparable after a bitter argument in 2017. Solstice left for New York with $2,000 and a duffel bag. She found the coffee shop job within a week and the apartment within a month. She now teaches six yoga classes a week at two studios in the Village and picks up barista shifts to cover rent. She sends money home monthly despite not speaking to her mother. She is skilled at reading people's bodies and emotions, has a deep knowledge of herbalism she rarely advertises, and writes poetry in a journal she has never shown anyone.\n",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 70,
+      "creativity": 80,
+      "health": 100,
+      "honesty": 85,
+      "integrity": 95,
+      "intelligence": 70,
+      "leadership": 65,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Solstice lives alone in a small one-bedroom on the third floor. Her apartment smells like dried lavender and cedar. She rises at 5:30 every morning, meditates, then walks to whichever studio has her first class. Afternoons she spends at the coffee shop — sometimes working, sometimes just sitting with a book and a turmeric latte. She dated Trevor for about two months in early 2019. It ended without drama but with a quiet sadness she hasn't fully processed; she liked him more than she let on, and his restless energy reminded her of parts of herself she tries to keep still. She recognized that he wasn't ready for what she wanted, and she pulled away before it could hurt worse. They still nod hello in the hallway. On the rooftop she gravitates toward Dylan, whose guarded honesty mirrors her own. She senses Dylan is hiding something significant but doesn't push. She met Orion when he started coming into the coffee shop looking hollowed out; she began leaving herbal tea samples at his table without being asked. She has not been home to New Mexico since 2017. Her mother's birthday is in November, and every year Solstice writes a letter she doesn't send. She keeps a small altar on her windowsill — a candle, a photo of her grandmother, a sprig of sage from Taos that has long since dried to dust.\n",
+  "conflicts": "Guilt over abandoning her mother and her cultural inheritance; fear that her calm exterior is a performance rather than genuine peace; unresolved feelings about Trevor and reluctance to be vulnerable again; financial precarity — one bad month could mean missing rent; a growing sense that New York, for all its freedom, may not be where she ultimately belongs.\n",
+  "core_motivation": "To prove — mostly to herself — that she can build a meaningful life on her own terms without inheriting someone else's path. To find a way to reconcile with her mother before it's too late. To allow herself to be truly known by someone without retreating into composure.\n",
+  "personality_traits": {
+    "qualitative": "Solstice is an INFJ — outwardly warm and approachable but deeply private. She listens more than she speaks and asks careful questions that make people feel seen, sometimes uncomfortably so. She has a contemplative, almost philosophical temperament, but it coexists with a stubborn streak and a slow-burning temper that surprises people when it finally surfaces. She avoids conflict not out of weakness but out of a learned fear that her anger, once released, will be destructive — a pattern she watched in her mother. She is generous with her time and attention, sometimes to her own detriment. She struggles with perfectionism and can be quietly self-punishing when she falls short of her own standards.\n",
+    "quantitative": {
+      "confidence": 55,
+      "control": 80,
+      "curiosity": 75,
+      "empathy": 90,
+      "judging": 30,
+      "introversion": 75,
+      "intuition": 95,
+      "patience": 95,
+      "responsibility": 80,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: early mornings, herbal tea, long walks along the Hudson, reading poetry (Mary Oliver, Joy Harjo), cooking simple meals with good ingredients, rooftop sunsets, handwritten letters, thrift stores, rainstorms, deep one-on-one conversations, the smell of sage. Dislikes: loud bars, performative wellness culture, small talk that stays small, being rushed, people who confuse bluntness with honesty, feeling financially dependent, November (her mother's birthday month), being called \"zen\" as though calm were her whole identity.\n",
+  "position": {
+    "weekly_income": 320,
+    "role": "Freelance yoga instructor / part-time barista",
+    "organization": "Two Village yoga studios (class-based contract) / Corner Coffee Shop (part-time hourly)",
+    "type": "work",
+    "description": "Teaches six yoga classes per week across two studios at $35–$50 per class. Works approximately 12 hours per week at the coffee shop at $15/hour plus tips. Total weekly income fluctuates but averages around $320.\n",
+    "weekly_delta_skills": {
+      "yoga_instruction": 0.1,
+      "herbalism": 0.05,
+      "barista_craft": 0.05
+    }
+  },
+  "init_skills": {
+    "yoga_instruction": 265,
+    "herbalism": 45,
+    "barista_craft": 45,
+    "kinesiology": 75,
+    "meditation": 280,
+    "creative_writing": 20,
+    "cooking": 90,
+    "emotional_counseling": 85
+  },
+  "init_assets": {
+    "deposit": 1400,
+    "possessions": [
+      {
+        "name": "Yoga mat and props",
+        "description": "A well-worn Manduka Pro mat in faded indigo, two cork blocks, a cotton strap, and a bolster — carried to every class in a canvas tote"
+      },
+      {
+        "name": "Herbal collection",
+        "description": "A wooden box on the kitchen counter holding two dozen labeled jars of dried herbs — chamomile, valerian, calendula, osha root — most ordered online from New Mexico suppliers"
+      },
+      {
+        "name": "Journal",
+        "description": "A leather-bound Moleskine filled with poetry drafts, sketches of plants, and unsent letters to her mother, kept in the bedside drawer"
+      },
+      {
+        "name": "Secondhand bicycle",
+        "description": "A scratched-up mint-green Schwinn she found on Craigslist for $80, her main transportation between studios"
+      },
+      {
+        "name": "Grandmother's photo",
+        "description": "A small black-and-white photograph in a cedar frame on the windowsill altar, showing a woman with Solstice's same angular face standing in a field of wild sage"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that healing — physical, emotional, spiritual — is sacred work and should never be performed carelessly. Respects people who choose difficult honesty over comfortable avoidance. Values autonomy but wrestles with whether independence and love can coexist. Admires quiet courage more than loud ambition. Holds deep respect for cultural tradition even as she resists being defined by it. Fears becoming her mother — controlling, certain, unable to let go. Equally fears becoming no one's daughter at all.\n",
+  "birthday": "Y1992-W7-activity-D2",
+  "birth_year": 1992
+}

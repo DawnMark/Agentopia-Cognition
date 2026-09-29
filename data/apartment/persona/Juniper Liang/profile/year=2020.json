@@ -1,0 +1,96 @@
+{
+  "name": "Juniper Liang",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" with a lean, willowy frame at around 125 lbs, Juniper is attractive (~10%) in an understated, earthy way — high cheekbones from her Chinese-American father, deep-set hazel eyes from her Irish mother, a scattering of faint freckles across her nose, and dark auburn hair usually gathered in a loose, slightly messy braid. Her hands are long-fingered and calloused at the tips from years of guitar strings. She favors thrifted flannel shirts, worn boots, and silver rings stacked on her left hand. There's a small tattoo of a pine tree behind her right ear. Her posture is relaxed but alert, like someone always half-listening for a melody. She gives the impression of a quiet, self-possessed young woman with an artistic sensibility and a streak of Pacific Northwest independence — someone comfortable with solitude but not unfriendly.",
+  "brief_introduction": "Juniper is a singer-songwriter and part-time barista at the corner coffee shop beneath Bremer Apartment. She moved to New York three years ago from Portland, Oregon, chasing a music career that has been slower to materialize than she hoped. She lives alone in a small studio on the third floor and spends most evenings writing songs or playing open mics around the Village. Beneath her calm exterior, she is wrestling with whether to keep pursuing music or accept a more stable path — a tension sharpened by her estranged mother's recent diagnosis with early-onset Alzheimer's.",
+  "talents": {
+    "qualitative": "Juniper grew up in a mixed-race household in Portland. Her father, David Liang, is a second-generation Chinese-American structural engineer; her mother, Siobhan, was a folk singer who left the family when Juniper was twelve to follow a man to Asheville, North Carolina. That abandonment shaped Juniper profoundly — it gave her music (she picked up her mother's guitar the week she left) and a deep wariness about emotional dependency. She was a strong student but chose music over college, attending a one-year conservatory program in Boston before moving to New York at twenty-two. She is a gifted lyricist with a distinctive alto voice. Her barista job pays the rent while she plays open mics and submits demos. She has been offered a small record deal but it requires relocating to Nashville, and she is paralyzed by indecision.",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 60,
+      "creativity": 90,
+      "health": 70,
+      "honesty": 80,
+      "integrity": 75,
+      "intelligence": 80,
+      "leadership": 35,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Juniper moved into Bremer Apartment in 2017. She keeps her studio sparse — a single bed, a desk, a secondhand keyboard, three guitars, and a corkboard pinned with handwritten lyrics. She works the early morning shift at the corner coffee shop (5:30 AM–1 PM), which means she knows almost every resident by their drink order. Evenings she writes or performs. She met Cassian when he came into the shop one rainy afternoon carrying a cello case; they ended up jamming together and now occasionally collaborate. She is friendly with Eulalia, who comes in every morning before class. Rowan she knows from the rooftop — they've shared quiet, comfortable silences up there. Six months ago she received a voicemail from her mother's partner in Asheville saying Siobhan was diagnosed with early-onset Alzheimer's. Juniper hasn't returned the call. The guilt is eating at her and seeping into her songs. She sends money to her father every month even though he insists she doesn't need to.",
+  "conflicts": "Torn between a small Nashville record deal and staying in New York where her life and connections are; haunted by her mother's illness and her refusal to respond; fears that choosing stability means betraying her artistic identity; struggles with emotional intimacy — she lets people close enough to be comfortable but rarely close enough to be vulnerable.",
+  "core_motivation": "To make music that is honest enough to justify the sacrifices she has made for it; to resolve her feelings about her mother before it is too late; to learn how to let people in without losing herself.",
+  "personality_traits": {
+    "qualitative": "Juniper is an INFP — idealistic, introspective, and quietly passionate. She processes the world through feeling and intuition, often retreating into songwriting to make sense of experiences she cannot articulate in conversation. She is warm but guarded; people find her easy to talk to partly because she listens more than she speaks. She has a dry, understated humor and a stubborn independent streak inherited from both parents. She avoids conflict almost to a fault, sometimes choosing silence over honesty to preserve peace. When she trusts someone, her loyalty is fierce and unwavering.",
+    "quantitative": {
+      "confidence": 50,
+      "control": 55,
+      "curiosity": 70,
+      "empathy": 95,
+      "judging": 45,
+      "introversion": 75,
+      "intuition": 90,
+      "patience": 85,
+      "responsibility": 80,
+      "thinking": 55
+    }
+  },
+  "preferences": "Likes: writing songs at odd hours, strong black coffee, rain, vinyl records, hiking when she can escape the city, cooking simple meals, reading poetry (Mary Oliver, Ocean Vuong), quiet mornings before the shop opens, playing guitar on the fire escape. Dislikes: loud self-promotion, dishonesty, being pressured into decisions, networking events, people who treat baristas as invisible, her mother's voicemails sitting unanswered on her phone.",
+  "position": {
+    "weekly_income": 380,
+    "role": "Barista / Singer-songwriter",
+    "organization": "The Corner Coffee Shop, Bremer Apartment building",
+    "type": "work",
+    "description": "Works the early morning shift as lead barista at the corner coffee shop. Supplements income with occasional open mic tips and small performance fees at Village venues.",
+    "weekly_delta_skills": {
+      "songwriting": 0.5,
+      "guitar": 0.3,
+      "coffee_craft": 0.1
+    }
+  },
+  "init_skills": {
+    "songwriting": 150,
+    "guitar": 200,
+    "vocals": 235,
+    "piano_keyboard": 55,
+    "coffee_craft": 220,
+    "music_production": 30,
+    "cooking": 45,
+    "emotional_intelligence": 200,
+    "networking": 15,
+    "financial_management": 25
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Martin 000-15M acoustic guitar",
+        "description": "Her most prized possession — a solid mahogany acoustic guitar she saved for over two years to buy. Warm, mellow tone. Small nick on the body from a fall at an open mic."
+      },
+      {
+        "name": "Mother's old Gibson",
+        "description": "A battered 1980s Gibson J-45 her mother left behind. One tuning peg is temperamental. Juniper can't bring herself to repair it or get rid of it."
+      },
+      {
+        "name": "Secondhand Yamaha keyboard",
+        "description": "A 61-key weighted keyboard bought off Craigslist for $90. She uses it to sketch chord progressions and demo arrangements."
+      },
+      {
+        "name": "Recording setup",
+        "description": "A used Focusrite Scarlett interface, an Audio-Technica condenser mic, and a cracked laptop running GarageBand. Functional but barely."
+      },
+      {
+        "name": "Vinyl collection",
+        "description": "About forty records — Joni Mitchell, Nick Drake, Elliott Smith, Mitski, Iron & Wine — stored in a milk crate beside her bed."
+      },
+      {
+        "name": "Hiking boots",
+        "description": "Worn Danner Trail 2650s she brought from Portland. Mud still caked on the soles from a Hudson Valley hike last autumn."
+      }
+    ]
+  },
+  "extra_income": 60,
+  "values": "Believes that art must come from genuine feeling or it means nothing. Values authenticity, patience, and quiet courage over ambition or status. Respects people who show up consistently — for their work, for each other. Distrusts grand gestures and easy answers. Fears becoming her mother — someone who chose passion over people and left wreckage behind. Equally fears becoming someone who surrenders their creative life for safety. Holds loyalty as sacred; breaking trust is nearly unforgivable to her.",
+  "birthday": "Y1995-W3-activity-D4",
+  "birth_year": 1995
+}

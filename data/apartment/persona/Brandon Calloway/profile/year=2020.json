@@ -1,0 +1,87 @@
+{
+  "name": "Brandon Calloway",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and solidly built at 190 lbs, Brandon is attractive (~10%) with a square jaw, high cheekbones, deep-set green eyes, and a wide, disarming smile that shows slightly crooked canines. His sandy-blond hair is kept in a loose, tousled style that looks effortless but takes ten minutes each morning. He has broad shoulders, a confident stride, and sun-weathered skin from weekend runs along the Hudson. A small scar bisects his left eyebrow from a college rugby collision. His style is working-class handsome — fitted henleys, rolled sleeves revealing a forearm tattoo of a compass rose, dark jeans, and beaten leather boots. He carries himself like someone used to being watched, projecting an easy warmth and theatrical magnetism that suggests a born entertainer who pays rent with charm and hustle.\n",
+  "brief_introduction": "Brandon is the unofficial social director of Bremer Apartment — the one who knocks on doors with leftover pizza, organizes rooftop nights, and remembers everyone's birthday. Underneath the gregarious exterior, he's quietly terrified that at 29 he's aging out of his dream of making it as a stage actor.\n",
+  "talents": {
+    "qualitative": "Raised in a loud Irish-American family in Dorchester, Boston. His father was a firefighter, his mother a school secretary. The youngest of four brothers, he learned early to perform for attention. Did community theater from age twelve, got a partial scholarship to a small conservatory in upstate New York, graduated in 2013 and moved straight into the city. He's been bartending since, picking up occasional off-off-Broadway roles and commercial spots. He has strong emotional instincts, reads people quickly, and can command a room — but lacks the discipline for sustained, solitary work. Generous to a fault with time and money he doesn't have.\n",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 90,
+      "creativity": 80,
+      "health": 85,
+      "honesty": 55,
+      "integrity": 80,
+      "intelligence": 55,
+      "leadership": 70,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Brandon moved into Bremer Apartment in 2015, taking a cramped studio on the fourth floor. He bartends four nights a week at a cocktail bar in the West Village and auditions during the day. In 2017 he landed a small recurring role in an off-Broadway revival that ran for three months — the highlight of his career. Since then, callbacks have dried up. He's watched college friends settle into real careers while he still splits checks carefully. In early 2020, he got a callback for a new play by a respected playwright — the biggest opportunity in years — but choked during the final read and didn't get the part. The rejection cracked something open. He's started questioning whether persistence is courage or delusion. He became friends with Leo in 2018 after finding him alone on the rooftop with a guitar and sitting down uninvited with two beers. He knows Paige from the coffee shop where he sometimes runs lines aloud, and he's drawn to Vesper's artistic confidence. He's never been married; his last serious relationship ended in 2018 when his girlfriend moved to LA for a film career he envied. He sends money home to his parents when he can, which keeps his own savings near zero.\n",
+  "conflicts": "Approaching 30 with no breakthrough acting credit and dwindling savings; recently choked at a major audition, shaking his confidence for the first time; torn between the loyalty he feels toward his dream and the practical pressure to find a stable career; masks vulnerability with humor and generosity, making it hard for anyone to see when he's actually struggling; fears becoming the cautionary tale — the guy still bartending at 40, talking about the role he almost got.\n",
+  "core_motivation": "To prove — mostly to himself — that the years of sacrifice were not wasted; to land one role meaningful enough to justify everything he's given up; and to learn that his worth isn't contingent on an audience's applause.\n",
+  "personality_traits": {
+    "qualitative": "Brandon is an ENFJ — magnetic, emotionally intuitive, and instinctively generous. He fills silence with warmth and makes strangers feel like old friends within minutes. He's the first to show up when someone needs help moving furniture or nursing a heartbreak. But his extroversion is partly a defense: as long as he's taking care of others, no one notices he's falling apart. He avoids deep self-reflection, using humor to deflect serious questions about his future. When he does feel pain, it comes out sideways — a too-long night at the bar, a sudden withdrawal that worries his friends. Loyal, impulsive, big-hearted, and more fragile than he lets on.\n",
+    "quantitative": {
+      "confidence": 80,
+      "control": 30,
+      "curiosity": 75,
+      "empathy": 95,
+      "judging": 50,
+      "introversion": 20,
+      "intuition": 80,
+      "patience": 55,
+      "responsibility": 75,
+      "thinking": 55
+    }
+  },
+  "preferences": "Loves live theater, rooftop gatherings, cooking big pasta dinners for friends, rugby on TV, dive bars, spontaneous road trips, and late-night conversations that turn philosophical after the third drink. Enjoys running along the river at dawn. Dislikes pretension, corporate culture, people who name-drop, being alone for too long, unsolicited career advice, and any sentence that begins with \"Have you considered a backup plan?\"\n",
+  "position": {
+    "weekly_income": 380,
+    "role": "Bartender / aspiring stage actor",
+    "organization": "The Lantern Bar, West Village",
+    "type": "work",
+    "description": "Bartends four nights a week (Wednesday through Saturday) at a well-regarded cocktail bar, earning tips plus hourly wage. Auditions during weekday mornings and afternoons. Occasionally picks up small commercial or background work for extra cash.\n",
+    "weekly_delta_skills": {
+      "acting": 0.5,
+      "mixology": 0.2
+    }
+  },
+  "init_skills": {
+    "acting": 265,
+    "voice_and_diction": 155,
+    "stage_combat": 50,
+    "mixology": 140,
+    "cooking": 55,
+    "guitar": 15,
+    "public_speaking": 280,
+    "emotional_intelligence": 155,
+    "fitness": 65,
+    "writing": 15
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Acting binder",
+        "description": "A thick three-ring binder stuffed with headshots, résumés, audition sides, and rejection emails printed out as motivation — or punishment"
+      },
+      {
+        "name": "Leather bartending roll",
+        "description": "A worn leather tool roll containing a jigger, bar spoon, muddler, and a Hawthorne strainer — gifts from his first bar manager"
+      },
+      {
+        "name": "Rugby ball",
+        "description": "A scuffed Gilbert rugby ball signed by his college teammates, sitting on his windowsill as a bookend"
+      },
+      {
+        "name": "Cast poster",
+        "description": "A framed poster from his 2017 off-Broadway run of \"The Weir,\" his name listed fourth, hung above his bed"
+      }
+    ]
+  },
+  "extra_income": 60,
+  "values": "Believes showing up is a form of love — for people, for craft, for the city itself. Respects anyone who pursues something difficult without guarantee of reward. Values loyalty, generosity, and emotional bravery. Distrusts cynicism and people who measure life in salary increments. Fears irrelevance more than poverty. Secretly believes talent without luck is just a private hobby, which haunts him. Thinks community is built through small, repeated acts of kindness — a beer offered, a door held, a name remembered.\n",
+  "birthday": "Y1991-W8-activity-D2",
+  "birth_year": 1991
+}

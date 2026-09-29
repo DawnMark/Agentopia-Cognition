@@ -1,0 +1,91 @@
+{
+  "name": "Harold Bennett",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" with a broad-shouldered, slightly thickened frame at around 195 lbs, Harold registers as average (~40%) with a worn, salt-of-the-earth quality — deep-set gray-blue eyes framed by early crow's feet, a square jaw perpetually shadowed with two days of stubble, a once-sharp haircut now growing out into a nondescript sandy-brown that grays prematurely at the temples. His nose is straight, his brow heavy, his mouth set in a neutral line that rarely commits to a full smile. His hands are large and capable, nails trimmed short, a faded tan line on his left ring finger. He dresses in plain, functional layers — dark crew-neck sweaters, khakis or clean jeans, a navy Carhartt jacket, sturdy leather boots that have seen better days. Everything fits well but nothing stands out; he looks like a man who once dressed for an office and has simplified by subtraction rather than style. He carries a battered leather messenger bag that still holds a company ID badge he hasn't thrown away. He gives the impression of a steady, reserved man navigating an unwanted chapter — someone whose posture still holds residual authority but whose eyes betray fatigue and a bruised, private dignity suggesting recent loss and quiet recalibration.\n",
+  "brief_introduction": "Harold is a former mid-level project manager at a tech firm who was laid off in January 2020 during a restructuring. He now works as a cashier at a Greenwich Village supermarket to cover rent while quietly searching for a new corporate position. He lives alone on the second floor of Bremer Apartment, where he has resided since 2016. Proud, self-reliant, and struggling with the shame of professional downfall, Harold keeps mostly to himself but is slowly being drawn into the building's community through small, reluctant acts of connection.\n",
+  "talents": {
+    "qualitative": "Born in Scranton, Pennsylvania to a machinist father and a school secretary mother, Harold was the first in his family to attend college. He earned a business degree from Penn State on partial scholarship, graduating in 2007 just before the financial crisis. He clawed his way into a New York tech firm by 2012, eventually becoming a project manager overseeing a team of twelve. He was methodical, dependable, the person who kept timelines on track and budgets under control. His layoff in January 2020 came without warning — a reorganization email, a thirty-minute meeting, a cardboard box. He took the supermarket job within two weeks because he couldn't stand the idea of missing rent. He has not told his parents he was laid off. He calls them every Sunday and implies things are fine. He is quietly good with his hands — he fixes things around the building without being asked, a habit inherited from his father. He reads history books and biographies obsessively, finding comfort in other people's struggles.\n",
+    "quantitative": {
+      "beauty": 60,
+      "communication": 75,
+      "creativity": 40,
+      "health": 70,
+      "honesty": 80,
+      "integrity": 90,
+      "intelligence": 70,
+      "leadership": 80,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Harold moved into Bremer Apartment's second floor in 2016 when he was promoted and could finally afford a one-bedroom in the Village. For four years, he was the building's most invisible tenant — polite nods in the hallway, nothing more. He was briefly engaged in 2017 to a woman named Claire who worked in finance; she ended it in 2018 when she relocated to London, and he did not follow. He kept the apartment, kept the routine, kept his head down. When the layoff came, something cracked. He stopped sleeping well. He started going to the rooftop at odd hours — 2 a.m., 4 a.m. — staring at the skyline, trying to figure out what he was supposed to do next. That's where he began running into Leo, another insomniac. They don't talk much, but there's a mutual recognition. Harold frequents the corner coffee shop most mornings before his early shift, where Juniper has become a quiet, consistent presence. He fixes things — a stuck window for a neighbor, a leaking pipe he reported before management did. He is applying to jobs every evening after his shift but has received only two callbacks in three months. His savings are dwindling. He has $2,800 left. He is terrified not of poverty but of becoming someone his father would pity.\n",
+  "conflicts": "His professional identity was the foundation of his self-worth, and it has been ripped away; he cannot bring himself to tell his aging parents the truth about his layoff, maintaining a weekly fiction that corrodes him; the supermarket job pays rent but erodes his pride daily; he is isolated by choice but lonely by circumstance; he sees younger tenants in the building chasing dreams and feels a bitter mix of admiration and envy; he is beginning to wonder whether the corporate ladder he spent a decade climbing ever led anywhere worth reaching.\n",
+  "core_motivation": "To rebuild a life he can respect — not necessarily the one he had, but one that lets him look in the mirror without flinching. Beneath this, he wants to feel needed again, to matter to someone or something beyond a timesheet. He is slowly, reluctantly discovering that the connections forming in this building may be more sustaining than any job title ever was.\n",
+  "personality_traits": {
+    "qualitative": "Harold is an ISTJ — disciplined, private, duty-driven, and deeply uncomfortable with vulnerability. He processes emotion internally, often converting sadness into productivity or silence. He is reliable to a fault, the kind of man who will fix your shelf and refuse your thanks. His humor is dry and infrequent, which makes it land harder when it appears. He has a stubborn streak that manifests as self-reliance pushed past the point of reason — he will eat canned soup for a week before asking anyone for help. He respects competence and effort over talent. He is more empathetic than he appears but shows it through action rather than words. His current crisis is forcing him to confront the emotional rigidity that has kept him safe but also kept him alone.\n",
+    "quantitative": {
+      "confidence": 35,
+      "control": 70,
+      "curiosity": 55,
+      "empathy": 80,
+      "judging": 75,
+      "introversion": 85,
+      "intuition": 50,
+      "patience": 85,
+      "responsibility": 95,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes fixing things with his hands, reading history and biographies, black coffee, early mornings, orderly spaces, the rooftop at night when it's empty, watching the city from above, straightforward conversation, people who show up when they say they will; dislikes small talk, pity, unsolicited advice, performative positivity, social media, asking for help, the fluorescent lighting of the supermarket, people who waste other people's time, being called \"buddy\" by his twenty-two-year-old shift manager.\n",
+  "position": {
+    "weekly_income": 380,
+    "role": "Supermarket cashier (formerly project manager)",
+    "organization": "Morton's Market, Greenwich Village",
+    "type": "work",
+    "description": "Full-time cashier at a neighborhood supermarket, working the early morning shift (6 a.m. to 2 p.m.) six days a week. He also spends evenings applying for project management and operations positions. Previously earned $85,000/year as a project manager at a mid-size tech firm.\n",
+    "weekly_delta_skills": {
+      "customer_service": 0.5,
+      "resilience": 0.5
+    }
+  },
+  "init_skills": {
+    "project_management": 130,
+    "data_analysis": 100,
+    "budgeting": 225,
+    "team_leadership": 130,
+    "technical_writing": 50,
+    "basic_repair_and_maintenance": 135,
+    "cooking": 20,
+    "guitar": 0,
+    "customer_service": 90,
+    "job_interviewing": 75
+  },
+  "init_assets": {
+    "deposit": 2800,
+    "possessions": [
+      {
+        "name": "Work laptop (personal)",
+        "description": "A 2018 Dell XPS 15, well-maintained, used nightly for job applications and resume editing. Still has his old company's VPN client installed, which he hasn't uninstalled out of irrational hope."
+      },
+      {
+        "name": "Tool kit",
+        "description": "A sturdy Stanley tool kit inherited from his father — hammer, wrenches, screwdrivers, pliers, a level. He keeps it under the kitchen sink and uses it more than any other possession."
+      },
+      {
+        "name": "Engagement ring",
+        "description": "A modest diamond ring in a blue velvet box, tucked in the back of his sock drawer. He never returned it and can't bring himself to sell it."
+      },
+      {
+        "name": "History book collection",
+        "description": "Two shelves of well-thumbed hardcovers — biographies of Lincoln, Grant, Eisenhower, and a dog-eared copy of \"The Power Broker\" by Robert Caro that he's read three times."
+      },
+      {
+        "name": "Carhartt jacket",
+        "description": "A navy Carhartt Detroit jacket, six years old, broken in perfectly. The most reliable thing in his life."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that a person's worth is measured by what they do, not what they say — by showing up, keeping promises, and doing the work in front of them without complaint. Respects resilience, humility, and quiet competence. Distrusts charm and grand gestures. Holds honesty as sacred but is currently violating his own principle by lying to his parents, which eats at him. Fears irrelevance more than hardship. Believes that self-pity is a luxury he cannot afford. Is beginning — reluctantly, uncertainly — to wonder whether accepting help might be a form of strength rather than weakness.\n",
+  "birthday": "Y1985-W6-activity-D3",
+  "birth_year": 1985
+}

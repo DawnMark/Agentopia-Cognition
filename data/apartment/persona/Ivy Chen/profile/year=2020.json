@@ -1,0 +1,81 @@
+{
+  "name": "Ivy Chen",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'4\" and weighing around 115 lbs, Ivy has a fair (~20%) attractiveness with a quiet, understated elegance. Her face is oval with high cheekbones, a small pointed chin, and dark almond-shaped eyes that hold a serious, searching quality. Her straight black hair falls just past her shoulders, usually half-pinned back with a tortoiseshell clip. Her skin is pale with faint under-eye shadows from late nights. She has long, strong hands — a pianist's hands — with short, clean nails and subtle joint calluses from years at the keys. She dresses in muted earth tones: cream knit sweaters, olive corduroy trousers, canvas sneakers, and a well-worn camel coat that's slightly too large. She carries a worn leather tote stuffed with scores, making her look like she's carrying something heavier than paper. She gives the impression of a disciplined, quietly intense young woman from a studious immigrant background — someone who measures her words and carries the weight of expectation gracefully but not easily.\n",
+  "brief_introduction": "Ivy is a 24-year-old second-year graduate student in piano performance at NYU Steinhardt, living alone in a small fourth-floor studio at Bremer Apartment. She is the daughter of Taiwanese immigrants who run a dry-cleaning shop in Flushing, Queens. She struggles between honoring her parents' sacrifices and pursuing a career in music that offers little financial certainty.\n",
+  "talents": {
+    "qualitative": "Born in Flushing, Queens, to parents who emigrated from Taipei in 1990. Her father runs a dry-cleaning business; her mother does the shop's alterations and bookkeeping. She started piano at five — her mother's insistence — and never left it. She heard Lang Lang perform Chopin at Carnegie Hall at twelve on a school trip and wept in the balcony. She earned a full scholarship for her undergraduate degree in piano performance at SUNY Purchase and is now on partial scholarship at NYU Steinhardt. She has perfect pitch, strong sight-reading ability, and a deeply lyrical playing style that her professors praise but say lacks competitive drive. She supplements her income by teaching private piano lessons to children on the Upper West Side and performing at private events and memorial services. She is deeply self-critical and compares herself constantly to conservatory-trained peers who had Steinway grands at home while she practiced on a sixty-key keyboard in the back of her parents' shop.\n",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 55,
+      "creativity": 75,
+      "health": 55,
+      "honesty": 90,
+      "integrity": 95,
+      "intelligence": 80,
+      "leadership": 50,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Ivy moved into Bremer Apartment in August 2019 for its proximity to NYU and its relatively affordable rent. She practices piano at a practice room on campus during the day and on a weighted 88-key digital keyboard in her apartment with headphones after 9 PM. She met Leo on the rooftop in October 2019 — she had gone up to escape a frustrating practice session and found him playing guitar. They began an informal routine of playing together on warmer nights, trading melodies without much conversation at first, then gradually talking between songs. She considers him the closest thing she has to a musical confidant in the building. She visits the corner coffee shop most mornings, where she writes practice journals and annotates scores. She has a complicated relationship with her parents: she loves them deeply and sends part of her teaching income home each month, but she has never told them that her scholarship doesn't cover living expenses and that she sometimes skips meals to make rent. In February 2020 she was passed over for a solo in the spring showcase, which sent her into a quiet spiral of self-doubt she hasn't shared with anyone. She is reserved socially but deeply loyal once trust is established.\n",
+  "conflicts": "Torn between the artistic life she's chosen and the financial stability her parents sacrificed everything to give her access to; passed over for the spring solo, shaking her confidence in whether she's good enough; sends money home while barely making rent herself, creating unsustainable financial pressure; finds it difficult to open up emotionally, which isolates her even when she craves connection; senses a growing closeness with Leo but is wary of complicating the one uncomplicated relationship she has.\n",
+  "core_motivation": "To prove — to herself more than anyone — that her parents' sacrifices were not wasted, that choosing music was not selfish, and that she belongs on a stage. Underneath that, she simply wants permission to want what she wants without guilt.\n",
+  "personality_traits": {
+    "qualitative": "Ivy is an INFJ — reserved, idealistic, and deeply feeling beneath a composed exterior. She processes emotions internally and often appears calmer than she is. She is disciplined to the point of rigidity, holding herself to standards she would never impose on others. She is empathetic and perceptive, often noticing what people don't say. She has a dry, subtle humor that emerges only with people she trusts. She avoids conflict not out of weakness but out of a learned habit of keeping the peace — a survival skill from growing up translating between her parents and the English-speaking world. She is generous with her time and attention but rarely asks for help herself.\n",
+    "quantitative": {
+      "confidence": 50,
+      "control": 80,
+      "curiosity": 75,
+      "empathy": 90,
+      "judging": 75,
+      "introversion": 85,
+      "intuition": 95,
+      "patience": 80,
+      "responsibility": 95,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: early mornings, black coffee, handwritten letters, Bach's Goldberg Variations, rooftop silence, used bookstores, cooking Taiwanese food when she's homesick, listening to other people play, rain against windows. Dislikes: self-promotion, networking events, being asked \"but what's your backup plan,\" wasting food, people who play loud music in libraries and cafes without headphones, people who treat art as a hobby rather than a discipline.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Graduate student / Private piano instructor",
+    "organization": "NYU Steinhardt School of Culture, Education, and Human Performance",
+    "type": "non-work",
+    "description": "Second-year MFA candidate in piano performance; teaches four private piano students on the Upper West Side on weekends and two weekday afternoons.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "piano_performance": 240,
+    "music_theory": 240,
+    "sight_reading": 240,
+    "teaching_music": 70,
+    "mandarin_chinese": 190,
+    "cooking": 70,
+    "budgeting": 80
+  },
+  "init_assets": {
+    "deposit": 600,
+    "possessions": [
+      {
+        "name": "Weighted digital keyboard",
+        "description": "An 88-key Roland weighted keyboard she bought used for $600 with teaching income; used for apartment practice with headphones after 9 PM, the touch response tuned to match the Steinways in the practice rooms on campus."
+      },
+      {
+        "name": "Score collection",
+        "description": "Two milk crates of annotated sheet music — Chopin, Schubert, Ravel, Prokofiev — with pencil notes in a mix of English and Mandarin, some pages soft from being turned thousands of times."
+      },
+      {
+        "name": "Laptop",
+        "description": "A five-year-old MacBook Air with a cracked corner and a sticker of a cartoon piano on the lid; she uses it for coursework, recording practice sessions, and video calls with her parents every Sunday."
+      },
+      {
+        "name": "Thermos",
+        "description": "A dented stainless-steel thermos her mother gave her when she moved out, always filled with tea or hot water, carried everywhere like a talisman."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that art requires sacrifice and that the sacrifice must be freely chosen to mean anything. Respects discipline, humility, and quiet persistence. Values family loyalty above almost everything, even when it conflicts with her own needs. Distrusts people who perform passion without substance. Fears becoming a burden to her parents more than she fears failure itself. Believes that piano is a conversation, not a performance — and that the best musicians are the best listeners. Secretly worries that devotion and talent are not the same thing, and that she may have only one.\n",
+  "birthday": "Y1996-W7-activity-D3",
+  "birth_year": 1996
+}

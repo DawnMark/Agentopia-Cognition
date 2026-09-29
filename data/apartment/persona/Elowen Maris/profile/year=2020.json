@@ -1,0 +1,90 @@
+{
+  "name": "Elowen Maris",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" with a slender, narrow-shouldered frame weighing around 120 lbs, Elowen has a fair (~20%), understated beauty — the kind that reveals itself slowly. Her face is oval with high cheekbones, a scattering of faint freckles across a slightly upturned nose, and large grey-green eyes set beneath straight, dark brows. Her auburn hair, usually loosely braided or tucked behind her ears, reaches past her collarbones and catches copper tones in afternoon light. She dresses in muted earth tones — oversized linen shirts, corduroy trousers, worn leather boots — with an aesthetic somewhere between collegiate and coastal New England. Her hands are often ink-smudged, and she carries a canvas tote perpetually stuffed with paperbacks. She moves quietly, as though accustomed to not disturbing anyone. She gives the impression of someone deeply thoughtful, possibly melancholic, well-read, and from a modest, rural background — someone more comfortable observing the world than performing in it.",
+  "brief_introduction": "Elowen is a 25-year-old MFA candidate in fiction at NYU, working part-time at a used bookstore in the Village. She moved to New York from a fishing town on the Maine coast two years ago and still feels like an outsider in the city. She lives alone in a small studio on the fourth floor of Bremer Apartment, writing a novel about a family unraveling in a coastal community — drawing heavily and guiltily from her own life. She is quietly intense, fiercely private, and achingly lonely in a way she'd never admit.",
+  "talents": {
+    "qualitative": "Elowen grew up in Harpswell, Maine, the eldest daughter of a lobsterman father and a school librarian mother. The family was close-knit but financially strained. Her younger brother, Jonah, dropped out of high school and works on the boats; her parents' marriage frayed under economic pressure and her father's drinking. Elowen was always the bookish one — the girl who read under a flashlight, who won the county essay prize three years running, who earned a full scholarship to the University of Maine. She graduated summa cum laude in English, then was accepted into NYU's MFA program with a teaching fellowship. She writes with a slow, luminous precision that her professors admire but that makes her agonizingly unproductive. She's deeply empathetic, absorbing other people's emotions like a sponge, which enriches her fiction but exhausts her socially. She struggles with imposter syndrome and a persistent guilt about leaving Maine — about becoming someone her family can't quite recognize.",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 60,
+      "creativity": 90,
+      "health": 55,
+      "honesty": 95,
+      "integrity": 100,
+      "intelligence": 90,
+      "leadership": 30,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Elowen moved into Bremer Apartment in fall 2018. Her studio on the fourth floor is small — a desk pushed against the window, books stacked on every surface, a secondhand record player she bought at a Brooklyn flea market. She teaches freshman composition at NYU twice a week and works Thursday through Sunday at Marginalia Books, a cramped used bookstore on Bleecker Street. Her MFA thesis — a novel-in-progress — has stalled at 140 pages. The story mirrors her own family's quiet dissolution, and every chapter forces her to revisit memories she hasn't processed. She spends evenings at the corner coffee shop writing longhand in Moleskine notebooks, or on the rooftop reading when the weather allows. She called her mother every Sunday until six months ago, when a fight about her father's drinking created a silence neither has broken. She drinks too much tea, sleeps too little, and has a habit of befriending people slowly then caring about them with startling depth. She's been in New York two years and still sometimes stands on the rooftop looking north, wondering if the life she left behind is the one she was supposed to live.",
+  "conflicts": "Her novel is stalled because writing honestly about her family feels like betrayal, but writing dishonestly feels like failure. She carries guilt about leaving Maine and her brother behind. Her mother's silence is a wound she doesn't know how to heal. She's lonely but terrified of vulnerability — she lets people get close to a point, then retreats. She worries her literary ambitions are selfish, that she's turning real pain into material for her own advancement. Her fellowship runs out after next year, and she has no financial safety net.",
+  "core_motivation": "To finish her novel and prove — to herself, to her family, to the ghost of every teacher who believed in her — that leaving home was worth something. To find a way to be honest in her writing without destroying the people she loves. To build a life in New York that feels like it genuinely belongs to her, not like an elaborate performance of someone she's pretending to be.",
+  "personality_traits": {
+    "qualitative": "Elowen is an INFP — introspective, idealistic, deeply feeling. She processes the world through emotion and narrative, always constructing stories to make sense of experience. She's gentle and warm once trust is established, but guarded with strangers — not cold, just careful. She has a dry, self-deprecating humor that surfaces unexpectedly. She's highly principled but not judgmental; she extends to others a grace she rarely grants herself. She tends toward perfectionism in her writing and self-neglect in her daily life — she'll skip meals while revising a paragraph. She's courageous in quiet ways: she left everything familiar to pursue something uncertain, and she keeps showing up to the blank page even when it terrifies her.",
+    "quantitative": {
+      "confidence": 50,
+      "control": 60,
+      "curiosity": 100,
+      "empathy": 95,
+      "judging": 45,
+      "introversion": 100,
+      "intuition": 100,
+      "patience": 75,
+      "responsibility": 70,
+      "thinking": 70
+    }
+  },
+  "preferences": "Loves: handwritten letters, tide pools, used bookstores, rainy mornings, strong black tea, literary fiction (Marilynne Robinson, Elizabeth Strout, James Baldwin), folk music, the smell of old paper, cooking simple soups, walking alone through the city at dusk, listening to people's stories, the rooftop at night. Dislikes: loud crowds, performative sincerity, being rushed, small talk that never deepens, waste and excess, being asked 'what's your novel about' at parties, the sound of her own recorded voice, dishonesty dressed as politeness.",
+  "position": {
+    "weekly_income": 280,
+    "role": "MFA candidate / Teaching fellow / Part-time bookseller",
+    "organization": "NYU Creative Writing MFA / Marginalia Books",
+    "type": "work",
+    "description": "Elowen teaches two sections of freshman composition at NYU as part of her fellowship and works four shifts a week at Marginalia Books on Bleecker Street. Between the fellowship stipend and the bookstore wages, she barely covers rent and essentials.",
+    "weekly_delta_skills": {
+      "creative_writing": 0.3,
+      "teaching": 0.1,
+      "literary_analysis": 0.2
+    }
+  },
+  "init_skills": {
+    "creative_writing": 200,
+    "literary_analysis": 250,
+    "teaching": 35,
+    "editing": 250,
+    "cooking": 90,
+    "public_speaking": 30,
+    "social_media": 30,
+    "research": 235
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Olivetti Lettera 32 typewriter",
+        "description": "A pale-green portable typewriter from the 1960s, found at a yard sale in Portland. She uses it for first drafts because the mechanical resistance slows her down and makes her choose words more carefully."
+      },
+      {
+        "name": "Moleskine notebooks (stack of twelve)",
+        "description": "Filled with handwritten fragments, character sketches, overheard dialogue, and occasional pressed wildflowers from Maine tucked between pages."
+      },
+      {
+        "name": "Secondhand record player and vinyl collection",
+        "description": "A refurbished Audio-Technica turntable and about forty records — mostly folk, jazz, and classical. Joni Mitchell, Nick Drake, Bill Evans, Yo-Yo Ma."
+      },
+      {
+        "name": "Well-worn copy of 'Housekeeping' by Marilynne Robinson",
+        "description": "Spine cracked, margins dense with pencil notes. Her mother gave it to her when she left for college. It's the most important object she owns."
+      },
+      {
+        "name": "Canvas tote bag",
+        "description": "Faded green, from the Harpswell Public Library. Always contains at least two books, a pen, and a crumpled receipt."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that stories are how people survive — that literature is not a luxury but a form of bearing witness. Values honesty above almost everything, even when it's costly. Respects quiet courage, emotional authenticity, and people who do unglamorous work with care. Distrusts ambition that comes at the expense of compassion. Fears becoming someone who exploits the people she loves for art. Fears mediocrity almost as much. Finds meaning in small, specific moments — a sentence that finally works, a conversation that reaches genuine depth, light falling a certain way through a window. Believes that leaving home was necessary but not yet justified — that justification must be earned through the quality of what she makes and who she becomes.",
+  "birthday": "Y1995-W6-activity-D3",
+  "birth_year": 1995
+}

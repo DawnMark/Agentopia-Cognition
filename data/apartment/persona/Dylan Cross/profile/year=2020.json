@@ -1,0 +1,83 @@
+{
+  "name": "Dylan Cross",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" and a solid 210 lbs of packed, functional muscle, Dylan registers as attractive (~10%) in a blunt, utilitarian way — less magazine model, more the guy you'd want pulling you from a burning building. His face is square-jawed and sun-roughened, with a twice-broken nose that zigzags subtly leftward, deep-set hazel eyes beneath a heavy brow, and a permanent five-o'clock shadow that darkens his tan jawline. A faded pink burn scar crawls from his left collarbone up the side of his neck, usually half-hidden by a crew-neck shirt. His dirty-blond hair is buzzed tight on the sides, slightly longer on top, perpetually damp from a recent shower or workout. His hands are calloused, knuckles scarred, forearms roped with veins. He favors plain gray or black athletic wear — compression shirts, joggers, battered running shoes — and carries a gym bag the way other men carry briefcases. His posture is military-straight, movements economical and deliberate. He gives the impression of someone built for emergencies — calm, physically imposing, quietly dependable — with an emotional interior kept under the same tight discipline as his body.\n",
+  "brief_introduction": "Dylan is a FDNY firefighter stationed at a ladder company in the West Village. He moved into Bremer Apartment's fourth floor in 2017. Nearly all his free time is consumed by training — CrossFit, Olympic lifting, stair runs in full gear, calisthenics on the rooftop. Beneath the iron discipline is a man still processing a line-of-duty death he witnessed in 2019 and an estranged relationship with his alcoholic father back in Scranton.\n",
+  "talents": {
+    "qualitative": "Born in Scranton, Pennsylvania to a steelworker father and a nurse mother who divorced when he was twelve. His father's drinking worsened after the divorce; Dylan and his younger sister Carly were raised primarily by their mother. He played football in high school — good enough for a partial scholarship to a state college but not good enough to go further. After two aimless years studying criminal justice, he dropped out and enlisted as a volunteer firefighter in Scranton, then moved to New York at twenty-four to join FDNY. The structure of firehouse life gave him the family stability he never had growing up. In October 2019, his partner Marcus Delano died during a warehouse fire in Brooklyn when a floor collapsed. Dylan was ten feet behind him. He hasn't spoken to a therapist about it. Instead, he trains — harder, longer, more obsessively — as though the next set of deadlifts might outrun the guilt of surviving.\n",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 50,
+      "creativity": 15,
+      "health": 100,
+      "honesty": 80,
+      "integrity": 100,
+      "intelligence": 55,
+      "leadership": 85,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Dylan lives alone in a sparse fourth-floor one-bedroom. The apartment is almost monastic — a pull-up bar bolted into the bedroom doorframe, a weight rack in the corner, a foam roller on the floor, a single framed photo of his firehouse crew on the nightstand. He cooks simple high-protein meals in bulk on Sundays. He discovered the rooftop in his first summer and uses it for burpees and jump-rope at dawn, which is how he first met Leo — who was still up there playing guitar from the night before. They developed an odd-hours camaraderie. He knows Dr. Thaddeus from hallway encounters and occasional rooftop evenings; the old man once compared firefighters to deep-sea explorers, and Dylan found himself oddly moved. He's friendly with Megan at the coffee shop, where he orders black coffee and egg whites every morning after his shift. He doesn't talk about Marcus. He doesn't talk about his father. He talks about sets, reps, shift schedules, and the weather. In early 2020, his sister Carly has asked him to come home because their father is sick. He hasn't answered her calls in two weeks.\n",
+  "conflicts": "Haunted by Marcus Delano's death and uses physical training as avoidance rather than healing; estranged from his alcoholic father who is now seriously ill, forcing a reckoning he's spent years avoiding; emotionally closed-off, unable to form deep relationships because vulnerability feels like weakness; fears that beneath the discipline he's just his father — one bad day away from falling apart.\n",
+  "core_motivation": "To be the person who never lets anyone down — on the fireground or off it. Beneath that, to prove he is fundamentally different from his father. And deeper still, to find a way to grieve Marcus without the grief dismantling the controlled life he has built.\n",
+  "personality_traits": {
+    "qualitative": "Dylan is an ISTJ — dutiful, structured, loyal to a fault. He expresses care through action rather than words: carrying groceries for neighbors, fixing a leaky faucet without being asked, standing silently beside someone who is hurting. He is stoic to the point of self-harm, bottling emotions until they leak out as irritability or insomnia. He respects routine, hierarchy, and earned trust. He is uncomfortable with ambiguity, emotionally inarticulate, and deeply suspicious of anything that feels like self-pity. His humor is dry and infrequent but surprisingly sharp when it surfaces.\n",
+    "quantitative": {
+      "confidence": 75,
+      "control": 100,
+      "curiosity": 50,
+      "empathy": 65,
+      "judging": 80,
+      "introversion": 75,
+      "intuition": 50,
+      "patience": 70,
+      "responsibility": 95,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes early mornings, heavy deadlifts, black coffee, steak, dog-earing workout logs, action movies watched alone, the rooftop at dawn, firehouse cooking, quiet companionship, cold weather running; dislikes loud bars, people who complain without acting, unsolicited advice, talking about feelings, his father's voicemails, being idle, hospitals, the smell of smoke outside of work context.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Firefighter",
+    "organization": "FDNY Ladder 5, West Village",
+    "type": "work",
+    "description": "Full-time FDNY firefighter, four years on the job, rotating 24-hour shifts",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "firefighting_and_rescue": 120,
+    "physical_fitness": 300,
+    "emergency_medical_response": 145,
+    "mechanical_repair": 90,
+    "cooking": 90,
+    "driving_heavy_vehicles": 285,
+    "guitar": 5,
+    "public_speaking": 15,
+    "emotional_regulation": 25
+  },
+  "init_assets": {
+    "deposit": 4800,
+    "possessions": [
+      {
+        "name": "Home gym equipment",
+        "description": "A squat rack, Olympic barbell, 400 lbs of bumper plates, kettlebells ranging 16–48 kg, a pull-up bar, and a rower — all crammed into one corner of his living room like a miniature fire-station gym"
+      },
+      {
+        "name": "Marcus's helmet shield",
+        "description": "A blackened FDNY helmet shield, number 27, recovered from the Brooklyn warehouse collapse — kept in his nightstand drawer wrapped in a clean bandana"
+      },
+      {
+        "name": "Pickup truck",
+        "description": "A 2012 Ford F-150 in faded blue, street-parked, used mainly for weekend drives to nowhere and occasional gear hauling"
+      },
+      {
+        "name": "Firefighter turnout gear (personal items)",
+        "description": "Broken-in leather fire boots, personalized gloves, and a battered Cairns helmet with Ladder 5 decals — stored at the firehouse but maintained obsessively"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that character is what you do when no one is watching. Holds physical toughness and reliability as cardinal virtues. Respects anyone who shows up and does the work — blue-collar or white-collar, doesn't matter. Distrusts people who talk about themselves too much. Fears becoming his father more than he fears fire. Believes love is something you prove through consistency, not words — which conveniently lets him avoid ever saying what he feels. Thinks grief is private. Suspects that asking for help is the bravest thing a person can do, but cannot bring himself to do it.\n",
+  "birthday": "Y1990-W9-activity-D5",
+  "birth_year": 1990
+}

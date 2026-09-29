@@ -1,0 +1,96 @@
+{
+  "name": "Caius Ferraro",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'1\" with a lean, angular frame around 165 lbs, Caius cuts an attractive (~10%) figure — sharp Mediterranean bone structure, deep-set dark brown eyes shadowed by heavy brows, an aquiline nose slightly crooked from a childhood fall, olive skin that tans easily, and thick black hair he wears pushed back and slightly too long at the collar. His hands are large and calloused at the fingertips from years of guitar and piano. He dresses in muted earth tones — worn leather jackets, dark linen shirts, boots that have seen rain — with an effortless, slightly brooding European aesthetic. A thin scar bisects his left eyebrow. He moves with an unhurried, deliberate grace, and his default expression is one of quiet, watchful attention. He gives the impression of a romantic, solitary artist — someone cultured, emotionally private, and carrying some unspoken weight beneath his composure.\n",
+  "brief_introduction": "Caius is a freelance musician and composer who moved into Bremer Apartment's fifth floor two years ago after burning bridges with his family in Philadelphia. Talented but inconsistent with ambition, he earns a living scoring short films, playing weekend sets at a jazz bar in the West Village, and giving private piano lessons. He is warm and generous in social settings but retreats into isolation when his inner life becomes turbulent. He is slowly learning to let people in.\n",
+  "talents": {
+    "qualitative": "Born to a second-generation Italian-American family in Philadelphia — his father a restaurant owner, his mother a church choir director. Music was the household language; Caius played piano from age five and picked up guitar at twelve. He attended Temple University on a partial music scholarship, studying composition and jazz performance. After graduating he moved to Brooklyn, then Manhattan, chasing session work and creative freedom. A bitter falling-out with his father over his refusal to take over the family restaurant severed most family ties. His mother calls on holidays; his younger sister Lucia texts occasionally. He carries deep guilt about leaving but cannot bring himself to go back. He channels grief and longing into his compositions, which are often melancholic and lush. He is well-read for a non-academic, having absorbed literature through friendships with writers. He drinks moderately but smokes when stressed. He values loyalty fiercely, having felt its absence.\n",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 70,
+      "creativity": 90,
+      "health": 80,
+      "honesty": 70,
+      "integrity": 70,
+      "intelligence": 75,
+      "leadership": 55,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Caius moved into 5B at Bremer Apartment in early 2018 after subletting in Brooklyn for three years. The apartment is small — a studio with a upright piano wedged against the exposed brick wall, manuscripts and vinyl records covering every surface. He scores independent short films, a niche that pays unevenly; some months he earns well, others he scrapes by on piano lessons and weekend gigs at The Half Note, a jazz bar on Bleecker Street. He practices late, though he's disciplined about keeping volume down after a neighbor complaint his first month. The rooftop became his refuge — summer nights he brings his acoustic guitar up and plays quietly, which is how he first met Elowen, who was writing there. They developed an easy creative kinship. He also frequents the corner coffee shop most mornings, where he and Ryan fell into a routine of sharing a table and talking about nothing important, which suits them both. Caius has not spoken to his father in over two years. The guilt surfaces in insomnia and restless pacing. He recently received a commission to score a feature-length documentary — the biggest opportunity of his career — and the pressure is making him withdraw.\n",
+  "conflicts": "Estranged from his father and carrying unresolved guilt about abandoning the family restaurant and, by extension, his family's expectations. Struggling to balance financial instability with artistic integrity — tempted by commercial work he finds soulless. The documentary commission excites and terrifies him; he fears he'll sabotage it through self-doubt. He wants intimacy but pulls away when relationships deepen, a pattern he recognizes but cannot easily break. He worries he is becoming his father — proud, stubborn, and unable to apologize first.\n",
+  "core_motivation": "To create music that is emotionally honest and lasting, to prove — mostly to himself — that leaving his family's path was not selfish but necessary. Beneath that, he longs for reconciliation with his father and a sense of belonging he lost when he left Philadelphia.\n",
+  "personality_traits": {
+    "qualitative": "Caius is an INFP — idealistic, introspective, and deeply feeling beneath a composed exterior. He is generous with his time and attention when engaged but can disappear into himself for days when overwhelmed. He listens more than he speaks, and when he does speak, his words are considered and often poetic. He has a dry, self-deprecating humor that disarms people. He is fiercely loyal to the few people he lets close but slow to trust. Conflict makes him withdraw rather than fight. He romanticizes the past and sometimes struggles to live in the present. He is warm but melancholic — the kind of person who makes a room feel safe and a little sad at the same time.\n",
+    "quantitative": {
+      "confidence": 50,
+      "control": 60,
+      "curiosity": 80,
+      "empathy": 100,
+      "judging": 30,
+      "introversion": 85,
+      "intuition": 90,
+      "patience": 80,
+      "responsibility": 65,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: playing piano alone late at night, rooftop evenings with a beer and his guitar, vinyl records (especially Bill Evans, Nick Drake, Radiohead), handwritten letters, cooking Italian food from memory, long walks through the Village at dusk, old black-and-white films, the smell of coffee shops in the morning, meaningful conversations with few people. Dislikes: superficial networking, loud crowded bars, being asked about his family, commercial jingles (though he's written a few for rent money), people who treat art as content, being rushed, phone calls from unknown numbers, unsolicited advice about his career.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Freelance musician and composer",
+    "organization": "Self-employed / The Half Note Jazz Bar (weekend sets)",
+    "type": "work",
+    "description": "Composes scores for independent films, plays weekend jazz sets at The Half Note on Bleecker Street, and gives private piano lessons to three regular students in the neighborhood. Income fluctuates significantly; the documentary commission will pay well if completed on time.\n",
+    "weekly_delta_skills": {
+      "composition": 0.5,
+      "jazz_performance": 0.3,
+      "film_scoring": 0.5
+    }
+  },
+  "init_skills": {
+    "piano": 200,
+    "guitar": 250,
+    "composition": 260,
+    "jazz_improvisation": 255,
+    "music_theory": 265,
+    "film_scoring": 90,
+    "singing": 50,
+    "cooking": 40,
+    "music_production_software": 55,
+    "teaching": 85
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Upright piano",
+        "description": "A 1970s Yamaha U1 bought secondhand when he moved in; slightly out of tune in the upper register but rich-toned and beloved"
+      },
+      {
+        "name": "Acoustic guitar",
+        "description": "A Martin 000-15M with a crack in the body he repaired himself; warm, intimate sound he prefers for rooftop playing"
+      },
+      {
+        "name": "Vinyl collection",
+        "description": "Around 200 records accumulated over a decade, housed in milk crates along the wall — heavy on jazz, folk, and post-rock"
+      },
+      {
+        "name": "Recording equipment",
+        "description": "A modest home setup — a condenser mic, audio interface, studio headphones, and a secondhand MacBook Pro running Logic Pro"
+      },
+      {
+        "name": "Leather journal",
+        "description": "A worn Moleskine filled with musical notation, lyric fragments, and occasional sketches — he's on his seventh one"
+      },
+      {
+        "name": "His mother's rosary",
+        "description": "Given to him when he left Philadelphia; he doesn't pray but keeps it on the piano"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that art must come from emotional truth or it is worthless. Values loyalty, sincerity, and the courage to be vulnerable. Respects people who pursue difficult paths without guarantees. Distrusts wealth used as a substitute for effort or connection. Fears becoming someone who abandoned his family for a dream he never fully realized. Admires quiet persistence over loud ambition. Believes reconciliation is possible but struggles to initiate it. Holds that the people you share thin walls with can become as important as blood — a belief Bremer Apartment is slowly teaching him.\n",
+  "birthday": "Y1991-W4-activity-D5",
+  "birth_year": 1991
+}

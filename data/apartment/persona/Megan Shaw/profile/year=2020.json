@@ -1,0 +1,86 @@
+{
+  "name": "Megan Shaw",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" with a lean, runner's frame at around 130 lbs, Megan is attractive (~10%) in a windswept, unpolished way — high cheekbones dusted with freckles, wide-set hazel eyes that shift between green and amber depending on the light, a slightly crooked nose from a childhood fall, and thick auburn hair she usually twists into a hasty bun held by a pencil or ballpoint pen. Her hands are always ink-stained, nails clipped short and practical. She dresses in layered neutrals — oversized cardigans over plain tees, worn jeans, scuffed white sneakers — with the one indulgence of a vintage men's wristwatch she never takes off. Her posture is alert, slightly forward-leaning, as though perpetually about to stand up and object. She gives the impression of someone fiercely intelligent and quietly stubborn, a person who listens more carefully than she lets on — likely educated, possibly argumentative, and carrying a private weight she has learned to disguise with dry humor.",
+  "brief_introduction": "Megan is a 25-year-old second-year law student at NYU who bartends weekend shifts at the corner coffee shop to cover rent. She moved into Bremer Apartment eighteen months ago, fleeing a toxic family situation in upstate New York. Outwardly composed and sardonic, she masks a deep fear of repeating her parents' patterns of emotional manipulation. She's become a quiet anchor for several residents — the person who remembers your coffee order, notices when you look wrecked, and slides you a free pastry without making it a thing.",
+  "talents": {
+    "qualitative": "Raised in Syracuse by a charming, alcoholic father and a mother who compensated with rigid control, Megan learned early to read rooms and arbitrate conflict. She earned a full scholarship to SUNY Geneseo for political science, graduated summa cum laude, then worked two years as a paralegal at a small immigration firm in Brooklyn before starting at NYU Law. She has a near-photographic memory for text, excels at oral argument, and writes with surgical precision. Her emotional intelligence is high but selectively deployed — she can dismantle someone's argument while appearing sympathetic, a skill she both values and distrusts in herself. She runs four mornings a week along the Hudson, partly for health, partly because movement is the only thing that quiets her anxiety.",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 90,
+      "creativity": 75,
+      "health": 85,
+      "honesty": 75,
+      "integrity": 90,
+      "intelligence": 95,
+      "leadership": 80,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Megan left Syracuse at eighteen and never looked back. Her father's drinking escalated after she left; her mother sends guilt-laden voicemails she listens to once, then deletes. She has a younger brother, Tyler, still in Syracuse, whom she sends money to monthly. The paralegal years showed her the system's cracks — families separated by paperwork, asylum seekers lost in bureaucracy — and radicalized her toward immigration law. At NYU she's near the top of her class but struggles with imposter syndrome, convinced the scholarship committee made an error. She moved to Bremer because it was cheap and close to campus. The coffee shop job started as necessity; it became therapy. Behind the counter she can be useful without being vulnerable. She knows most residents' names, orders, and rough emotional weather. She's developed a quiet friendship with Juniper, who sits in the shop for hours. She has a complicated, slow-burning tension with Rowan — they argue about books and politics at the coffee shop, circling each other intellectually, neither willing to concede ground or admit attraction. She sleeps five hours a night, survives on espresso and determination, and keeps a battered copy of 'The Fire Next Time' on her nightstand. Her vintage watch belonged to her paternal grandfather, the one family member she respected — he died when she was sixteen, and she considers that loss the hinge point of her adolescence.",
+  "conflicts": "Terrified of inheriting her father's self-destructive tendencies; feels guilty about leaving her brother behind in a dysfunctional household; struggles to accept help or show vulnerability, which sabotages deeper relationships; intellectually drawn to Rowan but fears emotional entanglement will derail her carefully structured life; imposter syndrome threatens her academic confidence despite objective success; chronically overworked and sleep-deprived, heading toward burnout she refuses to acknowledge. She is currently assigned as student counsel to a real asylum case at NYU's immigration clinic — a nineteen-year-old Guatemalan woman fleeing a violent household, facing deportation back to the same circumstances Megan herself once fled in a different key. The parallel is too close. Megan has not told her supervisor how much the case is getting under her skin. She has started making errors she doesn't make.",
+  "core_motivation": "To build a life entirely unlike the one she came from — stable, purposeful, and free of manipulation. To become an immigration attorney who makes the system less cruel. To prove, mostly to herself, that origin is not destiny.",
+  "personality_traits": {
+    "qualitative": "Megan is an INTJ — strategic, self-contained, and intensely principled. She leads with logic but feels deeply beneath the surface. Her humor is dry and self-deprecating, deployed as armor. She is fiercely loyal to the few people she lets in, but the letting-in process is slow and guarded. She despises dishonesty and performative emotion, having grown up surrounded by both. She can be rigid, judgmental, and reluctant to forgive — including herself. When stressed she withdraws rather than lashes out, which makes her struggles invisible to most people around her.",
+    "quantitative": {
+      "confidence": 55,
+      "control": 70,
+      "curiosity": 90,
+      "empathy": 75,
+      "judging": 95,
+      "introversion": 75,
+      "intuition": 90,
+      "patience": 60,
+      "responsibility": 90,
+      "thinking": 90
+    }
+  },
+  "preferences": "Likes: long runs along the river at dawn, black coffee, used bookstores, constitutional law, rooftop conversations after midnight, cooking simple pasta dishes alone, handwritten notes, thunderstorms, people who say what they mean. Dislikes: manipulative behavior, loud displays of wealth, unsolicited advice, her mother's voicemails, being pitied, group selfies, small talk that goes nowhere, the smell of whiskey.",
+  "position": {
+    "weekly_income": 280,
+    "role": "Law student / weekend barista",
+    "organization": "NYU School of Law (2L) / Corner Coffee Shop",
+    "type": "non-work",
+    "description": "Full-time second-year law student at NYU with a merit scholarship covering tuition; works Friday-through-Sunday shifts at the corner coffee shop in Bremer Apartment's ground floor to cover rent and living expenses.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "legal_research": 235,
+    "oral_argument": 165,
+    "legal_writing": 215,
+    "barista_service": 90,
+    "conflict_mediation": 55,
+    "running_fitness": 40,
+    "cooking": 20,
+    "Spanish": 55
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Grandfather's watch",
+        "description": "A 1960s Timex Marlin with a scratched crystal and a replaced leather band; she winds it every morning as a ritual."
+      },
+      {
+        "name": "Law textbooks and case binders",
+        "description": "A small library's worth of annotated casebooks, color-coded binders, and sticky-noted supplements covering her apartment desk and half the floor."
+      },
+      {
+        "name": "Running shoes",
+        "description": "A pair of well-worn Brooks Ghost 12s, mud-stained from Hudson River path runs, due for replacement but still holding up."
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2018 MacBook Air bought refurbished, with a cracked corner and a 'Nevertheless, she persisted' sticker on the lid."
+      },
+      {
+        "name": "Copy of 'The Fire Next Time'",
+        "description": "A paperback so annotated in pencil that her handwriting nearly outnumbers Baldwin's. Spine cracked, pages soft."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes the law should protect the powerless, not serve the powerful. Holds honesty and self-reliance as cardinal virtues, sometimes to the point of isolation. Admires people who endure quietly and distrust those who perform their suffering. Fears becoming her father — charismatic but corrosive — and fears becoming her mother — controlled but controlling. Respects earned competence over inherited advantage. Thinks love is real but dangerous, and that trust must be built in actions, never in words alone.",
+  "birthday": "Y1995-W9-activity-D3",
+  "birth_year": 1995
+}

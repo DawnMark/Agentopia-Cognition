@@ -1,0 +1,89 @@
+{
+  "name": "Oliver Brennan",
+  "gender": "Male",
+  "appearance_and_impression": "Oliver is 6'1\", 175 lbs, with a fair (~20%) look that registers as quietly pleasant rather than immediately striking. He has a long, narrow face with a strong Nordic jaw, pale blue eyes set deep beneath a prominent brow, and sandy blond hair he keeps trimmed short on the sides but slightly unruly on top. His nose is slightly crooked from a childhood baseball accident. His complexion is light, prone to flushing at the ears when embarrassed. He has broad, bony shoulders and a lean runner's frame — all angles and ligaments, no bulk. He favors muted earth tones: olive henleys, dark chinos, scuffed brown boots, a navy field jacket. He wears wire-rimmed glasses when coding and contacts otherwise. His hands are large, always fidgeting — tapping a table edge, spinning a pen. He gives the impression of a thoughtful, slightly guarded Midwestern transplant — polite, self-contained, someone who listens more than he speaks and notices more than he lets on.",
+  "brief_introduction": "Oliver is a backend software engineer who moved into Bremer Apartment in 2016. He's reliable, observant, and quietly restless — financially comfortable but creatively unfulfilled, wrestling with whether the safe life he built is the one he actually wants.",
+  "talents": {
+    "qualitative": "Born in Cedar Rapids, Iowa, to a civil engineer father and a schoolteacher mother. Grew up in a stable, pragmatic household where hard work was valued and artistic pursuits were considered hobbies, not careers. Showed early aptitude for math and logic; built his first website at twelve. Studied computer science at the University of Wisconsin-Madison, graduated 2010. Moved to New York in 2014 after working at a startup in Chicago that folded. Landed a steady job at a mid-size fintech company called Ledgerline. He's good at his work but not passionate about it. In college he wrote short stories and submitted them to literary magazines — received a few acceptances, many rejections. He stopped writing in 2015 after a long dry spell and a breakup with his college girlfriend, Megan, who told him he was 'emotionally unavailable.' He hasn't written fiction since, though he keeps a private journal. Plays chess seriously — rated around 1800 USCF. Runs three mornings a week along the Hudson. Has a quiet, self-deprecating humor that surfaces one-on-one but vanishes in groups.",
+    "quantitative": {
+      "beauty": 60,
+      "communication": 45,
+      "creativity": 85,
+      "health": 85,
+      "honesty": 95,
+      "integrity": 90,
+      "intelligence": 90,
+      "leadership": 40,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Oliver moved into a small one-bedroom on the fourth floor of Bremer Apartment in September 2016, drawn by the affordable rent and the Village's literary history. He keeps his apartment spare and orderly — a standing desk, a wall-mounted bookshelf organized by genre, a single pothos plant named Gerald. He met Simon in late 2016 when Simon knocked on his door to borrow a phone charger; they discovered a mutual love of chess and now play weekly in Simon's apartment, sharing whiskey and long silences. He knows Katie from the building hallway and Chez Lulu — he eats there alone on Fridays, always ordering the same croque monsieur. He admires her energy from a careful distance, aware that his quiet nature makes him nearly invisible to someone like her. He connected with Adrian over a borrowed copy of August Wilson's 'Fences' left in the laundry room in 2018; they've since developed a friendship built on late-night conversations about storytelling. Oliver once confessed to Adrian, after two beers on the rooftop, that he used to write fiction and missed it. Adrian encouraged him to start again. Oliver hasn't yet, but he bought a new notebook. In early 2020, his company shifted to remote work, and the isolation has amplified his restlessness. He is the person in the building people forget to invite but always welcome when he shows up.",
+  "conflicts": "Torn between the financial security of his tech career and the suppressed desire to write — feels he abandoned something essential about himself; still affected by his ex-girlfriend Megan's accusation that he's emotionally unavailable, which he fears is true; struggles with social anxiety in groups, making him feel peripheral in a building full of vivid personalities; worries that at thirty-one he's already settled into a life of comfortable numbness and that courage has a shelf life he's exceeded.",
+  "core_motivation": "To find the nerve to create something honest — a story, a life, a connection — before pragmatism calcifies into permanent resignation. To prove that being quiet doesn't mean being empty. To let someone in without the guarantee that it won't hurt.",
+  "personality_traits": {
+    "qualitative": "Oliver is an INTP — analytical, introspective, quietly imaginative. He processes the world through observation and pattern recognition, often understanding social dynamics better than he can participate in them. He is deeply loyal once trust is established but slow to open up. He deflects vulnerability with dry humor. He craves depth over breadth in relationships and finds small talk physically exhausting. His patience is enormous for problems and ideas but thin for pretense and superficiality. He is risk-averse in life but risk-hungry in thought — his mind goes to bold, strange places his body never follows. He tends toward self-criticism and can spiral into inaction when perfectionism meets self-doubt.",
+    "quantitative": {
+      "confidence": 50,
+      "control": 80,
+      "curiosity": 100,
+      "empathy": 70,
+      "judging": 30,
+      "introversion": 95,
+      "intuition": 85,
+      "patience": 70,
+      "responsibility": 100,
+      "thinking": 95
+    }
+  },
+  "preferences": "Likes: chess, long solo runs, reading literary fiction and science writing, cooking simple meals from scratch, listening to jazz and ambient music, rainy afternoons, handwritten notebooks, deep one-on-one conversations, the rooftop at dawn when no one else is there. Dislikes: loud crowded bars, networking events, being put on the spot in meetings, performative enthusiasm, people who never ask questions, motivational platitudes, his own tendency to overthink.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Backend Software Engineer",
+    "organization": "Ledgerline (fintech company, Flatiron District)",
+    "type": "work",
+    "description": "Builds and maintains server-side architecture for a financial technology platform. Works Monday through Friday, increasingly remote since March 2020.",
+    "weekly_delta_skills": {
+      "software_engineering": 0.5,
+      "writing": 0.1
+    }
+  },
+  "init_skills": {
+    "software_engineering": 185,
+    "creative_writing": 50,
+    "chess": 275,
+    "cooking": 85,
+    "running": 65,
+    "data_analysis": 130,
+    "public_speaking": 15,
+    "music_appreciation": 50
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "Standing desk and dual-monitor setup",
+        "description": "A motorized standing desk with two 27-inch monitors, mechanical keyboard, and a cable management system that borders on obsessive."
+      },
+      {
+        "name": "Chess set",
+        "description": "A weighted Staunton set in rosewood and maple, a gift from his father when he won the Iowa state junior championship at fifteen."
+      },
+      {
+        "name": "Notebook collection",
+        "description": "A shelf of eleven Leuchtturm notebooks — ten filled with journal entries and story fragments from 2008 to 2015, one brand new and still blank."
+      },
+      {
+        "name": "Running shoes",
+        "description": "Two pairs of Brooks Ghost trainers, rotated carefully, logged with mileage in a spreadsheet."
+      },
+      {
+        "name": "Pothos plant (Gerald)",
+        "description": "A trailing pothos in a ceramic pot on the windowsill, now four feet long, the longest relationship Oliver has maintained in New York."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that integrity matters more than ambition and that most people talk too much and listen too little. Respects craftsmanship in any form — a well-written sentence, a well-built table, a well-played endgame. Values honesty even when it's uncomfortable, though he often fails to apply this standard to himself, hiding behind silence instead of speaking difficult truths. Fears mediocrity — not in the grand sense, but the small, daily kind: the slow erosion of curiosity, the quiet acceptance of a life never fully examined. Believes that the people who matter most are the ones who make you want to be braver than you are.",
+  "birthday": "Y1988-W3-activity-D3",
+  "birth_year": 1988
+}

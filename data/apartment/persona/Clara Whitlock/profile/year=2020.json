@@ -1,0 +1,90 @@
+{
+  "name": "Clara Whitlock",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" with a lean, wiry frame (128 lbs), Clara has a heart-shaped face framed by shoulder-length auburn hair she usually pins back with a tortoiseshell clip. Her complexion is fair with a scattering of freckles across her nose and cheekbones, and her hazel eyes shift between green and brown depending on the light. She falls in the attractive range (~10%) but in an approachable, unintimidating way — more \"the pretty girl at the bodega\" than magazine-cover glamour. Her aesthetic leans practical-chic: vintage denim jackets, canvas sneakers, a well-chosen lip color that doubles as a product sample. Her hands are always slightly busy — adjusting a sleeve, organizing something in her tote bag. There's a faint scar along her left thumb from a box-cutter incident at work. She carries herself with a brisk, no-nonsense energy that suggests someone who has held multiple jobs simultaneously for most of her adult life and has learned to move efficiently through the world. Her smile is quick and commercially warm, the kind that puts strangers at ease but rarely reaches full depth.\n",
+  "brief_introduction": "Clara is a 27-year-old cinema employee and unlicensed cosmetics reseller who lives alone in a small studio on the third floor of Bremer Apartment. She grew up in a working-class family in Scranton, Pennsylvania, moved to New York at 19 chasing a half-formed dream of becoming a makeup artist for film, and gradually settled into the practical reality of paying rent. She's resourceful, socially adept on the surface, and quietly lonely underneath.\n",
+  "talents": {
+    "qualitative": "Born to a postal worker father and a home health aide mother in Scranton, PA. She was the middle of three children — an older brother who joined the Marines and a younger sister still in community college. Clara was always the \"responsible one,\" babysitting neighborhood kids at 13, working at a drugstore at 16. She has a genuine eye for color and texture — she can match a foundation shade from memory and once dreamed of working in film makeup. She completed a cosmetology certificate but couldn't afford the unpaid internships that lead to industry jobs. She's street-smart, good with numbers, and an excellent saleswoman who reads people's insecurities and desires quickly. She distrusts institutions and believes self-reliance is the only reliable safety net.\n",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 85,
+      "creativity": 70,
+      "health": 55,
+      "honesty": 60,
+      "integrity": 55,
+      "intelligence": 70,
+      "leadership": 60,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Clara moved to New York in 2012 with $800 and a cosmetology certificate. She worked retail, catering, and coat-check jobs before landing a position at the Waverly, a single-screen indie cinema three blocks from Bremer Apartment, in 2016. She sells tickets, runs the concession stand, and sometimes operates the projector. The pay is barely enough, so in 2018 she began buying Korean and indie cosmetics at wholesale prices and reselling them through Instagram and word of mouth — to neighbors, coworkers, and friends of friends. She's careful never to make false claims but she's persuasive. She moved into Bremer in 2017 after answering a Craigslist ad. She had a serious boyfriend — a line cook named Derek — who moved to Chicago in 2019; the breakup was mutual but left her hollowed out. She fills the silence with productivity. She knows the building's rhythms better than almost anyone because her shifts vary — she sees who comes home late, who leaves early, who orders delivery every night. She sends money home to her mother monthly. She dreams of launching a legitimate beauty brand but lacks the capital and connections. The COVID shutdowns of early 2020 have put the cinema's future in jeopardy, making her cosmetics hustle suddenly feel less like a side gig and more like a lifeline.\n",
+  "conflicts": "The cinema is on the verge of closing due to the pandemic, threatening her primary income. Her cosmetics business exists in a legal grey area — no business license, no sales tax collection — and she worries about consequences if it grows too visible. She wants to pursue makeup artistry professionally but feels she's aged out of entry-level opportunities. She's lonely after Derek's departure but too proud and too busy to admit she needs companionship. She sends money home but resents that her family rarely acknowledges the sacrifice.\n",
+  "core_motivation": "To achieve financial stability on her own terms, eventually launch a legitimate beauty brand, and prove — mostly to herself — that leaving Scranton was worth everything it cost her.\n",
+  "personality_traits": {
+    "qualitative": "Clara is an ESTJ pragmatist with a warm exterior and a calculating interior — not in a cruel way, but in the manner of someone who learned early that sentiment doesn't pay rent. She's industrious, organized, and socially fluent without being emotionally transparent. She uses humor as deflection and generosity as a form of control — if she helps you first, you can't pity her. She's loyal to people who earn it, skeptical of people who haven't, and quietly competitive. Under stress, she becomes rigid and snappish. She craves creative expression but distrusts it as impractical. She's more tender than she allows herself to appear.\n",
+    "quantitative": {
+      "confidence": 70,
+      "control": 85,
+      "curiosity": 55,
+      "empathy": 80,
+      "judging": 85,
+      "introversion": 35,
+      "intuition": 65,
+      "patience": 60,
+      "responsibility": 90,
+      "thinking": 80
+    }
+  },
+  "preferences": "Likes: early morning coffee at the corner shop before her shift, organizing her cosmetics inventory, watching old films alone in the empty cinema after hours, rooftop evenings with a beer and no obligations, giving people makeovers, budgeting spreadsheets, thrift shopping, sending care packages to her younger sister. Dislikes: being pitied, wealthy people who romanticize poverty, unpunctuality, being asked \"what's your real dream,\" unsolicited career advice, the smell of burnt popcorn (occupational hazard), silence in her apartment late at night.\n",
+  "position": {
+    "weekly_income": 340,
+    "role": "Cinema front-of-house employee / cosmetics reseller",
+    "organization": "The Waverly Cinema (Greenwich Village)",
+    "type": "work",
+    "description": "Works 35 hours per week at the Waverly — ticketing, concessions, occasional projection — at $12/hr. Supplements income by reselling cosmetics through Instagram and in-person sales, averaging $100/week in profit.\n",
+    "weekly_delta_skills": {
+      "sales": 0.5,
+      "makeup_artistry": 0.3
+    }
+  },
+  "init_skills": {
+    "sales": 185,
+    "makeup_artistry": 235,
+    "cosmetology": 190,
+    "customer_service": 160,
+    "social_media_marketing": 85,
+    "projector_operation": 45,
+    "bookkeeping": 55,
+    "cooking": 25,
+    "photography": 30
+  },
+  "init_assets": {
+    "deposit": 1800,
+    "possessions": [
+      {
+        "name": "Cosmetics inventory",
+        "description": "Three plastic bins under her bed filled with neatly labeled Korean skincare, indie lipsticks, and sample-size serums — her wholesale stock, worth roughly $600 at retail"
+      },
+      {
+        "name": "Cosmetology kit",
+        "description": "A professional-grade rolling makeup case she bought secondhand in 2013, containing brushes, palettes, and tools she maintains meticulously despite rarely using them for their intended purpose"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2016 MacBook Air with a cracked corner and 47 open Chrome tabs, used for inventory tracking, Instagram posts, and late-night browsing of beauty brand incubator programs she hasn't applied to"
+      },
+      {
+        "name": "Vintage film posters",
+        "description": "Four framed one-sheets — Breathless, In the Mood for Love, Moonlight, and Paris Texas — salvaged from the cinema's storage closet with her manager's permission"
+      },
+      {
+        "name": "Phone",
+        "description": "iPhone SE, slightly outdated but functional, with a ring light clip she attaches for product photography"
+      }
+    ]
+  },
+  "extra_income": 100,
+  "values": "Believes that self-reliance is the highest virtue and that nobody owes you anything — you earn what you get. Respects hustle, resourcefulness, and people who show up consistently. Admires creativity but only trusts it when paired with discipline. Dislikes entitlement, performative vulnerability, and people who mistake privilege for talent. Fears becoming stuck — geographically, financially, emotionally. Quietly believes that beauty, both cosmetic and aesthetic, is a legitimate form of power and self-expression, not vanity. Her deepest fear is that she'll spend her whole life preparing for a life she never actually lives.\n",
+  "birthday": "Y1993-W10-activity-D5",
+  "birth_year": 1993
+}

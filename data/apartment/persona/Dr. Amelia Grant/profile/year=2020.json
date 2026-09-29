@@ -1,0 +1,86 @@
+{
+  "name": "Dr. Amelia Grant",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" with a sturdy, soft-shouldered frame at around 155 lbs, Amelia registers as fair (~20%) in a warm, approachable way — round hazel eyes behind tortoiseshell glasses that magnify her attentiveness, a broad nose with a slight bump at the bridge, full cheeks that dimple when she smiles, and dark brown skin with a few premature lines around her mouth that suggest more smiling than frowning. Her black hair is natural, kept in neat medium-length locs usually gathered in a low bun for work, though on weekends they fall freely past her shoulders. Her hands are notably elegant — long-fingered and steady, the hands of someone accustomed to delicate, consequential work. She dresses in practical comfort: well-fitted dark slacks, soft knit sweaters in earth tones, sensible leather flats, a camel-colored wool coat in winter, and always a silver locket at her throat. She carries a worn leather tote instead of a purse, heavy with medical journals and a thermos. She moves with unhurried steadiness, holding doors, making eye contact, remembering names. She gives the impression of a seasoned medical professional whose gentleness is not softness but earned composure — someone who has witnessed both the best and worst moments of human life and chosen tenderness as a deliberate response.",
+  "brief_introduction": "Amelia is the building's quiet anchor — a fourth-floor OB-GYN at Lenox Hill Hospital who radiates steady warmth, mentors younger tenants without being asked, and carries private grief from a personal loss she rarely discusses.",
+  "talents": {
+    "qualitative": "Born in Baltimore to a nurse mother and a postal worker father, both Jamaican immigrants. The eldest of three siblings, she was the first in her family to attend college, earning a full scholarship to Johns Hopkins and completing her medical residency at Columbia. She has always been the person others come to — in her family, her friend group, her workplace. She is technically excellent as a physician and deeply empathetic as a listener, though she sometimes neglects her own emotional needs in favor of caring for others. She plays piano badly but joyfully, cooks Jamaican food from memory, and reads voraciously — novels, not just journals. She volunteers one Saturday a month at a free women's clinic in the Bronx.",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 95,
+      "creativity": 65,
+      "health": 75,
+      "honesty": 95,
+      "integrity": 90,
+      "intelligence": 90,
+      "leadership": 80,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Amelia moved into Bremer Apartment in March 2017 after her divorce from Marcus, a cardiothoracic surgeon she'd married in 2012. The marriage ended not with drama but with slow, mutual erosion — he wanted to relocate to Houston for a department chair position; she couldn't leave New York, where her patients and her free clinic depended on her. They parted respectfully, but the loneliness afterward surprised her. In 2015, during the marriage, Amelia experienced a stillbirth at thirty-two weeks — a daughter she had already named Josephine. The loss reshaped her practice; she became the doctor who sits with patients longer, who calls after hours, who never rushes a frightened first-time mother. She chose Bremer for its quietness and stayed for its people. Her fourth-floor one-bedroom is tidy and warm: potted herbs on the windowsill, a bookshelf organized by color, framed photos of her parents and siblings, a small upright piano she found on Craigslist. She discovered the rooftop gatherings in her first summer and became a regular — always bringing homemade rum punch or banana bread. She is beloved in the building without being intrusive. In early 2020, she has been offered a prestigious attending position at Mount Sinai, which would mean leaving Lenox Hill and her established patients. Simultaneously, her younger brother Devon has relapsed into addiction and her mother is begging her to intervene.",
+  "conflicts": "The Mount Sinai offer represents professional recognition she has earned but accepting means abandoning patients who trust her at Lenox Hill and the Bronx clinic; her brother Devon's relapse pulls her back into a caretaking role she has occupied since childhood, draining emotional reserves she needs for herself; she has not fully grieved Josephine and deflects her own pain by caring for others; she is lonely but has convinced herself that romantic love is a luxury she cannot prioritize; she fears that her compassion is partly a coping mechanism — that if she stops being needed, she will have to confront how empty parts of her life actually are.",
+  "core_motivation": "To protect and nurture life in all its fragility — not only in the delivery room but in every relationship she touches. Beneath this, she wants to prove that the sacrifices her immigrant parents made were worth it, and she wants to believe that giving endlessly does not have to mean running empty. She longs for someone to care for her the way she cares for everyone else, but she does not know how to ask.",
+  "personality_traits": {
+    "qualitative": "Amelia is an ISFJ — the Defender — warm, dutiful, observant, and quietly self-sacrificing. She listens more than she speaks, remembers small details about people, and acts on them without fanfare. She has a dry, understated humor that emerges only when she is comfortable. She is slow to anger but firm when boundaries are crossed. She avoids conflict in her personal life while handling medical crises with calm authority. She can be stubborn in her selflessness, refusing help even when she clearly needs it. Beneath her composure is a deep well of grief and tenderness that she guards carefully.",
+    "quantitative": {
+      "confidence": 75,
+      "control": 85,
+      "curiosity": 55,
+      "empathy": 90,
+      "judging": 85,
+      "introversion": 70,
+      "intuition": 70,
+      "patience": 90,
+      "responsibility": 90,
+      "thinking": 80
+    }
+  },
+  "preferences": "Likes cooking Jamaican recipes for neighbors, reading literary fiction in the coffee shop, rooftop evenings with good conversation, playing piano alone on Sunday mornings, tending her windowsill herbs, long walks through the Village, mentoring younger people, quiet mornings before a shift; dislikes being fussed over, superficial charm without substance, people who treat vulnerability as weakness, hospital politics, being asked when she will remarry, confronting her own grief.",
+  "position": {
+    "weekly_income": 278,
+    "role": "Obstetrician-Gynecologist (Attending Physician)",
+    "organization": "Lenox Hill Hospital, Department of Obstetrics and Gynecology",
+    "type": "work",
+    "description": "Full-time attending OB-GYN at Lenox Hill Hospital with a volunteer shift at a free women's clinic in the Bronx one Saturday per month.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "obstetrics_and_gynecology": 310,
+    "general_medicine": 100,
+    "patient_counseling": 310,
+    "piano": 30,
+    "cooking": 100,
+    "mentoring": 170,
+    "crisis_management": 280,
+    "Spanish_medical": 65
+  },
+  "init_assets": {
+    "deposit": 5560,
+    "possessions": [
+      {
+        "name": "Craigslist upright piano",
+        "description": "A slightly out-of-tune Yamaha upright she found for $200, tucked against the living room wall with sheet music stacked on top."
+      },
+      {
+        "name": "Silver locket",
+        "description": "Contains a tiny photo of her parents on their wedding day; she has worn it every day since her mother gave it to her at her medical school graduation."
+      },
+      {
+        "name": "Medical library",
+        "description": "Two shelves of OB-GYN textbooks and journals alongside three shelves of novels — Toni Morrison, Edwidge Danticat, Zadie Smith, Jamaica Kincaid."
+      },
+      {
+        "name": "Herb garden",
+        "description": "Six terra-cotta pots on the kitchen windowsill: thyme, scotch bonnet, basil, rosemary, mint, and a struggling lemon seedling."
+      },
+      {
+        "name": "Reliable sedan",
+        "description": "A 2015 Honda Civic in dark blue, kept in a monthly garage two blocks away, used mainly for Bronx clinic trips and occasional drives to Baltimore."
+      }
+    ]
+  },
+  "extra_income": 222,
+  "values": "Believes that care is the most radical act a person can perform — that showing up for someone in their most vulnerable moment is sacred work. Respects resilience, humility, and people who build something from nothing, having watched her parents do exactly that. Holds honesty and follow-through as non-negotiable; she would rather hear a painful truth than a comfortable evasion. Distrusts charm deployed without sincerity. Fears becoming so consumed by others' needs that she disappears entirely. Haunted by the loss of Josephine and by the question of whether she will ever allow herself to be mothered rather than always being the mother. Believes that community — not institutions, not money — is what saves people.",
+  "birthday": "Y1982-W7-activity-D2",
+  "birth_year": 1982
+}

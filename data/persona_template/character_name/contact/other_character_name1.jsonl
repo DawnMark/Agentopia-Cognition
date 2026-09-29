@@ -1,0 +1,2 @@
+{"time": "<clock.get_time()>", "from": "this_character", "content": "..."}
+{"time": "<clock.get_time()>", "from": "the_other_character", "content": "..."}

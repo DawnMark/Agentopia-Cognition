@@ -1,0 +1,91 @@
+{
+  "name": "Marta Kovacs",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" and carrying 195 lbs on a broad-hipped, soft-bellied frame, Marta registers as average (~40%) with features that suggest buried prettiness — wide-set slate-blue eyes framed by thick dark lashes, a strong Magyar bone structure with prominent cheekbones and a square chin, full lips she keeps bitten raw, and thick chestnut-brown hair she pulls into a severe bun that accentuates the roundness of her face. Her skin is pale and prone to stress-flushing across the décolletage. She has elegant, surprisingly delicate hands — long fingers, neat oval nails, always ink-smudged or stylus-calloused — that seem to belong to a slimmer woman. She dresses in oversized black sweaters, dark wide-leg trousers, and chunky-soled boots, a uniform designed to obscure rather than flatter, occasionally brightened by a single piece of Hungarian folk jewelry — a silver filigree brooch her grandmother gave her. She moves through spaces with a hurried, head-down gait, arms often crossed over her midsection, as though trying to compress herself into less room. She gives the impression of someone intelligent and guarded — a woman of quiet creative talent who has declared war on her own body and is losing on both sides.\n",
+  "brief_introduction": "Marta is a Hungarian-born freelance graphic designer living alone on the third floor of Bremer Apartment, quietly battling severe body-image anxiety that governs nearly every aspect of her daily life — from the routes she walks to avoid reflective storefronts, to the hours she spends working from home so she doesn't have to be seen.\n",
+  "talents": {
+    "qualitative": "Born in Budapest to a secondary-school teacher mother and a postal worker father, Marta showed early artistic aptitude — winning a national children's illustration prize at age eleven. Her mother, herself a former dancer who never recovered from being told she was \"too big\" for the stage, inadvertently passed her body-consciousness to Marta through a thousand small comments about portions and posture. Marta studied visual communication at Moholy-Nagy University in Budapest, graduating with distinction in 2014. She moved to New York on a cultural exchange visa in 2015, transitioned to freelance graphic design, and secured a green card through employer sponsorship before going independent in 2018. She is technically excellent — proficient in Adobe Suite, Figma, hand-lettering, and illustration — and has a strong client roster of small publishers and indie musicians who value her moody, textured aesthetic. She speaks Hungarian, English, and conversational German. She reads voraciously, cooks elaborate Hungarian comfort food she then agonizes over eating, and has an encyclopedic knowledge of typefaces.\n",
+    "quantitative": {
+      "beauty": 60,
+      "communication": 45,
+      "creativity": 100,
+      "health": 35,
+      "honesty": 80,
+      "integrity": 80,
+      "intelligence": 80,
+      "leadership": 10,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Marta moved into her third-floor one-bedroom in Bremer Apartment in March 2017. The apartment doubles as her studio — one wall is a pinboard collage of typography samples, color swatches, and torn magazine pages; her desk holds a large Wacom tablet and two monitors; the kitchen counter is always dusted with paprika. She works from home almost exclusively, which both enables and worsens her isolation. She discovered the rooftop in her first summer and goes there only at odd hours — very early morning or very late night — to avoid being seen in daylight by too many people. That is how she first encountered Dylan Cross, doing his dawn calisthenics. She expected judgment; instead he gave her a curt nod and said nothing about her body, ever, which made him the safest person in the building. She began timing her rooftop visits to overlap with his. On the third floor she shares a hallway with Ethan Cole and Karen; when Karen works night shifts, Marta sometimes hears Ethan moving around alone and has taken to leaving a plate of pogácsa outside their door. Ethan once left a handwritten thank-you note that she keeps pinned above her desk. She knows Lucian Ardent from the coffee shop — his effortless beauty and tailored clothes trigger a visceral spiral of self-comparison every time she sees him, yet he once sat across from her uninvited, complimented her lettering work visible on her laptop, and asked her to design a personal bookplate for him, paying triple her rate without negotiation. She accepted, and their occasional professional exchanges have become the closest thing she has to a friendship with someone she finds simultaneously kind and excruciating to be near. In early 2020, a former client offered her a full-time art director position at a Brooklyn design studio — a dream job — but it requires daily in-office presence, and the thought of commuting, being seen, eating lunch with coworkers, choosing clothes every morning, has sent her anxiety into overdrive. She has not yet responded to the offer.\n",
+  "conflicts": "Her body-image anxiety has calcified into a cage — she avoids social situations, declines video calls with clients, and has not visited Hungary in three years partly because she cannot face her mother's gaze; her freelance isolation feeds the anxiety cycle but leaving it for the art director role terrifies her; she has been attempting to lose weight through increasingly restrictive eating patterns that leave her exhausted and irritable, undermining the creative energy her work demands; she craves connection but believes she must earn it by becoming smaller first, an impossible prerequisite that guarantees loneliness.\n",
+  "core_motivation": "To feel entitled to take up space — literally and figuratively. She wants to accept the art director job, walk into a room without apologizing for her body, sit on the rooftop in broad daylight with the other tenants, and finish the illustrated memoir about her grandmother's life in post-war Budapest that she has been drafting in secret for two years. Beneath everything, she wants to believe she deserves to be seen before she is thin.\n",
+  "personality_traits": {
+    "qualitative": "Marta is an INFJ — deeply empathic, perfectionistic, and inwardly intense. She feels other people's emotions like weather and absorbs them without filtering, which makes social interaction both rich and draining. She is generous in quiet, indirect ways — leaving food, designing favors for free, remembering details others forget — but struggles to receive generosity because she cannot believe she merits it. Her humor is dry and self-deprecating, often turned against her own body before anyone else can. She is fiercely disciplined in her creative work but chaotic in self-care. She catastrophizes constantly, imagining the worst interpretation of every glance, every silence. Beneath the anxiety is a stubborn core of defiance — she has built a career alone in a foreign city, and some part of her knows she is stronger than her worst thoughts allow.\n",
+    "quantitative": {
+      "confidence": 10,
+      "control": 30,
+      "curiosity": 75,
+      "empathy": 95,
+      "judging": 80,
+      "introversion": 90,
+      "intuition": 95,
+      "patience": 80,
+      "responsibility": 85,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes: hand-lettering late at night with Hungarian folk music playing softly, cooking elaborate meals (even if eating them causes guilt), browsing independent bookstores, the rooftop at dawn when the city is still quiet, typography archives, receiving honest compliments about her work, black coffee with cardamom, the smell of old paper, Ethan's thank-you notes, Dylan's uncomplicated silence. Dislikes: full-length mirrors, fluorescent lighting, being photographed, diet talk from others, crowded subway cars, her mother's voice asking \"have you been watching what you eat?\", people who comment on what's on her plate, the word \"flattering\" used about clothing, pity disguised as concern.\n",
+  "position": {
+    "weekly_income": 417,
+    "role": "Freelance graphic designer",
+    "organization": "Self-employed (Kovacs Design)",
+    "type": "work",
+    "description": "Independent graphic designer specializing in book covers, album art, and brand identity for small publishers and indie musicians. Works from her apartment studio. Consistent client base built through word-of-mouth and Behance portfolio. Recently offered an art director position at a Brooklyn design studio (pending response).\n",
+    "weekly_delta_skills": {
+      "graphic_design": 0.1,
+      "illustration": 0.1
+    }
+  },
+  "init_skills": {
+    "graphic_design": 135,
+    "illustration": 160,
+    "typography": 290,
+    "hand_lettering": 215,
+    "UI_UX_design": 55,
+    "photography": 15,
+    "cooking": 265,
+    "hungarian_language": 290,
+    "english_language": 150,
+    "german_language": 75
+  },
+  "init_assets": {
+    "deposit": 4200,
+    "possessions": [
+      {
+        "name": "Wacom Cintiq 22 tablet",
+        "description": "Her primary work tool, bought refurbished in 2018, screen slightly scratched at the edges but perfectly calibrated"
+      },
+      {
+        "name": "Grandmother's silver filigree brooch",
+        "description": "A delicate Hungarian folk-art piece from the 1950s, the only jewelry she wears, pinned inside her coat like a secret talisman"
+      },
+      {
+        "name": "Illustrated memoir draft",
+        "description": "Forty hand-drawn pages telling her grandmother's story of surviving post-war Budapest, kept in a locked portfolio case under her bed"
+      },
+      {
+        "name": "Paprika tin collection",
+        "description": "Seven tins of Hungarian paprika in varying grades from csípős to édesnemes, shipped biannually from a market in Budapest's Great Hall"
+      },
+      {
+        "name": "Secondhand MacBook Pro",
+        "description": "A 2017 model with a cracked corner and stickers from Budapest design festivals, still her portable work machine"
+      }
+    ]
+  },
+  "extra_income": 83,
+  "values": "Believes that beauty is something you create, not something you are — and yet cannot stop applying the opposite standard to herself. Respects craftsmanship, patience, and anyone who makes something honest with their hands. Holds kindness as the highest virtue and is suspicious of charm because charm has never been available to her. Distrusts the culture of self-optimization — fitness influencers, diet plans, \"glow-up\" narratives — even as she is trapped inside it. Fears being pitied more than being disliked. Believes that her grandmother, who survived a war and raised four children in a two-room flat, would be ashamed of her for being undone by something as trivial as a dress size — and that shame is the deepest wound of all. Wants to believe that the world has room for her exactly as she is, but has not yet found the evidence.\n",
+  "birthday": "Y1991-W6-activity-D6",
+  "birth_year": 1991
+}

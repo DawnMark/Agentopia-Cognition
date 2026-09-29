@@ -1,0 +1,87 @@
+{
+  "name": "Alice Whitfield",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 167 cm at roughly 128 lbs, Alice carries herself with a composed, upright posture that reads as quietly formidable. She falls in the attractive (~10%) range — high cheekbones, clear hazel eyes with flecks of gold, a straight nose, and a sharp jawline that softens when she smiles, which is less often than people expect. Her chestnut hair is usually pulled into a low bun or a neat braid, a few wispy strands escaping by evening. Her style is polished-minimal: tailored wool coats, cream blouses, dark trousers, leather flats — everything clean-lined and deliberate, occasionally punctuated by a single piece of her late grandmother's jewelry, a thin gold chain with a pearl pendant. Her hands are slim, nails trimmed short, always ink-smudged on the right middle finger from underlining case law with fountain pens. She gives the impression of a disciplined, self-possessed young professional — someone raised with expectations, carrying them gracefully but perhaps at a cost, hinting at suppressed warmth beneath an exterior of measured competence.\n",
+  "brief_introduction": "Alice is a second-year law student at NYU living on the fourth floor of Bremer Apartment. She is intellectually rigorous and outwardly composed, but privately wrestling with whether the legal career her family expects is what she actually wants. She finds unexpected solace in the building's rooftop conversations and the coffee shop's ambient noise.\n",
+  "talents": {
+    "qualitative": "Born in Savannah, Georgia to a family of lawyers — her father is a partner at a midsize firm, her mother a retired appellate judge. She grew up debating at dinner tables and learned early that precision with language could win approval. Valedictorian of her high school, undergraduate at Georgetown in political science, then NYU Law on a partial scholarship. She excels at legal writing and oral argument but has recently started questioning the profession's adversarial nature. She tutors undergrads in constitutional law for extra income and occasionally freelances contract review for small startups — which is how she met Leo. She reads poetry in secret and has been journaling since she was twelve, filling Moleskine notebooks she keeps in a locked drawer.\n",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 90,
+      "creativity": 85,
+      "health": 80,
+      "honesty": 70,
+      "integrity": 100,
+      "intelligence": 90,
+      "leadership": 80,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Alice moved into Bremer Apartment in August 2019, choosing it for its proximity to NYU and its rent just barely within her budget. Her first weeks were solitary — library, apartment, sleep. She discovered the corner coffee shop in September and began studying there daily, which is where she first spoke to Paige, who was reading at the next table. They bonded over shared introversion and a mutual love of Virginia Woolf. In late 2019, Leo contacted her through a mutual acquaintance for help reviewing his startup's contractor agreements. They met at the coffee shop, and she was struck by how different he was from the pre-law men she'd grown up around — unguarded, gentle, entirely without pretense. She's done informal legal work for him twice since, never charging full rate. She met Caspian on the rooftop during a January 2020 gathering; he flirted openly and she surprised herself by flirting back, though nothing came of it. She calls her mother every Sunday. Her grandmother died in 2018, and the grief still surfaces without warning. She has begun to wonder whether she could leave law for writing, but the thought terrifies her.\n",
+  "conflicts": "Torn between fulfilling her familys expectations of a legal career and a growing desire to write; feels guilty about her privilege when surrounded by neighbors who struggle financially; developing a quiet affection for Leo that she refuses to examine because she noticed how he looks at Katie; afraid that if she deviates from her plan, she will lose her identity entirely. She is forty thousand words into a legal thriller manuscript — drawn from anonymized real cases — that she writes between midnight and two in the morning after Westlaw goes dark. A literary agent at a small boutique agency, a friend of a former Georgetown professor, has seen the first chapter and asked for the full manuscript. Alice has not sent it yet. She is not sure she has the right to want both: the career her family built her for and the one she been writing toward in secret.\n",
+  "core_motivation": "To find her own definition of a meaningful life — one that honors her intellect without sacrificing her emotional truth — and to learn that vulnerability is not the same as weakness.\n",
+  "personality_traits": {
+    "qualitative": "Alice is an INTJ — strategic, private, and intensely self-aware. She processes emotions internally and often intellectualizes feelings rather than sitting with them. She is loyal but selective, warm once trust is earned, and quietly funny in a dry, understated way. She holds herself to exacting standards and extends the same rigor to others, which can make her seem cold or judgmental on first encounter. Beneath the composure is someone deeply afraid of being ordinary, of disappointing her parents, and of wanting things she cannot rationally justify. She admires courage in others precisely because she struggles to practice it herself.\n",
+    "quantitative": {
+      "confidence": 75,
+      "control": 95,
+      "curiosity": 80,
+      "empathy": 80,
+      "judging": 85,
+      "introversion": 80,
+      "intuition": 100,
+      "patience": 80,
+      "responsibility": 90,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes: fountain pens, constitutional law seminars, black coffee, Virginia Woolf, quiet mornings, rooftop sunsets, handwritten letters, jazz piano, well-constructed arguments, the smell of old books, walking the West Village alone at dusk. Dislikes: small talk without substance, performative wokeness, being interrupted, loud bars, people who confuse confidence with competence, unsolicited career advice, her own indecisiveness, feeling out of control.\n",
+  "position": {
+    "weekly_income": 250,
+    "role": "Law student / freelance contract reviewer / tutor",
+    "organization": "NYU School of Law, Class of 2022",
+    "type": "non-work",
+    "description": "Second-year JD student. Tutors constitutional law to undergrads (~$100/week) and does occasional freelance contract review for small businesses and startups (~$150/week). Supplemented by a partial scholarship and modest parental support for rent.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "legal_writing": 235,
+    "oral_argument": 205,
+    "constitutional_law": 260,
+    "contract_law": 75,
+    "creative_writing": 55,
+    "research": 240,
+    "cooking": 30,
+    "guitar": 10,
+    "coding": 0
+  },
+  "init_assets": {
+    "deposit": 2800,
+    "possessions": [
+      {
+        "name": "Law textbooks and case readers",
+        "description": "Three shelves of annotated casebooks, highlighted in four colors with a system only she understands"
+      },
+      {
+        "name": "Grandmother's pearl necklace",
+        "description": "A thin gold chain with a single pearl pendant, worn almost daily, the clasp repaired twice"
+      },
+      {
+        "name": "Moleskine journals",
+        "description": "Fourteen filled notebooks spanning 2006 to present, kept in a locked desk drawer, containing poetry, reflections, and unsent letters"
+      },
+      {
+        "name": "MacBook Pro",
+        "description": "A 2018 model with a cracked corner from a library table mishap, covered in no stickers because she thinks stickers are clutter"
+      },
+      {
+        "name": "Fountain pen collection",
+        "description": "Five pens — two inherited from her father, three purchased herself — stored in a leather roll case"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes in the power of language to shape justice and truth. Respects discipline, intellectual honesty, and people who choose difficult paths deliberately. Values loyalty expressed through action rather than declaration. Distrusts easy answers and performative emotion. Fears becoming a person who chose safety over meaning. Quietly believes that love should be between equals — intellectually, emotionally — and that settling is its own form of dishonesty. Admires those who create art because she sees it as a form of bravery she hasn't yet claimed for herself.\n",
+  "birthday": "Y1994-W6-activity-D4",
+  "birth_year": 1994
+}

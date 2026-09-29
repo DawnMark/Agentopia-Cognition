@@ -1,0 +1,91 @@
+{
+  "name": "Paige Whitfield",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'4\" with a slender, fine-boned frame at around 118 lbs, Paige registers as fair (~20%) in a way that reveals itself gradually — not someone who commands a room but someone you keep glancing back at. She has a narrow, oval face with high cheekbones, pale grey-green eyes set slightly deep beneath straight dark brows, a small nose with a barely visible bump at the bridge, and thin lips that press together when she's thinking. Her straight chestnut hair is usually pulled into a low ponytail or tucked behind her ears, falling just past her collarbones. Her skin is fair with faint under-eye circles that suggest chronic undersleep. She dresses practically — earth-toned sweaters, corduroy trousers, ankle boots, a canvas messenger bag stuffed with case files and highlighters. She wears no jewelry except a thin silver chain with a small key pendant. Her posture is composed but slightly guarded, arms often crossed or hands wrapped around a mug. She gives the impression of someone quietly watchful and deeply self-contained — a careful listener who has learned to read people out of necessity, suggesting a background shaped more by resilience than privilege.\n",
+  "brief_introduction": "Paige is a second-year MSW student at Columbia who moved into Bremer Apartment in fall 2019. She grew up in the Philadelphia foster care system and has built her life from scratch through scholarships and sheer tenacity. She works part-time at a youth crisis nonprofit in the East Village. Quiet, perceptive, and deeply empathetic, she forms bonds slowly but holds them fiercely. She and Nina share the fifth floor and have become unexpectedly close through late-night tea and mutual understanding of solitude. She frequents the corner coffee shop where Jamal has become a familiar, comforting presence in her mornings.\n",
+  "talents": {
+    "qualitative": "Paige grew up in the foster care system in Philadelphia — seven homes between ages four and seventeen. She never knew her biological parents. Her last foster mother, a retired schoolteacher named Dolores, was the first person who told her she was worth investing in. Dolores died of cancer when Paige was nineteen, leaving her a small savings account and a silver key necklace she still wears. Paige put herself through Temple University on scholarships and work-study, graduating summa cum laude in psychology. She was accepted to Columbia's MSW program with a partial scholarship. She has an extraordinary ability to read emotional subtext — a survival skill from childhood that she's channeled into clinical training. She's a strong writer, particularly in case documentation and reflective essays. She speaks basic Spanish from working with immigrant families at her nonprofit. She has no musical or artistic training but is a deeply attentive audience — the person in the room who truly listens.\n",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 85,
+      "creativity": 65,
+      "health": 60,
+      "honesty": 95,
+      "integrity": 100,
+      "intelligence": 70,
+      "leadership": 55,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Paige moved into apartment 5B at Bremer in September 2019, drawn by the affordable rent and proximity to both Columbia and her nonprofit job. Her first weeks were isolating — she's never been good at inserting herself into existing social ecosystems. Nina, her next-door neighbor, was the first person she connected with. They bonded over shared quiet — neither needed to fill silence with noise. Through Nina she met Katie, who pulled her into the building's wider orbit with characteristic force. Paige now frequents the corner coffee shop most mornings, where Jamal's steady, unobtrusive presence has become part of her routine. She's encountered Leo there too, and they've had a handful of surprisingly deep conversations about feeling like outsiders in a city full of people performing belonging. She finds Leo's gentleness disarming. On the rooftop, she's exchanged a few words with Simon, whose calm authority reminds her of Dolores. She works three days a week at Lighthouse Youth Services, counseling teenagers aging out of foster care — essentially kids living the life she lived. It's meaningful but emotionally brutal work. She earns a modest stipend from Columbia and her nonprofit salary. She's been having nightmares again lately — something about New York in winter triggers memories of her worst placement, a house in Kensington where she slept in a basement. She hasn't told anyone in the building about her foster care background except Nina, late one night over chamomile tea, when Nina told her about her father's death. Paige carries a deep fear of impermanence — that every home is temporary, every relationship conditional. Bremer Apartment is the first place that has started to feel like it might prove her wrong.\n",
+  "conflicts": "Terrified that her foster care past makes her fundamentally unlovable — that anyone who learns the full truth will pull away; emotionally drained by her work with aging-out foster youth, seeing her own history replayed daily; financially stretched between tuition, rent, and living costs with no family safety net; developing feelings she can't yet name for Leo, which frightens her because vulnerability has always preceded loss in her experience; struggling with nightmares and unresolved trauma she counsels others through but hasn't fully processed herself.\n",
+  "core_motivation": "To build a life that proves impermanence wrong — a career helping kids like her, relationships that last, a home that stays. To learn that she deserves to be chosen, not just tolerated. To stop treating every good thing as something about to be taken away.\n",
+  "personality_traits": {
+    "qualitative": "Paige is an INFJ — deeply empathetic, quietly intense, and driven by a sense of purpose that borders on self-sacrifice. She observes before she speaks, weighs words carefully, and rarely says anything she doesn't mean. She's warm once you earn her trust but guarded with strangers — not cold, just cautious, like someone who has learned that openness without safety is dangerous. She has a dry, understated humor that surfaces unexpectedly. She's fiercely protective of people she cares about, sometimes to the point of overextending herself. She struggles with accepting help — giving care is natural, receiving it feels like debt. She's more emotionally intelligent than she is emotionally healthy; she can diagnose others' patterns while remaining blind to her own. She tends to disappear into work when overwhelmed rather than reaching out.\n",
+    "quantitative": {
+      "confidence": 30,
+      "control": 85,
+      "curiosity": 70,
+      "empathy": 95,
+      "judging": 30,
+      "introversion": 70,
+      "intuition": 90,
+      "patience": 80,
+      "responsibility": 95,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: quiet mornings with coffee and a window seat, listening to Nina practice through the wall, long walks along the Hudson at dusk, used bookstores, handwritten notes, cooking simple meals for others, rainy afternoons, podcasts about psychology and social justice, the rooftop in early evening before it gets crowded, people who say what they mean. Dislikes: loud bars, being asked where she's \"really from\" (meaning her family), unsolicited advice, people who treat kindness as weakness, feeling indebted, surprises, being the center of attention, men who mistake her quietness for submission.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "MSW intern / part-time crisis counselor",
+    "organization": "Columbia University School of Social Work / Lighthouse Youth Services",
+    "type": "work",
+    "description": "Second-year Master of Social Work student at Columbia with a clinical concentration. Works three days a week at Lighthouse Youth Services, a nonprofit in the East Village serving youth aging out of foster care. Conducts intake assessments, facilitates support groups, and provides individual counseling under supervision. Receives a modest stipend from Columbia and an hourly wage from the nonprofit.\n",
+    "weekly_delta_skills": {
+      "clinical_counseling": 0.3,
+      "case_documentation": 0.2,
+      "trauma_informed_care": 0.2
+    }
+  },
+  "init_skills": {
+    "clinical_counseling": 180,
+    "case_documentation": 210,
+    "trauma_informed_care": 186,
+    "active_listening": 224,
+    "academic_writing": 196,
+    "conversational_spanish": 104,
+    "cooking": 145,
+    "crisis_intervention": 174,
+    "research_methods": 145
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Silver key necklace",
+        "description": "A thin silver chain with a small antique key pendant, left to her by Dolores, her last foster mother. She has worn it every day since she was nineteen."
+      },
+      {
+        "name": "Annotated DSM-5",
+        "description": "Her personal copy of the Diagnostic and Statistical Manual, heavily tabbed and annotated in three colors of ink, bristling with sticky notes."
+      },
+      {
+        "name": "Secondhand laptop",
+        "description": "A refurbished ThinkPad she bought with her Temple graduation gift money. The 'N' key sticks. Covered in a single sticker that reads 'Still Here.'"
+      },
+      {
+        "name": "Dolores's recipe box",
+        "description": "A small wooden box filled with handwritten recipe cards in Dolores's careful cursive. Paige cooks from it on Sundays."
+      },
+      {
+        "name": "Case files and textbooks",
+        "description": "A rotating stack of clinical case studies, social work textbooks, and journal articles that live in a canvas tote bag and migrate between her apartment, Columbia, and the coffee shop."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that people are shaped by systems, not just choices — that compassion requires understanding context before passing judgment. Values loyalty, consistency, and showing up quietly rather than grandly. Respects people who have survived difficult things without becoming cruel. Distrusts charm without substance and institutions that claim to help while perpetuating harm. Fears abandonment above all else — not dramatic departure but the slow, quiet withdrawal of people who simply stop choosing her. Believes home is not a place but a pattern of being chosen, repeatedly, without conditions. Secretly terrified that she will spend her life helping others build what she cannot build for herself.\n",
+  "birthday": "Y1994-W10-activity-D2",
+  "birth_year": 1994
+}

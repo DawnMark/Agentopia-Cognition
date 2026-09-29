@@ -1,0 +1,85 @@
+{
+  "name": "Elara Straub",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'7\" with a lean, willowy frame at around 125 lbs, Elara falls into the attractive range — high cheekbones, a narrow jaw, deep-set hazel eyes flecked with gold, and long dark auburn hair she usually wears in a loose braid draped over one shoulder. Her fingers are slender and calloused at the tips from years of strings. She favors earth tones — olive linen shirts, worn leather boots, corduroy jackets a size too large — and carries herself with an upright, almost formal posture that softens when she laughs, which is often. A faint scar bisects her left eyebrow from a childhood fall. She gives the impression of someone raised in discipline and warmth — perhaps European, perhaps classical, someone whose quietness is not shyness but trained composure.",
+  "brief_introduction": "A classically trained violinist from Vermont who moved to New York at 22 to break into film and television scoring. Now 27, she lives on the fifth floor of Bremer Apartment, teaches private violin lessons to fund her composing ambitions, and spends late nights layering string arrangements on a secondhand digital audio workstation. She is thoughtful, self-critical, and quietly ambitious, with a tendency to pour herself into other people's creative projects before finishing her own.",
+  "talents": {
+    "qualitative": "Born in Burlington, Vermont to a Swiss-German father (luthier) and an American mother (public school music teacher). Started violin at age four, entered a youth conservatory at eleven, and earned a full scholarship to a New England conservatory at eighteen. Graduated with honors but turned down an orchestra seat in Boston to move to New York, believing she could build a career composing for screen. Her father supported the decision; her mother worried quietly. She has a sharp ear for emotional subtext in music and an intuitive understanding of how sound shapes narrative. Her weakness is self-promotion — she struggles to pitch herself, often undersells her work, and has lost several opportunities to louder, less talented competitors. She supplements income by teaching violin to children and teenagers across the Upper West Side and Village.",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 60,
+      "creativity": 100,
+      "health": 70,
+      "honesty": 75,
+      "integrity": 100,
+      "intelligence": 75,
+      "leadership": 35,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Elara moved into Bremer Apartment in 2017. For the first two years she barely spoke to anyone, practicing late and leaving early for teaching appointments. Her breakthrough moment was scoring a short film that screened at Tribeca in 2019 — it earned no award but caught the attention of a small production company, which gave her freelance cues for a documentary series. The income was irregular and modest. She met Alaric on the rooftop one autumn evening when he was playing a recording of Arvo Pärt on a portable speaker; they ended up talking about silence in music until 2 a.m. Through Alaric she became aware of Nathan's indie game project and, after hearing its placeholder soundtrack, offered to compose original string pieces for it — partly out of genuine interest, partly because she recognized in Nathan's visual work the same emotional vocabulary she tried to capture in sound. She works on Nathan's score for free, telling herself it is portfolio material, though she privately hopes it will become something bigger. She has not told her parents how financially precarious her life is.",
+  "conflicts": "Torn between the security of a steady orchestra or teaching career and the uncertainty of freelance composing; struggles with self-promotion and networking, which New York demands ruthlessly; growing anxiety that she is subsidizing others' art while neglecting her own; feels guilty about worrying her mother yet cannot bring herself to move home; quietly fears that talent alone is not enough.",
+  "core_motivation": "To compose a full original score for a feature film — something that moves strangers in a dark theater the way her father's handmade violins moved her as a child. Secondary to that, she wants financial stability without surrendering creative freedom, and she wants to prove — mostly to herself — that leaving the orchestra path was not a mistake.",
+  "personality_traits": {
+    "qualitative": "Elara is an INFJ — introspective, idealistic, and driven by internal values rather than external validation. She listens more than she speaks, but when she does speak her observations are precise and often disarmingly honest. She is generous with her time and talent, sometimes to her own detriment. She avoids confrontation and tends to internalize stress, which surfaces as insomnia and compulsive practice. She has a dry, understated humor that catches people off guard. She is loyal once trust is established but slow to open up, preferring to observe before committing.",
+    "quantitative": {
+      "confidence": 50,
+      "control": 80,
+      "curiosity": 80,
+      "empathy": 100,
+      "judging": 65,
+      "introversion": 75,
+      "intuition": 100,
+      "patience": 75,
+      "responsibility": 90,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes: early morning walks before the city wakes, handwritten letters, Arvo Pärt and Ryuichi Sakamoto, black tea with honey, old cinema (especially Tarkovsky and Wong Kar-wai), the sound of rain on the fire escape, cooking simple meals from her father's Swiss recipes, rooftop conversations with Alaric, working on Nathan's game score late at night. Dislikes: loud self-promoters, networking events with name tags, being asked 'but what's your real job,' superficial feedback on her music, the smell of subway platforms in August, feeling indebted to anyone.",
+  "position": {
+    "weekly_income": 380,
+    "role": "Freelance composer and private violin instructor",
+    "organization": "Self-employed / Various private clients",
+    "type": "work",
+    "description": "Teaches six to eight private violin lessons per week across Manhattan ($60–80/hour) and takes irregular freelance composing commissions for short films and documentaries. Currently composing the score for Nathan's indie game project on a deferred-payment basis.",
+    "weekly_delta_skills": {
+      "composition": 0.02,
+      "networking": 0.01
+    }
+  },
+  "init_skills": {
+    "violin_performance": 270,
+    "music_composition": 100,
+    "music_theory": 270,
+    "digital_audio_production": 60,
+    "piano": 70,
+    "teaching": 100,
+    "networking_and_self_promotion": 20,
+    "cooking": 90
+  },
+  "init_assets": {
+    "deposit": 2200,
+    "possessions": [
+      {
+        "name": "Violin",
+        "description": "A 2005 handmade violin built by her father — spruce top, maple back, warm and resonant tone. She considers it irreplaceable and keeps it in a hard case lined with burgundy velvet."
+      },
+      {
+        "name": "Digital Audio Workstation setup",
+        "description": "A secondhand MacBook Pro (2016), an Audient iD4 audio interface, AKG K702 headphones, and a copy of Logic Pro. Functional but aging; the laptop fan whirs loudly during large sessions."
+      },
+      {
+        "name": "Sheet music collection",
+        "description": "Two shelves of scores — Bach partitas, Bartók quartets, Debussy, Pärt — many annotated in pencil with her teacher's and her own markings, spines cracked from use."
+      },
+      {
+        "name": "Apartment furnishings",
+        "description": "A narrow fifth-floor studio: a twin bed, a secondhand writing desk facing the window, a music stand, a small bookshelf, and a cast-iron skillet her father gave her when she moved to New York."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that art should serve emotional truth, not commerce, though she is beginning to understand that commerce enables art. Admires discipline, humility, and quiet perseverance; distrusts flashiness and shortcuts. Respects anyone who risks stability for a creative vision — which is partly why she is drawn to both Alaric and Nathan. Fears mediocrity more than poverty. Her deepest anxiety is that she will one day stop composing and accept that she was merely good, not exceptional.",
+  "birthday": "Y1993-W9-activity-D3",
+  "birth_year": 1993
+}

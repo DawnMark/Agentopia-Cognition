@@ -1,0 +1,80 @@
+{
+  "name": "Leo",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'11\" with a lean, slightly slouched frame at around 165 lbs, Leo has an average (~40%) look softened by warm brown eyes behind tortoiseshell glasses. His dark wavy hair is perpetually unkempt, jaw narrow, nose slightly crooked from a childhood fall, hands long-fingered and restless. He favors flannel shirts layered over band tees, worn jeans, and scuffed boots — a Brooklyn-thrift aesthetic that never looks deliberate. A faint coffee stain usually marks his sleeve. He gives the impression of a gentle, cerebral introvert — someone who listens more than he speaks and carries a quiet, bookish melancholy suggesting an artistic soul trapped in practical circumstances.",
+  "brief_introduction": "Leo is a 27-year-old software developer at a small fintech startup who moved to New York from Portland, Oregon three years ago. He lives on the fourth floor of Bremer Apartment and secretly writes folk songs on an old acoustic guitar, though he has never performed for anyone except Katie. He harbors deep, unspoken feelings for her but is terrified of ruining their friendship.",
+  "talents": {
+    "qualitative": "Grew up in a middle-class family in Portland — father a high school math teacher, mother a librarian. Only child. Showed early aptitude for both music and computers. Studied computer science at University of Oregon on scholarship but spent most weekends playing open mics. After graduation, worked two years at a Portland startup before transferring to New York, partly for career growth, partly to escape the suffocating familiarity of home. Moved into Bremer Apartment in 2017. Technically gifted and musically sensitive, but his fear of vulnerability keeps him from pursuing either passion fully.",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 50,
+      "creativity": 85,
+      "health": 65,
+      "honesty": 70,
+      "integrity": 95,
+      "intelligence": 80,
+      "leadership": 35,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Leo arrived in New York expecting reinvention but fell into routine — commute, code, coffee shop, apartment. He discovered the rooftop his first summer and began going there to play guitar alone at night. That's where he met Katie in 2018, who heard him playing from the stairwell and came up uninvited. They became inseparable. He writes songs about her without telling her. Over time the rooftop became a social hub: Ivy Chen began joining him some evenings, the two of them trading melodies without much conversation at first; Lily comes up to write in her notebook while he plays, a companionable silence neither needs to fill; Adrian sometimes brings a guitar of his own. Simon on the fifth floor has become an informal musical mentor — Leo started knocking on his door after hearing jazz through the ceiling. Alice helped him review contractor agreements for the startup twice, never charging full rate. When Leo mentioned the runway problem to Dominic on the rooftop, Dominic emailed him an unsolicited cost-restructuring memo the next morning. His startup is struggling financially in early 2020 and layoffs loom. In January 2020, Katie told him she was leaving — she'd landed a small role in a Los Angeles production and decided to go. He helped her pack. She left without knowing how he felt. He has never been in a serious relationship — two brief flings in college, nothing since. Now, unmoored, he is wrestling with whether to stay in New York at all.\n",
+  "conflicts": "Heartbroken that Katie moved to Los Angeles before he could tell her how he felt; his startup may collapse, threatening his visa-free stability in an expensive city; torn between the safe path of coding and the risky dream of music; struggles with loneliness now that his closest anchor is gone.",
+  "core_motivation": "To find the courage to be vulnerable — to share his music with the world, to stop living as a spectator in his own life, and to grieve Katie's absence honestly instead of burying it in code.",
+  "personality_traits": {
+    "qualitative": "Leo is an INFP — idealistic, introspective, deeply feeling but outwardly reserved. He processes emotions through music and long walks rather than conversation. Loyal to a fault, he would sacrifice his own comfort for someone he cares about without mentioning it. His humor is dry and self-deprecating. He avoids conflict instinctively, which sometimes reads as passivity. He overthinks everything, especially his feelings for Katie, constructing elaborate internal narratives instead of simply speaking. When he does open up, his sincerity is disarming.",
+    "quantitative": {
+      "confidence": 35,
+      "control": 80,
+      "curiosity": 80,
+      "empathy": 95,
+      "judging": 35,
+      "introversion": 95,
+      "intuition": 75,
+      "patience": 85,
+      "responsibility": 80,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: playing guitar on the rooftop at night, the corner coffee shop's drip coffee, rainy afternoons, vinyl records, coding side projects, long walks through the Village, listening to Katie talk about her day. Dislikes: loud crowded bars, small talk, being the center of attention, dishonesty, people who treat service workers poorly, the sound of his own recorded voice.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Software Developer",
+    "organization": "Nimbus Financial Technologies",
+    "type": "work",
+    "description": "Full-stack developer at a small fintech startup in Flatiron District, building payment processing tools. Team of twelve. Company running low on runway.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "programming": 130,
+    "guitar": 45,
+    "songwriting": 55,
+    "cooking": 20,
+    "public_speaking": 30,
+    "data_analysis": 195
+  },
+  "init_assets": {
+    "deposit": 8200,
+    "possessions": [
+      {
+        "name": "Acoustic Guitar",
+        "description": "A 2009 Martin D-15M mahogany dreadnought, bought used in Portland for $600. Scratched but warm-toned, his most treasured possession."
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2018 MacBook Pro used for both work and personal coding projects, stickered with indie band logos."
+      },
+      {
+        "name": "Vinyl Collection",
+        "description": "About 40 records — Elliott Smith, Nick Drake, Iron & Wine, Bon Iver — stored in a wooden crate beside his bed."
+      },
+      {
+        "name": "Notebook",
+        "description": "A Moleskine filled with half-finished song lyrics, chord progressions, and occasional sketches of rooftop views."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes authenticity matters more than success. Respects people who take creative risks even when they fail. Values loyalty, quiet kindness, and emotional honesty in others — though he struggles to practice that honesty himself. Distrusts performative ambition and status-chasing. Fears mediocrity and regret more than failure. Secretly believes love should be patient and earned, which conveniently excuses his inability to act on his feelings.",
+  "birthday": "Y1993-W8-activity-D3",
+  "birth_year": 1993
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Chloe Marchand",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" at roughly 125 lbs, Chloe has a fair (~20%) attractiveness that reads as quietly striking rather than immediately obvious. Her aesthetic is muted and literary — think French New Wave filtered through a thrift-store budget. She has a narrow, oval face with high cheekbones, pale grey-green eyes set slightly deep beneath straight dark brows, a small pointed chin, and dark chestnut hair she wears in a loose low bun or tucked behind her ears, always a few strands escaping. Her skin is fair with a scattering of light freckles across her nose. She dresses in earth tones — camel coats, cream knits, olive corduroys, simple silver jewelry, and worn leather ankle boots. Her hands are slender with short, unpolished nails, and she carries a canvas tote bag stuffed with books and loose papers everywhere she goes. She moves with a measured, slightly self-conscious grace, as if perpetually aware of being watched but unwilling to perform for the audience. The overall impression she gives is of a composed, perceptive, somewhat guarded young intellectual — someone who has read too many novels about heartbreak and is now quietly living through one of her own.\n",
+  "brief_introduction": "Chloe is an NYU comparative literature master's student who works part-time at the corner coffee shop. She moved into Bremer Apartment in 2019 after ending a two-year relationship and is slowly rebuilding her sense of self through writing, solitary routines, and reluctant friendship with her neighbors.\n",
+  "talents": {
+    "qualitative": "Born in Burlington, Vermont to a French-Canadian mother who teaches high school French and an American father who manages a small bookstore. Only child. Grew up bilingual, surrounded by books, and deeply attached to language. Academically gifted from a young age — read Camus in the original French at fourteen, won state essay competitions in high school. Earned a full scholarship to Vassar for her BA in French and Comparative Literature, then entered NYU's master's program in 2018 on a partial fellowship. Her analytical mind is sharp but she sometimes overthinks to the point of paralysis. She writes personal essays and short fiction but rarely shows them to anyone. She can sight-read music (piano, grade 6) but hasn't played regularly in years.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 65,
+      "creativity": 100,
+      "health": 60,
+      "honesty": 80,
+      "integrity": 90,
+      "intelligence": 95,
+      "leadership": 35,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Chloe moved into apartment 5A at Bremer in August 2019, two weeks after breaking up with her boyfriend of two years, a fellow Vassar grad named Adrian who moved to London for a finance job and expected her to follow. She chose NYU instead — chose herself, she tells people, though some nights she's not sure what that means. Her days follow a careful rhythm: morning classes or library research, afternoon shifts at the coffee shop where she works alongside Daisy, evenings spent reading or writing in her apartment. She discovered the rooftop in her first month when she couldn't sleep and climbed the stairs at 2 a.m. She heard guitar music — Leo, two floors below her, playing something slow and sad — and sat on the far side of the roof listening without announcing herself. She did this three more times before he noticed her. They now share occasional quiet rooftop evenings, reading or sitting in comfortable silence. She met Finnian at a free writing workshop at the Jefferson Market Library in late 2019 and they've developed a tentative literary friendship, exchanging drafts and recommendations. Her thesis is on exile and belonging in postwar French literature, a topic she chose intellectually but which has become uncomfortably personal. Her fellowship covers tuition but not living expenses; the coffee shop income and modest parental help keep her afloat. She is privately terrified that her writing isn't good enough and that she chose graduate school as a way to postpone real life.\n",
+  "conflicts": "Haunted by self-doubt about whether her writing has genuine talent or is merely competent academic exercise; still processing the end of her relationship with Adrian, who occasionally texts her from London at 3 a.m.; financially precarious — her fellowship may not be renewed for a second year if her thesis progress stalls; developing quiet feelings for Leo that she refuses to examine because she's convinced she needs to be alone right now; struggles to let people in beyond a certain emotional depth, retreating into intellectualization when conversations get too personal.\n",
+  "core_motivation": "To prove — to herself more than anyone — that she can build a life defined by her own choices rather than by proximity to someone else. To finish her thesis and write something true. To learn how to be close to people without losing herself in them.\n",
+  "personality_traits": {
+    "qualitative": "Chloe is an INFJ — introspective, idealistic, and quietly intense. She processes the world through language and narrative, which makes her an exceptional listener but sometimes a guarded participant. She's warm once trust is established but slow to offer it. She has a dry, understated humor that surfaces unexpectedly and delights people who catch it. She's principled to a fault — she'd rather be honest and uncomfortable than pleasant and false. She can be self-isolating, mistaking withdrawal for independence. She cares deeply about the people around her but expresses it through small, quiet gestures — a book left outside someone's door, a coffee made exactly right — rather than grand declarations.\n",
+    "quantitative": {
+      "confidence": 40,
+      "control": 85,
+      "curiosity": 90,
+      "empathy": 90,
+      "judging": 85,
+      "introversion": 85,
+      "intuition": 100,
+      "patience": 75,
+      "responsibility": 70,
+      "thinking": 95
+    }
+  },
+  "preferences": "Likes: used bookstores, handwritten letters, black coffee, rain against windows, French cinema, rooftop silence, Debussy, the smell of old paper, writing in the early morning, long walks through the West Village, cooking simple meals from her mother's recipes. Dislikes: small talk that stays small, people who perform vulnerability for an audience, being rushed, loud bars, unsolicited advice about her love life, the phrase \"you think too much,\" fluorescent lighting, and the way Adrian's name still makes her stomach tighten.\n",
+  "position": {
+    "weekly_income": 180,
+    "role": "Graduate student / Part-time barista",
+    "organization": "NYU Comparative Literature Department / The Corner Coffee Shop",
+    "type": "non-work",
+    "description": "Second-year master's student writing her thesis on exile and belonging in postwar French literature. Works three to four shifts per week at the corner coffee shop to cover rent and living expenses.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "literary_analysis": 140,
+    "creative_writing": 90,
+    "french_language": 250,
+    "academic_research": 250,
+    "barista_craft": 60,
+    "piano": 85,
+    "cooking": 65,
+    "public_speaking": 30
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Book collection",
+        "description": "Three overflowing shelves of French and English literature, many secondhand with pencil annotations in the margins — her most prized possession"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2017 MacBook Air with a cracked corner and a sticker of Simone de Beauvoir on the lid, used for thesis writing and late-night essay drafts"
+      },
+      {
+        "name": "Notebook collection",
+        "description": "A stack of eleven Moleskine notebooks filled with fragments — observations, draft paragraphs, overheard dialogue, sketches of sentences she's not ready to finish"
+      },
+      {
+        "name": "Piano keyboard",
+        "description": "A secondhand Yamaha 61-key keyboard tucked under her desk, played quietly with headphones on sleepless nights"
+      },
+      {
+        "name": "Mother's coat",
+        "description": "A vintage camel wool coat her mother wore in the 1980s, slightly too big in the shoulders, worn almost every day from October to April"
+      }
+    ]
+  },
+  "extra_income": 50,
+  "values": "Believes that the truest form of courage is emotional honesty, even though she struggles to practice it consistently. Values depth over breadth — in friendships, in art, in conversation. Respects people who create something real, even if imperfect, over those who curate an image of creativity. Distrusts easy answers and people who claim to have life figured out. Fears becoming someone who only reads about living instead of actually doing it. Believes love should be chosen deliberately, not fallen into — a conviction born partly from wisdom and partly from the need to feel in control after Adrian.\n",
+  "birthday": "Y1995-W7-activity-D6",
+  "birth_year": 1995
+}

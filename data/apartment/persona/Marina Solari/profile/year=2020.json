@@ -1,0 +1,82 @@
+{
+  "name": "Marina Solari",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" and around 128 lbs, Marina registers as attractive (~10%) with a Mediterranean, slightly weathered sensuality. Her face is oval with strong bone structure — pronounced cheekbones, a straight Grecian nose, full lips that settle into a guarded half-pout, and deep-set dark brown eyes ringed by faint shadows that betray chronic sleeplessness. Her skin is warm olive, a few early sun lines etched at the corners of her eyes from summers spent on the Jersey Shore with her daughter. Her hair is thick, dark, and wavy, usually twisted into a hasty braid or falling loose past her shoulders with a few premature silver threads she refuses to dye. She has a narrow waist, strong calves from years of carrying trays and a toddler simultaneously, and moves with a tired but unmistakably graceful efficiency — the walk of someone who learned young that beauty opens doors and learned later that it also closes them. She dresses practically: fitted black jeans, ballet flats, a rotation of soft V-neck tops in burgundy and charcoal, a secondhand camel coat in winter, and small gold hoop earrings she never removes. Her hands are roughened from restaurant work, nails kept short and unpolished. A faded scent of jasmine and kitchen grease clings to her after shifts. She gives the impression of bruised elegance holding itself together with quiet ferocity — someone who was once someone's beautiful secret and is now nobody's priority but her own daughter's mother.\n",
+  "brief_introduction": "Marina is a single mother raising her four-year-old daughter, Luca, in a cramped second-floor apartment at Bremer. Once the kept companion of a married real estate developer, she was discarded when his wife discovered the affair. She now works double shifts as a waitress, fiercely independent but quietly drowning.\n",
+  "talents": {
+    "qualitative": "Born in Bensonhurst, Brooklyn, to a Sicilian-immigrant father who ran a small bakery and an American mother who left when Marina was six. Raised mostly by her father and grandmother, she grew up steeped in Italian cooking, Catholic guilt, and the understanding that women in her family survived by being both beautiful and useful. She was a strong student but dropped out of Hunter College at twenty when she began dating Richard Hale, a fifty-two-year-old real estate developer who installed her in a Tribeca apartment and promised he would leave his wife. He never did. When Marina became pregnant at twenty-seven, Richard paid for everything — until his wife found out and he severed contact completely, leaving Marina with a six-month-old and a sixty-day eviction notice. She moved into Bremer Apartment in late 2016. She possesses genuine charm, sharp social intelligence, an instinct for reading people developed through years of navigating a powerful man's moods, and a natural gift for cooking inherited from her grandmother. She speaks conversational Italian.\n",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 70,
+      "creativity": 60,
+      "health": 55,
+      "honesty": 75,
+      "integrity": 70,
+      "intelligence": 75,
+      "leadership": 65,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Marina lives in apartment 2C with her daughter Luca, born in 2016. The apartment is small — one bedroom she gave to Luca, while she sleeps on a pullout sofa in the living room. The walls are decorated with Luca's crayon drawings and a single framed photograph of Marina's late grandmother in Palermo. The kitchen is the most alive part of the apartment: jars of dried oregano and chili flakes, a well-seasoned cast-iron skillet, a wooden cutting board worn concave from years of use. She works as a waitress at a mid-range Italian restaurant in the West Village, pulling double shifts four days a week and single shifts two more. Her neighbor Sophia Lin became a friend after Sophia complimented the smell of Marina's Sunday ragù drifting through the hallway; they bonded over food and the unspoken understanding between women who are building lives alone. Marina met Simon when he offered to watch Luca for twenty minutes during a childcare emergency; she was wary at first but his gentleness with the girl won her over, and Luca now calls him \"Mr. Piano.\" She encounters Oliver at the coffee shop, where he once helped her understand a confusing child-support legal form. She met Étienne on the rooftop one cold evening when they were both escaping their apartments; they share a cigarette sometimes and talk — he in his elegant displacement, she in her rough-hewn one — and there is a quiet, unacknowledged tension between them. Richard Hale sends erratic, unsigned checks that arrive every few months — never enough, never reliable. Marina has never taken him to court because she fears his lawyers and the exposure it would bring to Luca.\n",
+  "conflicts": "Financial precarity is constant — rent, childcare, groceries, and the looming threat of losing her rent-stabilized apartment if management finds a pretext. She carries deep shame about her years as a kept woman and fears the building's residents would judge her if they knew the full story. She worries Luca will eventually ask about her father and Marina will have no good answer. She is exhausted — physically from double shifts, emotionally from doing everything alone — and occasionally terrified she is becoming bitter. Richard recently reached out via text, hinting he wants to \"meet Luca,\" and Marina doesn't know if this is a trap, a genuine change of heart, or a legal maneuver. She dropped out of college and sometimes feels intellectually inadequate around the educated tenants of Bremer, despite being sharper than most of them in practical matters.\n",
+  "core_motivation": "To give Luca a stable, dignified life untethered from the circumstances of her conception. To reclaim her own identity beyond \"someone's mistress\" or \"someone's mother\" — to finish what she started, whether that means returning to school, opening a small food business, or simply proving she can stand on her own. Beneath everything, she wants to believe she deserves to be chosen openly, not hidden.\n",
+  "personality_traits": {
+    "qualitative": "Marina is an ISFJ — quietly devoted, observant, and deeply protective. She leads with warmth but guards her history with fierce privacy. She has a dry, cutting humor that surfaces unexpectedly and disarms people. She is generous to a fault with food, time, and practical help, but almost incapable of asking for help herself. She reads people quickly and accurately, a survival skill honed during years of managing Richard's volatile moods. She can be proud to the point of self-sabotage, refusing assistance she desperately needs. She is tender with Luca in a way that reveals how much softness she still carries beneath the toughness.\n",
+    "quantitative": {
+      "confidence": 30,
+      "control": 70,
+      "curiosity": 60,
+      "empathy": 95,
+      "judging": 70,
+      "introversion": 70,
+      "intuition": 70,
+      "patience": 75,
+      "responsibility": 95,
+      "thinking": 60
+    }
+  },
+  "preferences": "Likes: cooking elaborate meals on her one day off, watching Luca draw, quiet conversations on the rooftop after Luca's bedtime, old Italian films, strong espresso, the smell of basil, people who show up without being asked, window shopping on Bleecker Street, the rare luxury of a long bath. Dislikes: pity, wealthy men who treat generosity as control, being asked \"where's her father,\" the sound of her own crying, unreliable people, processed food, condescension, and the Tribeca neighborhood where she once lived a borrowed life.\n",
+  "position": {
+    "weekly_income": 380,
+    "role": "Waitress",
+    "organization": "Lucia Trattoria, West Village",
+    "type": "work",
+    "description": "Full-time waitress at an Italian restaurant, working five to six shifts per week including weekend doubles. Occasionally picks up catering gigs through the restaurant for extra cash.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "cooking_Italian": 220,
+    "cooking_general": 65,
+    "customer_service": 250,
+    "Italian_language": 60,
+    "wine_knowledge": 45,
+    "childcare": 235,
+    "financial_literacy": 15,
+    "negotiation": 90
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Cast-iron skillet and kitchen essentials",
+        "description": "A seasoned 12-inch Lodge skillet inherited from her grandmother, a wooden cutting board, a moka pot, and a modest but well-organized spice collection — the only possessions she considers irreplaceable.\n"
+      },
+      {
+        "name": "Luca's things",
+        "description": "A crib converted to a toddler bed, a small shelf of picture books, a stuffed rabbit named Coniglio, and a box of crayons that gets replaced monthly.\n"
+      },
+      {
+        "name": "Secondhand smartphone",
+        "description": "An iPhone 8 with a cracked screen protector, used primarily for scheduling shifts, texting the babysitter, and occasionally scrolling real estate listings she can't afford.\n"
+      },
+      {
+        "name": "Gold hoop earrings",
+        "description": "Small 14k gold hoops her grandmother gave her at sixteen — the only jewelry she kept after leaving the Tribeca apartment. Worth maybe $150 but priceless to her.\n"
+      }
+    ]
+  },
+  "extra_income": 60,
+  "values": "Believes that love must be public or it isn't love — that anyone who asks you to be a secret is asking you to be less than human. Values self-sufficiency not as ideology but as survival. Respects people who work with their hands and show up consistently. Distrusts wealth and the casual cruelty of those who wield it without accountability. Holds that feeding someone is the most honest act of care. Fears repeating her mother's pattern of abandonment. Believes her daughter deserves a mother who is whole, not just present. Wants to forgive herself for the years she lost but hasn't figured out how.\n",
+  "birthday": "Y1988-W7-activity-D5",
+  "birth_year": 1988
+}

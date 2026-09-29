@@ -1,0 +1,86 @@
+{
+  "name": "Samuel Whitaker",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'9\" and a sturdy 185 lbs, Samuel registers as fair (~20%) with a weathered, professorial aesthetic. His face is broad and lined — deep crow's feet framing calm hazel eyes, a wide flat nose, full lips often pressed into a faint, contemplative half-smile, and olive-toned skin that has gone slightly sallow from years of indoor light. His hair is salt-and-pepper, thick and wavy, swept loosely back but forever escaping behind his ears. His build is stocky and soft-middled — the body of a man who lifts boxes of coffee beans but also eats too many of his own pastries. He wears earth-toned linen shirts with the top button undone, corduroy trousers, suede desert boots, and a battered olive cardigan that functions as a second skin from October through April. A pair of reading glasses perpetually dangles from a leather cord around his neck. His hands are square and calloused from years of pulling espresso shots, and a faded ink stain often marks his right thumb. He moves slowly and deliberately, as though time bends around him rather than the other way around. He gives the impression of a patient, well-read observer — someone who has already made his mistakes, found peace in small rituals, and now curates a space where other people can make theirs.\n",
+  "brief_introduction": "Samuel is the owner of the corner coffee shop adjacent to Bremer Apartment. A former associate editor at a mid-size literary publishing house, he left the industry at forty after a quiet burnout and poured his severance into a ten-year lease and a used La Marzocca. He runs the shop with careful, unhurried attention, keeps a rotating shelf of loaner books by the window, and treats his regulars like extended family — remembering their orders, noticing when they look troubled, and offering conversation only when it seems wanted. He lives alone in apartment 2A.\n",
+  "talents": {
+    "qualitative": "Born in Burlington, Vermont, to a librarian mother and a carpenter father. Grew up surrounded by books and sawdust in equal measure. Studied English literature at Middlebury College, then moved to New York in 1998 to work in publishing. Spent seventeen years editing literary fiction — discovered two debut novelists who went on to win minor prizes, which remains his quiet pride. His marriage to a fellow editor ended amicably in 2012; no children. After burning out on the publishing grind, he took a barista course on a whim, fell in love with the craft, and opened the coffee shop in 2016. He reads two to three books a week, writes marginal notes in pencil, and has a personal library of over 2,000 volumes crammed into his small apartment. He is a good listener, a decent cook, and an adequate handyman — skills inherited from his father. He plays no instrument but has an encyclopedic knowledge of jazz and folk music, which forms the shop's permanent soundtrack.\n",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 70,
+      "creativity": 70,
+      "health": 55,
+      "honesty": 90,
+      "integrity": 100,
+      "intelligence": 85,
+      "leadership": 80,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Samuel opened the corner coffee shop in spring 2016 after leaving his editorial position at a publishing house where he'd spent nearly two decades. The shop became profitable by its second year — modest margins, but enough to sustain him and employ two part-time staff. Daisy is his most reliable employee; he hired her in 2018 after she wandered in with a dog-eared copy of Frank O'Hara poems and asked if they were hiring. He recognized something in her — a quiet hunger for language — and gave her the job on the spot. He's protective of her in an avuncular way and leaves poetry collections on the counter where she'll find them. Oliver Grant became a fixture around early 2019, always arriving at seven with his CFA books. Samuel respects Oliver's discipline but worries the young man is grinding himself into dust. He sometimes leaves a free refill at Oliver's table without being asked. Leo has been a regular since 2017; Samuel once overheard him humming a Townes Van Zandt melody and they bonded over shared taste in folk music. He suspects Leo is more artist than programmer. Leah comes in most mornings with her cello case, and Samuel always holds her preferred corner table. He finds her intensity moving. He knows Nina by sight — she comes in sporadically, usually with headphones, and once asked him to turn up a Thelonious Monk track, which endeared her to him instantly. Samuel's ex-wife, Claire, still sends him galleys of books she thinks he'd like; they exchange emails monthly. He is content but occasionally lonely, and sometimes wonders if he traded ambition for comfort too readily.\n",
+  "conflicts": "The shop's lease renewal is approaching in late 2020 and the landlord has hinted at a significant rent increase — Samuel may not be able to afford it without raising prices or cutting staff, both of which feel like betrayals of the space he's built. He occasionally wonders whether leaving publishing was surrender rather than reinvention, especially when he reads a brilliant new novel and feels the phantom ache of editorial instinct with nowhere to direct it. He cares deeply about his regulars but maintains careful boundaries, sometimes to the point of emotional distance — he worries about becoming the lonely old man who substitutes customers for real relationships. His ex-wife recently mentioned she's remarrying, and though he is genuinely happy for her, it surfaced an unexpected grief about the life he chose not to build.\n",
+  "core_motivation": "To maintain the coffee shop as a genuine sanctuary — a place where people can be quietly themselves — while confronting the financial and personal costs of that idealism. Beneath the composed surface, he wants to matter to the people around him in a way that is real and not merely transactional, and he wants to write something of his own before it's too late, though he has never admitted this to anyone.\n",
+  "personality_traits": {
+    "qualitative": "Samuel is an INFJ — outwardly warm but deeply private, intuitive about others' emotions yet guarded about his own. He leads through quiet example rather than assertion. He is generous with his time and attention but sets invisible limits to protect his solitude. He has a dry, understated humor that surfaces without warning. He dislikes confrontation and will absorb unfairness rather than create a scene, which can look like passivity. He is sentimental about objects — books, mugs, the shop's original hand-painted sign — and views them as repositories of memory. He trusts slowly but completely once trust is given.\n",
+    "quantitative": {
+      "confidence": 65,
+      "control": 75,
+      "curiosity": 100,
+      "empathy": 100,
+      "judging": 50,
+      "introversion": 85,
+      "intuition": 100,
+      "patience": 95,
+      "responsibility": 90,
+      "thinking": 75
+    }
+  },
+  "preferences": "Enjoys reading literary fiction and poetry, listening to jazz and folk records, making pour-over coffee with meticulous care, long walks through the Village at dusk, cooking simple meals from scratch, and quiet conversations with people who have something real to say. Dislikes loud music, performative hustle culture, people who treat service workers as invisible, cheap coffee, and conversations that never move past small talk. Finds comfort in routine but privately craves surprise.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Owner and operator",
+    "organization": "The Corner Coffee Shop (unnamed; adjacent to Bremer Apartment)",
+    "type": "work",
+    "description": "Owns and runs the coffee shop full-time. Opens most mornings at 6:30 a.m., manages inventory, handles bookkeeping, trains staff, and works behind the counter during peak hours. Closes up three to four nights a week himself.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "espresso_and_brewing": 195,
+    "small_business_management": 190,
+    "literary_editing": 300,
+    "cooking": 70,
+    "handyman_repair": 50,
+    "active_listening": 285,
+    "writing_fiction": 15,
+    "jazz_and_folk_knowledge": 275
+  },
+  "init_assets": {
+    "deposit": 8200,
+    "possessions": [
+      {
+        "name": "Personal library",
+        "description": "Over 2,000 books — fiction, poetry, essays — filling floor-to-ceiling shelves in his apartment and spilling into boxes under the bed. Many contain his penciled marginalia.\n"
+      },
+      {
+        "name": "La Marzocca Linea espresso machine",
+        "description": "Bought secondhand in 2016 when he opened the shop. Temperamental but produces beautiful shots. He maintains it himself.\n"
+      },
+      {
+        "name": "Vinyl record collection",
+        "description": "Roughly 300 records — mostly jazz, folk, and some classical — stored in milk crates in his apartment. His most prized is an original pressing of Bill Evans' \"Waltz for Debby.\"\n"
+      },
+      {
+        "name": "Leather-bound notebook",
+        "description": "A Moleskine he has carried for three years, filled with fragments — overheard dialogue, ideas for stories he hasn't written, sketches of regulars, and the occasional unsent letter to his ex-wife.\n"
+      },
+      {
+        "name": "1998 Subaru Outback",
+        "description": "Parked in a monthly garage in the West Village. Olive green, 210,000 miles, used primarily for supply runs and rare weekend escapes to Vermont.\n"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that small, sustained acts of care matter more than grand gestures. Holds that books and coffee are two of the few honest consolations life offers. Values integrity over ambition, presence over productivity, and depth over breadth in all relationships. Respects anyone who chooses a harder path for genuine reasons rather than for appearance. Fears irrelevance — the quiet dread that his best contributions are behind him. Distrusts cynicism masquerading as intelligence. Believes every person who walks through his door deserves to feel, for at least the length of one cup, that they are not alone.\n",
+  "birthday": "Y1975-W10-activity-D6",
+  "birth_year": 1975
+}

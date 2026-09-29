@@ -1,0 +1,90 @@
+{
+  "name": "Julian Reyes",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'9\" with a stocky, broad-shouldered build at around 185 lbs, Julian has a fair (~20%) look anchored by strong, blunt features — a wide jaw, deep-set dark brown eyes, thick black eyebrows, and a nose that's been broken once and healed slightly off-center. His skin is warm bronze, hands scarred with small kitchen burns, forearms tattooed with a sleeve of marigolds and a hummingbird on the left side. He keeps his black hair buzzed short, maintains a neat goatee, and carries the faint smell of woodsmoke and cumin. He dresses simply — white undershirts, dark work pants, a battered olive canvas jacket, black kitchen clogs — everything functional, nothing decorative. He gives the impression of a working man with quiet pride, someone physically capable and emotionally grounded, whose roughness suggests blue-collar roots and whose watchful eyes suggest he's learned to read people quickly out of necessity.\n",
+  "brief_introduction": "Julian is a sous chef at a mid-range East Village restaurant, Mike's roommate on the fourth floor, and a steadying, pragmatic presence in the building. He carries guilt over leaving his younger sister behind in Chicago and channels his emotions into food rather than words.\n",
+  "talents": {
+    "qualitative": "Born in Chicago's Pilsen neighborhood to a Mexican immigrant father (construction worker) and a Mexican-American mother (hotel housekeeper). Oldest of three — has a younger brother Mateo (24, electrician in Chicago) and a younger sister Sofia (22, community college, still living at home). Julian showed early aptitude for cooking, learning from his grandmother before she passed in 2008. He worked in restaurant kitchens from age sixteen, skipping college to apprentice under a series of increasingly demanding chefs. Moved to New York in 2016 after being offered a line cook position at a well-regarded East Village restaurant called Ferro. He's now sous chef. He sends money home monthly. His father had a workplace injury in 2018 that left him with chronic back pain and reduced hours. Julian carries guilt about not being in Chicago to help. He copes by working sixty-hour weeks and cooking elaborate meals for building neighbors on his rare days off.\n",
+    "quantitative": {
+      "beauty": 45,
+      "communication": 60,
+      "creativity": 85,
+      "health": 80,
+      "honesty": 75,
+      "integrity": 95,
+      "intelligence": 60,
+      "leadership": 85,
+      "trustworthiness": 95
+    }
+  },
+  "details": "Julian moved into Bremer Apartment in early 2019, taking the second bedroom in Mike's fourth-floor unit after Mike's previous roommate left. They get along well — complementary schedules, mutual respect, no drama. Julian works brutal hours at Ferro: prep starts at 10 AM, service ends past midnight. His days off are Mondays and occasional Sundays. On those days he cooks for neighbors — showing up at Katie's door with leftover mole, leaving containers of pozole outside Leo's apartment. It's his language. He met Katie through the restaurant world; Chez Lulu and Ferro share a produce supplier, and they've bonded over late-night industry complaints. He's developed a quiet, unexamined affection for Paige after a long rooftop conversation in January 2020 where she asked him about his grandmother and actually listened. He attends Simon's occasional jazz nights at the coffee shop, sitting in the back, saying little. He's the person people call when something practical needs doing — a leaky faucet, a stuck window, a shelf that needs mounting. He doesn't talk about his feelings. He talks about food, family obligation, and whether the Knicks will ever be good again.\n",
+  "conflicts": "Guilt over leaving Chicago and his family, especially Sofia who's struggling academically and emotionally; financially stretched between New York rent and money sent home; wants to open his own restaurant someday but can't save enough; developing feelings for Paige but believes she's too educated and refined for someone like him; fears he's becoming his father — a man who worked himself into injury for a family that needed more than labor.\n",
+  "core_motivation": "To build something of his own — a restaurant, a life, a home — that honors where he came from without being trapped by it. To prove that leaving Chicago was worth the cost. To find a way to be present for his family from a distance. To learn that care expressed through food and fixing things is valid, but that eventually he'll need to use words too.\n",
+  "personality_traits": {
+    "qualitative": "Julian is an ISFJ — dutiful, observant, quietly generous, conflict-averse. He expresses love through acts of service rather than words. He's dependable to the point of self-neglect, always the last to sit down, the first to offer help. He has a dry, understated humor that surfaces mostly around people he trusts. He's not intellectually insecure but culturally so — aware that he didn't go to college, that his hands are rough, that his apartment smells like garlic. He's slow to anger but holds grudges when genuinely wronged. He avoids emotional confrontation, retreating into work when things get complicated. He's fiercely loyal to the people he considers family, which is a category he expands reluctantly and guards absolutely.\n",
+    "quantitative": {
+      "confidence": 40,
+      "control": 85,
+      "curiosity": 60,
+      "empathy": 75,
+      "judging": 65,
+      "introversion": 85,
+      "intuition": 50,
+      "patience": 100,
+      "responsibility": 95,
+      "thinking": 55
+    }
+  },
+  "preferences": "Likes: cooking for others, early morning farmers markets, boxing at the gym on Mondays, watching baseball, drinking beer on the rooftop, listening to cumbia and old-school R&B, fixing things with his hands, quiet company, Simon's piano playing through the floor. Dislikes: pretentiousness, wasted food, people who talk about hustle culture without working with their hands, being pitied, emotional confrontation, restaurants that charge $40 for three bites, being asked why he didn't go to college.\n",
+  "position": {
+    "weekly_income": 380,
+    "role": "Sous Chef",
+    "organization": "Ferro Restaurant, East Village",
+    "type": "work",
+    "description": "Sous chef at a mid-range East Village Italian-Mexican fusion restaurant. Manages prep team, runs the line during service, develops weekly specials. Works five to six days a week, ten to fourteen hour shifts.\n",
+    "weekly_delta_skills": {
+      "culinary_technique": 0.5,
+      "kitchen_management": 0.3
+    }
+  },
+  "init_skills": {
+    "culinary_technique": 120,
+    "kitchen_management": 285,
+    "knife_skills": 300,
+    "baking_and_pastry": 45,
+    "menu_development": 50,
+    "food_safety": 230,
+    "Spanish": 155,
+    "basic_plumbing_and_repair": 40,
+    "boxing": 75
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Chef's knife set",
+        "description": "A six-piece Misono carbon steel set, his grandmother's rolling pin wrapped in cloth at the bottom of the case. The knives are immaculately maintained; the rolling pin has a crack he won't repair.\n"
+      },
+      {
+        "name": "Boxing gloves",
+        "description": "Red Everlast gloves, well-worn, kept hanging on a hook by his bedroom door. He goes to a boxing gym on Mondays.\n"
+      },
+      {
+        "name": "Used smartphone",
+        "description": "A two-year-old Samsung with a cracked screen protector, full of family group chat messages in Spanish and photos of plated dishes.\n"
+      },
+      {
+        "name": "Savings envelope",
+        "description": "A plain white envelope in his sock drawer where he keeps cash earmarked for his father's medical bills. Currently holds about $300.\n"
+      },
+      {
+        "name": "Cookbook collection",
+        "description": "A small shelf of cookbooks — Oaxaca by Bricia Lopez, Salt Fat Acid Heat, The Noma Guide to Fermentation, and a handwritten recipe notebook from his grandmother, pages stained and brittle.\n"
+      }
+    ]
+  },
+  "extra_income": 50,
+  "values": "Believes that work is how you show love — that showing up, providing, fixing, feeding are the truest forms of devotion. Respects people who build things with their hands and their time. Values loyalty, consistency, and humility. Distrusts charm without substance and ambition without sacrifice. Fears becoming irrelevant to his family, fears that his sacrifices won't amount to anything tangible, fears vulnerability because where he comes from, men who showed softness got crushed. Secretly believes he doesn't deserve someone like Paige — someone educated, reflective, composed — because he sees himself as just a cook with calloused hands and a GED.\n",
+  "birthday": "Y1990-W6-activity-D3",
+  "birth_year": 1990
+}

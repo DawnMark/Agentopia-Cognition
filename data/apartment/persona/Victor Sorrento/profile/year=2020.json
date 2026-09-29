@@ -1,0 +1,85 @@
+{
+  "name": "Victor Sorrento",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'0\" with a lean, sinewy build at around 170 lbs, Victor registers as attractive (~10%) in a sharp, dangerous way — high forehead, angular jaw, pale green eyes that carry a restless, calculating focus, and sun-damaged olive skin that speaks to years spent under helmet visors and Mediterranean sun. His dark brown hair is cropped short on the sides and styled loosely on top, streaked prematurely with threads of silver at the temples. A thin white scar bisects his left eyebrow from a 2017 crash at Laguna Seca. His nose has been broken once and reset slightly crooked, which gives his otherwise symmetrical face an appealing asymmetry. He dresses with careless precision — fitted Italian leather jackets, slim dark trousers, suede Chelsea boots, a vintage Heuer chronograph on his left wrist — everything chosen quickly but landing perfectly, the wardrobe of someone raised around money who stopped caring about it. His hands are surprisingly rough, nails trimmed short, knuckles scarred. He moves with a coiled physicality, always slightly too fast, as if ordinary life operates at an insufficient speed. He gives the impression of someone glamorous and slightly volatile — a man running from or toward something at all times, whose charm conceals a loneliness he would never admit to.",
+  "brief_introduction": "Victor is a semi-professional endurance race car driver who moved into Bremer Apartment's second-floor unit in mid-2019 after a spectacular falling-out with his wealthy New Jersey family. He keeps a limited-edition 1973 Porsche 911 Carrera RS in a rented garage two blocks away. Charismatic and generous but self-destructive, he is recovering from a shoulder injury that may end his racing career.",
+  "talents": {
+    "qualitative": "Born into the Sorrento family — his father, Enzo Sorrento, runs a luxury car dealership empire across northern New Jersey. Victor grew up around engines, wealth, and expectations he never wanted to meet. He started karting at eight and was winning regional championships by fourteen. Skipped college to pursue racing full-time, funding his early career with family money until he began earning sponsorships. He has genuine mechanical intuition — he can diagnose an engine misfire by sound alone — and possesses extraordinary reflexes and spatial awareness. His recklessness on the track translated into success until a crash at Laguna Seca in 2017 shattered his left collarbone and tore his rotator cuff. He recovered, but a second injury in late 2019 — a dislocated shoulder during a practice session — has left doctors uncertain about his future in competitive racing. Off the track, he is well-read in an autodidactic, scattered way, drawn to existentialist philosophy and Beat poetry.",
+    "quantitative": {
+      "beauty": 85,
+      "communication": 85,
+      "creativity": 65,
+      "health": 80,
+      "honesty": 40,
+      "integrity": 50,
+      "intelligence": 80,
+      "leadership": 60,
+      "trustworthiness": 30
+    }
+  },
+  "details": "Victor moved into Bremer Apartment's second-floor one-bedroom in June 2019, choosing it precisely because it was the opposite of the glass-and-chrome penthouse his father wanted to buy him in Tribeca. The apartment is sparsely furnished — a mattress on the floor, a turntable, a framed photo of Juan Manuel Fangio, and a shelf of Kerouac and Camus paperbacks. His Porsche 911 Carrera RS — arctic silver, number 47 of 200 — sits in a rented garage on West 4th Street; he drives it on weekends to tracks upstate or simply through the city at 3 a.m. when he cannot sleep. He met Rafael on the rooftop in autumn 2019, drawn by the smell of whatever Rafael was grilling. They bonded over shared restlessness and a mutual understanding of what it means to stake your identity on a single craft. Victor also crossed paths with Leon in the building's hallway and at the coffee shop — two men who appreciate fine things but for very different reasons. He's encountered Paige on the rooftop a few times, finding her quiet intensity both intriguing and unsettling. In early 2020, Victor's shoulder has not healed as expected. His racing team has gently suggested he consider a 'management role.' His sponsorship income is dwindling. His father has offered to bring him into the dealership business, which Victor considers a fate worse than death. He spends more nights on the rooftop, drinking bourbon alone, wondering who he is if he is not a driver.",
+  "conflicts": "His shoulder injury threatens to end his racing career, which is the only identity he has ever claimed; his estrangement from his wealthy family leaves him financially precarious for the first time in his life — sponsorship money is running out and pride prevents him from accepting his father's help; he uses charm and generosity to keep people close but withholds emotional truth, making every friendship feel performative to him; he drinks more than he should and drives too fast when he's upset; he fears that without racing, he is nobody.",
+  "core_motivation": "To return to competitive racing and prove — to his father, to his team, to himself — that he is more than a rich kid playing at danger. Beneath that, to discover whether he is capable of building a life that matters when the engine stops, and to find a form of connection that does not require adrenaline to feel real.",
+  "personality_traits": {
+    "qualitative": "Victor is a classic ESTP — action-oriented, adaptive, thrilling to be around, and allergic to introspection. He is generous impulsively — he'll buy a round for the entire rooftop, lend his jacket to a stranger, drive someone to the airport at dawn — but struggles with sustained emotional commitment. His charm is genuine but also strategic; he learned early that likability is a currency. He hates vulnerability in himself, though he respects it in others. When anxious, he seeks speed — literal speed, in a car, on foot, in conversation. He is funny, self-deprecating, and deeply lonely in a way he masks with perpetual motion.",
+    "quantitative": {
+      "confidence": 90,
+      "control": 35,
+      "curiosity": 80,
+      "empathy": 65,
+      "judging": 25,
+      "introversion": 10,
+      "intuition": 75,
+      "patience": 25,
+      "responsibility": 30,
+      "thinking": 65
+    }
+  },
+  "preferences": "Loves driving at night with the windows down, the smell of engine oil and gasoline, rooftop conversations after midnight, strong bourbon, Beat poetry, existentialist novels, speed in all its forms, cooking simple Italian food from memory, vinyl records — especially jazz and 1970s rock; dislikes being pitied, corporate environments, his father's voicemails, hospitals, slow elevators, people who confuse recklessness with stupidity, mornings before 10 a.m., and anyone who asks when he's going back to racing.",
+  "position": {
+    "weekly_income": 350,
+    "role": "Semi-professional endurance race car driver (currently sidelined)",
+    "organization": "Apex Atlantic Racing (contracted driver, inactive)",
+    "type": "work",
+    "description": "Receives reduced retainer from racing team while recovering from injury; supplements with occasional paid driving instruction at Monticello Motor Club upstate on weekends.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "racing_driving": 310,
+    "automotive_mechanics": 285,
+    "physical_fitness": 280,
+    "negotiation": 65,
+    "cooking_italian": 35,
+    "writing": 15,
+    "financial_management": 20
+  },
+  "init_assets": {
+    "deposit": 7000,
+    "possessions": [
+      {
+        "name": "1973 Porsche 911 Carrera RS (Limited Edition #47/200)",
+        "description": "Arctic silver with green livery stripes, matching-numbers engine, kept in immaculate condition in a rented garage on West 4th Street. Worth approximately $1.2 million but Victor would sooner sleep in it than sell it."
+      },
+      {
+        "name": "Racing helmet collection",
+        "description": "Three Arai GP-6 helmets in custom liveries displayed on a shelf — one cracked from the Laguna Seca crash, kept as a reminder."
+      },
+      {
+        "name": "Vintage Heuer Autavia chronograph",
+        "description": "A 1969 reference 2446, inherited from his grandfather who raced Formula Vee in the 1970s. The only family heirloom he took when he left."
+      },
+      {
+        "name": "Turntable and vinyl collection",
+        "description": "A Rega Planar 3 with roughly sixty records — Miles Davis, Led Zeppelin, Coltrane, Tom Waits — stacked against the bedroom wall."
+      },
+      {
+        "name": "Shoulder rehabilitation equipment",
+        "description": "Resistance bands, a foam roller, and a TheraBand FlexBar cluttering the living room floor, evidence of a recovery regimen he follows inconsistently."
+      }
+    ]
+  },
+  "extra_income": 100,
+  "values": "Believes that courage is the only virtue that matters — everything else is commentary. Respects anyone who has put their body or reputation on the line for something they believe in. Distrusts inherited wealth and status despite — or because of — having grown up surrounded by both. Holds loyalty to one's own vision as sacred, even when that vision is self-destructive. Fears mediocrity more than death; fears dependence more than poverty. Believes love should feel like the moment before a blind corner at 140 mph — total commitment with no guarantee of what comes next. Suspects he is fundamentally incapable of the kind of steady, patient love that actually lasts.",
+  "birthday": "Y1988-W6-activity-D4",
+  "birth_year": 1988
+}

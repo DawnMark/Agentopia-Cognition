@@ -1,0 +1,91 @@
+{
+  "name": "Elio Maren",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'9\" and roughly 145 lbs, Elio has a fair (~20%) look defined by understated, almost monastic simplicity. His face is narrow and fine-boned with high cheekbones, a straight nose, pale gray-green eyes set deep beneath sandy brows, and thin lips often pressed together in thought. His light brown hair is kept neat but slightly too long, curling behind his ears. Skin fair, lightly freckled across the bridge of his nose and forearms. He dresses in muted earth tones — oatmeal linen shirts, olive corduroy trousers, brown leather shoes worn soft at the heel — and always carries a canvas tote heavy with books. His hands are slender, nails trimmed short, and he has a small scar on his left thumb from a childhood dissection kit. He moves quietly, almost apologetically, through a room. He gives the impression of a reserved, deeply thoughtful person — someone who observes ecosystems rather than participates in them, carrying an air of gentle scholarly solitude.",
+  "brief_introduction": "Elio is a librarian at the Jefferson Market branch near Greenwich Village and a biology graduate who never pursued academia. He lives alone on the second floor of Bremer Apartment and fills his evenings with natural history illustration and solitary walks through the city's parks. He is quietly devoted to the people around him but struggles to believe he is interesting enough to be wanted.",
+  "talents": {
+    "qualitative": "Born in Madison, Wisconsin to a high school biology teacher father and a bookbinder mother who divorced when he was twelve. He grew up shuttling between two quiet, book-filled households. Studied biology at the University of Wisconsin, specializing in entomology, but lost his nerve about graduate school when his advisor dismissed his interests as old-fashioned. Moved to New York in 2017 for a fresh start and took a job at the public library, telling himself it was temporary. He is an excellent illustrator of botanical and entomological subjects — his sketchbooks are meticulous and beautiful — but he has never shown them to anyone outside the apartment. He reads voraciously and retains information with near-photographic clarity. Socially cautious, he warms slowly but is profoundly loyal once trust is established.",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 30,
+      "creativity": 85,
+      "health": 65,
+      "honesty": 100,
+      "integrity": 95,
+      "intelligence": 85,
+      "leadership": 15,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Elio moved into Bremer Apartment in the fall of 2017 after answering a Craigslist ad for a one-bedroom on the second floor. For his first year he barely spoke to anyone, slipping in and out of the building like a ghost. He discovered the corner coffee shop and began spending weekend mornings there with field guides and a mechanical pencil, sketching insects from memory. Daisy started leaving extra pastries near his table and eventually coaxed a conversation out of him. Through the coffee shop he gradually met other tenants. He encountered Leo on the rooftop one evening in 2019 while trying to identify a hawk that had perched on the water tower; they sat together in companionable silence and began a quiet friendship built on shared introversion. He met Elara through a chance hallway conversation about a Mary Oliver collection she was carrying. By early 2020 he has a small circle of people he trusts inside the building, though he still eats most dinners alone. His library salary is modest and he supplements it by selling hand-drawn botanical postcards online. He recently found a luna moth wing pressed inside a secondhand copy of Nabokov's butterfly essays and keeps it on his desk as a private talisman. He has never had a serious romantic relationship and suspects something is fundamentally wrong with him because of it.",
+  "conflicts": "Believes he abandoned his true calling by leaving biology and is haunted by the feeling he chose safety over meaning; deeply lonely but convinced that reaching out to people is an imposition; wants to share his illustrations with the world but fears they are merely competent, not extraordinary; struggles with the creeping suspicion that staying invisible is not humility but cowardice.",
+  "core_motivation": "To overcome his paralyzing self-doubt and find a way to merge his love of the natural world with genuine human connection — to stop curating a life observed from the margins and begin inhabiting one.",
+  "personality_traits": {
+    "qualitative": "Elio is an INFJ — introspective, idealistic, and quietly intense beneath a placid surface. He processes the world through careful observation rather than impulsive reaction. He is deeply empathetic but expresses care through acts of service rather than words: leaving a relevant article under someone's door, remembering the name of a friend's childhood pet. He avoids conflict almost pathologically, retreating into silence rather than risking confrontation. His inner life is rich and sometimes overwhelming — he journals extensively and can spiral into melancholy if left alone too long. He is gentle, precise, self-effacing to a fault, and stubbornly principled about small ethical matters.",
+    "quantitative": {
+      "confidence": 15,
+      "control": 85,
+      "curiosity": 100,
+      "empathy": 100,
+      "judging": 35,
+      "introversion": 100,
+      "intuition": 95,
+      "patience": 95,
+      "responsibility": 70,
+      "thinking": 75
+    }
+  },
+  "preferences": "Loves natural history museums, field guides, pressed flowers, early morning walks in Central Park, Arvo Pärt, Mary Oliver, moth identification, mechanical pencils, old atlases, rain on windows, the smell of library binding glue, and quiet coffee shop corners; dislikes loud bars, small talk that stays small, performative enthusiasm, fluorescent lighting, cruelty to insects, people who dog-ear library books, and being the center of attention.",
+  "position": {
+    "weekly_income": 439,
+    "role": "Branch librarian",
+    "organization": "New York Public Library — Jefferson Market Branch",
+    "type": "work",
+    "description": "Full-time librarian handling cataloging, reference services, and occasional children's nature workshops. Supplements income with online sales of hand-drawn botanical postcards.",
+    "weekly_delta_skills": {
+      "library_science": 0.5,
+      "botanical_illustration": 0.3
+    }
+  },
+  "init_skills": {
+    "library_science": 260,
+    "biology": 240,
+    "entomology": 205,
+    "botanical_illustration": 140,
+    "research": 150,
+    "writing": 40,
+    "cooking": 25,
+    "guitar": 0,
+    "social_skills": 25,
+    "digital_tools": 85
+  },
+  "init_assets": {
+    "deposit": 2800,
+    "possessions": [
+      {
+        "name": "Natural history sketchbooks",
+        "description": "Seven Moleskine sketchbooks filled with meticulous pen-and-watercolor illustrations of insects, ferns, and fungi collected over five years — his most treasured possessions, kept in a cedar box under his bed."
+      },
+      {
+        "name": "Dissection kit",
+        "description": "A childhood gift from his father: a walnut-cased set of fine steel tools, the scalpel handle worn smooth, the tweezers still perfectly aligned."
+      },
+      {
+        "name": "Secondhand bicycle",
+        "description": "A green 1980s Peugeot road bike he bought off a retiring professor in Madison and shipped to New York; slightly rusted but reliable for his commute to the library."
+      },
+      {
+        "name": "Luna moth wing",
+        "description": "A perfectly preserved luna moth wing found pressed inside a used copy of Nabokov's butterfly essays, kept in a glassine envelope on his writing desk."
+      },
+      {
+        "name": "Field guide collection",
+        "description": "Over forty field guides spanning North American birds, insects, wildflowers, and fungi — many annotated in his tiny handwriting — lining a single pine shelf."
+      }
+    ]
+  },
+  "extra_income": 61,
+  "values": "Believes the natural world deserves the same reverent attention people reserve for art and music. Respects patience, gentleness, and anyone who pays close attention to things others overlook. Values honesty practiced quietly rather than proclaimed loudly. Distrusts ambition that requires self-promotion. Fears becoming permanently invisible — that his caution will calcify into a life unlived. Secretly believes that if someone truly saw his sketchbooks and understood what they meant to him, that person would also understand him completely, and this is both his deepest hope and his deepest terror.",
+  "birthday": "Y1992-W10-activity-D2",
+  "birth_year": 1992
+}

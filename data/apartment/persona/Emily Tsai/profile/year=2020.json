@@ -1,0 +1,90 @@
+{
+  "name": "Emily Tsai",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" with a lean, dancer-trained frame at around 125 lbs, Emily registers as attractive (~10%) with a warm, asymmetric beauty — wide-set amber-brown eyes beneath strong brows, a slightly crooked nose she broke in a stage combat class, high cheekbones inherited from her Taiwanese mother, and a wide, expressive mouth that seems incapable of neutrality. Her black hair is usually gathered in a hasty topknot secured with a pencil or chopstick, and her skin carries a permanent slight flush across the cheeks. She favors thrifted oversized flannel shirts, black leggings, and beat-up canvas sneakers, giving her an effortlessly rumpled aesthetic. Her hands are always moving — gesturing, fidgeting, tucking loose strands behind her ear. She gives the impression of someone bright, restless, and slightly sleep-deprived — a creative type running on caffeine and stubborn hope, someone you'd guess is an artist before she ever tells you.\n",
+  "brief_introduction": "Emily is a 25-year-old aspiring stage actress who graduated from a small conservatory program two years ago and has been grinding through the New York audition circuit ever since. She waitresses at a Thai restaurant four blocks from Bremer Apartment to pay rent, lives alone in a tiny fourth-floor studio, and writes in her journal at the corner coffee shop most mornings before her shift. She is warm, self-deprecating, fiercely passionate about theater, and quietly terrified that her dream is slipping away.\n",
+  "talents": {
+    "qualitative": "Born in Portland, Oregon to a Taiwanese-American electrical engineer father and a white American librarian mother. Her parents divorced when she was twelve; she stayed with her mother and grew up surrounded by books and community theater. She started acting in middle school plays and never stopped. Won a partial scholarship to a small conservatory in upstate New York, graduated in 2018, and moved into Bremer Apartment that same summer. She has raw, genuine talent — directors praise her emotional availability and physical expressiveness — but the industry is brutal and she lacks connections. She picks up occasional ensemble roles in off-off-Broadway productions that pay little or nothing. Her waitressing income covers rent and ramen. She is generous with her time, often running lines with fellow actors for free, and has a gift for making people laugh even when she herself is struggling.\n",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 95,
+      "creativity": 90,
+      "health": 70,
+      "honesty": 85,
+      "integrity": 75,
+      "intelligence": 80,
+      "leadership": 65,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Emily moved into Bremer Apartment in the summer of 2018, straight out of conservatory, carrying two suitcases and a framed photo of her mother. Her studio on the fourth floor is barely 300 square feet — a single window facing a brick wall, a futon, scripts stacked on every surface. She waitresses five shifts a week at a Thai place called Lemongrass, earning enough for rent and groceries with little left over. She auditions relentlessly — sometimes three calls a week — and has landed a handful of small ensemble roles in downtown fringe productions that earn her Equity points but almost no money. In early 2020, she was cast as the understudy for a promising off-Broadway revival, her biggest break yet, but the show's future is uncertain. She writes morning pages at the corner coffee shop, where she has become a fixture. She befriended Finnian after overhearing him muttering dialogue aloud and realizing he was a playwright; they now occasionally collaborate, with her reading his drafts aloud. She and Selene bonded over shared insomnia and rooftop conversations. Emily calls her mother in Portland every Sunday. She hasn't spoken to her father in two years after a painful argument about her career choices.\n",
+  "conflicts": "Caught between her passion for acting and the financial reality that she can barely make rent; haunted by her father's words that she is wasting her life; terrified that turning 25 without a real credit means she never will; struggles with comparison when she sees conservatory classmates booking TV roles; wants deeper human connection but her erratic schedule makes sustaining relationships difficult; beginning to wonder whether persistence is courage or delusion.\n",
+  "core_motivation": "To prove — to herself, to her father, to the indifferent city — that she belongs on a stage. To land a role meaningful enough to justify every sacrifice. To build a life in New York that feels like home, not just survival.\n",
+  "personality_traits": {
+    "qualitative": "Emily is an ENFP — effervescent, imaginative, emotionally transparent. She leads with enthusiasm and connects quickly with strangers, though she can spiral into self-doubt when alone. She is deeply empathetic, often absorbing other people's emotions as if preparing for a role. She uses humor as armor, deflecting her anxieties with self-deprecating jokes. She is spontaneous to a fault — she'll say yes to a midnight rooftop gathering on a work night, then regret it at 6 AM. Loyal and affectionate with her friends, she struggles to ask for help, preferring to be the one who gives. Underneath her buoyancy is a persistent fear of mediocrity.\n",
+    "quantitative": {
+      "confidence": 40,
+      "control": 45,
+      "curiosity": 90,
+      "empathy": 95,
+      "judging": 15,
+      "introversion": 10,
+      "intuition": 90,
+      "patience": 55,
+      "responsibility": 80,
+      "thinking": 65
+    }
+  },
+  "preferences": "Loves black coffee, reading plays in the bathtub, thrift shopping, singing along to Joni Mitchell, rooftop sunsets, handwritten letters, cheap dumpling spots, old black-and-white films, running lines with friends, thunderstorms; dislikes audition waiting rooms, being told to have a backup plan, small talk about money, the smell of the subway in August, people who treat waitstaff poorly, silence after an audition callback that never comes.\n",
+  "position": {
+    "weekly_income": 320,
+    "role": "Waitress",
+    "organization": "Lemongrass Thai Restaurant",
+    "type": "work",
+    "description": "Works five evening shifts a week waitressing at a neighborhood Thai restaurant, covering rent and basic expenses. Uses daytime hours for auditions, rehearsals, and writing.\n",
+    "weekly_delta_skills": {
+      "acting": 0.5,
+      "writing": 0.2
+    }
+  },
+  "init_skills": {
+    "acting": 220,
+    "voice_and_speech": 205,
+    "stage_combat": 95,
+    "dance": 90,
+    "script_analysis": 150,
+    "improvisation": 115,
+    "waitressing": 245,
+    "writing": 45,
+    "cooking": 30
+  },
+  "init_assets": {
+    "deposit": 1100,
+    "possessions": [
+      {
+        "name": "Script collection",
+        "description": "A milk crate stuffed with dog-eared scripts — Chekhov, Parks, Churchill, Williams — margins filled with pencil notes and coffee rings.\n"
+      },
+      {
+        "name": "Futon and bedding",
+        "description": "A secondhand futon that doubles as couch and bed, draped with a quilt her mother sewed from old flannel shirts.\n"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2016 MacBook Air with a cracked corner and three sticker patches, used for self-tapes, emails, and late-night script research.\n"
+      },
+      {
+        "name": "Journal",
+        "description": "A leather-bound Moleskine she writes morning pages in every day at the coffee shop, now on its seventh volume since moving to New York.\n"
+      },
+      {
+        "name": "Framed photo",
+        "description": "A small framed photo of her mother standing outside Powell's Books in Portland, taken the day Emily left for New York.\n"
+      }
+    ]
+  },
+  "extra_income": 40,
+  "values": "Believes that art is not a luxury but a necessity — that stories told on stage can change how people see themselves and each other. Values authenticity above polish, effort above talent, and kindness above success. Respects anyone who commits fully to something difficult. Distrusts cynicism and the idea that practical equals wise. Fears becoming someone who gave up. Admires vulnerability and courage in equal measure. Her deepest conviction is that showing up — to the audition, to the page, to the friend in need — is the only thing she can control, and therefore the only thing that matters.\n",
+  "birthday": "Y1995-W7-activity-D4",
+  "birth_year": 1995
+}

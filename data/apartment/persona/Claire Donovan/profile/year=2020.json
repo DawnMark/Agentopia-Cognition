@@ -1,0 +1,87 @@
+{
+  "name": "Claire Donovan",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'6\" at around 140 lbs, Claire registers as attractive (~10%) with a clean, sharp aesthetic. Her face is oval and symmetrical — high cheekbones, a straight narrow nose, pale green eyes that hold attention a beat too long, and a small mouth she keeps neutral by habit. Her skin is fair with a faint dusting of freckles across the bridge of her nose, and her auburn hair is always pulled into a low, precise chignon for work, though on weekends it falls in loose waves past her collarbones. Her build is trim and quietly athletic — the body of someone who runs along the Hudson at dawn and never mentions it. She dresses in structured, muted pieces: tailored navy trousers, cream silk blouses, a camel wool coat in winter, pointed-toe flats, a single gold signet ring on her left pinky inherited from her grandmother. Her nails are always short and clean. She carries a leather satchel instead of a purse and walks with measured, unhurried strides that suggest someone accustomed to controlling how much space she occupies. She gives the impression of a composed, quietly ambitious professional — someone who is warmer than her polish suggests but who has learned to keep that warmth behind glass.",
+  "brief_introduction": "Claire is a credit analyst at a midsize bank in Midtown, living alone on the third floor of Bremer Apartment since 2017. She is a lesbian who has not been in a relationship since a painful breakup two years ago, and she quietly admires three women in the building — Solstice, Nina, and Leah — from a careful, self-aware distance, unsure whether her caution is wisdom or cowardice.",
+  "talents": {
+    "qualitative": "Born in Stamford, Connecticut, to a tax attorney father and a pediatric nurse mother, the youngest of three siblings. Her two older brothers were loud, athletic, and effortlessly conventional; Claire was the quiet reader who organized the family bookshelf by genre at age nine. She excelled academically — valedictorian, scholarship to NYU Stern, graduated 2010 into a shattered economy and took the first stable offer she got: a back-office role at a regional bank. She climbed methodically to credit analyst, a job she performs well but does not love. She came out to her family at twenty-four; her parents were stiffly supportive, her brothers awkward. She dated a woman named Meredith for three years; they broke up in 2018 when Meredith moved to Chicago for a residency. Claire has not dated since. She channels emotional energy into running, reading, and observing — she notices people with the eye of a novelist she will never become. She is drawn to women who carry visible passion — musicians, artists, movers — because their openness is everything she withholds.",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 80,
+      "creativity": 55,
+      "health": 85,
+      "honesty": 75,
+      "integrity": 90,
+      "intelligence": 70,
+      "leadership": 65,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Claire moved into a third-floor one-bedroom in Bremer Apartment in August 2017 after Meredith got the lease on their shared Williamsburg place. The apartment was a practical choice — close to the subway, affordable by Manhattan standards, quiet. She made it her own slowly: a secondhand mid-century credenza, framed Berenice Abbott prints, a shelf of poetry she reads but would never admit to at the bank. She discovered Samuel's coffee shop on her first morning and has been a daily 6:45 AM regular since, always ordering a cortado and sitting at the counter with the Financial Times. She respects Samuel's calm and their exchanges are brief but genuine. She first noticed Solstice when the yoga teacher started working shifts at the coffee shop — something about the unhurried way Solstice moved through the space made Claire's chest tighten. She began timing her visits to overlap with Solstice's shifts, hating herself slightly for the calculation. She knows Nina from the fourth-floor hallway; they share a laundry schedule, and Claire once helped Nina carry a keyboard up the stairs. Nina's directness and musical intensity fascinate her, but they've never spoken at length. She hears Leah practicing cello through the walls most evenings and sometimes sits on the floor by the shared wall just to listen, feeling both comforted and unbearably lonely. Rafael lives one floor below and they cross paths at the mailboxes; he once fixed her radiator with a wrench he happened to have and refused her offer of payment. She sees Leo at the coffee shop most mornings and they exchange polite nods. In early 2020, her bank is tightening lending and layoffs are rumored. She runs six miles every morning along the West Side Highway regardless of weather, a discipline that keeps her anxiety leashed.",
+  "conflicts": "She admires Solstice, Nina, and Leah from a guarded distance but cannot bring herself to pursue any of them — partly from fear of rejection, partly from fear of disrupting the delicate social ecosystem of the building where she must continue living if things go wrong. Her breakup with Meredith left her doubting her capacity to sustain intimacy; she wonders if she chose stability over passion and whether that pattern will repeat. Her job is secure but joyless, and the rumored layoffs have made her cling to it more tightly than she'd like to admit. She suspects her composure is slowly calcifying into isolation.",
+  "core_motivation": "To stop being a spectator in her own emotional life — to allow herself to want something openly, whether that means asking one of the women she admires for coffee or leaving a career that numbs her. Underneath the poise, she wants to be known fully by someone and to feel that being known does not make her vulnerable to abandonment.",
+  "personality_traits": {
+    "qualitative": "Claire is an ISTJ who has been slowly, reluctantly developing her feeling side. She is methodical, reliable, and observant to a fault — she notices the small details of other people's lives and catalogs them with an archivist's precision, but she rarely acts on that knowledge. She is warm beneath her reserve, capable of deep loyalty and quiet generosity, but she guards entry points fiercely. She uses discipline — running, routine, neatness — as emotional scaffolding, and when the scaffolding is disturbed she becomes anxious and withdrawn. She is self-aware enough to recognize these patterns but not yet brave enough to break them.",
+    "quantitative": {
+      "confidence": 60,
+      "control": 90,
+      "curiosity": 70,
+      "empathy": 85,
+      "judging": 70,
+      "introversion": 85,
+      "intuition": 55,
+      "patience": 75,
+      "responsibility": 90,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes: early-morning runs, cortados, poetry she reads alone, jazz piano, clean apartments, well-made clothes, listening to Leah's cello through the wall, watching Solstice move through the coffee shop, the rare moments Nina says something unexpectedly funny in the hallway. Dislikes: office small talk, being asked why she's single, loud bars, performative vulnerability on social media, her brothers' well-meaning but clumsy questions about her love life, the feeling of wanting something she won't let herself reach for.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Credit Analyst",
+    "organization": "Hudson River Bank, Midtown Manhattan",
+    "type": "work",
+    "description": "Evaluates commercial loan applications, prepares risk reports, and presents credit recommendations to the lending committee. Steady, detail-oriented work that rewards precision over imagination.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "financial_analysis": 285,
+    "credit_risk_assessment": 190,
+    "Excel_and_data_modeling": 170,
+    "writing": 45,
+    "running": 295,
+    "cooking": 80,
+    "guitar": 5,
+    "poetry_knowledge": 55,
+    "social_perceptiveness": 190
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "Mid-century credenza",
+        "description": "Walnut, bought from a Greenpoint vintage store in 2017, slightly scratched on one leg but beautiful in morning light."
+      },
+      {
+        "name": "Framed Berenice Abbott prints",
+        "description": "Three black-and-white Manhattan photographs from the 1930s, carefully framed, hanging above the credenza."
+      },
+      {
+        "name": "Running gear",
+        "description": "Two pairs of Brooks Ghost shoes rotated weekly, moisture-wicking layers for every season, a GPS watch she tracks obsessively."
+      },
+      {
+        "name": "Poetry shelf",
+        "description": "Thirty-odd volumes — Bishop, Szymborska, Carson, Ocean Vuong — spines cracked from rereading, a few with margin notes in pencil."
+      },
+      {
+        "name": "Gold signet ring",
+        "description": "Inherited from her maternal grandmother, engraved with a small Celtic knot, worn daily on her left pinky."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that integrity is non-negotiable — you do what you say and you say what you mean, even when it costs you. Respects discipline, craftsmanship, and anyone who devotes themselves to something difficult without expecting applause. Values emotional honesty in others even though she struggles to practice it herself. Distrusts flamboyance and charm that substitutes for substance. Fears that caution and loneliness are the same thing wearing different clothes. Believes love should be built slowly and earned through presence, but secretly worries that belief is just a rationalization for never risking anything at all.",
+  "birthday": "Y1988-W7-activity-D2",
+  "birth_year": 1988
+}

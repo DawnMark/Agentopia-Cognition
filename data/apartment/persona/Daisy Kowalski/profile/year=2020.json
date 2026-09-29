@@ -1,0 +1,85 @@
+{
+  "name": "Daisy Kowalski",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'4\" and roughly 120 lbs with a fair (~20%) prettiness that registers as wholesome before anything else, Daisy has a round, open face, wide-set blue eyes, a button nose dusted with a faint constellation of moles along her left cheekbone, and straight, wheat-blonde hair she keeps in a practical ponytail or loose braid. Her build is soft and compact — narrow shoulders, short-waisted, small hands perpetually chapped from dish soap and espresso steam. She favors thrifted corduroy jackets, striped long-sleeve shirts, canvas aprons stained with coffee grounds, and white low-top sneakers worn to grey. A single silver stud in each ear, no other jewelry. A ballpoint pen is always tucked behind her right ear or clipped to her apron pocket. She projects the impression of a watchful, unpretentious Midwestern girl — someone simultaneously younger than her years in her earnestness and older in her quiet, careful attention to the people around her, suggesting a background where self-reliance was learned early and warmth was a deliberate choice rather than an inheritance.\n",
+  "brief_introduction": "Daisy is a 21-year-old barista at the Corner Coffee Shop on the ground floor of Bremer Apartment and a junior at NYU studying creative writing. She moved into a tiny studio on the second floor in 2019. She is observant, privately ambitious, and quietly navigating the gap between her working-class Wisconsin upbringing and the artistic world she's trying to enter.\n",
+  "talents": {
+    "qualitative": "Born in Kenosha, Wisconsin to a single mother who worked as a night-shift nurse. Never knew her father — he left before she turned two. Grew up as a latchkey kid, cooking her own dinners by age nine and managing the household budget by fourteen. Won a statewide high school essay contest that earned her a partial scholarship to NYU. Moved to New York in 2017, worked two jobs her freshman year. Has a natural gift for close observation and translating it into prose — her professors have called her writing \"ruthlessly precise.\" She's also a competent home cook, a skill born of necessity, and has an intuitive sense for reading people's moods, honed by years of managing her mother's exhaustion and occasional depression.\n",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 85,
+      "creativity": 95,
+      "health": 60,
+      "honesty": 70,
+      "integrity": 95,
+      "intelligence": 70,
+      "leadership": 65,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Daisy arrived in New York at eighteen with two suitcases and twelve hundred dollars. Her first year was brutal — she worked at a deli and a laundromat while carrying a full course load, lost fifteen pounds she couldn't afford to lose, and nearly dropped out in spring 2018 when her mother was hospitalized for pneumonia and she couldn't afford the flight home. A professor noticed her distress and connected her with an emergency aid fund, which kept her enrolled. In summer 2019 she got the barista job at the Corner Coffee Shop and moved into Bremer Apartment's cheapest unit — a second-floor studio with a radiator that clangs all winter. The coffee shop became her observatory. She started keeping a notebook behind the counter, writing character sketches of every regular. Leo is a full page. Katie is three pages. She is working on a collection of linked short stories set in a fictional New York apartment building. She has told no one about the manuscript. She dated a fellow writing student named Derek briefly in 2019 but ended it when she realized she liked studying him more than being with him. Her mother calls every Sunday; the calls are loving but tinged with guilt — her mother wants her to come home after graduation, maybe teach, maybe be safe. Daisy wants to be a published author but is terrified that wanting something so large is an act of arrogance for someone from her background.\n",
+  "conflicts": "Torn between loyalty to her mother and her own ambitions — feels guilty for building a life her mother can't access or fully understand; financially precarious and one emergency away from having to leave NYU; secretly writing fiction based on real people in the building and fears what would happen if they found out; struggles with imposter syndrome in her writing program, surrounded by classmates with MFA-parent pedigrees and trust funds; wants deeper friendships but holds back because vulnerability feels like a luxury she can't afford.\n",
+  "core_motivation": "To prove that the life she observed from the margins is material worth shaping into art — that her background is not a deficit but a lens. To finish her manuscript and submit it, transforming years of watching into something permanent. To build a life in New York that honors where she came from without being limited by it.\n",
+  "personality_traits": {
+    "qualitative": "Daisy is an INFJ — outwardly warm and accommodating, inwardly intense and strategic. She has the barista's professional friendliness layered over a deeply private inner world. She listens more than she speaks, and when she does speak, her observations can be startlingly precise, which sometimes unnerves people. She is generous with her time and attention but guards her own story fiercely. She has a dry, understated humor that surfaces unexpectedly. She is patient to a fault — slow to anger, slow to trust, slow to ask for help. She carries a quiet, stubborn pride inherited from her mother: she would rather go hungry than ask for a loan. She is deeply empathetic but channels it into observation rather than action, which occasionally makes her feel complicit in other people's pain.\n",
+    "quantitative": {
+      "confidence": 50,
+      "control": 85,
+      "curiosity": 90,
+      "empathy": 90,
+      "judging": 55,
+      "introversion": 85,
+      "intuition": 95,
+      "patience": 85,
+      "responsibility": 90,
+      "thinking": 75
+    }
+  },
+  "preferences": "Likes: early morning shifts when the shop is quiet, writing in her notebook during lulls, black coffee with one sugar, used bookstores, walking the West Village at dusk, cooking simple meals for herself (pasta, soup, roasted vegetables), listening to customers' conversations, rain against her studio window, handwritten letters from her mother, the smell of fresh newsprint. Dislikes: being asked what her parents do, loud performative conversations about art, people who don't bus their own tables, unsolicited advice about her career, being called \"sweetie\" by strangers, waste of any kind, pity, the sound of her radiator at 3 AM.\n",
+  "position": {
+    "weekly_income": 280,
+    "role": "Barista",
+    "organization": "The Corner Coffee Shop, Bremer Apartment",
+    "type": "work",
+    "description": "Part-time barista working five shifts a week (early mornings and weekends). Also a full-time junior at NYU's Creative Writing program. Her schedule is punishing — she opens the shop at 6 AM, attends classes from 11 AM to 4 PM, studies and writes at night.\n",
+    "weekly_delta_skills": {
+      "creative_writing": 0.3,
+      "coffee_preparation": 0.1
+    }
+  },
+  "init_skills": {
+    "creative_writing": 220,
+    "coffee_preparation": 220,
+    "cooking": 95,
+    "close_reading": 115,
+    "budgeting": 130,
+    "academic_research": 85,
+    "customer_service": 205,
+    "observation": 220
+  },
+  "init_assets": {
+    "deposit": 1100,
+    "possessions": [
+      {
+        "name": "Moleskine notebooks",
+        "description": "A stack of seven filled notebooks kept in a shoebox under her bed, each labeled by month — her character sketches, overheard dialogue, and story drafts in tiny, cramped handwriting"
+      },
+      {
+        "name": "Secondhand laptop",
+        "description": "A 2015 MacBook Air with a cracked corner and three sticker patches, bought from a graduating senior for $200 — her lifeline for schoolwork and the manuscript"
+      },
+      {
+        "name": "Winter coat",
+        "description": "A navy wool peacoat from Goodwill that's slightly too big in the shoulders but warm enough for New York winters"
+      },
+      {
+        "name": "Mother's recipe cards",
+        "description": "A rubber-banded deck of handwritten recipe cards her mother mailed her when she moved — the handwriting gets shakier on the later ones"
+      }
+    ]
+  },
+  "extra_income": 40,
+  "values": "Believes that attention is a form of love — that truly seeing someone is the most generous act a person can perform. Values self-reliance, quiet persistence, and the dignity of unglamorous work. Respects people who show up consistently rather than dramatically. Distrusts grand gestures and easy confidence, having learned that reliability matters more than charisma. Fears becoming someone who watches life rather than lives it — that her observer's instinct is actually a form of cowardice. Believes stories can hold truths that conversation cannot. Privately terrified that her ambition is a betrayal of her mother's sacrifices, that wanting more than survival is a kind of ingratitude.\n",
+  "birthday": "Y1998-W8-activity-D1",
+  "birth_year": 1998
+}

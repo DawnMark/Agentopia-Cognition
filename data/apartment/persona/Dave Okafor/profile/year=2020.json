@@ -1,0 +1,83 @@
+{
+  "name": "Dave Okafor",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'3\" and weighing around 205 lbs, Dave has an athletic, broad-shouldered frame that immediately signals competitive sport. His skin is a rich dark brown, his head kept in a close fade, and his face is defined by a strong jaw, wide-set warm eyes, and a gap-toothed smile that surfaces easily and often. He dresses in oversized hoodies, basketball shorts even in cool weather, and battered high-top sneakers — a look that is effortlessly casual and unmistakably collegiate. Attractive (~10%), with an open, kinetic energy. He gives the impression of a gregarious, good-natured young man from a working-class background who hasn't yet decided whether he's an athlete or something more.",
+  "brief_introduction": "Dave is a junior at NYU on a partial athletic scholarship, playing shooting guard for the college basketball team. He works part-time behind the counter at the corner coffee shop downstairs to cover the rest of his tuition. Friendly and loud in groups, he grows quieter when the subject turns to life after graduation — a future he hasn't figured out. He moved into Bremer Apartment sophomore year to save money and has become a fixture of the building's social life.",
+  "talents": {
+    "qualitative": "Born in Newark, New Jersey, to Nigerian immigrant parents — his father drives a taxi, his mother is a home health aide. The eldest of three siblings, Dave learned early to be responsible and adaptable. He picked up basketball in middle school and it became his ticket to college, though he knows he is not NBA-caliber. Academically solid but not exceptional; he majors in communications because it sounded flexible. He has a natural gift for making people comfortable — strangers open up to him quickly. He secretly writes poetry in a notes app on his phone, something he has never shown anyone. He worries about disappointing his parents, who sacrificed enormously to come to America.",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 70,
+      "creativity": 55,
+      "health": 100,
+      "honesty": 70,
+      "integrity": 80,
+      "intelligence": 60,
+      "leadership": 75,
+      "trustworthiness": 80
+    }
+  },
+  "details": "Dave grew up sharing a bedroom with two younger brothers in a small Newark apartment. His parents spoke Igbo at home and English outside; he code-switches without thinking. Basketball gave him structure and community through high school. He earned a partial scholarship to NYU — not enough to cover everything, so he picked up the coffee-shop job freshman year. He moved into Bremer Apartment at the start of sophomore year when a room opened up on the fourth floor. He quickly became the guy who organizes rooftop hangouts, carries groceries for older neighbors, and remembers everyone's coffee order. His coach praises his hustle but has hinted he won't get more playing time unless his three-point shot improves. The pandemic spring of 2020 shook him — season cancelled, classes online, the coffee shop nearly closed. He kept working through it, masked and anxious. He's begun wondering whether he should pivot toward coaching or sports journalism after graduation, but the thought of giving up playing feels like giving up an identity.",
+  "conflicts": "Torn between love of basketball and the pragmatic knowledge that it won't become a career; feels guilty spending time on anything that isn't school or sport because his parents are sacrificing for his tuition; secretly writes poetry but fears ridicule from teammates; struggles with the pressure of being the 'successful eldest son' in an immigrant family; uncertain whether New York is where he belongs long-term.",
+  "core_motivation": "Wants to honor his parents' sacrifice by building a stable, meaningful life; seeks to discover who he is beyond basketball; hopes to find the courage to share his creative side; desires genuine connection with people who see him as more than just an athlete.",
+  "personality_traits": {
+    "qualitative": "Dave is an ESFJ — warm, dutiful, people-oriented, and traditional in his loyalties. He thrives on social harmony and dislikes conflict, which sometimes leads him to suppress his own needs. He's generous to a fault, often lending money or time he can't spare. Competitive on the court but easygoing off it. His humor is self-deprecating and quick. Under stress he withdraws rather than lashes out, which surprises people who assume his size means aggression. He respects hard work above talent and kindness above cleverness.",
+    "quantitative": {
+      "confidence": 65,
+      "control": 70,
+      "curiosity": 60,
+      "empathy": 70,
+      "judging": 75,
+      "introversion": 30,
+      "intuition": 55,
+      "patience": 70,
+      "responsibility": 100,
+      "thinking": 55
+    }
+  },
+  "preferences": "Likes pickup basketball, hip-hop and Afrobeats, rooftop hangouts, cooking Nigerian food from his mother's recipes, watching ESPN highlights, eavesdropping on interesting coffee-shop conversations, writing poetry late at night; dislikes pretentiousness, wasted food, people who talk down to service workers, cold weather, being asked 'so are you going pro?', and sitting still for too long.",
+  "position": {
+    "weekly_income": 280,
+    "role": "Part-time barista / college student-athlete",
+    "organization": "The Corner Coffee Shop / NYU Violets Men's Basketball",
+    "type": "mixed",
+    "description": "Works roughly 20 hours a week at the coffee shop (mornings and weekends) while carrying a full course load and attending daily team practices. His scholarship covers tuition partially; the coffee-shop wages cover rent and groceries.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "basketball": 200,
+    "barista_and_coffee": 35,
+    "cooking": 95,
+    "writing_and_poetry": 15,
+    "public_speaking": 85,
+    "communications_coursework": 35,
+    "fitness_and_conditioning": 200,
+    "Spanish": 15,
+    "Igbo": 35
+  },
+  "init_assets": {
+    "deposit": 620,
+    "possessions": [
+      {
+        "name": "Basketball gear",
+        "description": "Two pairs of worn Nike basketball shoes, team-issued practice jerseys, a scuffed Spalding ball he's had since high school"
+      },
+      {
+        "name": "Laptop",
+        "description": "A refurbished 2017 Dell Inspiron his parents gave him for college; screen hinge held with tape but still functional for Zoom classes and essays"
+      },
+      {
+        "name": "Phone",
+        "description": "iPhone SE (2nd gen), cracked screen protector, stuffed with notes-app poems he never shares"
+      },
+      {
+        "name": "Gold chain",
+        "description": "A thin gold chain his father brought from Nigeria — the only piece of jewelry he owns, worn every day under his shirt"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes hard work and loyalty are the foundations of a good life. Admires sacrifice — especially his parents' — and feels a deep obligation to make their immigration worthwhile. Respects humility and distrusts flash. Thinks kindness is a form of strength. Fears mediocrity and the possibility that he will end up 'just okay' at everything rather than excellent at something. Treasures community and belonging above individual achievement.",
+  "birthday": "Y2000-W6-activity-D5",
+  "birth_year": 2000
+}

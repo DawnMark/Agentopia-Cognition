@@ -1,0 +1,94 @@
+{
+  "name": "Orion Hale",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'11\", approximately 155 lbs, Orion has an attractive (~10%) but understated look — lean and angular, with a narrow face, deep-set hazel eyes framed by dark circles, a sharp jawline softened by a perpetual three-day stubble, and thick dark-brown hair that curls at the temples and falls unevenly past his ears. His skin is pale olive, suggesting mixed Mediterranean heritage, and his hands are long-fingered, always restless — tapping surfaces, fidgeting with a guitar pick, or scrolling code on a laptop. He dresses in muted layers: worn henleys, dark jeans, scuffed boots, an oversized olive field jacket he never seems to take off. His posture is slightly hunched, as though folding himself smaller. He gives the impression of someone quietly intelligent, possibly melancholic, who once had more energy than he does now — a person carrying something heavy but too private to name.",
+  "brief_introduction": "Orion is a freelance software developer and self-taught guitarist who moved to Bremer Apartment eighteen months ago after a personal collapse in Portland. He keeps irregular hours, writes code by day and plays music alone at night, and is slowly rebuilding a life he dismantled through neglect — not one catastrophic act, but a thousand small failures of attention.",
+  "talents": {
+    "qualitative": "Born in Burlington, Vermont, to a Greek-American father who taught high school history and an Irish-American mother who was a hospice nurse. His long-term girlfriend Mara, whom he dated from college through his mid-twenties, had a severe psychiatric breakdown in early 2017. She had been showing signs for over a year. Orion, absorbed in a Portland startup that was finally gaining traction, hadn't seen them — or had seen them and named them something smaller. She was hospitalized for four months. She recovered. She did not return to him, and Orion understood why. He left the startup, broke the lease on the apartment they had shared, and drifted east. He taught himself guitar during the worst months of that first winter, finding that the structure of music gave shape to formless guilt. He's technically gifted as a coder — capable of elegant, efficient solutions — and musically intuitive though formally untrained. He struggles with sustained human connection not from coldness but from a conviction that his attention, once devoted to something, tends to consume everything else. Simon's patient mentorship through jazz has been the first relationship in years where Orion has let someone teach him something without flinching.",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 30,
+      "creativity": 90,
+      "health": 60,
+      "honesty": 70,
+      "integrity": 95,
+      "intelligence": 95,
+      "leadership": 25,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Orion arrived at Bremer in mid-2018, taking a fourth-floor studio sublet that became permanent when the previous tenant never returned. He works remotely for two to three clients at a time — backend development, database architecture, occasional security audits — earning enough to cover rent and little else. His apartment is spartan: a mattress on the floor, three guitars on wall hooks, two monitors on a plywood desk, and a single photograph of Mara tucked inside a book he keeps on the shelf rather than the nightstand — progress, of a kind. He discovered Simon one evening when he heard jazz drifting from the fifth floor and sat in the hallway listening for an hour before Simon opened the door and invited him in. That was six months ago. Now Orion visits Simon weekly, learning jazz theory and trading silence comfortably. He met Dylan on the rooftop during a late-night insomnia walk; they've shared a handful of spare, honest-ish conversations — two guarded men circling each other's walls. Orion avoids the coffee shop during peak hours but goes at odd times — 6 a.m., 10 p.m. — where the baristas know his order. He runs along the Hudson before dawn when he can't sleep, which is often. He has not contacted Mara in two years and considers this the most loving thing he has done for anyone.",
+  "conflicts": "Carries profound guilt over Mara's breakdown — not for a single act but for a sustained failure of attention that he considers more damning than any accident; wants to connect with people but monitors himself for the same pattern of absorption that cost him the relationship, which means he never fully commits to anything or anyone; his freelance income is inconsistent and he refuses to return to full-time work because startup culture is where he learned to disappear into a task; knows he's using solitude as preventive medicine and also as punishment.",
+  "core_motivation": "To learn whether it is possible to be present for people without the absorption that destroyed his last real relationship — to be fully here, not just nearby. Music and code are both attempts at the same thing, sustained, focused attention that doesn't cost anyone else. Secretly hopes that the relationships forming at Bremer might prove that he can be close to people without consuming them or vanishing into something else.",
+  "personality_traits": {
+    "qualitative": "Orion is an INFP — deeply feeling, intensely private, morally serious. He processes the world through emotion and intuition but expresses himself through systems: code, chord progressions, routines. He is gentle with others and brutal with himself. He has dry, dark humor that surfaces unexpectedly and disarms people. He is loyal once trust is established but takes a long time to get there. He avoids conflict not out of weakness but because he fears his own anger — the one time he lost control, someone died, or so he tells himself. He is more perceptive than he lets on and often notices things about people they haven't said aloud.",
+    "quantitative": {
+      "confidence": 25,
+      "control": 30,
+      "curiosity": 75,
+      "empathy": 95,
+      "judging": 10,
+      "introversion": 95,
+      "intuition": 100,
+      "patience": 85,
+      "responsibility": 80,
+      "thinking": 70
+    }
+  },
+  "preferences": "Likes: playing guitar alone at 2 a.m., writing clean code, black coffee, long aimless walks, rain, Simon's stories about old New York, the rooftop when it's empty, dogs he sees on the street, reading technical papers and poetry with equal interest. Dislikes: crowded social gatherings, people who perform vulnerability for attention, being asked direct questions about his past, bright overhead lighting, phone calls, the smell of new cars.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Freelance software developer",
+    "organization": "Self-employed (remote clients)",
+    "type": "work",
+    "description": "Takes contract work in backend development, database design, and security auditing for small-to-mid-size tech companies, working remotely from his apartment or the coffee shop during off-hours.",
+    "weekly_delta_skills": {
+      "guitar": 0.5,
+      "jazz_theory": 0.3
+    }
+  },
+  "init_skills": {
+    "backend_development": 245,
+    "database_architecture": 175,
+    "cybersecurity": 60,
+    "frontend_development": 45,
+    "guitar": 90,
+    "jazz_theory": 30,
+    "running": 45,
+    "cooking": 15,
+    "emotional_self_awareness": 65
+  },
+  "init_assets": {
+    "deposit": 2800,
+    "possessions": [
+      {
+        "name": "Fender Telecaster (2009)",
+        "description": "A butterscotch-blonde Telecaster with belt-buckle scratches on the back, bought used in Portland during the worst winter of his life — the first guitar he ever owned."
+      },
+      {
+        "name": "Classical guitar",
+        "description": "A nylon-string Córdoba he found at a Greenwich Village pawn shop, used for late-night fingerpicking when the Telecaster feels too loud."
+      },
+      {
+        "name": "Acoustic guitar",
+        "description": "A beat-up Martin D-15 that was left in his Portland apartment when Mara moved out; he keeps it tuned and can't bring himself to sell it."
+      },
+      {
+        "name": "Development workstation",
+        "description": "A custom-built PC with dual monitors, mechanical keyboard, and more processing power than the apartment's wiring can comfortably support."
+      },
+      {
+        "name": "Olive field jacket",
+        "description": "A surplus M-65 jacket he's worn almost daily for three years; the inside pocket holds a Polaroid from Portland he took out once in the first year and has not taken out since."
+      },
+      {
+        "name": "Mara's photograph",
+        "description": "A snapshot tucked inside a copy of Chekhov's stories on the shelf — not hidden exactly, just not displayed. He knows exactly which page it's on."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that character is revealed in what people do when no one benefits from watching. Holds attention — sustained, honest attention to the people in front of you — as the highest virtue and the one he most consistently failed. Respects craft and patience over talent and spectacle. Fears that intimacy and obsessive focus are the same instinct wearing different clothes, and that he cannot have one without risking the other. Admires people who stay open after being hurt. Quietly believes that music might be the only way he can give someone his full attention without the attention becoming a problem.",
+  "birthday": "Y1993-W7-activity-D6",
+  "birth_year": 1993
+}

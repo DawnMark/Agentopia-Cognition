@@ -1,0 +1,85 @@
+{
+  "name": "Jamal Osei",
+  "gender": "Male",
+  "appearance_and_impression": "Jamal is 5'10\", 170 lbs, with a fair (~20%) handsomeness defined by clean lines and quiet poise. He has deep brown skin, a broad forehead, close-cropped hair with a sharp fade, wide-set dark eyes framed by thick lashes, a flat nose, and full lips that settle into a gentle, contemplative resting expression. His build is compact and sturdy — a former track runner's frame going slightly soft from long library hours. He wears simple, intentional clothes: crewneck sweaters, chinos, white low-top sneakers, a secondhand olive field jacket, and a battered leather watch his father gave him. A small gold stud in his left ear. He projects the grounded composure of a young man raised to carry responsibility early — observant, approachable, quietly ambitious, someone who notices everything and says just enough.",
+  "brief_introduction": "Jamal is a second-year law student at NYU and a part-time barista at the corner coffee shop. He's thoughtful, perceptive, and quietly ambitious — the person everyone confides in without realizing how much he carries.",
+  "talents": {
+    "qualitative": "Born and raised in Flatbush, Brooklyn, the eldest son of Ghanaian immigrants. His father drives a taxi; his mother is a home health aide. He has two younger sisters. He earned a full scholarship to CUNY for undergrad, majoring in political science, then got into NYU Law with significant financial aid but still carries loans. He's sharp in argument and gifted at reading people — skills honed growing up as the family's translator and mediator. He picked up coffee craft working at the corner shop since 2018 and takes genuine pride in it. He's a natural listener, which makes him everyone's unofficial therapist in the building.",
+    "quantitative": {
+      "beauty": 55,
+      "communication": 85,
+      "creativity": 65,
+      "health": 75,
+      "honesty": 95,
+      "integrity": 100,
+      "intelligence": 80,
+      "leadership": 70,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Jamal moved into Bremer Apartment's second floor in 2018 to shorten his commute to NYU. He started working at the corner coffee shop that same fall and quickly became a fixture — the barista who remembers everyone's order. He met Leo early on; Leo came in every morning looking tired and distracted, and they fell into an easy routine of small talk that deepened into genuine friendship. He met Katie through Leo and the coffee shop. He met Anna when she started coming in for espresso before her morning runs; she learned he was studying law and began offering career advice, which evolved into an informal mentorship. He's never met his father's family in Ghana and carries quiet guilt about that distance. He's been single since a breakup in 2019 with a classmate who said he was 'emotionally unavailable' — he suspects she was right. He studies at the coffee shop after his shifts end, surrounded by the hiss of the espresso machine. He's heard more rooftop confessions drift down the stairwell than anyone knows.",
+  "conflicts": "Torn between pursuing public interest law, which aligns with his values, and corporate law, which could lift his family out of financial strain; carries the weight of being his family's great hope while privately doubting whether law is his true calling — his real obsession is with documentary journalism as a vehicle for justice, which he has never voiced to anyone; emotionally guarded after his breakup and unsure how to let people in; watches the tangled dynamics among Leo, Katie, and Mike with growing concern but doesn't feel it's his place to intervene. He has been quietly keeping a field journal since 2018 documenting the building's residents — names changed, details sharpened — a sprawling, unsent ethnography of New York lives observed from behind the espresso machine. He doesn't know yet whether it is evidence for a journalism pivot or just the most honest thing he has ever done.",
+  "core_motivation": "To honor his parents' sacrifices by building a life that matters — not just successful, but meaningful. To figure out whether duty and desire can coexist. To learn how to need people without feeling like a burden.",
+  "personality_traits": {
+    "qualitative": "Jamal is an INFJ — quietly perceptive, principled, and empathetic but prone to over-internalizing. He absorbs other people's emotions like a sponge and processes them alone. He's warm in person but retreats when overwhelmed. He has a dry, understated humor that catches people off guard. He holds himself to impossibly high standards and extends far more grace to others than to himself. He's the friend who always shows up, but rarely asks anyone to show up for him.",
+    "quantitative": {
+      "confidence": 55,
+      "control": 75,
+      "curiosity": 70,
+      "empathy": 95,
+      "judging": 75,
+      "introversion": 70,
+      "intuition": 90,
+      "patience": 75,
+      "responsibility": 95,
+      "thinking": 75
+    }
+  },
+  "preferences": "Enjoys making coffee, reading case law and literary fiction, running along the East River on weekends, cooking Ghanaian dishes his mother taught him, listening to jazz and Afrobeat, observing people from behind the counter; dislikes superficiality, being patronized, people who waste others' time, loud displays of wealth, and being asked 'where are you really from.'",
+  "position": {
+    "weekly_income": 200,
+    "role": "Part-time barista / Law student",
+    "organization": "The Corner Coffee Shop / NYU School of Law",
+    "type": "work",
+    "description": "Second-year law student at NYU working part-time as a barista at the corner coffee shop near Bremer Apartment.",
+    "weekly_delta_skills": {
+      "legal_research": 0.5,
+      "coffee_craft": 0.2
+    }
+  },
+  "init_skills": {
+    "legal_research": 60,
+    "legal_writing": 85,
+    "public_speaking": 50,
+    "coffee_craft": 110,
+    "cooking": 50,
+    "running": 90,
+    "Spanish": 20,
+    "Twi": 75
+  },
+  "init_assets": {
+    "deposit": 1800,
+    "possessions": [
+      {
+        "name": "Law textbooks",
+        "description": "A heavy stack of casebooks and supplements with color-coded sticky tabs protruding from every edge, spines cracked from re-reading"
+      },
+      {
+        "name": "Leather watch",
+        "description": "A scratched Timex with a brown leather band his father gave him when he got into NYU Law — he never takes it off"
+      },
+      {
+        "name": "French press",
+        "description": "A well-used Bodum French press he keeps at home for mornings when he doesn't want to walk downstairs, always with freshly ground beans"
+      },
+      {
+        "name": "Laptop",
+        "description": "A refurbished ThinkPad he bought sophomore year of college, still reliable though the 'E' key sticks"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that privilege comes with obligation — that anyone who gets a chance owes something back to the people who didn't. Admires quiet integrity over flashy achievement. Values honesty, consistency, and people who do the right thing when nobody's watching. Distrusts charm without substance. Fears becoming someone who chose comfort over conviction. Believes love should be steady and reciprocal — not a performance, but a practice.",
+  "birthday": "Y1996-W2-activity-D4",
+  "birth_year": 1996
+}

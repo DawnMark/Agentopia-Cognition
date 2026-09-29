@@ -1,0 +1,86 @@
+{
+  "name": "Oliver Grant",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'11\" and a solid 175 lbs, Oliver registers as fair (~20%) with a clean-cut, corporate-casual aesthetic. His face is rectangular and evenly proportioned — straight nose, a firm jaw dusted with perpetual five-o'clock shadow, deep-set brown eyes underscored by faint circles from late-night studying, thick dark brows that give him a slightly serious resting expression, and medium-warm skin that tans easily in summer. His hair is dark brown, kept short on the sides and neatly combed on top, though by evening it falls across his forehead in defeated wisps. He has broad shoulders, a trim but unexceptional build — the frame of someone who jogs but doesn't obsess over it. He dresses in pressed chinos, Oxford shirts with the sleeves rolled to the forearm, leather-banded watches, and brown desert boots, rotating in a navy peacoat during winter. A worn leather messenger bag goes everywhere, stuffed with CFA prep books, a TI-84 calculator, and a thermos of black coffee. He walks with purposeful, slightly hurried strides, often checking his phone mid-step. He gives the impression of dependable, quietly striving professionalism — someone who files taxes for fun but secretly wants to blow up his own spreadsheet-ordered life.",
+  "brief_introduction": "Oliver is a twenty-eight-year-old CPA working at a mid-size accounting firm in Midtown, grinding through his CFA Level II exam in hopes of pivoting into investment banking or equity research. He moved into unit 3B in early 2019. Practical, self-disciplined, and sociable in a low-key way, he masks career anxiety with dry humor and an almost compulsive need to plan.",
+  "talents": {
+    "qualitative": "Born in Columbus, Ohio, to a high school math teacher father and a nurse mother. Older sister is a pediatrician in Chicago. Grew up in a stable, middle-class household where achievement was expected but not pressured — his parents are proud of his CPA but don't fully understand why he wants to leave accounting. Earned his accounting degree at Ohio State, graduated magna cum laude, and moved to New York in 2014 for a staff accountant position at a mid-tier firm. Passed the CPA exam on his first attempt. Competent and reliable but increasingly restless — he watches finance YouTubers at night, reads Wall Street Oasis forums obsessively, and quietly envies people who took bigger swings earlier. Good with numbers, better with people than he thinks, and prone to underestimating his own likability.",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 70,
+      "creativity": 50,
+      "health": 70,
+      "honesty": 75,
+      "integrity": 95,
+      "intelligence": 80,
+      "leadership": 65,
+      "trustworthiness": 100
+    }
+  },
+  "details": "Oliver moved into 3B in January 2019 after finding the listing on StreetEasy — the rent fit his budget and the commute to Midtown was tolerable. His apartment is neat, almost spartan: a second-hand IKEA desk dominates the living room, stacked with CFA textbooks, highlighters organized by color, and a whiteboard calendar plotting his study schedule through June 2020. A framed photo of his family at his college graduation sits on the bookshelf beside a small collection of personal finance books and a single potted snake plant his sister sent as a housewarming gift. He spends most evenings studying, often relocating to the corner coffee shop around 7 p.m. when his apartment walls feel too close. It was there he began nodding hello to Sophia Lin, who occupied the neighboring table with her own laptop and notebook. Over months of parallel work sessions, they developed an easy rapport — swapping complaints about screen fatigue, debating whether the shop's new cold brew was worth the upcharge, and occasionally sharing real conversation. He respects her technical mind and suspects she's working on something beyond her day job but hasn't pried. He met Caius on the rooftop during a warm evening in September 2019 — Oliver had come up to clear his head after a brutal practice exam, and Caius was playing guitar quietly near the water tower. They talked about career doubt, creative ambition versus financial security, and the particular loneliness of wanting a life different from the one you're building. They've shared beers on the roof a handful of times since. Oliver also crosses paths with Emily at the coffee shop and in the hallway; he finds her energy refreshing and has helped her with a tax question once.",
+  "conflicts": "He is trapped between financial pragmatism and professional desire — his accounting salary is stable and respectable, but every month spent not transitioning into finance feels like a month wasted. The CFA Level II exam looms and he failed a practice test badly in February 2020, shaking his confidence. He worries he's too old to break into banking at twenty-nine, that his Ohio State degree can't compete with Ivy League analysts five years younger. His firm offered him a promotion to senior accountant, which would mean more money but deeper entrenchment in a career he wants to leave — he has two weeks to respond. He's frugal to the point of self-denial, saving aggressively for a potential unpaid internship transition, which means he rarely goes out and sometimes feels isolated. He broke up with his girlfriend, Dana, eight months ago because she wanted to move to the suburbs and he wasn't ready to settle — he doesn't regret it but misses being known by someone.",
+  "core_motivation": "To prove — mostly to himself — that he is capable of more than competence. He wants to move from counting other people's money to making consequential decisions with it. Beneath the career ambition is a deeper hunger to feel that his life in New York means something, that the sacrifice of comfort and proximity to family has purchased not just a salary but a genuine transformation. He wants to take one real risk before he turns thirty.",
+  "personality_traits": {
+    "qualitative": "Oliver is an ISTJ tilting toward ESTJ — methodical, responsible, and reliable, with a social warmth that surprises people who first read him as buttoned-up. He plans obsessively and finds comfort in structure, but his current dissatisfaction is teaching him that plans sometimes need demolishing. He uses self-deprecating humor to defuse tension and avoid vulnerability. He is generous with his time — willing to explain tax law to anyone who asks — but guards his inner anxieties carefully. He admires risk-takers from a cautious distance. Loyal to a fault, slow to open up, but deeply steady once he does.",
+    "quantitative": {
+      "confidence": 50,
+      "control": 70,
+      "curiosity": 65,
+      "empathy": 80,
+      "judging": 80,
+      "introversion": 65,
+      "intuition": 30,
+      "patience": 80,
+      "responsibility": 100,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes spreadsheets, morning jogs along the Hudson, black coffee, rooftop evenings with a beer, college basketball, cooking simple meals from budget cookbooks, reading finance case studies, helping people with practical problems; dislikes waste, performative ambition, loud bars, small talk about the weather, people who don't tip well, being asked why he hasn't 'made it' yet, and unsolicited advice about his love life.",
+  "position": {
+    "weekly_income": 500,
+    "role": "Senior Staff Accountant",
+    "organization": "Whitfield & Associates CPAs",
+    "type": "work",
+    "description": "Full-time accountant at a mid-size Midtown firm, handling audits and tax preparation for small-to-mid-cap clients. Currently studying for CFA Level II.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "accounting": 290,
+    "financial_analysis": 40,
+    "Excel_and_modeling": 285,
+    "tax_law": 130,
+    "statistics": 80,
+    "public_speaking": 25,
+    "cooking": 25,
+    "running": 95
+  },
+  "init_assets": {
+    "deposit": 10000,
+    "possessions": [
+      {
+        "name": "CFA study materials",
+        "description": "Schweser notes, Kaplan QBank subscription, three battered practice exam booklets covered in highlighter and margin notes"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2017 ThinkPad T470 with a cracked corner from a coffee shop fall, reliable but slow when running large Excel models"
+      },
+      {
+        "name": "Whiteboard calendar",
+        "description": "A 36x24 dry-erase board mapped with color-coded study blocks, bill due dates, and a countdown to the CFA exam"
+      },
+      {
+        "name": "Running shoes",
+        "description": "A pair of well-worn Brooks Ghost 12s, slightly flattened on the left heel from his gait"
+      },
+      {
+        "name": "Snake plant",
+        "description": "A thriving Sansevieria in a terracotta pot, the one living thing in his apartment he hasn't managed to neglect"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that hard work should be its own currency but fears that in New York it isn't enough without pedigree or connections. Values honesty, follow-through, and quiet generosity — judges people by whether they do what they said they would. Respects ambition but distrusts ambition divorced from competence. Fears mediocrity more than failure — the idea of a comfortable, unchallenged life genuinely frightens him. Believes you owe it to yourself to attempt the harder path at least once. Holds loyalty as sacred; once he considers someone a friend, he will show up without being asked. Wants to believe that reinvention is possible at any age but needs proof.",
+  "birthday": "Y1991-W7-activity-D2",
+  "birth_year": 1991
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Lily Park",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'4\" at around 118 lbs, Lily has a fair (~20%) delicate prettiness — high cheekbones, almond-shaped dark eyes perpetually rimmed with faint shadows from late nights, a small upturned nose, and straight black hair that falls just past her collarbones, often tucked behind one ear with a pencil forgotten there. Her frame is slender and slightly angular, wrists narrow, posture a touch hunched from years bent over books. She gravitates toward muted earth tones — oversized camel sweaters, corduroy trousers, canvas tote bags overflowing with paperbacks and loose notes. A thin gold chain with a jade pendant sits at her throat. She gives the impression of a thoughtful, quietly intense young woman — someone carrying both scholarly ambition and an unspoken sadness, bookish yet observant, suggesting a sheltered upbringing now being tested by the world.\n",
+  "brief_introduction": "Lily is a second-year MFA student in fiction at NYU, living alone in a fourth-floor studio in Bremer Apartment. She tutors undergraduates in writing to pay rent and is working on a novel reconstructing her maternal grandmother's story as a wartime nurse during the Korean War — a project that requires her to handle fragments of the past her mother has kept sealed in a shoebox for thirty years. She is private but deeply empathetic, forming slow but lasting bonds with the few neighbors she trusts.\n",
+  "talents": {
+    "qualitative": "Born in Fort Lee, New Jersey, to Korean immigrant parents — her father manages a Korean BBQ restaurant in Fort Lee, her mother teaches ESL at a community center in Palisades Park. Lily was the quiet, studious child who won every essay contest and earned a full scholarship to Barnard for undergrad. Writing came naturally; social ease did not. She spent college buried in Chekhov and Alice Munro while classmates went to parties. Her acceptance into NYU's MFA program was the proudest moment of her family's life, though her parents privately wish she had chosen medicine. She is bilingual in Korean and English, a patient and perceptive reader of people as well as prose, and possesses a quiet stubbornness that keeps her writing through doubt.\n",
+    "quantitative": {
+      "beauty": 80,
+      "communication": 65,
+      "creativity": 95,
+      "health": 55,
+      "honesty": 75,
+      "integrity": 90,
+      "intelligence": 95,
+      "leadership": 35,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Lily moved into Bremer Apartment in August 2019, subletting a cramped fourth-floor studio from a departing tenant. She chose it for the rent and the proximity to NYU. Her first months were lonely — she cooked for one, wrote for hours, spoke to almost no one. Then autumn came and she discovered the rooftop. One October evening she went up to clear her head and found Leo sitting alone with his guitar. They didn't speak much that first night, just shared the silence. Over the following months they developed a gentle, undemanding friendship — Leo plays, Lily writes in her notebook, and sometimes they trade observations about the city below. She finds his music moving and has told him so, though he deflects every compliment. She also became a morning regular at the corner coffee shop, where she sits in the window seat drafting her novel. Grace often occupies the next table with case files, and they've progressed from nodding acquaintances to brief, warm exchanges — Lily once recommended a novel Grace ended up loving. Lily's novel is stalling in early 2020; she can't write the chapter about her grandmother's collaboration with American military forces — a decision that protected the family but cost them their standing in their village — without feeling she is exposing something her mother has spent a lifetime not speaking of. The shoebox of letters and photographs is on her desk. She has not opened it in three weeks. Her MFA workshop peers praise her prose but push her to go deeper, which terrifies her. She tutors three undergraduates weekly at $40/hour, supplemented by a small departmental stipend. She calls her mother every Sunday. She has not dated anyone seriously since a painful breakup with a college boyfriend in 2017 who told her she was \"emotionally unreachable.\" She fears he was right.\n",
+  "conflicts": "Struggling to finish her novel because the most important chapter requires surfacing a piece of her grandmother's history that her mother has guarded with deliberate silence — writing it feels like theft, not writing it feels like erasure; caught between honoring her parents' sacrifices and pursuing a career they don't fully understand; fears emotional intimacy after being told she shuts people out; worries the MFA was a selfish choice and that she'll fail to justify it; the looming economic uncertainty of early 2020 threatens her tutoring income and her ability to stay in New York.\n",
+  "core_motivation": "To write something true enough to justify every sacrifice her family made — and in the process, to learn how to let people in rather than only observing them from behind the page. To give her grandmother a life on the page before the last witnesses to it are gone.\n",
+  "personality_traits": {
+    "qualitative": "Lily is an INFJ — introspective, idealistic, and quietly intense. She processes the world through narrative, always composing sentences in her head about the people she watches. She is deeply empathetic but expresses care through acts rather than words — leaving a book outside a neighbor's door, remembering small details others forget. She avoids confrontation and tends to retreat into silence when hurt. She is self-critical to a punishing degree, holding her writing and herself to impossible standards. Beneath her reserve is a fierce loyalty and a dry, understated humor that surfaces only with people she trusts.\n",
+    "quantitative": {
+      "confidence": 35,
+      "control": 85,
+      "curiosity": 95,
+      "empathy": 90,
+      "judging": 70,
+      "introversion": 90,
+      "intuition": 100,
+      "patience": 85,
+      "responsibility": 75,
+      "thinking": 85
+    }
+  },
+  "preferences": "Likes: handwriting in Moleskine notebooks, black tea with honey, rain against windows, used bookstores, the rooftop at dusk, listening to live acoustic music, cooking Korean comfort food from memory, long walks through the Village alone, reading short stories before bed. Dislikes: loud crowded bars, small talk at networking events, being asked \"what her novel is about\" at parties, unsolicited writing advice from non-writers, wasting food, performative vulnerability on social media, feeling indebted to anyone.\n",
+  "position": {
+    "weekly_income": 210,
+    "role": "MFA Fiction Student / Writing Tutor",
+    "organization": "NYU Creative Writing Program",
+    "type": "non-work",
+    "description": "Second-year MFA candidate in fiction. Tutors three undergraduate students weekly in academic and creative writing at $40/session ($120/week). Receives a departmental stipend of approximately $90/week. Total weekly income around $210.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "fiction_writing": 170,
+    "literary_analysis": 115,
+    "academic_tutoring": 60,
+    "korean": 250,
+    "cooking": 70,
+    "guitar": 5,
+    "public_speaking": 15,
+    "research": 250,
+    "editing": 250
+  },
+  "init_assets": {
+    "deposit": 1800,
+    "possessions": [
+      {
+        "name": "Laptop",
+        "description": "A 2017 MacBook Air with a cracked corner and 300+ Word documents, her entire writing life stored inside."
+      },
+      {
+        "name": "Notebook collection",
+        "description": "A stack of eleven filled Moleskine notebooks on the windowsill, each labeled by month, containing drafts, observations, and overheard dialogue."
+      },
+      {
+        "name": "Jade pendant necklace",
+        "description": "A thin gold chain with a small jade oval her mother gave her when she left for college — the only jewelry she wears daily."
+      },
+      {
+        "name": "Bookshelf",
+        "description": "A sagging IKEA shelf holding roughly 200 paperbacks — mostly literary fiction, poetry, and a few Korean-language novels her parents brought from Seoul."
+      },
+      {
+        "name": "Grandmother's shoebox",
+        "description": "A worn cardboard shoebox holding thirty years of her grandmother''s wartime letters, two photographs, and a military identification card — the primary research archive for her novel. She has not opened it in three weeks."
+      },
+      {
+        "name": "Electric kettle",
+        "description": "A simple white kettle she uses five times a day for tea, the most essential appliance in her studio."
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that stories can carry truths too heavy for ordinary conversation. Respects quiet persistence over flashy talent. Values honesty but struggles with the cost of it in her own family. Holds loyalty as sacred — once she lets someone in, she does not abandon them. Distrusts easy charm and grand gestures, preferring small consistent acts of care. Fears being ordinary, being exposed, and being the kind of writer who talks about writing more than she writes. Believes her parents' sacrifices created a debt she can only repay by making something lasting.\n",
+  "birthday": "Y1995-W1-activity-D2",
+  "birth_year": 1995
+}

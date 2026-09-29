@@ -1,0 +1,87 @@
+{
+  "name": "Dominic Voss",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'10\" with a compact, barrel-chested frame at around 190 lbs, Dominic registers as fair (~20%) in a polished, middle-aged way — a broad, tanned face with deep-set walnut-brown eyes that appraise everything with transactional precision, a strong Roman nose, a wide mouth bracketed by pronounced laugh lines, and salt-and-pepper hair cropped close and receding at the temples, which he makes no effort to disguise. His jaw is thick and clean-shaven, skin weathered from weekend drives with the top down. His hands are manicured but blunt-fingered, more butcher's hands than pianist's, and he wears a vintage Patek Philippe Calatrava on his left wrist — the only visible extravagance. He dresses in well-fitted dark jeans, merino quarter-zips, and Italian leather loafers without socks, projecting the studied casualness of a man who no longer needs to prove wealth but cannot entirely suppress it. He moves with a confident, slightly bowlegged stride, shoulders squared, as if occupying space is a constitutional right. He gives the impression of a shrewd, self-made operator who has outearned his origins — genial on the surface, calculating underneath — someone who reads a room the way a trader reads a ticker, and whose warmth, while real, always has an exit strategy.",
+  "brief_introduction": "Dominic is a semi-retired investment advisor who made his fortune backing two tech startups that went public. Divorced, childless, and restless in early retirement, he moved into Bremer Apartment's fifth floor seeking something money cannot purchase — a sense of belonging he quietly suspects he forfeited years ago by choosing deals over people.",
+  "talents": {
+    "qualitative": "Born in Scranton, Pennsylvania, to a plumber father and a school-lunch aide mother. Worked construction every summer through college, got an MBA from Wharton on scholarship and grit. Spent twenty years at boutique advisory firms before going independent. Backed a fintech platform in 2012 and a logistics-AI company in 2015 — both IPO'd, netting him north of forty million. Married his college girlfriend; she left after fifteen years, citing emotional absence. No children. Collects luxury cars — a 1967 Ferrari 275 GTB, a Porsche 911 Carrera RS, an Aston Martin DB5 — stored at a climate-controlled garage in New Jersey. Moved into Bremer Apartment in June 2019 after selling his Upper East Side condo, wanting something smaller and less silent. Understands money intimately but suspects it has become a prosthetic for the emotional capacities he let atrophy.",
+    "quantitative": {
+      "beauty": 65,
+      "communication": 80,
+      "creativity": 55,
+      "health": 70,
+      "honesty": 65,
+      "integrity": 70,
+      "intelligence": 90,
+      "leadership": 75,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Dominic occupies a renovated fifth-floor one-bedroom he furnished with leather club chairs, a Persian rug, and framed black-and-white photographs of his cars. He keeps a humidor on the windowsill and a shelf of business biographies he's read twice. He discovered the rooftop his first week and now brings a bottle of good Scotch on Friday evenings, pouring generously for anyone who shows up. That is how he met Dylan Cross — two men sitting in companionable silence, neither needing to fill it. He respects Dylan's discipline and senses a buried grief he knows better than to probe. He encountered Lucian Ardent in late 2019; Dominic recognized the firm name on Lucian's business card and immediately understood the younger man's position — brilliant, leveraged, performing confidence over quicksand. Dominic offered casual mentorship disguised as whisky conversations. He knows Leo from rooftop evenings and the coffee shop. When Leo mentioned his startup's runway problems, Dominic listened carefully and later emailed him a concise, unsolicited memo on cost restructuring — no strings attached. In early 2020, Dominic has been approached by a former partner to co-found a new climate-tech fund, but the commitment would mean re-entering the eighty-hour weeks he swore off. His ex-wife recently remarried; he saw the announcement online and felt nothing, then felt alarmed at feeling nothing. He visits the coffee shop every morning for a double espresso and the newspaper, sitting by the window and watching the street with the vigilance of a man who has spent decades reading situations for profit and now wonders what he missed while he was counting.",
+  "conflicts": "Wealth has insulated him from consequence but also from connection — he can buy access to any room but cannot purchase the intimacy he craves; his ex-wife's remarriage has forced him to confront the emotional vacancy she named in the divorce; the climate-tech fund opportunity tempts him back into the identity that cost him his marriage, but without work he feels purposeless; he mentors younger men like Lucian and Leo partly out of genuine care and partly to feel needed, and he is not sure which motive dominates; he fears that generosity has become another transaction — pouring Scotch in exchange for company.",
+  "core_motivation": "To discover whether the man who remains after the deals, the cars, and the reputation are stripped away is someone worth knowing. He wants to build a relationship — romantic, platonic, any kind — that is not mediated by money. Beneath everything, he wants proof that he is capable of love, not just investment.",
+  "values": "Believes hard work is sacred — grew up watching his father's hands crack and bleed for a paycheck and never forgot it. Respects builders over inheritors, doers over talkers. Holds loyalty as non-negotiable; his longest professional relationships span decades. Distrusts inherited privilege even as he now possesses enormous earned privilege, which creates a dissonance he manages poorly. Fears irrelevance more than poverty. Believes money is a tool, not a score, but catches himself keeping score anyway. Suspects that kindness without sacrifice is just good manners. Wants to believe it is not too late to become a person his father would recognize.",
+  "personality_traits": {
+    "qualitative": "Dominic is an ENTJ — commanding, strategic, results-oriented, but with a subdued warmth that surfaces in private moments. He reads people instantly and adapts his tone to the room. Generous with resources but guarded with emotions. His humor is dry, self-deprecating, and disarming. He can dominate a conversation or disappear into the background depending on what the situation requires. His greatest flaw is treating relationships like portfolios — diversified, managed, periodically rebalanced — when what he needs is to let something be messy and uncontrolled.",
+    "quantitative": {
+      "confidence": 90,
+      "control": 70,
+      "curiosity": 70,
+      "empathy": 65,
+      "judging": 80,
+      "introversion": 50,
+      "intuition": 75,
+      "patience": 85,
+      "responsibility": 85,
+      "thinking": 95
+    }
+  },
+  "preferences": "Enjoys driving his cars on empty upstate roads at dawn, drinking single-malt Scotch on the rooftop, reading financial history and biographies, watching boxing, cooking simple Italian dishes from a recipe book his ex-wife left behind, mentoring younger professionals, and sitting in the coffee shop with the newspaper. Dislikes pretension without substance, people who name-drop, wasted potential, emotional manipulation, loud restaurants, and being pitied. Secretly enjoys jazz but tells people he listens to classic rock.",
+  "position": {
+    "weekly_income": 71,
+    "role": "Semi-retired investment advisor / Independent portfolio manager",
+    "organization": "Voss Capital Advisory (solo practice)",
+    "type": "work",
+    "description": "Manages a small personal portfolio and advises select clients; income derives from residual advisory fees, investment returns, and consulting engagements.",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "financial_analysis": 300,
+    "negotiation": 110,
+    "networking": 270,
+    "strategic_planning": 305,
+    "public_speaking": 180,
+    "cooking": 45,
+    "mechanical_knowledge_cars": 260,
+    "mentoring": 45,
+    "emotional_intelligence": 95
+  },
+  "init_assets": {
+    "deposit": 1420,
+    "possessions": [
+      {
+        "name": "Luxury car collection",
+        "description": "Three classic cars stored in a climate-controlled garage in Hoboken: a 1967 Ferrari 275 GTB, a 1973 Porsche 911 Carrera RS, and a 1964 Aston Martin DB5, collectively valued at approximately $4 million."
+      },
+      {
+        "name": "Patek Philippe Calatrava",
+        "description": "A vintage 1980s Patek Philippe Calatrava wristwatch inherited from his first major business mentor, worn daily."
+      },
+      {
+        "name": "Leather club chairs and Persian rug",
+        "description": "Two oxblood leather club chairs and a hand-knotted Tabriz rug that furnish his fifth-floor apartment, purchased at a Christie's estate auction."
+      },
+      {
+        "name": "Humidor and Scotch collection",
+        "description": "A walnut humidor with a rotating selection of Cuban cigars and a shelf of twelve single-malt Scotch bottles, including a 25-year Macallan."
+      },
+      {
+        "name": "Personal laptop and financial terminals",
+        "description": "A MacBook Pro and a Bloomberg terminal subscription he maintains out of habit, used for portfolio monitoring."
+      }
+    ]
+  },
+  "extra_income": 429,
+  "birthday": "Y1974-W8-activity-D3",
+  "birth_year": 1974
+}

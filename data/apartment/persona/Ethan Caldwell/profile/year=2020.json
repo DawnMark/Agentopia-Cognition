@@ -1,0 +1,86 @@
+{
+  "name": "Ethan Caldwell",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 6'0\" and a lean 165 lbs, Ethan registers as attractive (~10%) in a clean-cut, approachable way that reads as deliberately non-threatening — the kind of face designed for a camera thumbnail. His features are symmetrical and pleasant: warm brown eyes set beneath strong, well-groomed brows, a straight nose, a square jaw softened by a perpetual hint of stubble, and a wide, easy smile that activates on reflex. His skin is a light tan, clear and even, suggesting either good genetics or a careful skincare routine — probably both. His hair is dark brown, thick, kept in a neat tapered fade that he trims every two weeks without fail. His build is slim-athletic — the product of morning runs along the Hudson and a pull-up bar bolted to his bedroom doorframe. He dresses in a curated casual register: fitted chinos, clean white sneakers, solid-color crew-neck tees layered under unstructured blazers or open flannel shirts, a minimal silver watch on his left wrist. He carries a matte-black backpack containing a laptop, a ring light, and a portable microphone. His posture is upright, his gestures precise and rehearsed from hours of on-camera work, and his voice projects a warm baritone clarity that makes even compound interest sound conversational. He gives the impression of an earnest, polished young professional who has monetized his own likability — someone genuinely passionate about teaching but also acutely aware that he is, at all times, a brand.\n",
+  "brief_introduction": "Ethan is a former junior equity analyst turned educational content creator who makes YouTube videos and Instagram reels explaining personal finance, investing basics, and economic trends in plain language. His channel, \"Caldwell Explains,\" has grown from 2,000 to 185,000 subscribers in eighteen months. He moved into Bremer Apartment's third floor in mid-2019, drawn by the rent and the neighborhood's photogenic coffee shops. He is ambitious, generous with knowledge, and quietly terrified that his success is a bubble that could burst at any moment.\n",
+  "talents": {
+    "qualitative": "Born in Columbus, Ohio, to a high-school math teacher father and a hospital administrator mother. Grew up in a stable middle-class household with one older sister who is now a pediatrician in Chicago. Excelled academically — valedictorian, full scholarship to NYU Stern, graduated 2014. Worked three years as a junior analyst at a mid-tier investment bank before burning out in 2017. Spent a directionless year bartending and reading behavioral economics books, then started making finance explainer videos in his apartment in late 2018. His ability to distill complex topics into conversational language fueled rapid growth. He is disciplined, digitally fluent, and genuinely good at teaching, but sometimes mistakes audience validation for self-worth.\n",
+    "quantitative": {
+      "beauty": 75,
+      "communication": 100,
+      "creativity": 80,
+      "health": 70,
+      "honesty": 80,
+      "integrity": 70,
+      "intelligence": 95,
+      "leadership": 85,
+      "trustworthiness": 75
+    }
+  },
+  "details": "Ethan lives in a tidy one-bedroom on the third floor that doubles as his recording studio. One wall is painted matte navy and lined with a floating shelf of finance books — his filming backdrop. A ring light and a mirrorless camera on a tripod occupy the corner by the window. He keeps the apartment obsessively organized; clutter disrupts his focus. He moved in June 2019 after outgrowing a shared apartment in Bushwick. His channel revenue and brand sponsorships bring in roughly $1,100 per week now, though income swings month to month. He supplements with occasional freelance consulting for a fintech startup. He discovered Samuel's coffee shop his first week and it became his daily editing headquarters. Samuel's quiet, bookish energy calms him. He met Camille on the rooftop in autumn 2019 when she was smoking and worrying aloud about exhibition costs; he offered unsolicited budgeting advice, which she initially found patronizing, but they ended up talking for two hours about the economics of being an independent artist. They now have an odd, prickly-but-genuine friendship. He has never been in a serious relationship lasting more than five months — he self-sabotages by prioritizing content schedules over people. He calls his parents every Sunday. He runs along the Hudson at 6 a.m. and is usually in the coffee shop by 7:30.\n",
+  "conflicts": "Terrified that the algorithm will turn against him and his income will evaporate overnight — he has no safety net beyond four months of savings. Feels guilty for leaving finance, a field his parents understood and respected, for something they politely call \"your internet thing.\" Struggles with the performative nature of content creation — he genuinely wants to educate, but sponsorship deals increasingly push him toward sensationalism. A brand recently offered him $8,000 to promote a cryptocurrency he considers dubious, and he hasn't said no yet. Finds it difficult to form deep personal relationships because he unconsciously treats every interaction as potential content. Worries that his audience sees a confident expert while he is, in truth, a twenty-eight-year-old who still checks his subscriber count before brushing his teeth.\n",
+  "core_motivation": "To build something that outlasts the algorithm — a genuine educational platform that helps ordinary people understand money without being condescended to. Beneath that, to prove to himself that quitting the safe path was courage, not cowardice. He wants financial independence not for luxury but for the freedom to never again answer to a boss who measures his worth in billable hours. Secretly, he wants someone to know the version of him that exists when the camera is off.\n",
+  "personality_traits": {
+    "qualitative": "Ethan is an ENTJ with a pronounced teaching instinct — strategic, articulate, and energized by the act of making complex ideas accessible. He is disciplined almost to a fault, structuring his days in ninety-minute content blocks. Socially he is warm and charming but maintains a slight emotional remove, as though part of his mind is always composing a voiceover. He is generous with practical advice — budgets, spreadsheets, investment primers — but uncomfortable with emotional vulnerability, both giving and receiving. He deflects personal questions with humor. He is competitive, though he frames it as self-improvement. He genuinely cares about people but sometimes shows it through usefulness rather than presence.\n",
+    "quantitative": {
+      "confidence": 70,
+      "control": 95,
+      "curiosity": 85,
+      "empathy": 55,
+      "judging": 75,
+      "introversion": 30,
+      "intuition": 70,
+      "patience": 55,
+      "responsibility": 90,
+      "thinking": 95
+    }
+  },
+  "preferences": "Likes morning runs, clean spreadsheets, behavioral economics books, well-crafted documentaries, black coffee, teaching someone something new, rooftop conversations, the satisfying click of a finished video export, meal prepping on Sundays, the first quiet hour of the coffee shop. Dislikes financial misinformation, clutter, passive-aggressive communication, being patronized, crypto hype culture, small talk that never deepens, humidity, losing control of his schedule, and the hollow feeling after checking analytics too many times in a row.\n",
+  "position": {
+    "weekly_income": 357,
+    "role": "Independent content creator and freelance finance consultant",
+    "organization": "Caldwell Explains (YouTube / social media) and part-time consulting for BridgeFin, a fintech startup",
+    "type": "mixed",
+    "description": "Creates and publishes two to three educational finance videos per week, manages sponsorship deals, edits his own content, and consults eight hours a week for a fintech startup on user-education strategy.\n",
+    "weekly_delta_skills": {}
+  },
+  "init_skills": {
+    "financial_analysis": 240,
+    "video_production": 195,
+    "public_speaking": 215,
+    "writing": 80,
+    "data_visualization": 225,
+    "social_media_marketing": 170,
+    "cooking": 15,
+    "music": 10
+  },
+  "init_assets": {
+    "deposit": 7140,
+    "possessions": [
+      {
+        "name": "Recording equipment",
+        "description": "A Sony mirrorless camera, a Rode shotgun microphone, a 14-inch ring light, and a compact tripod — the core kit he bought secondhand when he started the channel in 2018.\n"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2019 MacBook Pro 16-inch, his most expensive single purchase, used for editing, scripting, and consulting calls. The battery is already degrading from constant use.\n"
+      },
+      {
+        "name": "Finance library",
+        "description": "About sixty books on investing, behavioral economics, and market history, displayed on his filming backdrop shelf. Favorites are dog-eared: Kahneman, Malkiel, Bernstein.\n"
+      },
+      {
+        "name": "Running gear",
+        "description": "Two pairs of worn Nike Pegasus shoes, moisture-wicking shirts, and a GPS watch he uses to track his Hudson River runs.\n"
+      },
+      {
+        "name": "Emergency notebook",
+        "description": "A small Moleskine where he hand-writes a monthly budget and tracks every dollar spent — a habit from his analyst days he has never dropped.\n"
+      }
+    ]
+  },
+  "extra_income": 143,
+  "values": "Believes financial literacy is a form of social justice — that ignorance about money is engineered to benefit institutions, and that democratizing that knowledge is genuinely radical. Holds that discipline is a higher virtue than talent, and that consistency compounds in life the same way interest compounds in a portfolio. Respects craft in any domain and admires people who build things patiently. Distrusts easy money and anyone who sells certainty. Fears becoming a fraud — someone who talks about authenticity while chasing metrics. Believes that independence is earned, not inherited, and that the hardest investment anyone makes is in themselves. Privately fears that his emphasis on self-reliance is also a convenient excuse to avoid emotional intimacy.\n",
+  "birthday": "Y1992-W2-activity-D4",
+  "birth_year": 1992
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Dr. Thaddeus Pelagios",
+  "gender": "Male",
+  "appearance_and_impression": "Standing 5'8\" with a stocky, barrel-chested frame at around 195 lbs, Thaddeus registers as average (~40%) in conventional attractiveness but unmistakably memorable. His face is weathered and ruddy, dominated by a broad forehead, deep-set gray-blue eyes magnified behind thick round silver-framed spectacles, and a wide mouth perpetually quirked in mid-thought. A bristly white walrus mustache spans his upper lip. His remaining hair — wispy, white, Einstein-esque — halos his balding crown in unruly tufts. His hands are thick-knuckled and surprisingly delicate when handling specimens. He dresses in rumpled corduroy blazers with elbow patches, mismatched argyle socks visible above battered leather oxfords, and always wears a whale-tooth pendant on a leather cord. His apartment door is plastered with hand-drawn megalodon diagrams. He gives the impression of a distracted, passionate academic — someone who has spent decades thinking about something most people dismiss, and who has made peace with being considered strange.",
+  "brief_introduction": "A tenured paleontology professor at NYU who has lived in Bremer Apartment since 1997, Thaddeus is the building's resident eccentric and unofficial historian. He is consumed by his theory that Carcharodon megalodon survives in deep ocean trenches and has spent his career pursuing evidence that the mainstream scientific community dismisses.",
+  "talents": {
+    "qualitative": "Born in Astoria, Queens, to a Greek-American fisherman father and a schoolteacher mother. Grew up on his father's trawler hearing stories about impossibly large shapes beneath the hull. Earned his PhD in vertebrate paleontology from Columbia in 1988. Published prolifically in the 1990s on Cenozoic marine predators before his megalodon survivorship hypothesis made him a controversial figure. Tenured at NYU before the controversy peaked, which saved his career. Has led three self-funded expeditions to deep-sea sites — the Mariana Trench approach (2004), the Azores Abyssal Plain (2011), and the Tonga Trench (2017) — all inconclusive but rich in anecdotal sonar anomalies he considers promising. His academic peers range from amused tolerance to open scorn. Students either adore or avoid him. He is a gifted lecturer whose Intro to Paleontology course is legendary for its theatrical demonstrations.",
+    "quantitative": {
+      "beauty": 35,
+      "communication": 75,
+      "creativity": 90,
+      "health": 65,
+      "honesty": 80,
+      "integrity": 90,
+      "intelligence": 95,
+      "leadership": 60,
+      "trustworthiness": 85
+    }
+  },
+  "details": "Thaddeus moved into Bremer Apartment's second-floor unit in 1997 after his divorce from marine biologist Helena Voss, who left him partly because she found his megalodon obsession professionally embarrassing. They have no children. His apartment is a museum of chaos — fossil casts on the kitchen table, sonar printouts pinned to walls, a full-scale megalodon tooth replica mounted above the fireplace, and stacks of oceanographic journals blocking the hallway. He keeps a small saltwater aquarium with a single nurse shark named Rosalind (after Franklin). Every morning he walks to the corner coffee shop, orders a double espresso and a plain croissant, and reads marine biology preprints on a battered iPad. He is a fixture of the rooftop in summer, where he holds court about ocean mysteries to anyone who will listen. He befriended Leo after overhearing him play guitar on the roof in 2018 and now considers him a kindred spirit — someone else chasing something the world doesn't value. He's known Megan since she started working at the coffee shop and treats her like a favorite niece, always leaving oversized tips and asking about her law studies. He exchanges nods and occasional Sunday-dinner invitations with Maddox, who lives nearby on his floor and whose engineering mind Thaddeus respects. In early 2020, he is preparing a paper arguing that recent deep-sea thermal vent discoveries support megalodon survival, knowing it may finally cost him what remains of his academic reputation.",
+  "conflicts": "His megalodon theory has made him a laughingstock in serious paleontology circles, and a new paper could destroy his remaining credibility; he is deeply lonely after his divorce but masks it with bluster and eccentricity; he fears that his life's work will amount to nothing provable; he struggles with the creeping suspicion that Helena was right to leave.",
+  "core_motivation": "To find definitive evidence of a surviving megalodon population before he dies — or, failing that, to inspire someone younger to continue the search. Beneath the obsession, he wants to prove that wonder and scientific rigor are not opposites, and that the universe still contains genuine mysteries worth a lifetime.",
+  "personality_traits": {
+    "qualitative": "Thaddeus is a textbook ENTP — intellectually restless, enthusiastically argumentative, and endlessly generative with ideas. He delights in provocation and debate but is never cruel; his challenges come from genuine curiosity, not malice. He is warm, generous, and socially fearless, comfortable talking to strangers, students, and skeptics alike. His obsessiveness can make him oblivious to social cues — he has been known to lecture a captive elevator audience for six floors. He deflects vulnerability with humor and grandiosity. Underneath the performance, he is tender-hearted, sentimental about the building and its people, and quietly terrified of irrelevance.",
+    "quantitative": {
+      "confidence": 70,
+      "control": 35,
+      "curiosity": 95,
+      "empathy": 80,
+      "judging": 50,
+      "introversion": 25,
+      "intuition": 95,
+      "patience": 65,
+      "responsibility": 55,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes: deep-sea documentaries, strong espresso, rooftop conversations under open sky, fossils, live acoustic music, Greek food his mother used to make, debating skeptics, old maps, his shark Rosalind, thunderstorms. Dislikes: intellectual cowardice, dismissiveness disguised as skepticism, small talk about weather, being pitied, institutional bureaucracy, the phrase 'there's no evidence,' overly tidy apartments.",
+  "position": {
+    "weekly_income": 357,
+    "role": "Tenured Associate Professor of Paleontology",
+    "organization": "New York University, Department of Earth and Environmental Sciences",
+    "type": "work",
+    "description": "Teaches undergraduate and graduate paleontology courses, conducts research on Cenozoic marine megafauna, advises graduate students, and maintains an active (if controversial) publication record.",
+    "weekly_delta_skills": {
+      "marine_paleontology": 0.1,
+      "public_speaking": 0.05
+    }
+  },
+  "init_skills": {
+    "marine_paleontology": 310,
+    "geology": 190,
+    "deep_sea_exploration": 60,
+    "academic_writing": 300,
+    "public_speaking": 205,
+    "data_analysis": 75,
+    "scuba_diving": 95,
+    "cooking_greek_cuisine": 95,
+    "guitar": 0
+  },
+  "init_assets": {
+    "deposit": 7140,
+    "possessions": [
+      {
+        "name": "Megalodon tooth fossil (authenticated)",
+        "description": "A 6.5-inch Otodus megalodon tooth recovered from a Peruvian dig in 1994, his most prized possession, kept in a velvet-lined mahogany case on his desk."
+      },
+      {
+        "name": "Sonar equipment (portable)",
+        "description": "A second-hand marine sonar unit purchased from a decommissioned research vessel, stored in his closet, used on his three expeditions."
+      },
+      {
+        "name": "Rosalind the nurse shark",
+        "description": "A juvenile nurse shark in a custom 300-gallon saltwater tank that dominates his living room. Named after Rosalind Franklin."
+      },
+      {
+        "name": "Library of oceanographic texts",
+        "description": "Over 400 books and bound journals on marine biology, paleontology, and deep-sea exploration, filling every bookshelf and most of the floor space."
+      },
+      {
+        "name": "Battered iPad",
+        "description": "A 2016 iPad Pro with a cracked corner, loaded with thousands of PDFs of marine biology papers and his own expedition notes."
+      }
+    ]
+  },
+  "extra_income": 143,
+  "values": "Believes the ocean holds secrets that dwarf anything humans have yet discovered. Holds that intellectual courage — the willingness to be wrong publicly — is the highest scientific virtue. Respects passion over polish, sincerity over status. Distrusts consensus when it masquerades as certainty. Fears dying without having contributed anything lasting to human knowledge. Believes that love, like science, requires faith in the unseen — and that his failure at marriage was a failure of attention, not of love itself.",
+  "birthday": "Y1958-W9-activity-D3",
+  "birth_year": 1958
+}

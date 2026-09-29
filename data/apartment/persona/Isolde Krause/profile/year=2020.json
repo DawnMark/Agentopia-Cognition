@@ -1,0 +1,91 @@
+{
+  "name": "Isolde Krause",
+  "gender": "Female",
+  "appearance_and_impression": "Standing 5'8\" and roughly 135 lbs, Isolde has a fair (~20%) classical elegance that reads as austere before it reads as beautiful. Her face is long and angular — high forehead, prominent cheekbones, a straight Germanic nose, thin lips that rarely part into a full smile. Her eyes are a pale, glacial blue, deeply set beneath fine blonde brows, and they carry a watchful stillness that borders on severity. Her hair is ash-blonde, usually pulled into a low chignon with a few stray wisps framing her temples. Her skin is very pale, almost translucent at the wrists, with faint blue veins visible. Her frame is narrow-shouldered and willowy, with a flutist's posture — lifted sternum, long neck, a particular quality of stillness before she breathes to play. She dresses in muted tones: cream turtlenecks, grey wool trousers, a long navy coat that makes her look like she's perpetually walking through a European winter. She wears no jewelry except a thin silver chain with a small key pendant she never explains. She gives the impression of someone precise, solitary, and quietly formidable — a woman who has chosen discipline over warmth and may not entirely know how to reverse the choice.\n",
+  "brief_introduction": "Isolde is a German-born flutist navigating the freelance classical music scene in New York. Divorced at twenty-seven, she moved to Bremer Apartment in early 2019 seeking anonymity and reinvention. She is deeply private, emotionally controlled, and struggles to let people close — yet her music betrays a vast inner life she cannot express in conversation.\n",
+  "talents": {
+    "qualitative": "Born in Hamburg to a music professor father and a librarian mother, Isolde began flute at age six. She trained at the Hochschule für Musik und Theater Hamburg, then moved to New York in 2015 on a fellowship at Juilliard for a two-year advanced performance program. She married Henrik, a Danish architect, in 2016; they divorced in 2018 after he admitted to a long affair. The divorce shattered her confidence. She left their shared Brooklyn apartment and found Bremer Apartment through a Craigslist listing. She freelances with several chamber ensembles and the occasional Broadway pit orchestra, supplements income with private flute lessons for Upper East Side children. She is meticulous, exacting, and deeply self-critical. Her emotional range lives entirely inside her instrument — in person she can seem cool, even remote.\n",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 30,
+      "creativity": 90,
+      "health": 55,
+      "honesty": 80,
+      "integrity": 90,
+      "intelligence": 75,
+      "leadership": 40,
+      "trustworthiness": 70
+    }
+  },
+  "details": "Isolde moved into apartment 4B in January 2019. For months she spoke to almost no one. She practiced flute six hours a day, the sound threading through the walls and floors like something searching. Gradually neighbors began to notice her — the tall, pale woman with the silver flute case, who nodded politely but never stopped to chat. In summer 2019, she went to the rooftop for the first time to escape the heat and found Leo playing guitar alone. They didn't speak that night — she simply listened from the far side of the roof. Over the following weeks they began an unspoken ritual: he'd play, she'd listen, and eventually she brought her flute. They've since formed a cautious musical friendship, occasionally playing together but rarely discussing anything personal. She frequents the corner coffee shop in late mornings after practice, where she reads German novels and orders the same chamomile tea. She met Katie through Leo and admires her openness but finds it overwhelming. Early 2020 has been financially difficult — gig cancellations are beginning as pandemic rumors grow. She is considering returning to Hamburg, though the thought feels like surrender.\n",
+  "conflicts": "Still carrying shame and grief from her failed marriage; fears that her emotional guardedness makes her fundamentally unlovable; financially precarious as freelance classical gigs dry up in early 2020; torn between staying in New York where she's slowly building connections and retreating to Germany where life would be easier but lonelier; wants to open up to the few people she's grown fond of — Leo, Katie — but every instinct tells her vulnerability is dangerous.\n",
+  "core_motivation": "To prove she can build a life on her own terms after her divorce — that she is more than Henrik's ex-wife, more than her father's dutiful student. To find a way to connect with people as honestly as she connects with music. To stay in New York and make it mean something.\n",
+  "personality_traits": {
+    "qualitative": "Isolde is an INTJ — analytical, reserved, and intensely private. She processes emotions internally and often intellectualizes feelings rather than expressing them. She has a dry, understated sense of humor that surfaces unexpectedly. She is fiercely independent but quietly lonely. She holds herself to exacting standards and extends the same rigor to others, though she's learning that not everyone operates on discipline alone. She respects emotional courage in others precisely because she lacks it herself. When she trusts someone, her loyalty is absolute — but earning that trust takes time and patience.\n",
+    "quantitative": {
+      "confidence": 30,
+      "control": 100,
+      "curiosity": 85,
+      "empathy": 65,
+      "judging": 80,
+      "introversion": 95,
+      "intuition": 70,
+      "patience": 85,
+      "responsibility": 90,
+      "thinking": 100
+    }
+  },
+  "preferences": "Likes: practicing flute at dawn, chamomile tea, German literature, long walks along the Hudson, rooftop evenings listening to city sounds, the architecture of old buildings, handwritten letters, Bach's flute partitas, silence, rain. Dislikes: small talk, loud bars, being asked why she moved to America, people who treat music as background noise, emotional confrontation, pity, anyone who reminds her of Henrik — charming, confident men who seem too comfortable in their own skin.\n",
+  "position": {
+    "weekly_income": 500,
+    "role": "Freelance flutist and private music instructor",
+    "organization": "Various NYC chamber ensembles / Private clients",
+    "type": "work",
+    "description": "Performs with pickup chamber groups, occasional Broadway pit orchestras, and recording sessions. Teaches private flute lessons to four students on the Upper East Side, three afternoons a week. Income fluctuates significantly week to week.\n",
+    "weekly_delta_skills": {
+      "flute_performance": 0.1,
+      "music_theory": 0.05,
+      "teaching": 0.1
+    }
+  },
+  "init_skills": {
+    "flute_performance": 290,
+    "music_theory": 290,
+    "sight_reading": 175,
+    "piano": 95,
+    "teaching": 170,
+    "German": 290,
+    "English": 290,
+    "cooking": 25,
+    "networking": 15
+  },
+  "init_assets": {
+    "deposit": 3200,
+    "possessions": [
+      {
+        "name": "Flute",
+        "description": "A professional silver Powell flute with a gold lip plate, bought in Hamburg with fellowship money in 2013. The keywork is worn smooth at the touch points from thousands of hours of practice. She calls it 'das Silber.'\n"
+      },
+      {
+        "name": "Sheet music collection",
+        "description": "Three boxes of annotated scores spanning Bach to Messiaen, margins filled with penciled fingerings, breath marks, and occasional notes in German — some in her father's handwriting.\n"
+      },
+      {
+        "name": "Silver key necklace",
+        "description": "A thin chain with a small antique key pendant. It was her grandmother's. She has never told anyone what it opens, if anything.\n"
+      },
+      {
+        "name": "Laptop",
+        "description": "A 2017 MacBook Air used for emails, scheduling gigs, and occasionally watching old concert recordings on YouTube at 2 AM.\n"
+      },
+      {
+        "name": "Winter coat",
+        "description": "A long navy wool coat bought in Hamburg before she left. It's too warm for New York summers and not warm enough for New York winters, but she wears it anyway.\n"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes that discipline is a form of love — toward one's craft, toward oneself. Respects people who show up consistently, who do hard things without seeking applause. Values honesty even when it's uncomfortable, though she sometimes confuses silence with honesty. Distrusts charm and grand gestures — Henrik was charming, and charm turned out to be a costume. Fears being abandoned again, fears being ordinary, fears that her best years as a musician are behind her. Believes the flute is the closest thing to truth she's ever found — it requires breath, which is to say it requires life — and that if she can play well enough, she won't need words at all.\n",
+  "birthday": "Y1991-W2-activity-D1",
+  "birth_year": 1991
+}

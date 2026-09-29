@@ -1,0 +1,92 @@
+{
+  "name": "Kairo Osei",
+  "gender": "Male",
+  "appearance_and_impression": "Kairo is 6'1\", 185 lbs, with an attractive (~10%) presence that registers as both commanding and gentle. He has deep brown skin with warm undertones, a strong jaw softened by full lips that settle into a natural half-smile, dark eyes set beneath thick brows, and close-cropped hair with a neat fade. His build is broad-shouldered and solid — a former high school wrestler's frame now softened slightly by long library hours and bodega sandwiches. His hands are large and expressive; he talks with them constantly. He favors clean lines: well-fitted chinos, simple crew-neck sweaters in muted tones, leather boots he resoled twice, and a battered canvas messenger bag that never leaves his side. A thin gold chain — his late grandmother's — always sits against his collarbone. He gives the impression of quiet authority paired with deep empathy — someone you'd trust with a secret or a courtroom.",
+  "brief_introduction": "Kairo is a second-year staff attorney at a legal aid nonprofit in the Bronx, living on Bremer's third floor since 2018. He is the son of Ghanaian immigrants, driven by duty and justice but quietly questioning whether the life he built is the one he actually wants.",
+  "talents": {
+    "qualitative": "Born in Newark, New Jersey to Ghanaian immigrant parents — his father Kwame drives a taxi and his mother Abena is a home health aide. He has two younger sisters, both still in college. He was valedictorian of his public high school, earned a full scholarship to Howard University, then attended NYU Law on a public interest scholarship. He graduated in 2018 and joined the Bronx Defenders as a housing attorney, representing tenants facing eviction. He's sharp in a courtroom and even sharper in conversation, but carries enormous pressure to financially support his family while earning a nonprofit salary. He plays chess obsessively — carries a folding board in his bag — and writes poetry in a leather journal he'd never show anyone.",
+    "quantitative": {
+      "beauty": 70,
+      "communication": 90,
+      "creativity": 85,
+      "health": 70,
+      "honesty": 90,
+      "integrity": 90,
+      "intelligence": 90,
+      "leadership": 70,
+      "trustworthiness": 90
+    }
+  },
+  "details": "Kairo moved into Bremer Apartment in August 2018, taking over a lease from a departing grad student. He chose Greenwich Village despite the commute to the Bronx because the rent was barely manageable and the building felt alive — he'd grown up in a loud household and couldn't stand sterile silence. His days are grueling: eviction hearings, intake interviews with frightened families, stacks of motions drafted on the subway. He earns modestly and sends a portion home each month. He met Katie in the coffee shop in fall 2018 when she was running lines and he was prepping a brief; they struck up a friendship over shared exhaustion and mutual respect for people who chase hard things. He met a neighbor on the rooftop during a summer 2019 gathering — they argued about criminal justice reform for two hours and parted grinning. He knows Maddox as a hallway neighbor; they nod and occasionally share a beer but haven't cracked each other open yet. In early 2020, Kairo received a job offer from a corporate firm — $190K starting. He hasn't told anyone. His father's knees are failing and the family needs money. Taking the offer would betray everything he believes in. Not taking it might betray the people who sacrificed everything for him.",
+  "conflicts": "Corporate job offer versus public interest calling — his family needs the money but his soul needs the mission; sends money home every month and barely covers his own rent, creating constant low-grade financial anxiety; romantically guarded after a college relationship ended when his girlfriend said he 'loved his causes more than people'; fears he's becoming the kind of exhausted, hollow advocate he swore he'd never be; privately writes poetry but considers it frivolous given everything else demanding his energy.",
+  "core_motivation": "To honor his parents' sacrifice by building a life that is both meaningful and sustainable. To protect people who remind him of his own family — immigrants, working-class tenants, anyone the system overlooks. To find a version of success that doesn't require him to abandon his principles or himself.",
+  "personality_traits": {
+    "qualitative": "Kairo is an INFJ — outwardly warm and socially fluent but deeply private about his inner world. He listens more than he speaks in personal settings, though in a courtroom he is precise and commanding. He has a dry, understated humor that catches people off guard. He's principled almost to a fault — he'll argue an ethical point long past the moment others have moved on. He is generous with his time and energy for others but neglects his own needs, running on caffeine and obligation. Emotionally perceptive but slow to let people in; he reads rooms instantly but reveals himself in fragments over months.",
+    "quantitative": {
+      "confidence": 80,
+      "control": 75,
+      "curiosity": 100,
+      "empathy": 100,
+      "judging": 85,
+      "introversion": 70,
+      "intuition": 90,
+      "patience": 80,
+      "responsibility": 100,
+      "thinking": 95
+    }
+  },
+  "preferences": "Likes: chess, long walks through the city at night, live jazz at the Village Vanguard, cooking his mother's jollof rice on Sundays, reading James Baldwin and Chimamanda Ngozi Adichie, rooftop conversations that go past midnight, handwritten letters, black coffee. Dislikes: performative activism, people who romanticize poverty, being pitied, loud bars, wasting food, dishonesty dressed up as diplomacy, being asked 'where are you really from.'",
+  "position": {
+    "weekly_income": 380,
+    "role": "Staff Attorney — Housing Defense",
+    "organization": "The Bronx Defenders",
+    "type": "work",
+    "description": "Represents low-income tenants in eviction proceedings, conducts intake, drafts motions, appears in housing court, and does community know-your-rights workshops.",
+    "weekly_delta_skills": {
+      "legal_research": 0.1,
+      "negotiation": 0.1,
+      "public_speaking": 0.05
+    }
+  },
+  "init_skills": {
+    "legal_research": 115,
+    "negotiation": 150,
+    "public_speaking": 100,
+    "legal_writing": 110,
+    "chess": 220,
+    "cooking": 75,
+    "poetry_writing": 35,
+    "wrestling": 90,
+    "Spanish": 20,
+    "piano": 30
+  },
+  "init_assets": {
+    "deposit": 1200,
+    "possessions": [
+      {
+        "name": "Law library",
+        "description": "Three shelves of casebooks, treatises, and dog-eared Baldwin paperbacks crammed into a small IKEA bookcase, spines cracked from rereading"
+      },
+      {
+        "name": "Folding chess set",
+        "description": "A worn magnetic travel chess set he's carried since college, missing one black pawn replaced with a button"
+      },
+      {
+        "name": "Leather journal",
+        "description": "A brown Moleskine filled with handwritten poems, legal notes in the margins, and occasional sketches of courtroom scenes"
+      },
+      {
+        "name": "Grandmother's gold chain",
+        "description": "A thin 18k gold necklace his grandmother Ama wore every day until she passed in 2016; he never removes it"
+      },
+      {
+        "name": "Secondhand bicycle",
+        "description": "A beat-up single-speed he rides to the subway in good weather, lock held together with duct tape"
+      }
+    ]
+  },
+  "extra_income": 0,
+  "values": "Believes justice is not abstract — it lives in whether a family gets to keep their apartment. Values sacrifice, but is beginning to wonder where sacrifice ends and self-destruction begins. Respects people who do hard, unglamorous work without needing applause. Distrusts wealth that hasn't been earned through service. Fears becoming someone his younger self wouldn't recognize. Believes love should be an act of steady witness, not performance — but worries he doesn't know how to let anyone witness him.",
+  "birthday": "Y1993-W3-activity-D3",
+  "birth_year": 1993
+}
