@@ -1,7 +1,7 @@
 # Agentopia · Idea & Methodology
 
 
-**本项目是基于[Neph0s/Agentopia](https://github.com/Neph0s/Agentopia) 的一个demo**，在原框架之上加装了一层
+**本项目是基于[Neph0s/Agentopia](https://github.com/Neph0s/Agentopia) 的一个研究**，在原框架之上加装了一层
 "认知层"：让智能体把自己的经历整理成可检索、可复用、可验证的知识，而不只是把最近发生的事留在上下文里。
 
 原项目解决的是"能否让 AI 智能体社会有效地模拟人类生活"；这个分支追问的是下一步——
